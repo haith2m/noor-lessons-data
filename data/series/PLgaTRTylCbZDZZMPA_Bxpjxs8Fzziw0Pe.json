@@ -1,0 +1,57 @@
+{
+ "id": "PLgaTRTylCbZDZZMPA_Bxpjxs8Fzziw0Pe",
+ "title": "شرح كتاب فضل الإسلام",
+ "subject": "aqeedah",
+ "kind": "series",
+ "lang": "ar",
+ "scholarId": "عبدالرحمن-السند",
+ "scholarIds": [
+  "عبدالرحمن-السند"
+ ],
+ "year": 1446,
+ "source": "youtube",
+ "channelId": "UC3QAoXf9GN9xeQYhk-AZbTg",
+ "playlistId": "PLgaTRTylCbZDZZMPA_Bxpjxs8Fzziw0Pe",
+ "url": "https://www.youtube.com/playlist?list=PLgaTRTylCbZDZZMPA_Bxpjxs8Fzziw0Pe",
+ "thumbnail": "https://i.ytimg.com/vi/5fchmc1ujNk/maxresdefault.jpg",
+ "lessonCount": 4,
+ "duration": 13557,
+ "lessons": [
+  {
+   "n": 1,
+   "title": "الدرس 1",
+   "lang": "ar",
+   "scholarId": "عبدالرحمن-السند",
+   "videoId": "Rw9rQVzREKs",
+   "duration": 3096,
+   "hijriDate": "1446-04-16"
+  },
+  {
+   "n": 2,
+   "title": "الدرس 2",
+   "lang": "ar",
+   "scholarId": "عبدالرحمن-السند",
+   "videoId": "iMsUfNlK2y0",
+   "duration": 3700,
+   "hijriDate": "1446-04-16"
+  },
+  {
+   "n": 3,
+   "title": "الدرس 3",
+   "lang": "ar",
+   "scholarId": "عبدالرحمن-السند",
+   "videoId": "V-HOkV_Ajqo",
+   "duration": 3416,
+   "hijriDate": "1446-04-17"
+  },
+  {
+   "n": 4,
+   "title": "الدرس 4",
+   "lang": "ar",
+   "scholarId": "عبدالرحمن-السند",
+   "videoId": "5fchmc1ujNk",
+   "duration": 3345,
+   "hijriDate": "1446-04-17"
+  }
+ ]
+}

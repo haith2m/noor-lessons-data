@@ -1,0 +1,60 @@
+{
+ "id": "PLgaTRTylCbZBurLxjOucYBBOmGwU8azL8",
+ "title": "سلسلة محاضرات أحكام الزكاة",
+ "subject": "fiqh",
+ "kind": "course",
+ "lang": "ar",
+ "scholarId": null,
+ "scholarIds": [
+  "علي-المشيقح",
+  "خالد-المصلح",
+  "سعد-الخثلان",
+  "سامي-الصقير"
+ ],
+ "year": 1439,
+ "source": "youtube",
+ "channelId": "UC3QAoXf9GN9xeQYhk-AZbTg",
+ "playlistId": "PLgaTRTylCbZBurLxjOucYBBOmGwU8azL8",
+ "url": "https://www.youtube.com/playlist?list=PLgaTRTylCbZBurLxjOucYBBOmGwU8azL8",
+ "thumbnail": "https://i.ytimg.com/vi/4P_-zW6ZSW4/maxresdefault.jpg",
+ "lessonCount": 4,
+ "duration": 9907,
+ "lessons": [
+  {
+   "n": 1,
+   "title": "مشروعية الزكاة",
+   "lang": "ar",
+   "scholarId": "علي-المشيقح",
+   "videoId": "YjbQ0uztrQg",
+   "duration": 1915,
+   "hijriDate": "1439-09-10"
+  },
+  {
+   "n": 2,
+   "title": "نوازل الزكاة",
+   "lang": "ar",
+   "scholarId": "خالد-المصلح",
+   "videoId": "4P_-zW6ZSW4",
+   "duration": 3662,
+   "hijriDate": "1439-09-17"
+  },
+  {
+   "n": 3,
+   "title": "أصناف الزكاة وأنصبتها",
+   "lang": "ar",
+   "scholarId": "سعد-الخثلان",
+   "videoId": "fWzwW9Gt1kU",
+   "duration": 2359,
+   "hijriDate": "1439-09-23"
+  },
+  {
+   "n": 4,
+   "title": "زكاة الفطر",
+   "lang": "ar",
+   "scholarId": "سامي-الصقير",
+   "videoId": "lhGOEKg3AjI",
+   "duration": 1971,
+   "hijriDate": "1439-09-27"
+  }
+ ]
+}

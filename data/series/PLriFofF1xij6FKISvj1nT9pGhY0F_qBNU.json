@@ -1,0 +1,290 @@
+{
+ "id": "PLriFofF1xij6FKISvj1nT9pGhY0F_qBNU",
+ "title": "محاضرات فكرية ثقافية",
+ "subject": "general",
+ "kind": "course",
+ "lang": "ar",
+ "scholarId": null,
+ "scholarIds": [
+  "علي-ابابطين",
+  "عبداللطيف-الشاماني",
+  "سعود-الخلف",
+  "صالح-السحيمي",
+  "عبدالرزاق-البدر",
+  "سامي-الصقير",
+  "مسعود-المحمدي",
+  "بدر-البدر",
+  "صالح-المغامسي"
+ ],
+ "year": null,
+ "source": "youtube",
+ "channelId": "UC0XNCc-DU8J5_ksR-eufPaw",
+ "playlistId": "PLriFofF1xij6FKISvj1nT9pGhY0F_qBNU",
+ "url": "https://www.youtube.com/playlist?list=PLriFofF1xij6FKISvj1nT9pGhY0F_qBNU",
+ "thumbnail": "https://i.ytimg.com/vi/Dgi2iUzVrdc/maxresdefault.jpg",
+ "lessonCount": 29,
+ "duration": 99487,
+ "lessons": [
+  {
+   "n": 1,
+   "title": "تجربتي مع القراءة والكتاب",
+   "lang": "ar",
+   "scholarId": "علي-ابابطين",
+   "videoId": "Dgi2iUzVrdc",
+   "duration": 1640,
+   "hijriDate": null
+  },
+  {
+   "n": 2,
+   "title": "التيسير في الشريعة الإسلامية",
+   "lang": "ar",
+   "scholarId": "عبداللطيف-الشاماني",
+   "videoId": "hsES5Litnx8",
+   "duration": 2704,
+   "hijriDate": null
+  },
+  {
+   "n": 3,
+   "title": "مكانة العلماء",
+   "lang": "ar",
+   "scholarId": "سعود-الخلف",
+   "videoId": "pKcsOu2H6MY",
+   "duration": 3331,
+   "hijriDate": null
+  },
+  {
+   "n": 4,
+   "title": "طاعة ولي الأمر في الشريعة الإسلامية",
+   "lang": "ar",
+   "scholarId": "صالح-السحيمي",
+   "videoId": "ESfTBKcuX-A",
+   "duration": 2285,
+   "hijriDate": null
+  },
+  {
+   "n": 5,
+   "title": "القول على الله بغير علم",
+   "lang": "ar",
+   "scholarId": "عبدالرزاق-البدر",
+   "videoId": "jMqaIq46qlg",
+   "duration": 2718,
+   "hijriDate": null
+  },
+  {
+   "n": 6,
+   "title": "وقفات من وصايا النبي ﷺ",
+   "lang": "ar",
+   "scholarId": "عبداللطيف-الشاماني",
+   "videoId": "hYtUIIjxIfE",
+   "duration": 3799,
+   "hijriDate": null
+  },
+  {
+   "n": 7,
+   "title": "العواصم الشرعية للعقيدة والفكر والمنهج",
+   "lang": "ar",
+   "scholarId": "صالح-السحيمي",
+   "videoId": "PkINNb9RkcQ",
+   "duration": 2355,
+   "hijriDate": null
+  },
+  {
+   "n": 8,
+   "title": "التوحيد ودوره في إرساء الأمن",
+   "lang": "ar",
+   "scholarId": "عبداللطيف-الشاماني",
+   "videoId": "tPNnyLHL5MU",
+   "duration": 2654,
+   "hijriDate": null
+  },
+  {
+   "n": 9,
+   "title": "وعظنا رسول الله",
+   "lang": "ar",
+   "scholarId": "سامي-الصقير",
+   "videoId": "epX7-1jr8u4",
+   "duration": 4165,
+   "hijriDate": null
+  },
+  {
+   "n": 10,
+   "title": "أهمية العلم الشرعي في تحقيق الأمن",
+   "lang": "ar",
+   "scholarId": "عبداللطيف-الشاماني",
+   "videoId": "L8eYcZc_1Ds",
+   "duration": 3117,
+   "hijriDate": null
+  },
+  {
+   "n": 11,
+   "title": "حفظ العقل",
+   "lang": "ar",
+   "scholarId": "مسعود-المحمدي",
+   "videoId": "ZYPEwszDSnk",
+   "duration": 3876,
+   "hijriDate": null
+  },
+  {
+   "n": 12,
+   "title": "ضوابط الوسطية وأثرها على الفرد والمجتمع",
+   "lang": "ar",
+   "scholarId": "بدر-البدر",
+   "videoId": "-A81vYVuzgU",
+   "duration": 4191,
+   "hijriDate": null
+  },
+  {
+   "n": 13,
+   "title": "الشائعات وخطرها على الفرد والمجتمع",
+   "lang": "ar",
+   "scholarId": "سعود-الخلف",
+   "videoId": "lLcsBfnQJvI",
+   "duration": 3278,
+   "hijriDate": null
+  },
+  {
+   "n": 14,
+   "title": "التحصين الفكري مفهومه ووسائله",
+   "lang": "ar",
+   "scholarId": "مسعود-المحمدي",
+   "videoId": "a3Mnv5Sy1lU",
+   "duration": 3921,
+   "hijriDate": null
+  },
+  {
+   "n": 15,
+   "title": "وجوب لزوم الجماعة وذم الفرقة والاختلاف",
+   "lang": "ar",
+   "scholarId": "بدر-البدر",
+   "videoId": "lfv6GbfkKq0",
+   "duration": 3810,
+   "hijriDate": null
+  },
+  {
+   "n": 16,
+   "title": "هدي النبي ﷺ في الحج",
+   "lang": "ar",
+   "scholarId": "بدر-البدر",
+   "videoId": "wAwENrMjOYs",
+   "duration": 3627,
+   "hijriDate": null
+  },
+  {
+   "n": 17,
+   "title": "الحج وأثره على الفكر والسلوك",
+   "lang": "ar",
+   "scholarId": "مسعود-المحمدي",
+   "videoId": "ay-wLa9Lg5U",
+   "duration": 3651,
+   "hijriDate": null
+  },
+  {
+   "n": 18,
+   "title": "مفهوم الوسطية والاعتدال في الإسلام",
+   "lang": "ar",
+   "scholarId": "عبداللطيف-الشاماني",
+   "videoId": "zgVkYPGDBBM",
+   "duration": 3396,
+   "hijriDate": null
+  },
+  {
+   "n": 19,
+   "title": "﴿وكذلك جعلناكم أمة وسطا﴾",
+   "lang": "ar",
+   "scholarId": "بدر-البدر",
+   "videoId": "E3kHz0QJ4NI",
+   "duration": 4127,
+   "hijriDate": null
+  },
+  {
+   "n": 20,
+   "title": "الوسطية في الكتاب والسنة",
+   "lang": "ar",
+   "scholarId": "علي-ابابطين",
+   "videoId": "RJjo7iMucTg",
+   "duration": 3305,
+   "hijriDate": null
+  },
+  {
+   "n": 21,
+   "title": "مظاهر الوسطية والاعتدال في المملكة",
+   "lang": "ar",
+   "scholarId": "مسعود-المحمدي",
+   "videoId": "EICIxI4VbMQ",
+   "duration": 3500,
+   "hijriDate": null
+  },
+  {
+   "n": 22,
+   "title": "الوقاية من الانحراف الفكري",
+   "lang": "ar",
+   "scholarId": "بدر-البدر",
+   "videoId": "OEgWLzQD9pU",
+   "duration": 4126,
+   "hijriDate": null
+  },
+  {
+   "n": 23,
+   "title": "الوسطية والاعتدال وأثرهما في تحقيق",
+   "lang": "ar",
+   "scholarId": "بدر-البدر",
+   "videoId": "cQvQvUS8t4g",
+   "duration": 4028,
+   "hijriDate": null
+  },
+  {
+   "n": 24,
+   "title": "مفهوم الوسطية في الدعوة السلفية",
+   "lang": "ar",
+   "scholarId": "مسعود-المحمدي",
+   "videoId": "ACY1lvzq-qE",
+   "duration": 3825,
+   "hijriDate": null
+  },
+  {
+   "n": 25,
+   "title": "أثر الأسرة في تنشئة الأبناء على الوسطية",
+   "lang": "ar",
+   "scholarId": "مسعود-المحمدي",
+   "videoId": "mWl3Cm5zfms",
+   "duration": 3821,
+   "hijriDate": null
+  },
+  {
+   "n": 26,
+   "title": "أسباب الانحراف عن المنهج الوسطي",
+   "lang": "ar",
+   "scholarId": "مسعود-المحمدي",
+   "videoId": "FA8946L7gq8",
+   "duration": 3704,
+   "hijriDate": null
+  },
+  {
+   "n": 27,
+   "title": "﴿وكذلك جعلناكم أمة وسطا﴾",
+   "lang": "ar",
+   "scholarId": "صالح-المغامسي",
+   "videoId": "fQAs4J_z8XY",
+   "duration": 2312,
+   "hijriDate": null
+  },
+  {
+   "n": 28,
+   "title": "الوطنية في الإسلام حقوق وواجبات",
+   "lang": "ar",
+   "scholarId": "بدر-البدر",
+   "videoId": "8HK84G8V-_w",
+   "duration": 4359,
+   "hijriDate": null
+  },
+  {
+   "n": 29,
+   "title": "واجب المسلم تجاه دينه ووطنه",
+   "lang": "ar",
+   "scholarId": "مسعود-المحمدي",
+   "videoId": "c9XV8IUPm8Y",
+   "duration": 3862,
+   "hijriDate": null
+  }
+ ]
+}

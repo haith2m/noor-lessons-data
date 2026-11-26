@@ -1,0 +1,57 @@
+{
+ "id": "PLgaTRTylCbZD96y8tfy8KSaDf406NCqPh",
+ "title": "شرح الأصول الستة والقواعد الأربع",
+ "subject": "aqeedah",
+ "kind": "series",
+ "lang": "ar",
+ "scholarId": "عبدالسلام-السليمان",
+ "scholarIds": [
+  "عبدالسلام-السليمان"
+ ],
+ "year": 1443,
+ "source": "youtube",
+ "channelId": "UC3QAoXf9GN9xeQYhk-AZbTg",
+ "playlistId": "PLgaTRTylCbZD96y8tfy8KSaDf406NCqPh",
+ "url": "https://www.youtube.com/playlist?list=PLgaTRTylCbZD96y8tfy8KSaDf406NCqPh",
+ "thumbnail": "https://i.ytimg.com/vi/T7CGk0EQHGM/maxresdefault.jpg",
+ "lessonCount": 4,
+ "duration": 15604,
+ "lessons": [
+  {
+   "n": 1,
+   "title": "الدرس 1",
+   "lang": "ar",
+   "scholarId": "عبدالسلام-السليمان",
+   "videoId": "T7CGk0EQHGM",
+   "duration": 4269,
+   "hijriDate": "1443-04-22"
+  },
+  {
+   "n": 2,
+   "title": "الدرس 2",
+   "lang": "ar",
+   "scholarId": "عبدالسلام-السليمان",
+   "videoId": "q0NiMB2DmEU",
+   "duration": 4123,
+   "hijriDate": "1443-04-23"
+  },
+  {
+   "n": 3,
+   "title": "الدرس 3",
+   "lang": "ar",
+   "scholarId": "عبدالسلام-السليمان",
+   "videoId": "JvA9pYHKqRs",
+   "duration": 3836,
+   "hijriDate": "1443-04-24"
+  },
+  {
+   "n": 4,
+   "title": "الدرس 4",
+   "lang": "ar",
+   "scholarId": "عبدالسلام-السليمان",
+   "videoId": "ZuIfU4RAMoI",
+   "duration": 3376,
+   "hijriDate": "1443-04-25"
+  }
+ ]
+}

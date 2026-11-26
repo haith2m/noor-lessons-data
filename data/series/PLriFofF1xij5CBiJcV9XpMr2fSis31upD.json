@@ -1,0 +1,48 @@
+{
+ "id": "PLriFofF1xij5CBiJcV9XpMr2fSis31upD",
+ "title": "عقيدة أهل السنة والجماعة",
+ "subject": "aqeedah",
+ "kind": "series",
+ "lang": "ar",
+ "scholarId": "شرف-الشريف",
+ "scholarIds": [
+  "شرف-الشريف"
+ ],
+ "year": null,
+ "source": "youtube",
+ "channelId": "UC0XNCc-DU8J5_ksR-eufPaw",
+ "playlistId": "PLriFofF1xij5CBiJcV9XpMr2fSis31upD",
+ "url": "https://www.youtube.com/playlist?list=PLriFofF1xij5CBiJcV9XpMr2fSis31upD",
+ "thumbnail": "https://i.ytimg.com/vi/zEAPy7rBF3k/maxresdefault.jpg",
+ "lessonCount": 3,
+ "duration": 10094,
+ "lessons": [
+  {
+   "n": 1,
+   "title": "الدرس 1",
+   "lang": "ar",
+   "scholarId": "شرف-الشريف",
+   "videoId": "CRMuxQHFevw",
+   "duration": 2578,
+   "hijriDate": null
+  },
+  {
+   "n": 2,
+   "title": "الدرس 2",
+   "lang": "ar",
+   "scholarId": "شرف-الشريف",
+   "videoId": "zEAPy7rBF3k",
+   "duration": 3785,
+   "hijriDate": null
+  },
+  {
+   "n": 3,
+   "title": "الدرس 3",
+   "lang": "ar",
+   "scholarId": "شرف-الشريف",
+   "videoId": "EaO5lgUo8DY",
+   "duration": 3731,
+   "hijriDate": null
+  }
+ ]
+}

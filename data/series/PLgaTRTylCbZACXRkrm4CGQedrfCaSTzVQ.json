@@ -1,0 +1,48 @@
+{
+ "id": "PLgaTRTylCbZACXRkrm4CGQedrfCaSTzVQ",
+ "title": "تعليم المتعلم طريق التعلم للزرنوجي",
+ "subject": "adab",
+ "kind": "series",
+ "lang": "ar",
+ "scholarId": "فيصل-غزاوي",
+ "scholarIds": [
+  "فيصل-غزاوي"
+ ],
+ "year": null,
+ "source": "youtube",
+ "channelId": "UC3QAoXf9GN9xeQYhk-AZbTg",
+ "playlistId": "PLgaTRTylCbZACXRkrm4CGQedrfCaSTzVQ",
+ "url": "https://www.youtube.com/playlist?list=PLgaTRTylCbZACXRkrm4CGQedrfCaSTzVQ",
+ "thumbnail": "https://i.ytimg.com/vi/Qt8ZQZ4I6m0/sddefault.jpg",
+ "lessonCount": 3,
+ "duration": 12034,
+ "lessons": [
+  {
+   "n": 1,
+   "title": "الدرس 1",
+   "lang": "ar",
+   "scholarId": "فيصل-غزاوي",
+   "videoId": "Qt8ZQZ4I6m0",
+   "duration": 4054,
+   "hijriDate": null
+  },
+  {
+   "n": 2,
+   "title": "الدرس 2",
+   "lang": "ar",
+   "scholarId": "فيصل-غزاوي",
+   "videoId": "sNglGh_ZT4s",
+   "duration": 4095,
+   "hijriDate": null
+  },
+  {
+   "n": 3,
+   "title": "الدرس 3",
+   "lang": "ar",
+   "scholarId": "فيصل-غزاوي",
+   "videoId": "iXcsFCUeeqQ",
+   "duration": 3885,
+   "hijriDate": null
+  }
+ ]
+}

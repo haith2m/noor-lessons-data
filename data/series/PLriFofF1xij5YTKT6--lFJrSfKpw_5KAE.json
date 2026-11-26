@@ -1,0 +1,48 @@
+{
+ "id": "PLriFofF1xij5YTKT6--lFJrSfKpw_5KAE",
+ "title": "رسالة ثلاثة الأصول",
+ "subject": "general",
+ "kind": "series",
+ "lang": "ar",
+ "scholarId": "عبداللطيف-الشاماني",
+ "scholarIds": [
+  "عبداللطيف-الشاماني"
+ ],
+ "year": null,
+ "source": "youtube",
+ "channelId": "UC0XNCc-DU8J5_ksR-eufPaw",
+ "playlistId": "PLriFofF1xij5YTKT6--lFJrSfKpw_5KAE",
+ "url": "https://www.youtube.com/playlist?list=PLriFofF1xij5YTKT6--lFJrSfKpw_5KAE",
+ "thumbnail": "https://i.ytimg.com/vi/XSkPtaOAhKg/maxresdefault.jpg",
+ "lessonCount": 3,
+ "duration": 9129,
+ "lessons": [
+  {
+   "n": 1,
+   "title": "الدرس 1",
+   "lang": "ar",
+   "scholarId": "عبداللطيف-الشاماني",
+   "videoId": "XSkPtaOAhKg",
+   "duration": 3236,
+   "hijriDate": null
+  },
+  {
+   "n": 2,
+   "title": "الدرس 2",
+   "lang": "ar",
+   "scholarId": "عبداللطيف-الشاماني",
+   "videoId": "xvh2F-3UDbo",
+   "duration": 2650,
+   "hijriDate": null
+  },
+  {
+   "n": 3,
+   "title": "الدرس 3",
+   "lang": "ar",
+   "scholarId": "عبداللطيف-الشاماني",
+   "videoId": "luvmSeIq6h4",
+   "duration": 3243,
+   "hijriDate": null
+  }
+ ]
+}

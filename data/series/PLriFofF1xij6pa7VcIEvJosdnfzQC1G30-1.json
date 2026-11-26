@@ -1,0 +1,48 @@
+{
+ "id": "PLriFofF1xij6pa7VcIEvJosdnfzQC1G30-1",
+ "title": "تفسير سورة الحجرات",
+ "subject": "tafsir",
+ "kind": "series",
+ "lang": "ar",
+ "scholarId": "عبدالله-الشنقيطي",
+ "scholarIds": [
+  "عبدالله-الشنقيطي"
+ ],
+ "year": null,
+ "source": "youtube",
+ "channelId": "UC0XNCc-DU8J5_ksR-eufPaw",
+ "playlistId": "PLriFofF1xij6pa7VcIEvJosdnfzQC1G30",
+ "url": "https://www.youtube.com/playlist?list=PLriFofF1xij6pa7VcIEvJosdnfzQC1G30",
+ "thumbnail": "https://i.ytimg.com/vi/0pzR84uHCc4/maxresdefault.jpg",
+ "lessonCount": 3,
+ "duration": 8802,
+ "lessons": [
+  {
+   "n": 1,
+   "title": "الدرس 1",
+   "lang": "ar",
+   "scholarId": "عبدالله-الشنقيطي",
+   "videoId": "0pzR84uHCc4",
+   "duration": 3205,
+   "hijriDate": null
+  },
+  {
+   "n": 2,
+   "title": "الدرس 2",
+   "lang": "ar",
+   "scholarId": "عبدالله-الشنقيطي",
+   "videoId": "R5ayaF7Bo9E",
+   "duration": 2876,
+   "hijriDate": null
+  },
+  {
+   "n": 3,
+   "title": "الدرس 3",
+   "lang": "ar",
+   "scholarId": "عبدالله-الشنقيطي",
+   "videoId": "GWEM-sVg6ys",
+   "duration": 2721,
+   "hijriDate": null
+  }
+ ]
+}

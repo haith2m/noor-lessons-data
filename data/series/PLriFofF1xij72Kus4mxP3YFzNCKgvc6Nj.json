@@ -1,0 +1,30 @@
+{
+ "id": "PLriFofF1xij72Kus4mxP3YFzNCKgvc6Nj",
+ "title": "درس عام",
+ "subject": "fiqh",
+ "kind": "series",
+ "lang": "ar",
+ "scholarId": "سليمان-الغصن",
+ "scholarIds": [
+  "سليمان-الغصن"
+ ],
+ "year": null,
+ "source": "youtube",
+ "channelId": "UC0XNCc-DU8J5_ksR-eufPaw",
+ "playlistId": "PLriFofF1xij72Kus4mxP3YFzNCKgvc6Nj",
+ "url": "https://www.youtube.com/playlist?list=PLriFofF1xij72Kus4mxP3YFzNCKgvc6Nj",
+ "thumbnail": "https://i.ytimg.com/vi/39UAIPYOsjA/maxresdefault.jpg",
+ "lessonCount": 1,
+ "duration": 1772,
+ "lessons": [
+  {
+   "n": 1,
+   "title": "أحكام الصيام",
+   "lang": "ar",
+   "scholarId": "سليمان-الغصن",
+   "videoId": "39UAIPYOsjA",
+   "duration": 1772,
+   "hijriDate": null
+  }
+ ]
+}

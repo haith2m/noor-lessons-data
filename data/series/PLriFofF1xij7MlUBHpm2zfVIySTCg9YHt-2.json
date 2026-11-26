@@ -1,0 +1,75 @@
+{
+ "id": "PLriFofF1xij7MlUBHpm2zfVIySTCg9YHt-2",
+ "title": "رسالة الدرة المختصرة في محاسن",
+ "subject": "general",
+ "kind": "series",
+ "lang": "ar",
+ "scholarId": "سليمان-الرحيلي",
+ "scholarIds": [
+  "سليمان-الرحيلي"
+ ],
+ "year": null,
+ "source": "youtube",
+ "channelId": "UC0XNCc-DU8J5_ksR-eufPaw",
+ "playlistId": "PLriFofF1xij7MlUBHpm2zfVIySTCg9YHt",
+ "url": "https://www.youtube.com/playlist?list=PLriFofF1xij7MlUBHpm2zfVIySTCg9YHt",
+ "thumbnail": "https://i.ytimg.com/vi/6sRK_6FeQmk/maxresdefault.jpg",
+ "lessonCount": 6,
+ "duration": 21709,
+ "lessons": [
+  {
+   "n": 1,
+   "title": "الدرس 1",
+   "lang": "ar",
+   "scholarId": "سليمان-الرحيلي",
+   "videoId": "OF-8dWWz57Q",
+   "duration": 4086,
+   "hijriDate": null
+  },
+  {
+   "n": 2,
+   "title": "الدرس 2",
+   "lang": "ar",
+   "scholarId": "سليمان-الرحيلي",
+   "videoId": "1tlys4zZUp4",
+   "duration": 3822,
+   "hijriDate": null
+  },
+  {
+   "n": 3,
+   "title": "الدرس 3",
+   "lang": "ar",
+   "scholarId": "سليمان-الرحيلي",
+   "videoId": "0J9_SxIUZcU",
+   "duration": 3495,
+   "hijriDate": null
+  },
+  {
+   "n": 4,
+   "title": "الدرس 4",
+   "lang": "ar",
+   "scholarId": "سليمان-الرحيلي",
+   "videoId": "C9PA1CoQf04",
+   "duration": 3848,
+   "hijriDate": null
+  },
+  {
+   "n": 5,
+   "title": "الدرس 5",
+   "lang": "ar",
+   "scholarId": "سليمان-الرحيلي",
+   "videoId": "QfiYc8EWhd8",
+   "duration": 3654,
+   "hijriDate": null
+  },
+  {
+   "n": 6,
+   "title": "الدرس 6",
+   "lang": "ar",
+   "scholarId": "سليمان-الرحيلي",
+   "videoId": "XPsMFZ_0tuU",
+   "duration": 2804,
+   "hijriDate": null
+  }
+ ]
+}

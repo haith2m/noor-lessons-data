@@ -1,0 +1,39 @@
+{
+ "id": "PLriFofF1xij6EXvnJHJL509-kA_B_xGuP-4",
+ "title": "اللقاءات العلمية",
+ "subject": "aqeedah",
+ "kind": "series",
+ "lang": "ar",
+ "scholarId": "عبدالسلام-السليمان",
+ "scholarIds": [
+  "عبدالسلام-السليمان"
+ ],
+ "year": null,
+ "source": "youtube",
+ "channelId": "UC0XNCc-DU8J5_ksR-eufPaw",
+ "playlistId": "PLriFofF1xij6EXvnJHJL509-kA_B_xGuP",
+ "url": "https://www.youtube.com/playlist?list=PLriFofF1xij6EXvnJHJL509-kA_B_xGuP",
+ "thumbnail": "https://i.ytimg.com/vi/1H2Gyz9Kcrg/maxresdefault.jpg",
+ "lessonCount": 2,
+ "duration": 8829,
+ "lessons": [
+  {
+   "n": 1,
+   "title": "رسالة القواعد الأربع",
+   "lang": "ar",
+   "scholarId": "عبدالسلام-السليمان",
+   "videoId": "1H2Gyz9Kcrg",
+   "duration": 4528,
+   "hijriDate": null
+  },
+  {
+   "n": 2,
+   "title": "لقاء مفتوح",
+   "lang": "ar",
+   "scholarId": "عبدالسلام-السليمان",
+   "videoId": "nGoDuwIj5_A",
+   "duration": 4301,
+   "hijriDate": null
+  }
+ ]
+}

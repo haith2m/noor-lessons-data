@@ -1,0 +1,179 @@
+{
+ "id": "PLgaTRTylCbZDtH3j0OEwGVHy9I9Vyb3hw",
+ "title": "الدورة التأصيلية الخريفية",
+ "subject": "fiqh",
+ "kind": "course",
+ "lang": "ar",
+ "scholarId": null,
+ "scholarIds": [
+  "عبدالرحمن-السديس",
+  "عبدالسلام-الشويعر",
+  "عبدالمحسن-الزامل",
+  "سليمان-التويجري",
+  "سعد-الخثلان",
+  "سعد-الشثري"
+ ],
+ "year": 1447,
+ "source": "youtube",
+ "channelId": "UC3QAoXf9GN9xeQYhk-AZbTg",
+ "playlistId": "PLgaTRTylCbZDtH3j0OEwGVHy9I9Vyb3hw",
+ "url": "https://www.youtube.com/playlist?list=PLgaTRTylCbZDtH3j0OEwGVHy9I9Vyb3hw",
+ "thumbnail": "https://i.ytimg.com/vi/0mGo6jPUHzA/maxresdefault.jpg",
+ "lessonCount": 17,
+ "duration": 97529,
+ "lessons": [
+  {
+   "n": 1,
+   "title": "معالم في مقاصد الشريعة",
+   "lang": "ar",
+   "scholarId": "عبدالرحمن-السديس",
+   "videoId": "q_InjMM9ENM",
+   "duration": 4082,
+   "hijriDate": "1447-05-30"
+  },
+  {
+   "n": 2,
+   "title": "شرح مختصر الاستغناء بالقرآن (1 من 3)",
+   "lang": "ar",
+   "scholarId": "عبدالسلام-الشويعر",
+   "videoId": "Vr7gCiOO9bA",
+   "duration": 5013,
+   "hijriDate": "1447-06-02"
+  },
+  {
+   "n": 3,
+   "title": "شرح الأحاديث والدلائل 1",
+   "lang": "ar",
+   "scholarId": "عبدالمحسن-الزامل",
+   "videoId": "4Wwsa4SqkeE",
+   "duration": 6730,
+   "hijriDate": "1447-06-02"
+  },
+  {
+   "n": 4,
+   "title": "شرح منظومة الحق للسعدي 1",
+   "lang": "ar",
+   "scholarId": "سليمان-التويجري",
+   "videoId": "LDiivhlAbe4",
+   "duration": 3665,
+   "hijriDate": "1447-06-02"
+  },
+  {
+   "n": 5,
+   "title": "شرح أخصر المختصرات - العبادات 1",
+   "lang": "ar",
+   "scholarId": "سعد-الخثلان",
+   "videoId": "t004Chl4HjY",
+   "duration": 4151,
+   "hijriDate": "1447-06-02"
+  },
+  {
+   "n": 6,
+   "title": "منظومة ابن أبي الكف في أصول فقه مالك",
+   "lang": "ar",
+   "scholarId": "سعد-الشثري",
+   "videoId": "JDpY13f_-k4",
+   "duration": 3699,
+   "hijriDate": "1447-06-02"
+  },
+  {
+   "n": 7,
+   "title": "شرح مختصر الاستغناء بالقرآن (2 من 3)",
+   "lang": "ar",
+   "scholarId": "عبدالسلام-الشويعر",
+   "videoId": "F3rmH0__abY",
+   "duration": 9415,
+   "hijriDate": "1447-06-03"
+  },
+  {
+   "n": 8,
+   "title": "شرح الأحاديث والدلائل 2",
+   "lang": "ar",
+   "scholarId": "عبدالمحسن-الزامل",
+   "videoId": "-8l145ZGhmc",
+   "duration": 6867,
+   "hijriDate": "1447-06-03"
+  },
+  {
+   "n": 9,
+   "title": "شرح منظومة الحق للسعدي 2",
+   "lang": "ar",
+   "scholarId": "سليمان-التويجري",
+   "videoId": "f8ggggYjn4E",
+   "duration": 3744,
+   "hijriDate": "1447-06-03"
+  },
+  {
+   "n": 10,
+   "title": "شرح أخصر المختصرات - العبادات 2",
+   "lang": "ar",
+   "scholarId": "سعد-الخثلان",
+   "videoId": "zLOIeS9sQeU",
+   "duration": 8157,
+   "hijriDate": "1447-06-03"
+  },
+  {
+   "n": 11,
+   "title": "شرح مختصر الاستغناء بالقرآن (3 من 3)",
+   "lang": "ar",
+   "scholarId": "عبدالسلام-الشويعر",
+   "videoId": "V6BhCiuUoA8",
+   "duration": 8533,
+   "hijriDate": "1447-06-04"
+  },
+  {
+   "n": 12,
+   "title": "شرح الأحاديث والدلائل 3",
+   "lang": "ar",
+   "scholarId": "عبدالمحسن-الزامل",
+   "videoId": "L2W8G78D-bI",
+   "duration": 6934,
+   "hijriDate": "1447-06-04"
+  },
+  {
+   "n": 13,
+   "title": "شرح أخصر المختصرات - العبادات 3",
+   "lang": "ar",
+   "scholarId": "سعد-الخثلان",
+   "videoId": "MNDWlJ5NOnw",
+   "duration": 4495,
+   "hijriDate": "1447-06-04"
+  },
+  {
+   "n": 14,
+   "title": "شرح الأحاديث والدلائل 4",
+   "lang": "ar",
+   "scholarId": "عبدالمحسن-الزامل",
+   "videoId": "3SleoSvYTUk",
+   "duration": 6966,
+   "hijriDate": "1447-06-05"
+  },
+  {
+   "n": 15,
+   "title": "شرح أخصر المختصرات - العبادات 4",
+   "lang": "ar",
+   "scholarId": "سعد-الخثلان",
+   "videoId": "1gqgo9KOheQ",
+   "duration": 4135,
+   "hijriDate": "1447-06-05"
+  },
+  {
+   "n": 16,
+   "title": "شرح الأحاديث والدلائل 5",
+   "lang": "ar",
+   "scholarId": "عبدالمحسن-الزامل",
+   "videoId": "r9dg-9nSm5o",
+   "duration": 3814,
+   "hijriDate": "1447-06-06"
+  },
+  {
+   "n": 17,
+   "title": "شرح أخصر المختصرات - العبادات 5",
+   "lang": "ar",
+   "scholarId": "سعد-الخثلان",
+   "videoId": "0mGo6jPUHzA",
+   "duration": 7129,
+   "hijriDate": "1447-06-06"
+  }
+ ]
+}

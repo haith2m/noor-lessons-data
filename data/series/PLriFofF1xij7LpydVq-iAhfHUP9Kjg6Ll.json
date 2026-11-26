@@ -1,0 +1,96 @@
+{
+ "id": "PLriFofF1xij7LpydVq-iAhfHUP9Kjg6Ll",
+ "title": "الدورة العلمية (1)",
+ "subject": "aqeedah",
+ "kind": "course",
+ "lang": "ar",
+ "scholarId": null,
+ "scholarIds": [
+  "عبداللطيف-الشاماني",
+  "بدر-البدر",
+  "صالح-السحيمي",
+  "انيس-طاهر"
+ ],
+ "year": 1444,
+ "source": "youtube",
+ "channelId": "UC0XNCc-DU8J5_ksR-eufPaw",
+ "playlistId": "PLriFofF1xij7LpydVq-iAhfHUP9Kjg6Ll",
+ "url": "https://www.youtube.com/playlist?list=PLriFofF1xij7LpydVq-iAhfHUP9Kjg6Ll",
+ "thumbnail": "https://i.ytimg.com/vi/LU1h_5ZfJ5A/maxresdefault.jpg",
+ "lessonCount": 8,
+ "duration": 32742,
+ "lessons": [
+  {
+   "n": 1,
+   "title": "كتاب أصول الإيمان",
+   "lang": "ar",
+   "scholarId": "عبداللطيف-الشاماني",
+   "videoId": "LU1h_5ZfJ5A",
+   "duration": 4031,
+   "hijriDate": null
+  },
+  {
+   "n": 2,
+   "title": "كتاب أصول الإيمان",
+   "lang": "ar",
+   "scholarId": "عبداللطيف-الشاماني",
+   "videoId": "HSpq3bAmg30",
+   "duration": 4351,
+   "hijriDate": null
+  },
+  {
+   "n": 3,
+   "title": "رسالة واجبنا نحو ما أمرنا الله به",
+   "lang": "ar",
+   "scholarId": "بدر-البدر",
+   "videoId": "heSdaICqJe8",
+   "duration": 4431,
+   "hijriDate": null
+  },
+  {
+   "n": 4,
+   "title": "كتاب تعظيم الفُتيا",
+   "lang": "ar",
+   "scholarId": "صالح-السحيمي",
+   "videoId": "tmvA9Pfz2ec",
+   "duration": 1879,
+   "hijriDate": null
+  },
+  {
+   "n": 5,
+   "title": "كتاب تعظيم الفُتيا",
+   "lang": "ar",
+   "scholarId": "صالح-السحيمي",
+   "videoId": "CD8n3G8tBOA",
+   "duration": 4113,
+   "hijriDate": null
+  },
+  {
+   "n": 6,
+   "title": "كتاب تعظيم الفُتيا",
+   "lang": "ar",
+   "scholarId": "صالح-السحيمي",
+   "videoId": "O3QP6-jOof4",
+   "duration": 4181,
+   "hijriDate": null
+  },
+  {
+   "n": 7,
+   "title": "متن نخبة الفكر",
+   "lang": "ar",
+   "scholarId": "انيس-طاهر",
+   "videoId": "Jch97IYIjN0",
+   "duration": 4265,
+   "hijriDate": null
+  },
+  {
+   "n": 8,
+   "title": "متن نخبة الفكر",
+   "lang": "ar",
+   "scholarId": "انيس-طاهر",
+   "videoId": "jRlmr9F-5u0",
+   "duration": 5491,
+   "hijriDate": null
+  }
+ ]
+}

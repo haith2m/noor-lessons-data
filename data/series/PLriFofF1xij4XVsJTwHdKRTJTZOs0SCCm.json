@@ -1,0 +1,39 @@
+{
+ "id": "PLriFofF1xij4XVsJTwHdKRTJTZOs0SCCm",
+ "title": "عمدة الأحكام",
+ "subject": "hadith",
+ "kind": "series",
+ "lang": "ar",
+ "scholarId": "صالح-الحديثي",
+ "scholarIds": [
+  "صالح-الحديثي"
+ ],
+ "year": null,
+ "source": "youtube",
+ "channelId": "UC0XNCc-DU8J5_ksR-eufPaw",
+ "playlistId": "PLriFofF1xij4XVsJTwHdKRTJTZOs0SCCm",
+ "url": "https://www.youtube.com/playlist?list=PLriFofF1xij4XVsJTwHdKRTJTZOs0SCCm",
+ "thumbnail": "https://i.ytimg.com/vi/rA2gwhM62AM/maxresdefault.jpg",
+ "lessonCount": 2,
+ "duration": 5486,
+ "lessons": [
+  {
+   "n": 1,
+   "title": "الدرس 1",
+   "lang": "ar",
+   "scholarId": "صالح-الحديثي",
+   "videoId": "rA2gwhM62AM",
+   "duration": 2835,
+   "hijriDate": null
+  },
+  {
+   "n": 2,
+   "title": "الدرس 2",
+   "lang": "ar",
+   "scholarId": "صالح-الحديثي",
+   "videoId": "F_hIESRs2m0",
+   "duration": 2651,
+   "hijriDate": null
+  }
+ ]
+}

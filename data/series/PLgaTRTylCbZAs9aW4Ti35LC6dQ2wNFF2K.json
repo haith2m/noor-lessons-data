@@ -1,0 +1,66 @@
+{
+ "id": "PLgaTRTylCbZAs9aW4Ti35LC6dQ2wNFF2K",
+ "title": "شرح الأصول الثلاثة",
+ "subject": "aqeedah",
+ "kind": "series",
+ "lang": "ar",
+ "scholarId": "عبدالسلام-السليمان",
+ "scholarIds": [
+  "عبدالسلام-السليمان"
+ ],
+ "year": 1443,
+ "source": "youtube",
+ "channelId": "UC3QAoXf9GN9xeQYhk-AZbTg",
+ "playlistId": "PLgaTRTylCbZAs9aW4Ti35LC6dQ2wNFF2K",
+ "url": "https://www.youtube.com/playlist?list=PLgaTRTylCbZAs9aW4Ti35LC6dQ2wNFF2K",
+ "thumbnail": "https://i.ytimg.com/vi/nsFwIMeIUEk/maxresdefault.jpg",
+ "lessonCount": 5,
+ "duration": 17484,
+ "lessons": [
+  {
+   "n": 1,
+   "title": "الدرس 1",
+   "lang": "ar",
+   "scholarId": "عبدالسلام-السليمان",
+   "videoId": "nsFwIMeIUEk",
+   "duration": 3745,
+   "hijriDate": "1443-03-13"
+  },
+  {
+   "n": 2,
+   "title": "الدرس 2",
+   "lang": "ar",
+   "scholarId": "عبدالسلام-السليمان",
+   "videoId": "4qy2EjEdJX0",
+   "duration": 3758,
+   "hijriDate": "1443-03-14"
+  },
+  {
+   "n": 3,
+   "title": "الدرس 3",
+   "lang": "ar",
+   "scholarId": "عبدالسلام-السليمان",
+   "videoId": "um4Mfr90Rb4",
+   "duration": 3704,
+   "hijriDate": "1443-03-15"
+  },
+  {
+   "n": 4,
+   "title": "الدرس 4",
+   "lang": "ar",
+   "scholarId": "عبدالسلام-السليمان",
+   "videoId": "dNPs0WZS2wU",
+   "duration": 4090,
+   "hijriDate": "1443-03-16"
+  },
+  {
+   "n": 5,
+   "title": "الدرس 5",
+   "lang": "ar",
+   "scholarId": "عبدالسلام-السليمان",
+   "videoId": "G9R2laPRRe0",
+   "duration": 2187,
+   "hijriDate": "1443-03-16"
+  }
+ ]
+}

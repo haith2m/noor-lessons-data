@@ -1,0 +1,107 @@
+{
+ "id": "PLriFofF1xij7M-fInkzRfE2Sz9aWe-zRf",
+ "title": "الدورة العلمية بالمسجد النبوي لأعضاء هيئة كبار العلماء",
+ "subject": "fiqh",
+ "kind": "course",
+ "lang": "ar",
+ "scholarId": null,
+ "scholarIds": [
+  "عبدالاله-الملا",
+  "فهد-الماجد",
+  "عبدالباقي-مبارك",
+  "سامي-الصقير",
+  "جبريل-البصيلي",
+  "محمد-الشنقيطي"
+ ],
+ "year": 1447,
+ "source": "youtube",
+ "channelId": "UC0XNCc-DU8J5_ksR-eufPaw",
+ "playlistId": "PLriFofF1xij7M-fInkzRfE2Sz9aWe-zRf",
+ "url": "https://www.youtube.com/playlist?list=PLriFofF1xij7M-fInkzRfE2Sz9aWe-zRf",
+ "thumbnail": "https://i.ytimg.com/vi/XcBvrBwm6ws/maxresdefault.jpg",
+ "lessonCount": 9,
+ "duration": 34941,
+ "lessons": [
+  {
+   "n": 1,
+   "title": "النوازل الفقهيه في الحج",
+   "lang": "ar",
+   "scholarId": "عبدالاله-الملا",
+   "videoId": "XcBvrBwm6ws",
+   "duration": 6073,
+   "hijriDate": null
+  },
+  {
+   "n": 2,
+   "title": "النوازل الفقهيه في الحج",
+   "lang": "ar",
+   "scholarId": "عبدالاله-الملا",
+   "videoId": "GkOR9DMUxHk",
+   "duration": 3047,
+   "hijriDate": null
+  },
+  {
+   "n": 3,
+   "title": "الحج مقاصد ومنافع",
+   "lang": "ar",
+   "scholarId": "فهد-الماجد",
+   "videoId": "zxzLxSq_2Hs",
+   "duration": 3826,
+   "hijriDate": null
+  },
+  {
+   "n": 4,
+   "title": "وليال عشر",
+   "lang": "ar",
+   "scholarId": "عبدالباقي-مبارك",
+   "videoId": "1mu4i4-3RNE",
+   "duration": 3394,
+   "hijriDate": null
+  },
+  {
+   "n": 5,
+   "title": "كتاب المنهج لمريد العمرة والحج",
+   "lang": "ar",
+   "scholarId": "سامي-الصقير",
+   "videoId": "UrZzBksXeMs",
+   "duration": 4311,
+   "hijriDate": null
+  },
+  {
+   "n": 6,
+   "title": "كتاب المنهج لمريد العمرة والحج",
+   "lang": "ar",
+   "scholarId": "سامي-الصقير",
+   "videoId": "7gL-8jDMxNU",
+   "duration": 3681,
+   "hijriDate": null
+  },
+  {
+   "n": 7,
+   "title": "أثر الحج في تزكية النفس",
+   "lang": "ar",
+   "scholarId": "جبريل-البصيلي",
+   "videoId": "8E-4l50CkAk",
+   "duration": 3388,
+   "hijriDate": null
+  },
+  {
+   "n": 8,
+   "title": "يوم عرفه فضائل وأحكام",
+   "lang": "ar",
+   "scholarId": "جبريل-البصيلي",
+   "videoId": "JUzq1U5ABQA",
+   "duration": 3513,
+   "hijriDate": null
+  },
+  {
+   "n": 9,
+   "title": "مسائل الأضحية",
+   "lang": "ar",
+   "scholarId": "محمد-الشنقيطي",
+   "videoId": "oElXF2nJi9g",
+   "duration": 3708,
+   "hijriDate": null
+  }
+ ]
+}

@@ -1,0 +1,66 @@
+{
+ "id": "PLgaTRTylCbZCwtjABMz_0OvDNgb4NlH8J",
+ "title": "تفسير سورة مريم",
+ "subject": "tafsir",
+ "kind": "series",
+ "lang": "ar",
+ "scholarId": "سعد-الشثري",
+ "scholarIds": [
+  "سعد-الشثري"
+ ],
+ "year": 1442,
+ "source": "youtube",
+ "channelId": "UC3QAoXf9GN9xeQYhk-AZbTg",
+ "playlistId": "PLgaTRTylCbZCwtjABMz_0OvDNgb4NlH8J",
+ "url": "https://www.youtube.com/playlist?list=PLgaTRTylCbZCwtjABMz_0OvDNgb4NlH8J",
+ "thumbnail": "https://i.ytimg.com/vi/dJOrfDAeLJI/maxresdefault.jpg",
+ "lessonCount": 5,
+ "duration": 10897,
+ "lessons": [
+  {
+   "n": 1,
+   "title": "الدرس 1",
+   "lang": "ar",
+   "scholarId": "سعد-الشثري",
+   "videoId": "dJOrfDAeLJI",
+   "duration": 1804,
+   "hijriDate": "1442-09-15"
+  },
+  {
+   "n": 2,
+   "title": "الدرس 2",
+   "lang": "ar",
+   "scholarId": "سعد-الشثري",
+   "videoId": "PzPUNegKD3o",
+   "duration": 2304,
+   "hijriDate": "1442-09-16"
+  },
+  {
+   "n": 3,
+   "title": "الدرس 3",
+   "lang": "ar",
+   "scholarId": "سعد-الشثري",
+   "videoId": "QnKNN_QlNwc",
+   "duration": 2207,
+   "hijriDate": "1442-09-17"
+  },
+  {
+   "n": 4,
+   "title": "الدرس 4",
+   "lang": "ar",
+   "scholarId": "سعد-الشثري",
+   "videoId": "lipsUklLxEU",
+   "duration": 2368,
+   "hijriDate": "1442-09-18"
+  },
+  {
+   "n": 5,
+   "title": "الدرس 5",
+   "lang": "ar",
+   "scholarId": "سعد-الشثري",
+   "videoId": "dCPfdrNrMAY",
+   "duration": 2214,
+   "hijriDate": "1442-09-19"
+  }
+ ]
+}

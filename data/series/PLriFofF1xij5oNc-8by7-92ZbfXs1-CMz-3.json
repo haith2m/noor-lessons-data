@@ -1,0 +1,39 @@
+{
+ "id": "PLriFofF1xij5oNc-8by7-92ZbfXs1-CMz-3",
+ "title": "تذكرة السامع والمتكلم في أدب العالم",
+ "subject": "adab",
+ "kind": "series",
+ "lang": "ar",
+ "scholarId": "انيس-طاهر",
+ "scholarIds": [
+  "انيس-طاهر"
+ ],
+ "year": null,
+ "source": "youtube",
+ "channelId": "UC0XNCc-DU8J5_ksR-eufPaw",
+ "playlistId": "PLriFofF1xij5oNc-8by7-92ZbfXs1-CMz",
+ "url": "https://www.youtube.com/playlist?list=PLriFofF1xij5oNc-8by7-92ZbfXs1-CMz",
+ "thumbnail": "https://i.ytimg.com/vi/8PrZbg6jubo/maxresdefault.jpg",
+ "lessonCount": 2,
+ "duration": 8884,
+ "lessons": [
+  {
+   "n": 1,
+   "title": "الدرس 1",
+   "lang": "ar",
+   "scholarId": "انيس-طاهر",
+   "videoId": "T-_X18E_gNM",
+   "duration": 4463,
+   "hijriDate": null
+  },
+  {
+   "n": 2,
+   "title": "الدرس 2",
+   "lang": "ar",
+   "scholarId": "انيس-طاهر",
+   "videoId": "N8L2kmEGObA",
+   "duration": 4421,
+   "hijriDate": null
+  }
+ ]
+}

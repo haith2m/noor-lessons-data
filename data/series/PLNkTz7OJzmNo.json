@@ -1,0 +1,48 @@
+{
+ "id": "PLNkTz7OJzmNo",
+ "title": "أحكام الجنائز وبِدعها للشيخ الألبانى",
+ "subject": "fiqh",
+ "kind": "series",
+ "lang": "ar",
+ "scholarId": "علي-ابابطين",
+ "scholarIds": [
+  "علي-ابابطين"
+ ],
+ "year": null,
+ "source": "youtube",
+ "channelId": "UC0XNCc-DU8J5_ksR-eufPaw",
+ "playlistId": "PLNkTz7OJzmNo",
+ "url": "https://www.youtube.com/playlist?list=PLNkTz7OJzmNo",
+ "thumbnail": "https://i.ytimg.com/vi/llhPXRl-xPM/maxresdefault.jpg",
+ "lessonCount": 3,
+ "duration": 11769,
+ "lessons": [
+  {
+   "n": 1,
+   "title": "الدرس 1",
+   "lang": "ar",
+   "scholarId": "علي-ابابطين",
+   "videoId": "llhPXRl-xPM",
+   "duration": 4247,
+   "hijriDate": null
+  },
+  {
+   "n": 2,
+   "title": "الدرس 2",
+   "lang": "ar",
+   "scholarId": "علي-ابابطين",
+   "videoId": "dWZpupfCE8Q",
+   "duration": 3761,
+   "hijriDate": null
+  },
+  {
+   "n": 3,
+   "title": "الدرس 3",
+   "lang": "ar",
+   "scholarId": "علي-ابابطين",
+   "videoId": "ZaicG3gs_xk",
+   "duration": 3761,
+   "hijriDate": null
+  }
+ ]
+}

@@ -1,0 +1,66 @@
+{
+ "id": "PLBrc5aH6wdsA",
+ "title": "تاريخ علوم اللغة العربية",
+ "subject": "arabic",
+ "kind": "series",
+ "lang": "ar",
+ "scholarId": "سليمان-العايد",
+ "scholarIds": [
+  "سليمان-العايد"
+ ],
+ "year": 1448,
+ "source": "youtube",
+ "channelId": "UC3QAoXf9GN9xeQYhk-AZbTg",
+ "playlistId": "PLBrc5aH6wdsA",
+ "url": "https://www.youtube.com/playlist?list=PLBrc5aH6wdsA",
+ "thumbnail": "https://i.ytimg.com/vi/YAzXW5b76Co/maxresdefault.jpg",
+ "lessonCount": 5,
+ "duration": 17937,
+ "lessons": [
+  {
+   "n": 1,
+   "title": "الدرس 1",
+   "lang": "ar",
+   "scholarId": "سليمان-العايد",
+   "videoId": "YAzXW5b76Co",
+   "duration": 2968,
+   "hijriDate": "1448-02-11"
+  },
+  {
+   "n": 2,
+   "title": "الدرس 2",
+   "lang": "ar",
+   "scholarId": "سليمان-العايد",
+   "videoId": "KVfdW11iCMI",
+   "duration": 3656,
+   "hijriDate": "1448-02-12"
+  },
+  {
+   "n": 3,
+   "title": "الدرس 3",
+   "lang": "ar",
+   "scholarId": "سليمان-العايد",
+   "videoId": "99JYn41436A",
+   "duration": 3733,
+   "hijriDate": "1448-02-13"
+  },
+  {
+   "n": 4,
+   "title": "الدرس 4",
+   "lang": "ar",
+   "scholarId": "سليمان-العايد",
+   "videoId": "79Wvkhja9R4",
+   "duration": 3742,
+   "hijriDate": "1448-02-14"
+  },
+  {
+   "n": 5,
+   "title": "الدرس 5",
+   "lang": "ar",
+   "scholarId": "سليمان-العايد",
+   "videoId": "Pzq_HKYnsRQ",
+   "duration": 3838,
+   "hijriDate": "1448-02-15"
+  }
+ ]
+}

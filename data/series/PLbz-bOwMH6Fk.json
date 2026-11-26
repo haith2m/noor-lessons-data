@@ -1,0 +1,48 @@
+{
+ "id": "PLbz-bOwMH6Fk",
+ "title": "القصيدة الهائية للشيخ حافظ حكمي",
+ "subject": "general",
+ "kind": "series",
+ "lang": "ar",
+ "scholarId": "سليمان-الرحيلي",
+ "scholarIds": [
+  "سليمان-الرحيلي"
+ ],
+ "year": null,
+ "source": "youtube",
+ "channelId": "UC0XNCc-DU8J5_ksR-eufPaw",
+ "playlistId": "PLbz-bOwMH6Fk",
+ "url": "https://www.youtube.com/playlist?list=PLbz-bOwMH6Fk",
+ "thumbnail": "https://i.ytimg.com/vi/HDzZZ6M3Lk0/maxresdefault.jpg",
+ "lessonCount": 3,
+ "duration": 12018,
+ "lessons": [
+  {
+   "n": 1,
+   "title": "الدرس 1",
+   "lang": "ar",
+   "scholarId": "سليمان-الرحيلي",
+   "videoId": "HDzZZ6M3Lk0",
+   "duration": 4703,
+   "hijriDate": null
+  },
+  {
+   "n": 2,
+   "title": "الدرس 2",
+   "lang": "ar",
+   "scholarId": "سليمان-الرحيلي",
+   "videoId": "AOyJR9ANJjw",
+   "duration": 3758,
+   "hijriDate": null
+  },
+  {
+   "n": 3,
+   "title": "الدرس 3",
+   "lang": "ar",
+   "scholarId": "سليمان-الرحيلي",
+   "videoId": "9ZO18BZ-QU0",
+   "duration": 3557,
+   "hijriDate": null
+  }
+ ]
+}

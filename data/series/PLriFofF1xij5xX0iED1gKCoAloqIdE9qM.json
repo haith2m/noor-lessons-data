@@ -1,0 +1,186 @@
+{
+ "id": "PLriFofF1xij5xX0iED1gKCoAloqIdE9qM",
+ "title": "الدورة العلمية (2)",
+ "subject": "hadith",
+ "kind": "course",
+ "lang": "ar",
+ "scholarId": null,
+ "scholarIds": [
+  "علي-التويجري",
+  "عبداللطيف-الشاماني",
+  "بدر-البدر",
+  "انيس-طاهر"
+ ],
+ "year": 1446,
+ "source": "youtube",
+ "channelId": "UC0XNCc-DU8J5_ksR-eufPaw",
+ "playlistId": "PLriFofF1xij5xX0iED1gKCoAloqIdE9qM",
+ "url": "https://www.youtube.com/playlist?list=PLriFofF1xij5xX0iED1gKCoAloqIdE9qM",
+ "thumbnail": "https://i.ytimg.com/vi/IG0ohZYIkTY/maxresdefault.jpg",
+ "lessonCount": 18,
+ "duration": 72038,
+ "lessons": [
+  {
+   "n": 1,
+   "title": "صحيح البخاري",
+   "lang": "ar",
+   "scholarId": "علي-التويجري",
+   "videoId": "IG0ohZYIkTY",
+   "duration": 4501,
+   "hijriDate": null
+  },
+  {
+   "n": 2,
+   "title": "صحيح البخاري",
+   "lang": "ar",
+   "scholarId": "علي-التويجري",
+   "videoId": "ONjf4QAFjlI",
+   "duration": 4369,
+   "hijriDate": null
+  },
+  {
+   "n": 3,
+   "title": "رسالة شروط الصلاة وأركانها وواجباتها",
+   "lang": "ar",
+   "scholarId": "عبداللطيف-الشاماني",
+   "videoId": "W2FQavzL2M4",
+   "duration": 3476,
+   "hijriDate": null
+  },
+  {
+   "n": 4,
+   "title": "صحيح البخاري",
+   "lang": "ar",
+   "scholarId": "علي-التويجري",
+   "videoId": "k4n9JBV0_Zg",
+   "duration": 4645,
+   "hijriDate": null
+  },
+  {
+   "n": 5,
+   "title": "رسالة شروط الصلاة وأركانها وواجباتها",
+   "lang": "ar",
+   "scholarId": "عبداللطيف-الشاماني",
+   "videoId": "sgfUgI2Vo3Q",
+   "duration": 3161,
+   "hijriDate": null
+  },
+  {
+   "n": 6,
+   "title": "رسالة شروط الصلاة وأركانها وواجباتها",
+   "lang": "ar",
+   "scholarId": "عبداللطيف-الشاماني",
+   "videoId": "LD9owUOCrwM",
+   "duration": 2925,
+   "hijriDate": null
+  },
+  {
+   "n": 7,
+   "title": "رسالة شروط الصلاة وأركانها وواجباتها",
+   "lang": "ar",
+   "scholarId": "عبداللطيف-الشاماني",
+   "videoId": "fz2qIa2GHqg",
+   "duration": 3446,
+   "hijriDate": null
+  },
+  {
+   "n": 8,
+   "title": "كتاب اقتضاء العلم العمل",
+   "lang": "ar",
+   "scholarId": "بدر-البدر",
+   "videoId": "fcYZ_UeM--E",
+   "duration": 4375,
+   "hijriDate": null
+  },
+  {
+   "n": 9,
+   "title": "صحيح البخاري",
+   "lang": "ar",
+   "scholarId": "علي-التويجري",
+   "videoId": "qJjIMCC9650",
+   "duration": 4646,
+   "hijriDate": null
+  },
+  {
+   "n": 10,
+   "title": "صحيح البخاري",
+   "lang": "ar",
+   "scholarId": "علي-التويجري",
+   "videoId": "Zb9YDiC4Vyc",
+   "duration": 4376,
+   "hijriDate": null
+  },
+  {
+   "n": 11,
+   "title": "كتاب تذكرة السامع والمتكلم",
+   "lang": "ar",
+   "scholarId": "انيس-طاهر",
+   "videoId": "RYy2TNi8Yyw",
+   "duration": 4330,
+   "hijriDate": null
+  },
+  {
+   "n": 12,
+   "title": "كتاب تذكرة السامع والمتكلم",
+   "lang": "ar",
+   "scholarId": "انيس-طاهر",
+   "videoId": "xqqlUZ5Gs44",
+   "duration": 4486,
+   "hijriDate": null
+  },
+  {
+   "n": 13,
+   "title": "صحيح البخاري",
+   "lang": "ar",
+   "scholarId": "علي-التويجري",
+   "videoId": "GB88TtoZZbE",
+   "duration": 4561,
+   "hijriDate": null
+  },
+  {
+   "n": 14,
+   "title": "كتاب اقتضاء العلم العمل",
+   "lang": "ar",
+   "scholarId": "بدر-البدر",
+   "videoId": "oBb7h-MW5IE",
+   "duration": 3836,
+   "hijriDate": null
+  },
+  {
+   "n": 15,
+   "title": "صحيح البخاري",
+   "lang": "ar",
+   "scholarId": "علي-التويجري",
+   "videoId": "eegiCrdgHwA",
+   "duration": 4158,
+   "hijriDate": null
+  },
+  {
+   "n": 16,
+   "title": "كتاب اقتضاء العلم العمل",
+   "lang": "ar",
+   "scholarId": "بدر-البدر",
+   "videoId": "jliFZpw1o0s",
+   "duration": 3486,
+   "hijriDate": null
+  },
+  {
+   "n": 17,
+   "title": "صحيح البخاري",
+   "lang": "ar",
+   "scholarId": "علي-التويجري",
+   "videoId": "51jkgsWwI9I",
+   "duration": 3332,
+   "hijriDate": null
+  },
+  {
+   "n": 18,
+   "title": "صحيح البخاري",
+   "lang": "ar",
+   "scholarId": "علي-التويجري",
+   "videoId": "yDIaY_amPnA",
+   "duration": 3929,
+   "hijriDate": null
+  }
+ ]
+}

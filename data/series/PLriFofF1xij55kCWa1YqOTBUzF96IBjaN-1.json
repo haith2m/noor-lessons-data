@@ -1,0 +1,39 @@
+{
+ "id": "PLriFofF1xij55kCWa1YqOTBUzF96IBjaN-1",
+ "title": "أخلاق الزائر للمسجد النبوي",
+ "subject": "adab",
+ "kind": "series",
+ "lang": "ar",
+ "scholarId": "طلال-ابوالنور",
+ "scholarIds": [
+  "طلال-ابوالنور"
+ ],
+ "year": null,
+ "source": "youtube",
+ "channelId": "UC0XNCc-DU8J5_ksR-eufPaw",
+ "playlistId": "PLriFofF1xij55kCWa1YqOTBUzF96IBjaN",
+ "url": "https://www.youtube.com/playlist?list=PLriFofF1xij55kCWa1YqOTBUzF96IBjaN",
+ "thumbnail": "https://i.ytimg.com/vi/uKbseSKo0-g/maxresdefault.jpg",
+ "lessonCount": 2,
+ "duration": 7936,
+ "lessons": [
+  {
+   "n": 1,
+   "title": "الدرس 1",
+   "lang": "ar",
+   "scholarId": "طلال-ابوالنور",
+   "videoId": "EdxWxcqJHh8",
+   "duration": 3900,
+   "hijriDate": null
+  },
+  {
+   "n": 2,
+   "title": "الدرس 2",
+   "lang": "ar",
+   "scholarId": "طلال-ابوالنور",
+   "videoId": "EWk1ktAv6eA",
+   "duration": 4036,
+   "hijriDate": null
+  }
+ ]
+}

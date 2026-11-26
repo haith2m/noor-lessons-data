@@ -1,0 +1,39 @@
+{
+ "id": "PLgaTRTylCbZAhNt67-njY_aFL93DCcPrh",
+ "title": "عضو هيئة كبار العلماء",
+ "subject": "general",
+ "kind": "series",
+ "lang": "ar",
+ "scholarId": "صالح-العصيمي",
+ "scholarIds": [
+  "صالح-العصيمي"
+ ],
+ "year": 1439,
+ "source": "youtube",
+ "channelId": "UC3QAoXf9GN9xeQYhk-AZbTg",
+ "playlistId": "PLgaTRTylCbZAhNt67-njY_aFL93DCcPrh",
+ "url": "https://www.youtube.com/playlist?list=PLgaTRTylCbZAhNt67-njY_aFL93DCcPrh",
+ "thumbnail": "https://i.ytimg.com/vi/ldR1oFbiQek/maxresdefault.jpg",
+ "lessonCount": 2,
+ "duration": 13662,
+ "lessons": [
+  {
+   "n": 1,
+   "title": "التعليقات السعدية على المنظومة السفارينية",
+   "lang": "ar",
+   "scholarId": "صالح-العصيمي",
+   "videoId": "ldR1oFbiQek",
+   "duration": 9750,
+   "hijriDate": "1439-11-14"
+  },
+  {
+   "n": 2,
+   "title": "تكملة المنظومة السفارينية- ورسالة وجوب السمع والطاعة لولي أمر المسلمين",
+   "lang": "ar",
+   "scholarId": "صالح-العصيمي",
+   "videoId": "Q3NOM40fxz0",
+   "duration": 3912,
+   "hijriDate": "1439-11-14"
+  }
+ ]
+}

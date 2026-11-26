@@ -1,0 +1,75 @@
+{
+ "id": "PLgaTRTylCbZCf4kVRxrvF8xydI0fd3HVf",
+ "title": "تفسير سورة الكهف",
+ "subject": "tafsir",
+ "kind": "series",
+ "lang": "ar",
+ "scholarId": "احمد-السديس",
+ "scholarIds": [
+  "احمد-السديس"
+ ],
+ "year": 1447,
+ "source": "youtube",
+ "channelId": "UC3QAoXf9GN9xeQYhk-AZbTg",
+ "playlistId": "PLgaTRTylCbZCf4kVRxrvF8xydI0fd3HVf",
+ "url": "https://www.youtube.com/playlist?list=PLgaTRTylCbZCf4kVRxrvF8xydI0fd3HVf",
+ "thumbnail": "https://i.ytimg.com/vi/FKMWzQeYHNA/maxresdefault.jpg",
+ "lessonCount": 6,
+ "duration": 20773,
+ "lessons": [
+  {
+   "n": 1,
+   "title": "الآية 01",
+   "lang": "ar",
+   "scholarId": "احمد-السديس",
+   "videoId": "bcFHc8fzG2I",
+   "duration": 3676,
+   "hijriDate": "1447-02-15"
+  },
+  {
+   "n": 2,
+   "title": "الآية 02",
+   "lang": "ar",
+   "scholarId": "احمد-السديس",
+   "videoId": "KBvMH6xqzOI",
+   "duration": 3654,
+   "hijriDate": "1447-02-16"
+  },
+  {
+   "n": 3,
+   "title": "الآية 03",
+   "lang": "ar",
+   "scholarId": "احمد-السديس",
+   "videoId": "wWDVe0snU8Q",
+   "duration": 3307,
+   "hijriDate": "1447-02-17"
+  },
+  {
+   "n": 4,
+   "title": "الآية 04",
+   "lang": "ar",
+   "scholarId": "احمد-السديس",
+   "videoId": "txK-9Sat9cw",
+   "duration": 3358,
+   "hijriDate": "1447-02-18"
+  },
+  {
+   "n": 5,
+   "title": "الآية 05",
+   "lang": "ar",
+   "scholarId": "احمد-السديس",
+   "videoId": "MnVJ2fZiXss",
+   "duration": 3427,
+   "hijriDate": "1447-02-19"
+  },
+  {
+   "n": 6,
+   "title": "الآية 06",
+   "lang": "ar",
+   "scholarId": "احمد-السديس",
+   "videoId": "FKMWzQeYHNA",
+   "duration": 3351,
+   "hijriDate": "1447-02-20"
+  }
+ ]
+}

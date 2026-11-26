@@ -1,0 +1,75 @@
+{
+ "id": "PLgaTRTylCbZCkAi-EGaGQ7drayHWwyLL7",
+ "title": "الوصية الكبرى",
+ "subject": "adab",
+ "kind": "series",
+ "lang": "ar",
+ "scholarId": "عبدالرحمن-السند",
+ "scholarIds": [
+  "عبدالرحمن-السند"
+ ],
+ "year": null,
+ "source": "youtube",
+ "channelId": "UC3QAoXf9GN9xeQYhk-AZbTg",
+ "playlistId": "PLgaTRTylCbZCkAi-EGaGQ7drayHWwyLL7",
+ "url": "https://www.youtube.com/playlist?list=PLgaTRTylCbZCkAi-EGaGQ7drayHWwyLL7",
+ "thumbnail": "https://i.ytimg.com/vi/KxTdPD6Jm8M/maxresdefault.jpg",
+ "lessonCount": 6,
+ "duration": 17750,
+ "lessons": [
+  {
+   "n": 1,
+   "title": "الدرس 1",
+   "lang": "ar",
+   "scholarId": "عبدالرحمن-السند",
+   "videoId": "KxTdPD6Jm8M",
+   "duration": 3672,
+   "hijriDate": null
+  },
+  {
+   "n": 2,
+   "title": "الدرس 2",
+   "lang": "ar",
+   "scholarId": "عبدالرحمن-السند",
+   "videoId": "l4oKUISsdoo",
+   "duration": 2070,
+   "hijriDate": null
+  },
+  {
+   "n": 3,
+   "title": "الدرس 3",
+   "lang": "ar",
+   "scholarId": "عبدالرحمن-السند",
+   "videoId": "DsdSe3eODWA",
+   "duration": 3696,
+   "hijriDate": null
+  },
+  {
+   "n": 4,
+   "title": "الدرس 4",
+   "lang": "ar",
+   "scholarId": "عبدالرحمن-السند",
+   "videoId": "r7EqtuqGe3s",
+   "duration": 2715,
+   "hijriDate": null
+  },
+  {
+   "n": 5,
+   "title": "الدرس 5",
+   "lang": "ar",
+   "scholarId": "عبدالرحمن-السند",
+   "videoId": "n88IocBp3qM",
+   "duration": 3724,
+   "hijriDate": null
+  },
+  {
+   "n": 6,
+   "title": "الدرس 6",
+   "lang": "ar",
+   "scholarId": "عبدالرحمن-السند",
+   "videoId": "cnUXP-R3228",
+   "duration": 1873,
+   "hijriDate": null
+  }
+ ]
+}

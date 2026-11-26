@@ -1,0 +1,149 @@
+{
+ "id": "PLgaTRTylCbZCtKkhb8kThsJA6g4XMnGZl",
+ "title": "سلسلة محاضرات رمضان مسائل وأحكام",
+ "subject": "fiqh",
+ "kind": "course",
+ "lang": "ar",
+ "scholarId": null,
+ "scholarIds": [
+  "عبدالرحمن-السديس",
+  "شرف-الشريف",
+  "علي-العلياني",
+  "عبدالله-الغطيمل",
+  "طلال-ابوالنور",
+  "حسن-بخاري",
+  "سليمان-التويجري",
+  "خالد-عروس",
+  "عبدالرحمن-القرني",
+  "علي-الحكمي",
+  "سعد-الخثلان",
+  "عبدالمحسن-الزامل"
+ ],
+ "year": 1440,
+ "source": "youtube",
+ "channelId": "UC3QAoXf9GN9xeQYhk-AZbTg",
+ "playlistId": "PLgaTRTylCbZCtKkhb8kThsJA6g4XMnGZl",
+ "url": "https://www.youtube.com/playlist?list=PLgaTRTylCbZCtKkhb8kThsJA6g4XMnGZl",
+ "thumbnail": "https://i.ytimg.com/vi/iKwh9JQej_U/maxresdefault.jpg",
+ "lessonCount": 13,
+ "duration": 47724,
+ "lessons": [
+  {
+   "n": 1,
+   "title": "أحكام شهر رمضان والصيام",
+   "lang": "ar",
+   "scholarId": "عبدالرحمن-السديس",
+   "videoId": "iKwh9JQej_U",
+   "duration": 3252,
+   "hijriDate": "1440-08-18"
+  },
+  {
+   "n": 2,
+   "title": "وأقبل رمضان",
+   "lang": "ar",
+   "scholarId": "شرف-الشريف",
+   "videoId": "xFhc9cicTmc",
+   "duration": 3918,
+   "hijriDate": "1440-08-22"
+  },
+  {
+   "n": 3,
+   "title": "ثم لقيتني لا تشرك بي شيئا",
+   "lang": "ar",
+   "scholarId": "علي-العلياني",
+   "videoId": "74nAgX3oGlg",
+   "duration": 3268,
+   "hijriDate": "1440-08-24"
+  },
+  {
+   "n": 4,
+   "title": "تأثير الدواء على الصوم",
+   "lang": "ar",
+   "scholarId": "عبدالله-الغطيمل",
+   "videoId": "CJdBdwPpT20",
+   "duration": 3688,
+   "hijriDate": "1440-08-24"
+  },
+  {
+   "n": 5,
+   "title": "﴿وَتوبوا إِلَى اللَّهِ جَميعًا﴾",
+   "lang": "ar",
+   "scholarId": "طلال-ابوالنور",
+   "videoId": "7qhviaR37Tg",
+   "duration": 5901,
+   "hijriDate": "1440-09-02"
+  },
+  {
+   "n": 6,
+   "title": "﴿شَهرُ رَمَضانَ الَّذي أُنزِلَ فيهِ القُرآنُ﴾",
+   "lang": "ar",
+   "scholarId": "حسن-بخاري",
+   "videoId": "4fGO3etPcdE",
+   "duration": 2272,
+   "hijriDate": "1440-09-02"
+  },
+  {
+   "n": 7,
+   "title": "قل آمنت بالله ثم استقم",
+   "lang": "ar",
+   "scholarId": "سليمان-التويجري",
+   "videoId": "NzfDUlRb78k",
+   "duration": 3674,
+   "hijriDate": "1440-09-03"
+  },
+  {
+   "n": 8,
+   "title": "مقاصد الصيام",
+   "lang": "ar",
+   "scholarId": "خالد-عروس",
+   "videoId": "s0jSR5aYsAs",
+   "duration": 1961,
+   "hijriDate": "1440-09-03"
+  },
+  {
+   "n": 9,
+   "title": "أن طهرا بيتي للطائفين والعاكفين",
+   "lang": "ar",
+   "scholarId": "عبدالرحمن-القرني",
+   "videoId": "0P8NZH2kotY",
+   "duration": 3402,
+   "hijriDate": "1440-09-04"
+  },
+  {
+   "n": 10,
+   "title": "حتى لا تعلم يمينه ما تنفق شماله",
+   "lang": "ar",
+   "scholarId": "طلال-ابوالنور",
+   "videoId": "uqYO_IcxgNo",
+   "duration": 4380,
+   "hijriDate": "1440-09-09"
+  },
+  {
+   "n": 11,
+   "title": "مشروعية الزكاة",
+   "lang": "ar",
+   "scholarId": "علي-الحكمي",
+   "videoId": "GZ3TOrwaD90",
+   "duration": 3747,
+   "hijriDate": "1440-09-11"
+  },
+  {
+   "n": 12,
+   "title": "العشر الأواخر من رمضان",
+   "lang": "ar",
+   "scholarId": "سعد-الخثلان",
+   "videoId": "FdlSeBgdYj0",
+   "duration": 1822,
+   "hijriDate": "1440-09-20"
+  },
+  {
+   "n": 13,
+   "title": "أحكام وآداب الاعتكاف",
+   "lang": "ar",
+   "scholarId": "عبدالمحسن-الزامل",
+   "videoId": "kVD4pCDtn5k",
+   "duration": 6439,
+   "hijriDate": "1440-09-20"
+  }
+ ]
+}

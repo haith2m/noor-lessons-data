@@ -1,0 +1,48 @@
+{
+ "id": "PLriFofF1xij6ltAW1MSPSwIVq3Arssr64",
+ "title": "رسالة مسائل الجاهلية للإمام محمد بن عبدالوهاب",
+ "subject": "aqeedah",
+ "kind": "series",
+ "lang": "ar",
+ "scholarId": "علي-ابابطين",
+ "scholarIds": [
+  "علي-ابابطين"
+ ],
+ "year": null,
+ "source": "youtube",
+ "channelId": "UC0XNCc-DU8J5_ksR-eufPaw",
+ "playlistId": "PLriFofF1xij6ltAW1MSPSwIVq3Arssr64",
+ "url": "https://www.youtube.com/playlist?list=PLriFofF1xij6ltAW1MSPSwIVq3Arssr64",
+ "thumbnail": "https://i.ytimg.com/vi/Fjb3rhkwmZI/maxresdefault.jpg",
+ "lessonCount": 3,
+ "duration": 10561,
+ "lessons": [
+  {
+   "n": 1,
+   "title": "الدرس 1",
+   "lang": "ar",
+   "scholarId": "علي-ابابطين",
+   "videoId": "Fjb3rhkwmZI",
+   "duration": 3506,
+   "hijriDate": null
+  },
+  {
+   "n": 2,
+   "title": "الدرس 2",
+   "lang": "ar",
+   "scholarId": "علي-ابابطين",
+   "videoId": "bNXeCbLxXcQ",
+   "duration": 3827,
+   "hijriDate": null
+  },
+  {
+   "n": 3,
+   "title": "الدرس 3",
+   "lang": "ar",
+   "scholarId": "علي-ابابطين",
+   "videoId": "inusR0n9EZs",
+   "duration": 3228,
+   "hijriDate": null
+  }
+ ]
+}

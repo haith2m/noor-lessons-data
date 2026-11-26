@@ -1,0 +1,40 @@
+{
+ "id": "PLgaTRTylCbZDOHJ68w6swoZUNFMLqyB-R",
+ "title": "ميراث العقيدة",
+ "subject": "aqeedah",
+ "kind": "course",
+ "lang": "ar",
+ "scholarId": null,
+ "scholarIds": [
+  "عبدالله-حميد",
+  "عبدالعزيز-باز"
+ ],
+ "year": null,
+ "source": "youtube",
+ "channelId": "UC3QAoXf9GN9xeQYhk-AZbTg",
+ "playlistId": "PLgaTRTylCbZDOHJ68w6swoZUNFMLqyB-R",
+ "url": "https://www.youtube.com/playlist?list=PLgaTRTylCbZDOHJ68w6swoZUNFMLqyB-R",
+ "thumbnail": "https://i.ytimg.com/vi/IxYpnnT4z-Q/sddefault.jpg",
+ "lessonCount": 2,
+ "duration": 2453,
+ "lessons": [
+  {
+   "n": 1,
+   "title": "كمال الدين الإسلامي",
+   "lang": "ar",
+   "scholarId": "عبدالله-حميد",
+   "videoId": "IxYpnnT4z-Q",
+   "duration": 823,
+   "hijriDate": null
+  },
+  {
+   "n": 2,
+   "title": "العبودية",
+   "lang": "ar",
+   "scholarId": "عبدالعزيز-باز",
+   "videoId": "sDU8GeSwbdY",
+   "duration": 1630,
+   "hijriDate": null
+  }
+ ]
+}

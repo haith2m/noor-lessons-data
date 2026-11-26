@@ -1,0 +1,79 @@
+{
+ "id": "PLriFofF1xij6CHY8ZqX8Vz7-yZUf9APSK",
+ "title": "دورة منهجية طلب العلم من المسجد النبوي",
+ "subject": "adab",
+ "kind": "course",
+ "lang": "ar",
+ "scholarId": null,
+ "scholarIds": [
+  "مسعود-المحمدي",
+  "بدر-البدر",
+  "علي-التويجري",
+  "عبدالسلام-السحيمي",
+  "علي-ابابطين"
+ ],
+ "year": 1446,
+ "source": "youtube",
+ "channelId": "UC0XNCc-DU8J5_ksR-eufPaw",
+ "playlistId": "PLriFofF1xij6CHY8ZqX8Vz7-yZUf9APSK",
+ "url": "https://www.youtube.com/playlist?list=PLriFofF1xij6CHY8ZqX8Vz7-yZUf9APSK",
+ "thumbnail": "https://i.ytimg.com/vi/Mde5BEYd_a8/maxresdefault.jpg",
+ "lessonCount": 6,
+ "duration": 25100,
+ "lessons": [
+  {
+   "n": 1,
+   "title": "الأدب مع العلماء",
+   "lang": "ar",
+   "scholarId": "مسعود-المحمدي",
+   "videoId": "Mde5BEYd_a8",
+   "duration": 4169,
+   "hijriDate": null
+  },
+  {
+   "n": 2,
+   "title": "قواطع طلب العلم وموانعه",
+   "lang": "ar",
+   "scholarId": "بدر-البدر",
+   "videoId": "4jEINLVbfLE",
+   "duration": 4236,
+   "hijriDate": null
+  },
+  {
+   "n": 3,
+   "title": "وسائل تثبيت العلم",
+   "lang": "ar",
+   "scholarId": "علي-التويجري",
+   "videoId": "ggKoxMUI1g4",
+   "duration": 4466,
+   "hijriDate": null
+  },
+  {
+   "n": 4,
+   "title": "التأصيل العلمي",
+   "lang": "ar",
+   "scholarId": "عبدالسلام-السحيمي",
+   "videoId": "_j_-00Z0QYY",
+   "duration": 3622,
+   "hijriDate": null
+  },
+  {
+   "n": 5,
+   "title": "آداب طالب العلم",
+   "lang": "ar",
+   "scholarId": "علي-ابابطين",
+   "videoId": "-WDSIZe8kpM",
+   "duration": 4382,
+   "hijriDate": null
+  },
+  {
+   "n": 6,
+   "title": "التأصيل العلمي",
+   "lang": "ar",
+   "scholarId": "عبدالسلام-السحيمي",
+   "videoId": "ThuVdzoQoCs",
+   "duration": 4225,
+   "hijriDate": null
+  }
+ ]
+}

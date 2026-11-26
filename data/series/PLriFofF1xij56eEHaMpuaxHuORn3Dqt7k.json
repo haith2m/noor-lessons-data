@@ -1,0 +1,140 @@
+{
+ "id": "PLriFofF1xij56eEHaMpuaxHuORn3Dqt7k",
+ "title": "مبادرة ﴿ هُدًى لِّلۡمُتَّقِينَ ﴾",
+ "subject": "tafsir",
+ "kind": "course",
+ "lang": "ar",
+ "scholarId": null,
+ "scholarIds": [
+  "عبدالرزاق-البدر",
+  "علي-ابابطين",
+  "بدر-البدر",
+  "عبداللطيف-الشاماني",
+  "سلمان-الدخيل",
+  "محمد-الامين",
+  "علي-التويجري",
+  "انيس-طاهر",
+  "سعود-الخلف",
+  "محمد-اليوبي",
+  "عبدالله-الشنقيطي",
+  "عبدالله-التركي"
+ ],
+ "year": null,
+ "source": "youtube",
+ "channelId": "UC0XNCc-DU8J5_ksR-eufPaw",
+ "playlistId": "PLriFofF1xij56eEHaMpuaxHuORn3Dqt7k",
+ "url": "https://www.youtube.com/playlist?list=PLriFofF1xij56eEHaMpuaxHuORn3Dqt7k",
+ "thumbnail": "https://i.ytimg.com/vi/klFVeWbxc-E/maxresdefault.jpg",
+ "lessonCount": 12,
+ "duration": 29155,
+ "lessons": [
+  {
+   "n": 1,
+   "title": "هدايات القرآن",
+   "lang": "ar",
+   "scholarId": "عبدالرزاق-البدر",
+   "videoId": "klFVeWbxc-E",
+   "duration": 2973,
+   "hijriDate": null
+  },
+  {
+   "n": 2,
+   "title": "ألا بذكر الله تطمئن القلوب",
+   "lang": "ar",
+   "scholarId": "علي-ابابطين",
+   "videoId": "vGrq7ntS_GQ",
+   "duration": 1391,
+   "hijriDate": null
+  },
+  {
+   "n": 3,
+   "title": "مقاصد القرآن الكريم",
+   "lang": "ar",
+   "scholarId": "بدر-البدر",
+   "videoId": "9jpBwjJEUBY",
+   "duration": 2779,
+   "hijriDate": null
+  },
+  {
+   "n": 4,
+   "title": "الاستشفاء بالقرآن",
+   "lang": "ar",
+   "scholarId": "عبداللطيف-الشاماني",
+   "videoId": "t1ZOCghS7pE",
+   "duration": 3035,
+   "hijriDate": null
+  },
+  {
+   "n": 5,
+   "title": "أثر القرآن في حياة المسلم",
+   "lang": "ar",
+   "scholarId": "سلمان-الدخيل",
+   "videoId": "jIUqxKioYR8",
+   "duration": 2702,
+   "hijriDate": null
+  },
+  {
+   "n": 6,
+   "title": "الإعجاز البياني في القرآن",
+   "lang": "ar",
+   "scholarId": "محمد-الامين",
+   "videoId": "Nyl5n2kTTJ8",
+   "duration": 2217,
+   "hijriDate": null
+  },
+  {
+   "n": 7,
+   "title": "فضائل القرآن",
+   "lang": "ar",
+   "scholarId": "علي-التويجري",
+   "videoId": "5-Sjnd7NgiU",
+   "duration": 2431,
+   "hijriDate": null
+  },
+  {
+   "n": 8,
+   "title": "خيركم من تعلم القرآن وعلمه",
+   "lang": "ar",
+   "scholarId": "انيس-طاهر",
+   "videoId": "4NCHq4f1FrQ",
+   "duration": 2039,
+   "hijriDate": null
+  },
+  {
+   "n": 9,
+   "title": "القرآن الكريم : عظات وعبر",
+   "lang": "ar",
+   "scholarId": "سعود-الخلف",
+   "videoId": "L1BpkE7ymkc",
+   "duration": 3906,
+   "hijriDate": null
+  },
+  {
+   "n": 10,
+   "title": "القرآن منهج حياة",
+   "lang": "ar",
+   "scholarId": "محمد-اليوبي",
+   "videoId": "7eWk5E3ZGW4",
+   "duration": 2033,
+   "hijriDate": null
+  },
+  {
+   "n": 11,
+   "title": "الأمثال في القرآن",
+   "lang": "ar",
+   "scholarId": "عبدالله-الشنقيطي",
+   "videoId": "GYK_iMtbb90",
+   "duration": 2321,
+   "hijriDate": null
+  },
+  {
+   "n": 12,
+   "title": "القرآن هُدىً وتبيان",
+   "lang": "ar",
+   "scholarId": "عبدالله-التركي",
+   "videoId": "aXqArHfzphY",
+   "duration": 1328,
+   "hijriDate": null
+  }
+ ]
+}

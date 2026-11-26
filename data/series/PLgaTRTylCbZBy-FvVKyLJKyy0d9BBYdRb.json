@@ -1,0 +1,48 @@
+{
+ "id": "PLgaTRTylCbZBy-FvVKyLJKyy0d9BBYdRb",
+ "title": "الدروس المهمة لعامة الأمة - لابن باز",
+ "subject": "aqeedah",
+ "kind": "series",
+ "lang": "ar",
+ "scholarId": "عبدالسلام-الشويعر",
+ "scholarIds": [
+  "عبدالسلام-الشويعر"
+ ],
+ "year": null,
+ "source": "youtube",
+ "channelId": "UC3QAoXf9GN9xeQYhk-AZbTg",
+ "playlistId": "PLgaTRTylCbZBy-FvVKyLJKyy0d9BBYdRb",
+ "url": "https://www.youtube.com/playlist?list=PLgaTRTylCbZBy-FvVKyLJKyy0d9BBYdRb",
+ "thumbnail": "https://i.ytimg.com/vi/lyFxEpLI-sM/maxresdefault.jpg",
+ "lessonCount": 3,
+ "duration": 17984,
+ "lessons": [
+  {
+   "n": 1,
+   "title": "الدرس 1",
+   "lang": "ar",
+   "scholarId": "عبدالسلام-الشويعر",
+   "videoId": "Yd_iNdhV8IU",
+   "duration": 5013,
+   "hijriDate": null
+  },
+  {
+   "n": 2,
+   "title": "الدرس 2",
+   "lang": "ar",
+   "scholarId": "عبدالسلام-الشويعر",
+   "videoId": "I7mTG7mcMo8",
+   "duration": 6472,
+   "hijriDate": null
+  },
+  {
+   "n": 3,
+   "title": "الدرس 3",
+   "lang": "ar",
+   "scholarId": "عبدالسلام-الشويعر",
+   "videoId": "lyFxEpLI-sM",
+   "duration": 6499,
+   "hijriDate": null
+  }
+ ]
+}

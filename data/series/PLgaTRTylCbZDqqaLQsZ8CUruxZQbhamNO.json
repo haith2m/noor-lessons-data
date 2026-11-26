@@ -1,0 +1,207 @@
+{
+ "id": "PLgaTRTylCbZDqqaLQsZ8CUruxZQbhamNO",
+ "title": "سلسلة محاضرات رمضان",
+ "subject": "general",
+ "kind": "course",
+ "lang": "ar",
+ "scholarId": null,
+ "scholarIds": [
+  "سعد-الخثلان",
+  "حسن-بخاري",
+  "احمد-المزروع",
+  "شرف-الشريف",
+  "عبدالله-الغطيمل",
+  "عبدالمحسن-الزامل",
+  "طلال-ابوالنور"
+ ],
+ "year": 1442,
+ "source": "youtube",
+ "channelId": "UC3QAoXf9GN9xeQYhk-AZbTg",
+ "playlistId": "PLgaTRTylCbZDqqaLQsZ8CUruxZQbhamNO",
+ "url": "https://www.youtube.com/playlist?list=PLgaTRTylCbZDqqaLQsZ8CUruxZQbhamNO",
+ "thumbnail": "https://i.ytimg.com/vi/1hkR8ubx5ec/maxresdefault.jpg",
+ "lessonCount": 20,
+ "duration": 25239,
+ "lessons": [
+  {
+   "n": 1,
+   "title": "أحكام صلاة التراويح",
+   "lang": "ar",
+   "scholarId": "سعد-الخثلان",
+   "videoId": "1hkR8ubx5ec",
+   "duration": 820,
+   "hijriDate": "1442-08-29"
+  },
+  {
+   "n": 2,
+   "title": "رمضان في حياة النبي ﷺ",
+   "lang": "ar",
+   "scholarId": "حسن-بخاري",
+   "videoId": "HpfcjE1CjEA",
+   "duration": 3198,
+   "hijriDate": "1442-08-26"
+  },
+  {
+   "n": 3,
+   "title": "أحكام الصيام",
+   "lang": "ar",
+   "scholarId": "احمد-المزروع",
+   "videoId": "UCAKCuEm3eE",
+   "duration": 1534,
+   "hijriDate": null
+  },
+  {
+   "n": 4,
+   "title": "أحكام الصيام",
+   "lang": "ar",
+   "scholarId": "احمد-المزروع",
+   "videoId": "2ypcvZPitcU",
+   "duration": 1727,
+   "hijriDate": null
+  },
+  {
+   "n": 5,
+   "title": "أحكام الصيام",
+   "lang": "ar",
+   "scholarId": "احمد-المزروع",
+   "videoId": "NicvZj8B8Vc",
+   "duration": 1672,
+   "hijriDate": null
+  },
+  {
+   "n": 6,
+   "title": "فضل العشر الأواخر من رمضان",
+   "lang": "ar",
+   "scholarId": "شرف-الشريف",
+   "videoId": "Qqv1QrfuZGc",
+   "duration": 3308,
+   "hijriDate": "1442-09-19"
+  },
+  {
+   "n": 7,
+   "title": "العشر الأواخر فضائل وأحكام",
+   "lang": "ar",
+   "scholarId": "سعد-الخثلان",
+   "videoId": "O3z38iZLK4A",
+   "duration": 672,
+   "hijriDate": null
+  },
+  {
+   "n": 8,
+   "title": "فضائل ليلة القدر",
+   "lang": "ar",
+   "scholarId": "سعد-الخثلان",
+   "videoId": "yYQxNDO6KIU",
+   "duration": 691,
+   "hijriDate": null
+  },
+  {
+   "n": 9,
+   "title": "فضل الدعاء",
+   "lang": "ar",
+   "scholarId": "سعد-الخثلان",
+   "videoId": "paaJEe1RetA",
+   "duration": 625,
+   "hijriDate": null
+  },
+  {
+   "n": 10,
+   "title": "آداب الدعاء",
+   "lang": "ar",
+   "scholarId": "سعد-الخثلان",
+   "videoId": "Tay3KDPQNyk",
+   "duration": 657,
+   "hijriDate": null
+  },
+  {
+   "n": 11,
+   "title": "آداب الدعاء - الجزء 2",
+   "lang": "ar",
+   "scholarId": "سعد-الخثلان",
+   "videoId": "GKBG1yT4IFc",
+   "duration": 668,
+   "hijriDate": null
+  },
+  {
+   "n": 12,
+   "title": "مبتدأ خلق الإنسان (1 من 2)",
+   "lang": "ar",
+   "scholarId": "سعد-الخثلان",
+   "videoId": "_mB60r5QUEI",
+   "duration": 786,
+   "hijriDate": null
+  },
+  {
+   "n": 13,
+   "title": "مبتدأ خلق الإنسان (2 من 2)",
+   "lang": "ar",
+   "scholarId": "سعد-الخثلان",
+   "videoId": "dgLAbIk4AwA",
+   "duration": 672,
+   "hijriDate": null
+  },
+  {
+   "n": 14,
+   "title": "مصير الإنسان وما يلقاه بعد موته",
+   "lang": "ar",
+   "scholarId": "سعد-الخثلان",
+   "videoId": "8TcEdixNIEs",
+   "duration": 650,
+   "hijriDate": null
+  },
+  {
+   "n": 15,
+   "title": "أحكام زكاة الفطر",
+   "lang": "ar",
+   "scholarId": "عبدالله-الغطيمل",
+   "videoId": "6F1o0qr5Slc",
+   "duration": 1183,
+   "hijriDate": null
+  },
+  {
+   "n": 16,
+   "title": "زكاة الفطر",
+   "lang": "ar",
+   "scholarId": "سعد-الخثلان",
+   "videoId": "ll4n-7QPsqM",
+   "duration": 703,
+   "hijriDate": null
+  },
+  {
+   "n": 17,
+   "title": "القصد والاعتدال منهاج النبوة",
+   "lang": "ar",
+   "scholarId": "حسن-بخاري",
+   "videoId": "ImXeJD7W9Uk",
+   "duration": 1013,
+   "hijriDate": null
+  },
+  {
+   "n": 18,
+   "title": "أحكام صلاة العيد",
+   "lang": "ar",
+   "scholarId": "عبدالمحسن-الزامل",
+   "videoId": "inIzjywjR74",
+   "duration": 2070,
+   "hijriDate": null
+  },
+  {
+   "n": 19,
+   "title": "أحكام عيد الفطر",
+   "lang": "ar",
+   "scholarId": "سعد-الخثلان",
+   "videoId": "yqP0nBR6WlE",
+   "duration": 686,
+   "hijriDate": null
+  },
+  {
+   "n": 20,
+   "title": "العيد السعيد مظهر من مظاهر اللّحمة واجتماع الكلمة",
+   "lang": "ar",
+   "scholarId": "طلال-ابوالنور",
+   "videoId": "93VVZedNJJM",
+   "duration": 1904,
+   "hijriDate": null
+  }
+ ]
+}

@@ -1,0 +1,152 @@
+{
+ "id": "PLgaTRTylCbZC8v-Itou2YTRftPacwsWkD",
+ "title": "دورة أحكام الصيام وآدابه",
+ "subject": "fiqh",
+ "kind": "course",
+ "lang": "ar",
+ "scholarId": null,
+ "scholarIds": [
+  "عبدالرحمن-السديس",
+  "شرف-الشريف",
+  "خالد-عروس",
+  "سليمان-التويجري",
+  "يوسف-الوابل",
+  "عبدالرحمن-القرني"
+ ],
+ "year": 1444,
+ "source": "youtube",
+ "channelId": "UC3QAoXf9GN9xeQYhk-AZbTg",
+ "playlistId": "PLgaTRTylCbZC8v-Itou2YTRftPacwsWkD",
+ "url": "https://www.youtube.com/playlist?list=PLgaTRTylCbZC8v-Itou2YTRftPacwsWkD",
+ "thumbnail": "https://i.ytimg.com/vi/k0vikXiWxAw/maxresdefault.jpg",
+ "lessonCount": 14,
+ "duration": 49346,
+ "lessons": [
+  {
+   "n": 1,
+   "title": "آيات الصيام من تفسير السعدي وكتاب الصيام من زاد المعاد",
+   "lang": "ar",
+   "scholarId": "عبدالرحمن-السديس",
+   "videoId": "1CdWfnTaAQA",
+   "duration": 3561,
+   "hijriDate": null
+  },
+  {
+   "n": 2,
+   "title": "أحكام الصيام من الشرح الممتع على زاد المستقنع",
+   "lang": "ar",
+   "scholarId": "شرف-الشريف",
+   "videoId": "h9pqDotyAtU",
+   "duration": 3846,
+   "hijriDate": "1444-08-20"
+  },
+  {
+   "n": 3,
+   "title": "التعليق على كتاب الصيام من لطائف المعارف (1 من 5)",
+   "lang": "ar",
+   "scholarId": "خالد-عروس",
+   "videoId": "d-fFBi3k8Tg",
+   "duration": 3578,
+   "hijriDate": "1444-08-20"
+  },
+  {
+   "n": 4,
+   "title": "أحكام الصيام من الشرح الممتع",
+   "lang": "ar",
+   "scholarId": "شرف-الشريف",
+   "videoId": "XUG65NNzxfk",
+   "duration": 3775,
+   "hijriDate": "1444-08-21"
+  },
+  {
+   "n": 5,
+   "title": "التعليق على كتاب الصيام من لطائف المعارف (2 من 5)",
+   "lang": "ar",
+   "scholarId": "خالد-عروس",
+   "videoId": "WTEVx0a0seA",
+   "duration": 3412,
+   "hijriDate": "1444-08-21"
+  },
+  {
+   "n": 6,
+   "title": "مقاصد الصيام",
+   "lang": "ar",
+   "scholarId": "سليمان-التويجري",
+   "videoId": "Vhq1Fj869vc",
+   "duration": 3205,
+   "hijriDate": "1444-08-22"
+  },
+  {
+   "n": 7,
+   "title": "التعليق على كتاب الصيام من لطائف المعارف (3 من 5)",
+   "lang": "ar",
+   "scholarId": "خالد-عروس",
+   "videoId": "KZSFxZAQ21o",
+   "duration": 3368,
+   "hijriDate": "1444-08-22"
+  },
+  {
+   "n": 8,
+   "title": "فضل العبادة في رمضان",
+   "lang": "ar",
+   "scholarId": "يوسف-الوابل",
+   "videoId": "k0vikXiWxAw",
+   "duration": 4286,
+   "hijriDate": "1444-08-23"
+  },
+  {
+   "n": 9,
+   "title": "التعليق على كتاب الصيام من لطائف المعارف (4 من 5)",
+   "lang": "ar",
+   "scholarId": "خالد-عروس",
+   "videoId": "07o-9GsiPKQ",
+   "duration": 3501,
+   "hijriDate": "1444-08-23"
+  },
+  {
+   "n": 10,
+   "title": "أحكام الصيام من الشرح الممتع",
+   "lang": "ar",
+   "scholarId": "شرف-الشريف",
+   "videoId": "hlngk_XSF1Y",
+   "duration": 3028,
+   "hijriDate": "1444-08-24"
+  },
+  {
+   "n": 11,
+   "title": "التعليق على كتاب الصيام من لطائف المعارف (5 من 5)",
+   "lang": "ar",
+   "scholarId": "خالد-عروس",
+   "videoId": "uDpDCMNn_H0",
+   "duration": 2241,
+   "hijriDate": "1444-08-24"
+  },
+  {
+   "n": 12,
+   "title": "أحكام الصيام من الشرح الممتع",
+   "lang": "ar",
+   "scholarId": "شرف-الشريف",
+   "videoId": "0jL_3s_lMHg",
+   "duration": 3382,
+   "hijriDate": "1444-08-26"
+  },
+  {
+   "n": 13,
+   "title": "أحكام الصيام من الشرح الممتع",
+   "lang": "ar",
+   "scholarId": "شرف-الشريف",
+   "videoId": "DgjBDRZepS4",
+   "duration": 3832,
+   "hijriDate": "1444-08-26"
+  },
+  {
+   "n": 14,
+   "title": "﴿ياأيها الذين آمنوا كتب عليكم الصيام﴾",
+   "lang": "ar",
+   "scholarId": "عبدالرحمن-القرني",
+   "videoId": "eRWTv4u2mZQ",
+   "duration": 4331,
+   "hijriDate": "1444-08-28"
+  }
+ ]
+}

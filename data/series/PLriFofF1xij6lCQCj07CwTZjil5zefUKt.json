@@ -1,0 +1,487 @@
+{
+ "id": "PLriFofF1xij6lCQCj07CwTZjil5zefUKt",
+ "title": "الدورة العلمية (3)",
+ "subject": "fiqh",
+ "kind": "course",
+ "lang": "ar",
+ "scholarId": null,
+ "scholarIds": [
+  "عبدالله-الشنقيطي",
+  "احمد-السديس",
+  "عبداللطيف-الشاماني",
+  "انيس-طاهر",
+  "مسعود-المحمدي",
+  "علي-التويجري",
+  "علي-ابابطين",
+  "عبدالسلام-السحيمي"
+ ],
+ "year": 1447,
+ "source": "youtube",
+ "channelId": "UC0XNCc-DU8J5_ksR-eufPaw",
+ "playlistId": "PLriFofF1xij6lCQCj07CwTZjil5zefUKt",
+ "url": "https://www.youtube.com/playlist?list=PLriFofF1xij6lCQCj07CwTZjil5zefUKt",
+ "thumbnail": "https://i.ytimg.com/vi/F-h_4HPt7to/maxresdefault.jpg",
+ "lessonCount": 51,
+ "duration": 181002,
+ "lessons": [
+  {
+   "n": 1,
+   "title": "أحكام الحج من تفسير أضواء البيان",
+   "lang": "ar",
+   "scholarId": "عبدالله-الشنقيطي",
+   "videoId": "F-h_4HPt7to",
+   "duration": 2769,
+   "hijriDate": null
+  },
+  {
+   "n": 2,
+   "title": "أحكام الحج من تفسير أضواء البيان",
+   "lang": "ar",
+   "scholarId": "عبدالله-الشنقيطي",
+   "videoId": "_NCJ1YHG9hQ",
+   "duration": 2974,
+   "hijriDate": null
+  },
+  {
+   "n": 3,
+   "title": "أحكام الحج من تفسير أضواء البيان",
+   "lang": "ar",
+   "scholarId": "عبدالله-الشنقيطي",
+   "videoId": "GGnuBsikEEA",
+   "duration": 2919,
+   "hijriDate": null
+  },
+  {
+   "n": 4,
+   "title": "تفسير سورة الحج",
+   "lang": "ar",
+   "scholarId": "احمد-السديس",
+   "videoId": "QGEu2lcyxvE",
+   "duration": 3766,
+   "hijriDate": null
+  },
+  {
+   "n": 5,
+   "title": "رسالة الأصول الثلاثة وأدلتها",
+   "lang": "ar",
+   "scholarId": "عبداللطيف-الشاماني",
+   "videoId": "m0rL2f-UYoE",
+   "duration": 3399,
+   "hijriDate": null
+  },
+  {
+   "n": 6,
+   "title": "كتاب مختصر القدوري (الحج)",
+   "lang": "ar",
+   "scholarId": "انيس-طاهر",
+   "videoId": "iUTS429ykRI",
+   "duration": 4486,
+   "hijriDate": null
+  },
+  {
+   "n": 7,
+   "title": "رسالة الأصول الثلاثة وأدلتها",
+   "lang": "ar",
+   "scholarId": "عبداللطيف-الشاماني",
+   "videoId": "DJz7qAe5ZcQ",
+   "duration": 3771,
+   "hijriDate": null
+  },
+  {
+   "n": 8,
+   "title": "رسالة الأصول الثلاثة وأدلتها",
+   "lang": "ar",
+   "scholarId": "عبداللطيف-الشاماني",
+   "videoId": "ZJetRm-zkrA",
+   "duration": 3524,
+   "hijriDate": null
+  },
+  {
+   "n": 9,
+   "title": "كتاب التحقيق والإيضاح",
+   "lang": "ar",
+   "scholarId": "مسعود-المحمدي",
+   "videoId": "TWIhW7u3v2U",
+   "duration": 3803,
+   "hijriDate": null
+  },
+  {
+   "n": 10,
+   "title": "تفسير سورة الحج",
+   "lang": "ar",
+   "scholarId": "احمد-السديس",
+   "videoId": "Le6YJ7meBTo",
+   "duration": 2181,
+   "hijriDate": null
+  },
+  {
+   "n": 11,
+   "title": "كتاب التحقيق والإيضاح",
+   "lang": "ar",
+   "scholarId": "مسعود-المحمدي",
+   "videoId": "z__5GiUrV90",
+   "duration": 3909,
+   "hijriDate": null
+  },
+  {
+   "n": 12,
+   "title": "أحكام الحج من تفسير أضواء البيان",
+   "lang": "ar",
+   "scholarId": "عبدالله-الشنقيطي",
+   "videoId": "ltbaKgyheZQ",
+   "duration": 2657,
+   "hijriDate": null
+  },
+  {
+   "n": 13,
+   "title": "مناسك الحج والعمرة والمشروع",
+   "lang": "ar",
+   "scholarId": "علي-التويجري",
+   "videoId": "VQZ1XdWbCKk",
+   "duration": 4063,
+   "hijriDate": null
+  },
+  {
+   "n": 14,
+   "title": "أحكام الحج من تفسير أضواء البيان",
+   "lang": "ar",
+   "scholarId": "عبدالله-الشنقيطي",
+   "videoId": "wIxZSgqkGSc",
+   "duration": 2551,
+   "hijriDate": null
+  },
+  {
+   "n": 15,
+   "title": "كتاب التحقيق والإيضاح",
+   "lang": "ar",
+   "scholarId": "مسعود-المحمدي",
+   "videoId": "xHuW_fYJk6k",
+   "duration": 3669,
+   "hijriDate": null
+  },
+  {
+   "n": 16,
+   "title": "كتاب مناسك الحج والعمرة والمشروع",
+   "lang": "ar",
+   "scholarId": "علي-التويجري",
+   "videoId": "sUxWl6_BLWg",
+   "duration": 3558,
+   "hijriDate": null
+  },
+  {
+   "n": 17,
+   "title": "كتاب مختصر القدوري (الحج)",
+   "lang": "ar",
+   "scholarId": "انيس-طاهر",
+   "videoId": "_WCGtAC-3ng",
+   "duration": 4401,
+   "hijriDate": null
+  },
+  {
+   "n": 18,
+   "title": "أحكام الحج من تفسير أضواء البيان",
+   "lang": "ar",
+   "scholarId": "عبدالله-الشنقيطي",
+   "videoId": "qSzHd-S05ow",
+   "duration": 2943,
+   "hijriDate": null
+  },
+  {
+   "n": 19,
+   "title": "تفسير سورة الحج",
+   "lang": "ar",
+   "scholarId": "احمد-السديس",
+   "videoId": "mpHpm-WlQVY",
+   "duration": 3254,
+   "hijriDate": null
+  },
+  {
+   "n": 20,
+   "title": "كتاب فتح الباري (الحج)",
+   "lang": "ar",
+   "scholarId": "علي-ابابطين",
+   "videoId": "5eglpC96T3w",
+   "duration": 2995,
+   "hijriDate": null
+  },
+  {
+   "n": 21,
+   "title": "كتاب مناسك الحج والعمرة والمشروع",
+   "lang": "ar",
+   "scholarId": "علي-التويجري",
+   "videoId": "lC6gMVixvac",
+   "duration": 3977,
+   "hijriDate": null
+  },
+  {
+   "n": 22,
+   "title": "كتاب التحقيق والإيضاح",
+   "lang": "ar",
+   "scholarId": "مسعود-المحمدي",
+   "videoId": "DVdSDLa_u9M",
+   "duration": 4030,
+   "hijriDate": null
+  },
+  {
+   "n": 23,
+   "title": "كتاب منسك شيخ الإسلام ابن تيمية",
+   "lang": "ar",
+   "scholarId": "عبدالسلام-السحيمي",
+   "videoId": "rkuX3kEiZrA",
+   "duration": 4906,
+   "hijriDate": null
+  },
+  {
+   "n": 24,
+   "title": "كتاب التحقيق والإيضاح",
+   "lang": "ar",
+   "scholarId": "مسعود-المحمدي",
+   "videoId": "1cdYLj3Sgjg",
+   "duration": 726,
+   "hijriDate": null
+  },
+  {
+   "n": 25,
+   "title": "كتاب مناسك الحج والعمرة والمشروع",
+   "lang": "ar",
+   "scholarId": "علي-التويجري",
+   "videoId": "rOmpoAAufHA",
+   "duration": 3902,
+   "hijriDate": null
+  },
+  {
+   "n": 26,
+   "title": "كتاب منسك شيخ الإسلام ابن تيمية",
+   "lang": "ar",
+   "scholarId": "عبدالسلام-السحيمي",
+   "videoId": "109TGnT9ajM",
+   "duration": 4445,
+   "hijriDate": null
+  },
+  {
+   "n": 27,
+   "title": "كتاب مختصر القدوري (الحج)",
+   "lang": "ar",
+   "scholarId": "انيس-طاهر",
+   "videoId": "3MiqfFIJzCc",
+   "duration": 4491,
+   "hijriDate": null
+  },
+  {
+   "n": 28,
+   "title": "كتاب منسك شيخ الإسلام ابن تيمية",
+   "lang": "ar",
+   "scholarId": "عبدالسلام-السحيمي",
+   "videoId": "YLUmIAOWIpg",
+   "duration": 4894,
+   "hijriDate": null
+  },
+  {
+   "n": 29,
+   "title": "كتاب منسك شيخ الإسلام ابن تيمية",
+   "lang": "ar",
+   "scholarId": "عبدالسلام-السحيمي",
+   "videoId": "O5Sn3RF0vjo",
+   "duration": 4614,
+   "hijriDate": null
+  },
+  {
+   "n": 30,
+   "title": "كتاب منسك شيخ الإسلام ابن تيمية",
+   "lang": "ar",
+   "scholarId": "عبدالسلام-السحيمي",
+   "videoId": "KQdKDbrwCnA",
+   "duration": 4400,
+   "hijriDate": null
+  },
+  {
+   "n": 31,
+   "title": "تفسير سورة الحج",
+   "lang": "ar",
+   "scholarId": "احمد-السديس",
+   "videoId": "bN0wZiv2d_g",
+   "duration": 2185,
+   "hijriDate": null
+  },
+  {
+   "n": 32,
+   "title": "أحكام الحج من تفسير أضواء البيان",
+   "lang": "ar",
+   "scholarId": "عبدالله-الشنقيطي",
+   "videoId": "rzrkc_SknjI",
+   "duration": 2659,
+   "hijriDate": null
+  },
+  {
+   "n": 33,
+   "title": "كتاب مناسك الحج والعمرة والمشروع",
+   "lang": "ar",
+   "scholarId": "علي-التويجري",
+   "videoId": "XM4I0bAtimg",
+   "duration": 3669,
+   "hijriDate": null
+  },
+  {
+   "n": 34,
+   "title": "أحكام الحج من تفسير أضواء البيان",
+   "lang": "ar",
+   "scholarId": "عبدالله-الشنقيطي",
+   "videoId": "m6tIkqKoGM8",
+   "duration": 2336,
+   "hijriDate": null
+  },
+  {
+   "n": 35,
+   "title": "كتاب مناسك الحج والعمرة والمشروع",
+   "lang": "ar",
+   "scholarId": "علي-التويجري",
+   "videoId": "bNDlN-9icSs",
+   "duration": 3546,
+   "hijriDate": null
+  },
+  {
+   "n": 36,
+   "title": "كتاب منسك شيخ الإسلام ابن تيمية",
+   "lang": "ar",
+   "scholarId": "عبدالسلام-السحيمي",
+   "videoId": "kfokhRJMKK4",
+   "duration": 3896,
+   "hijriDate": null
+  },
+  {
+   "n": 37,
+   "title": "كتاب مناسك الحج والعمرة والمشروع",
+   "lang": "ar",
+   "scholarId": "علي-التويجري",
+   "videoId": "yFON7442JXY",
+   "duration": 3702,
+   "hijriDate": null
+  },
+  {
+   "n": 38,
+   "title": "أحكام الحج من تفسير أضواء البيان",
+   "lang": "ar",
+   "scholarId": "عبدالله-الشنقيطي",
+   "videoId": "UqGCDfZuW14",
+   "duration": 2563,
+   "hijriDate": null
+  },
+  {
+   "n": 39,
+   "title": "تفسير سورة الحج",
+   "lang": "ar",
+   "scholarId": "احمد-السديس",
+   "videoId": "xkorGUTOHmc",
+   "duration": 3049,
+   "hijriDate": null
+  },
+  {
+   "n": 40,
+   "title": "كتاب منسك شيخ الإسلام ابن تيمية",
+   "lang": "ar",
+   "scholarId": "عبدالسلام-السحيمي",
+   "videoId": "HB_Ri3UdBlw",
+   "duration": 2940,
+   "hijriDate": null
+  },
+  {
+   "n": 41,
+   "title": "كتاب منسك شيخ الإسلام ابن تيمية",
+   "lang": "ar",
+   "scholarId": "عبدالسلام-السحيمي",
+   "videoId": "LR6OwcxrSUo",
+   "duration": 4145,
+   "hijriDate": null
+  },
+  {
+   "n": 42,
+   "title": "كتاب مختصر القدوري (الحج)",
+   "lang": "ar",
+   "scholarId": "انيس-طاهر",
+   "videoId": "tiGjqlvCLyg",
+   "duration": 4106,
+   "hijriDate": null
+  },
+  {
+   "n": 43,
+   "title": "كتاب مختصر القدوري (الحج)",
+   "lang": "ar",
+   "scholarId": "انيس-طاهر",
+   "videoId": "gMoIUbf8k3M",
+   "duration": 4122,
+   "hijriDate": null
+  },
+  {
+   "n": 44,
+   "title": "كتاب صحيح مسلم (الحج)",
+   "lang": "ar",
+   "scholarId": "علي-ابابطين",
+   "videoId": "Myt2l3x1AMg",
+   "duration": 4308,
+   "hijriDate": null
+  },
+  {
+   "n": 45,
+   "title": "كتاب مناسك الحج والعمرة والمشروع",
+   "lang": "ar",
+   "scholarId": "علي-التويجري",
+   "videoId": "FW3TEcDOwnw",
+   "duration": 3830,
+   "hijriDate": null
+  },
+  {
+   "n": 46,
+   "title": "كتاب مناسك الحج والعمرة والمشروع",
+   "lang": "ar",
+   "scholarId": "علي-التويجري",
+   "videoId": "VfnlrD1o3dQ",
+   "duration": 3921,
+   "hijriDate": null
+  },
+  {
+   "n": 47,
+   "title": "تفسير سورة الحج",
+   "lang": "ar",
+   "scholarId": "احمد-السديس",
+   "videoId": "h-chBzZOeUE",
+   "duration": 3041,
+   "hijriDate": null
+  },
+  {
+   "n": 48,
+   "title": "كتاب مناسك الحج والعمرة والمشروع",
+   "lang": "ar",
+   "scholarId": "علي-التويجري",
+   "videoId": "jqAl5TGdWho",
+   "duration": 3792,
+   "hijriDate": null
+  },
+  {
+   "n": 49,
+   "title": "كتاب مناسك الحج والعمرة والمشروع",
+   "lang": "ar",
+   "scholarId": "علي-التويجري",
+   "videoId": "koBnTqVoCaA",
+   "duration": 3638,
+   "hijriDate": null
+  },
+  {
+   "n": 50,
+   "title": "كتاب مناسك الحج والعمرة والمشروع",
+   "lang": "ar",
+   "scholarId": "علي-التويجري",
+   "videoId": "EIJOv3Cp6t8",
+   "duration": 3743,
+   "hijriDate": null
+  },
+  {
+   "n": 51,
+   "title": "كتاب مناسك الحج والعمرة والمشروع",
+   "lang": "ar",
+   "scholarId": "علي-التويجري",
+   "videoId": "eFmY5Kyn3OA",
+   "duration": 3834,
+   "hijriDate": null
+  }
+ ]
+}

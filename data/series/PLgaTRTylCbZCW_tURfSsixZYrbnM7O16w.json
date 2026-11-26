@@ -1,0 +1,40 @@
+{
+ "id": "PLgaTRTylCbZCW_tURfSsixZYrbnM7O16w",
+ "title": "المحاضرات العلمية الفكرية الرمضانية",
+ "subject": "general",
+ "kind": "course",
+ "lang": "ar",
+ "scholarId": null,
+ "scholarIds": [
+  "جبريل-البصيلي",
+  "سامي-الصقير"
+ ],
+ "year": null,
+ "source": "youtube",
+ "channelId": "UC3QAoXf9GN9xeQYhk-AZbTg",
+ "playlistId": "PLgaTRTylCbZCW_tURfSsixZYrbnM7O16w",
+ "url": "https://www.youtube.com/playlist?list=PLgaTRTylCbZCW_tURfSsixZYrbnM7O16w",
+ "thumbnail": "https://i.ytimg.com/vi/ObNmnsS7sMg/maxresdefault.jpg",
+ "lessonCount": 2,
+ "duration": 1949,
+ "lessons": [
+  {
+   "n": 1,
+   "title": "يريد الله بكم اليسر ولا يريد بكم العسر",
+   "lang": "ar",
+   "scholarId": "جبريل-البصيلي",
+   "videoId": "ObNmnsS7sMg",
+   "duration": 1245,
+   "hijriDate": null
+  },
+  {
+   "n": 2,
+   "title": "رمضان مدرسة القيم وتهذيب السلوك",
+   "lang": "ar",
+   "scholarId": "سامي-الصقير",
+   "videoId": "RIg3a1CNaBA",
+   "duration": 704,
+   "hijriDate": null
+  }
+ ]
+}

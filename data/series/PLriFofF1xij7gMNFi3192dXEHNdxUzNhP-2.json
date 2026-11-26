@@ -1,0 +1,39 @@
+{
+ "id": "PLriFofF1xij7gMNFi3192dXEHNdxUzNhP-2",
+ "title": "مثل الإسلام",
+ "subject": "general",
+ "kind": "series",
+ "lang": "ar",
+ "scholarId": "بدر-البدر",
+ "scholarIds": [
+  "بدر-البدر"
+ ],
+ "year": null,
+ "source": "youtube",
+ "channelId": "UC0XNCc-DU8J5_ksR-eufPaw",
+ "playlistId": "PLriFofF1xij7gMNFi3192dXEHNdxUzNhP",
+ "url": "https://www.youtube.com/playlist?list=PLriFofF1xij7gMNFi3192dXEHNdxUzNhP",
+ "thumbnail": "https://i.ytimg.com/vi/A7urDeuJDwA/maxresdefault.jpg",
+ "lessonCount": 2,
+ "duration": 5343,
+ "lessons": [
+  {
+   "n": 1,
+   "title": "الدرس 1",
+   "lang": "ar",
+   "scholarId": "بدر-البدر",
+   "videoId": "67cu5IFys1M",
+   "duration": 2393,
+   "hijriDate": null
+  },
+  {
+   "n": 2,
+   "title": "الدرس 2",
+   "lang": "ar",
+   "scholarId": "بدر-البدر",
+   "videoId": "dTQz3_Oy1ok",
+   "duration": 2950,
+   "hijriDate": null
+  }
+ ]
+}

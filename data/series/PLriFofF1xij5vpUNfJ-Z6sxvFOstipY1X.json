@@ -1,0 +1,78 @@
+{
+ "id": "PLriFofF1xij5vpUNfJ-Z6sxvFOstipY1X",
+ "title": "كلمات توجيهية",
+ "subject": "general",
+ "kind": "course",
+ "lang": "ar",
+ "scholarId": null,
+ "scholarIds": [
+  "عبدالرحمن-السديس",
+  "عبدالله-البعيجان",
+  "حسين-الشيخ",
+  "صلاح-البدير"
+ ],
+ "year": 1441,
+ "source": "youtube",
+ "channelId": "UC0XNCc-DU8J5_ksR-eufPaw",
+ "playlistId": "PLriFofF1xij5vpUNfJ-Z6sxvFOstipY1X",
+ "url": "https://www.youtube.com/playlist?list=PLriFofF1xij5vpUNfJ-Z6sxvFOstipY1X",
+ "thumbnail": "https://i.ytimg.com/vi/lAaUo6IWFIE/maxresdefault.jpg",
+ "lessonCount": 6,
+ "duration": 3712,
+ "lessons": [
+  {
+   "n": 1,
+   "title": "كلمة توجيهية لزائري ومعتكفي المسجد_النبوي",
+   "lang": "ar",
+   "scholarId": "عبدالرحمن-السديس",
+   "videoId": "lAaUo6IWFIE",
+   "duration": 826,
+   "hijriDate": null
+  },
+  {
+   "n": 2,
+   "title": "جائحة كورونا",
+   "lang": "ar",
+   "scholarId": "عبدالرحمن-السديس",
+   "videoId": "ygfryUP6XwU",
+   "duration": 686,
+   "hijriDate": "1441-08-13"
+  },
+  {
+   "n": 3,
+   "title": "التقيد بالإجراءات والاحترازات الوقائية",
+   "lang": "ar",
+   "scholarId": "عبدالرحمن-السديس",
+   "videoId": "IuAmyulGCto",
+   "duration": 925,
+   "hijriDate": null
+  },
+  {
+   "n": 4,
+   "title": "الماء نعمة من الله تستوجب الحمد والشكر",
+   "lang": "ar",
+   "scholarId": "عبدالله-البعيجان",
+   "videoId": "ufGNve3LQuo",
+   "duration": 252,
+   "hijriDate": null
+  },
+  {
+   "n": 5,
+   "title": "الإجراءات الاحترازية",
+   "lang": "ar",
+   "scholarId": "حسين-الشيخ",
+   "videoId": "s_lcjUhmJCg",
+   "duration": 441,
+   "hijriDate": null
+  },
+  {
+   "n": 6,
+   "title": "كلمة توجيهية عن دخول العشر الأواخر من رمضان",
+   "lang": "ar",
+   "scholarId": "صلاح-البدير",
+   "videoId": "BtsdO6gUYKI",
+   "duration": 582,
+   "hijriDate": null
+  }
+ ]
+}

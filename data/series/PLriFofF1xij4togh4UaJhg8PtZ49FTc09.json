@@ -1,0 +1,66 @@
+{
+ "id": "PLriFofF1xij4togh4UaJhg8PtZ49FTc09",
+ "title": "رسالة الوسائل المفيدة للحياة السعيدة",
+ "subject": "general",
+ "kind": "series",
+ "lang": "ar",
+ "scholarId": "احمد-السديس",
+ "scholarIds": [
+  "احمد-السديس"
+ ],
+ "year": null,
+ "source": "youtube",
+ "channelId": "UC0XNCc-DU8J5_ksR-eufPaw",
+ "playlistId": "PLriFofF1xij4togh4UaJhg8PtZ49FTc09",
+ "url": "https://www.youtube.com/playlist?list=PLriFofF1xij4togh4UaJhg8PtZ49FTc09",
+ "thumbnail": "https://i.ytimg.com/vi/Kf-zbU-XiLY/maxresdefault.jpg",
+ "lessonCount": 5,
+ "duration": 16981,
+ "lessons": [
+  {
+   "n": 1,
+   "title": "الدرس 1",
+   "lang": "ar",
+   "scholarId": "احمد-السديس",
+   "videoId": "Kf-zbU-XiLY",
+   "duration": 3383,
+   "hijriDate": null
+  },
+  {
+   "n": 2,
+   "title": "الدرس 2",
+   "lang": "ar",
+   "scholarId": "احمد-السديس",
+   "videoId": "jaRKSrCiGks",
+   "duration": 3288,
+   "hijriDate": null
+  },
+  {
+   "n": 3,
+   "title": "الدرس 3",
+   "lang": "ar",
+   "scholarId": "احمد-السديس",
+   "videoId": "gzruCsuiSuQ",
+   "duration": 3380,
+   "hijriDate": null
+  },
+  {
+   "n": 4,
+   "title": "الدرس 4",
+   "lang": "ar",
+   "scholarId": "احمد-السديس",
+   "videoId": "RPfNu_fwWjM",
+   "duration": 3334,
+   "hijriDate": null
+  },
+  {
+   "n": 5,
+   "title": "الدرس 5",
+   "lang": "ar",
+   "scholarId": "احمد-السديس",
+   "videoId": "kRhK45Xr-c0",
+   "duration": 3596,
+   "hijriDate": null
+  }
+ ]
+}

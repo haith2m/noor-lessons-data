@@ -1,0 +1,75 @@
+{
+ "id": "PLgaTRTylCbZD0CszdUTgIMKANSst3ut2f",
+ "title": "الأحاديث المختارة في الأصول والأحكام والآداب وغيرها",
+ "subject": "hadith",
+ "kind": "series",
+ "lang": "ar",
+ "scholarId": "عبدالمحسن-الزامل",
+ "scholarIds": [
+  "عبدالمحسن-الزامل"
+ ],
+ "year": 1444,
+ "source": "youtube",
+ "channelId": "UC3QAoXf9GN9xeQYhk-AZbTg",
+ "playlistId": "PLgaTRTylCbZD0CszdUTgIMKANSst3ut2f",
+ "url": "https://www.youtube.com/playlist?list=PLgaTRTylCbZD0CszdUTgIMKANSst3ut2f",
+ "thumbnail": "https://i.ytimg.com/vi/Ky_RZcD-J88/maxresdefault.jpg",
+ "lessonCount": 6,
+ "duration": 25313,
+ "lessons": [
+  {
+   "n": 1,
+   "title": "الدرس 1",
+   "lang": "ar",
+   "scholarId": "عبدالمحسن-الزامل",
+   "videoId": "Ky_RZcD-J88",
+   "duration": 2435,
+   "hijriDate": "1444-03-27"
+  },
+  {
+   "n": 2,
+   "title": "الدرس 2",
+   "lang": "ar",
+   "scholarId": "عبدالمحسن-الزامل",
+   "videoId": "b9ni0mudOz4",
+   "duration": 2042,
+   "hijriDate": "1444-03-28"
+  },
+  {
+   "n": 3,
+   "title": "الدرس 3",
+   "lang": "ar",
+   "scholarId": "عبدالمحسن-الزامل",
+   "videoId": "eJJGhSyy7Yw",
+   "duration": 5211,
+   "hijriDate": "1444-03-29"
+  },
+  {
+   "n": 4,
+   "title": "الدرس 4",
+   "lang": "ar",
+   "scholarId": "عبدالمحسن-الزامل",
+   "videoId": "Gdt4Boq-HQI",
+   "duration": 4062,
+   "hijriDate": "1444-04-01"
+  },
+  {
+   "n": 5,
+   "title": "الدرس 5",
+   "lang": "ar",
+   "scholarId": "عبدالمحسن-الزامل",
+   "videoId": "gQyNRj-IlXc",
+   "duration": 5485,
+   "hijriDate": "1444-05-03"
+  },
+  {
+   "n": 6,
+   "title": "الدرس 6",
+   "lang": "ar",
+   "scholarId": "عبدالمحسن-الزامل",
+   "videoId": "ixbIdT7sU5I",
+   "duration": 6078,
+   "hijriDate": "1444-05-04"
+  }
+ ]
+}

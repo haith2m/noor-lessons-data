@@ -1,0 +1,75 @@
+{
+ "id": "PLgaTRTylCbZCi2KU8IPD3jy4lpF96fs9r",
+ "title": "شرح قاعدة في الاستحسان لابن تيمية",
+ "subject": "usul",
+ "kind": "series",
+ "lang": "ar",
+ "scholarId": "خالد-عروس",
+ "scholarIds": [
+  "خالد-عروس"
+ ],
+ "year": 1441,
+ "source": "youtube",
+ "channelId": "UC3QAoXf9GN9xeQYhk-AZbTg",
+ "playlistId": "PLgaTRTylCbZCi2KU8IPD3jy4lpF96fs9r",
+ "url": "https://www.youtube.com/playlist?list=PLgaTRTylCbZCi2KU8IPD3jy4lpF96fs9r",
+ "thumbnail": "https://i.ytimg.com/vi/ALX_MJTtqBo/maxresdefault.jpg",
+ "lessonCount": 6,
+ "duration": 22920,
+ "lessons": [
+  {
+   "n": 1,
+   "title": "الدرس 1",
+   "lang": "ar",
+   "scholarId": "خالد-عروس",
+   "videoId": "ALX_MJTtqBo",
+   "duration": 3749,
+   "hijriDate": "1441-05-16"
+  },
+  {
+   "n": 2,
+   "title": "الدرس 2",
+   "lang": "ar",
+   "scholarId": "خالد-عروس",
+   "videoId": "uTLPq_sR0t4",
+   "duration": 3462,
+   "hijriDate": "1441-05-17"
+  },
+  {
+   "n": 3,
+   "title": "الدرس 3",
+   "lang": "ar",
+   "scholarId": "خالد-عروس",
+   "videoId": "dFtT1zuxkPI",
+   "duration": 4183,
+   "hijriDate": "1441-05-18"
+  },
+  {
+   "n": 4,
+   "title": "الدرس 4",
+   "lang": "ar",
+   "scholarId": "خالد-عروس",
+   "videoId": "yZeM0c2rG4A",
+   "duration": 4209,
+   "hijriDate": "1441-05-19"
+  },
+  {
+   "n": 5,
+   "title": "الدرس 5",
+   "lang": "ar",
+   "scholarId": "خالد-عروس",
+   "videoId": "xVQQmE_YVs4",
+   "duration": 4287,
+   "hijriDate": "1441-05-20"
+  },
+  {
+   "n": 6,
+   "title": "الدرس 6",
+   "lang": "ar",
+   "scholarId": "خالد-عروس",
+   "videoId": "Gj-REBCv8PY",
+   "duration": 3030,
+   "hijriDate": "1441-05-21"
+  }
+ ]
+}

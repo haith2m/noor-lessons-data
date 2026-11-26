@@ -1,0 +1,57 @@
+{
+ "id": "PLgaTRTylCbZDvEHKTdV40FgRrX3zVJ0NE",
+ "title": "حجّة المصطفى صلى الله عليه وسلم",
+ "subject": "seerah",
+ "kind": "series",
+ "lang": "ar",
+ "scholarId": "اسامه-خياط",
+ "scholarIds": [
+  "اسامه-خياط"
+ ],
+ "year": 1439,
+ "source": "youtube",
+ "channelId": "UC3QAoXf9GN9xeQYhk-AZbTg",
+ "playlistId": "PLgaTRTylCbZDvEHKTdV40FgRrX3zVJ0NE",
+ "url": "https://www.youtube.com/playlist?list=PLgaTRTylCbZDvEHKTdV40FgRrX3zVJ0NE",
+ "thumbnail": "https://i.ytimg.com/vi/7_FlBvs6OC4/maxresdefault.jpg",
+ "lessonCount": 4,
+ "duration": 13685,
+ "lessons": [
+  {
+   "n": 1,
+   "title": "الدرس 1",
+   "lang": "ar",
+   "scholarId": "اسامه-خياط",
+   "videoId": "7_FlBvs6OC4",
+   "duration": 3143,
+   "hijriDate": "1439-11-05"
+  },
+  {
+   "n": 2,
+   "title": "الدرس 2",
+   "lang": "ar",
+   "scholarId": "اسامه-خياط",
+   "videoId": "NfjX9uz-qL4",
+   "duration": 3199,
+   "hijriDate": "1439-11-12"
+  },
+  {
+   "n": 3,
+   "title": "الدرس 3",
+   "lang": "ar",
+   "scholarId": "اسامه-خياط",
+   "videoId": "WgwwliWTRnU",
+   "duration": 3848,
+   "hijriDate": "1439-11-19"
+  },
+  {
+   "n": 4,
+   "title": "الدرس 4",
+   "lang": "ar",
+   "scholarId": "اسامه-خياط",
+   "videoId": "3eTnIFEKIQY",
+   "duration": 3495,
+   "hijriDate": "1439-11-26"
+  }
+ ]
+}

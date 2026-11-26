@@ -1,0 +1,39 @@
+{
+ "id": "PLriFofF1xij7a9Dl2VddXRV7hROlCW3m8",
+ "title": "رسالة عشر صفات للحج المبرور",
+ "subject": "general",
+ "kind": "series",
+ "lang": "ar",
+ "scholarId": "عبدالرزاق-البدر",
+ "scholarIds": [
+  "عبدالرزاق-البدر"
+ ],
+ "year": null,
+ "source": "youtube",
+ "channelId": "UC0XNCc-DU8J5_ksR-eufPaw",
+ "playlistId": "PLriFofF1xij7a9Dl2VddXRV7hROlCW3m8",
+ "url": "https://www.youtube.com/playlist?list=PLriFofF1xij7a9Dl2VddXRV7hROlCW3m8",
+ "thumbnail": "https://i.ytimg.com/vi/WMfoCKo9LRU/maxresdefault.jpg",
+ "lessonCount": 2,
+ "duration": 6287,
+ "lessons": [
+  {
+   "n": 1,
+   "title": "الدرس 1",
+   "lang": "ar",
+   "scholarId": "عبدالرزاق-البدر",
+   "videoId": "WMfoCKo9LRU",
+   "duration": 3453,
+   "hijriDate": null
+  },
+  {
+   "n": 2,
+   "title": "الدرس 2",
+   "lang": "ar",
+   "scholarId": "عبدالرزاق-البدر",
+   "videoId": "W40TlMdK_YU",
+   "duration": 2834,
+   "hijriDate": null
+  }
+ ]
+}

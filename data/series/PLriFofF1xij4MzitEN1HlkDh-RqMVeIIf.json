@@ -1,0 +1,93 @@
+{
+ "id": "PLriFofF1xij4MzitEN1HlkDh-RqMVeIIf",
+ "title": "العقيدة الواسطية",
+ "subject": "aqeedah",
+ "kind": "series",
+ "lang": "ar",
+ "scholarId": "بدر-البدر",
+ "scholarIds": [
+  "بدر-البدر"
+ ],
+ "year": null,
+ "source": "youtube",
+ "channelId": "UC0XNCc-DU8J5_ksR-eufPaw",
+ "playlistId": "PLriFofF1xij4MzitEN1HlkDh-RqMVeIIf",
+ "url": "https://www.youtube.com/playlist?list=PLriFofF1xij4MzitEN1HlkDh-RqMVeIIf",
+ "thumbnail": "https://i.ytimg.com/vi/_iUxmASpg9w/maxresdefault.jpg",
+ "lessonCount": 8,
+ "duration": 27360,
+ "lessons": [
+  {
+   "n": 1,
+   "title": "الدرس 1",
+   "lang": "ar",
+   "scholarId": "بدر-البدر",
+   "videoId": "_iUxmASpg9w",
+   "duration": 3618,
+   "hijriDate": null
+  },
+  {
+   "n": 2,
+   "title": "الدرس 2",
+   "lang": "ar",
+   "scholarId": "بدر-البدر",
+   "videoId": "4y__PxrBCWU",
+   "duration": 3668,
+   "hijriDate": null
+  },
+  {
+   "n": 3,
+   "title": "الدرس 3",
+   "lang": "ar",
+   "scholarId": "بدر-البدر",
+   "videoId": "_RUWAw8dhn0",
+   "duration": 4097,
+   "hijriDate": null
+  },
+  {
+   "n": 4,
+   "title": "الدرس 4",
+   "lang": "ar",
+   "scholarId": "بدر-البدر",
+   "videoId": "pAahbSZNx_A",
+   "duration": 3529,
+   "hijriDate": null
+  },
+  {
+   "n": 5,
+   "title": "الدرس 5",
+   "lang": "ar",
+   "scholarId": "بدر-البدر",
+   "videoId": "Rml1dWWdDrU",
+   "duration": 3144,
+   "hijriDate": null
+  },
+  {
+   "n": 6,
+   "title": "الدرس 6",
+   "lang": "ar",
+   "scholarId": "بدر-البدر",
+   "videoId": "wls4tM21VGM",
+   "duration": 3617,
+   "hijriDate": null
+  },
+  {
+   "n": 7,
+   "title": "الدرس 7",
+   "lang": "ar",
+   "scholarId": "بدر-البدر",
+   "videoId": "UaXh-whfaAY",
+   "duration": 2576,
+   "hijriDate": null
+  },
+  {
+   "n": 8,
+   "title": "الدرس 8",
+   "lang": "ar",
+   "scholarId": "بدر-البدر",
+   "videoId": "uzuwEDSD-CI",
+   "duration": 3111,
+   "hijriDate": null
+  }
+ ]
+}

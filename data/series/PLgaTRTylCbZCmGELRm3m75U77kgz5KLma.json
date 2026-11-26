@@ -1,0 +1,109 @@
+{
+ "id": "PLgaTRTylCbZCmGELRm3m75U77kgz5KLma",
+ "title": "دورة (بُلغة النّاسك إلى فقه العقيدة والمناسك)",
+ "subject": "fiqh",
+ "kind": "course",
+ "lang": "ar",
+ "scholarId": null,
+ "scholarIds": [
+  "فهد-الماجد",
+  "صالح-الفوزان",
+  "عبدالسلام-السليمان",
+  "عبدالرحمن-السديس",
+  "صالح-حميد",
+  "عبدالله-المنيع",
+  "عبدالله-التركي",
+  "غالب-الحامظي"
+ ],
+ "year": 1444,
+ "source": "youtube",
+ "channelId": "UC3QAoXf9GN9xeQYhk-AZbTg",
+ "playlistId": "PLgaTRTylCbZCmGELRm3m75U77kgz5KLma",
+ "url": "https://www.youtube.com/playlist?list=PLgaTRTylCbZCmGELRm3m75U77kgz5KLma",
+ "thumbnail": "https://i.ytimg.com/vi/rpk9eq5hGrs/maxresdefault.jpg",
+ "lessonCount": 9,
+ "duration": 26246,
+ "lessons": [
+  {
+   "n": 1,
+   "title": "كلمة توجيهية للمفتي العام",
+   "lang": "ar",
+   "scholarId": "فهد-الماجد",
+   "videoId": "MMvquJF2H4o",
+   "duration": 1813,
+   "hijriDate": "1444-11-22"
+  },
+  {
+   "n": 2,
+   "title": "وصايا لحجّاج بيت الله",
+   "lang": "ar",
+   "scholarId": "صالح-الفوزان",
+   "videoId": "dcfYZysqT3c",
+   "duration": 1965,
+   "hijriDate": "1444-11-23"
+  },
+  {
+   "n": 3,
+   "title": "صفة الحج",
+   "lang": "ar",
+   "scholarId": "عبدالسلام-السليمان",
+   "videoId": "eU5fUg-lAz8",
+   "duration": 5149,
+   "hijriDate": "1444-11-23"
+  },
+  {
+   "n": 4,
+   "title": "الحج من تفسير السعدي وعمدة الأحكام وزاد المعاد",
+   "lang": "ar",
+   "scholarId": "عبدالرحمن-السديس",
+   "videoId": "eyE2X-5kUns",
+   "duration": 3961,
+   "hijriDate": "1444-11-24"
+  },
+  {
+   "n": 5,
+   "title": "الحج موصل إلى مقامات التقوى",
+   "lang": "ar",
+   "scholarId": "صالح-حميد",
+   "videoId": "m0BZashvXOg",
+   "duration": 3537,
+   "hijriDate": "1444-11-25"
+  },
+  {
+   "n": 6,
+   "title": "آيات الحج",
+   "lang": "ar",
+   "scholarId": "فهد-الماجد",
+   "videoId": "JNhR4xy1has",
+   "duration": 2353,
+   "hijriDate": "1444-11-25"
+  },
+  {
+   "n": 7,
+   "title": "وصايا عامة لحجاج بيت الله الحرام",
+   "lang": "ar",
+   "scholarId": "عبدالله-المنيع",
+   "videoId": "kg7NMorR3pU",
+   "duration": 1486,
+   "hijriDate": "1444-11-26"
+  },
+  {
+   "n": 8,
+   "title": "ضرورة اعتناء الحاج بالعقيدة",
+   "lang": "ar",
+   "scholarId": "عبدالله-التركي",
+   "videoId": "8ONt5p7yF7E",
+   "duration": 2158,
+   "hijriDate": "1444-11-27"
+  },
+  {
+   "n": 9,
+   "title": "صفة حج النبي ﷺ",
+   "lang": "ar",
+   "scholarId": "غالب-الحامظي",
+   "videoId": "rpk9eq5hGrs",
+   "duration": 3824,
+   "hijriDate": "1444-11-29"
+  }
+ ]
+}

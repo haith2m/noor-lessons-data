@@ -1,0 +1,87 @@
+{
+ "id": "PLriFofF1xij5X3GhCtgrUiKN2CGJNJfES",
+ "title": "البرامج العلمية من المسجد النبوي",
+ "subject": "fiqh",
+ "kind": "course",
+ "lang": "ar",
+ "scholarId": null,
+ "scholarIds": [
+  "بدر-البدر",
+  "طلال-ابوالنور",
+  "عبدالله-الشنقيطي",
+  "عبداللطيف-الشاماني"
+ ],
+ "year": 1443,
+ "source": "youtube",
+ "channelId": "UC0XNCc-DU8J5_ksR-eufPaw",
+ "playlistId": "PLriFofF1xij5X3GhCtgrUiKN2CGJNJfES",
+ "url": "https://www.youtube.com/playlist?list=PLriFofF1xij5X3GhCtgrUiKN2CGJNJfES",
+ "thumbnail": "https://i.ytimg.com/vi/NRvI0PlTyls/maxresdefault.jpg",
+ "lessonCount": 7,
+ "duration": 26767,
+ "lessons": [
+  {
+   "n": 1,
+   "title": "الوصايا العشر- الوصية (1 من 2)",
+   "lang": "ar",
+   "scholarId": "بدر-البدر",
+   "videoId": "NRvI0PlTyls",
+   "duration": 4117,
+   "hijriDate": null
+  },
+  {
+   "n": 2,
+   "title": "الوصايا العشر - الوصية (7 من 10)",
+   "lang": "ar",
+   "scholarId": "طلال-ابوالنور",
+   "videoId": "tZPilM9-scQ",
+   "duration": 4151,
+   "hijriDate": null
+  },
+  {
+   "n": 3,
+   "title": "الوصايا العشر - الوصية (3 من 6)",
+   "lang": "ar",
+   "scholarId": "عبدالله-الشنقيطي",
+   "videoId": "Zj4bUDeCE8M",
+   "duration": 3075,
+   "hijriDate": null
+  },
+  {
+   "n": 4,
+   "title": "رسالة الوسائل المفيدة للحياة السعيدة",
+   "lang": "ar",
+   "scholarId": "عبداللطيف-الشاماني",
+   "videoId": "GPO5sCjRe44",
+   "duration": 3644,
+   "hijriDate": null
+  },
+  {
+   "n": 5,
+   "title": "رسالة الوسائل المفيدة للحياة السعيدة",
+   "lang": "ar",
+   "scholarId": "عبداللطيف-الشاماني",
+   "videoId": "qP9NGg4YFhk",
+   "duration": 3264,
+   "hijriDate": null
+  },
+  {
+   "n": 6,
+   "title": "رسالة الوسائل المفيدة للحياة السعيدة",
+   "lang": "ar",
+   "scholarId": "بدر-البدر",
+   "videoId": "avvNeYL0UaI",
+   "duration": 4348,
+   "hijriDate": null
+  },
+  {
+   "n": 7,
+   "title": "رسالة الوسائل المفيدة للحياة السعيدة",
+   "lang": "ar",
+   "scholarId": "بدر-البدر",
+   "videoId": "V1OGAQU-GGM",
+   "duration": 4168,
+   "hijriDate": null
+  }
+ ]
+}

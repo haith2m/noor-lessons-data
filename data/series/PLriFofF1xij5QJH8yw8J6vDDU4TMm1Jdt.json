@@ -1,0 +1,142 @@
+{
+ "id": "PLriFofF1xij5QJH8yw8J6vDDU4TMm1Jdt",
+ "title": "الدورة العلمية (4)",
+ "subject": "fiqh",
+ "kind": "course",
+ "lang": "ar",
+ "scholarId": null,
+ "scholarIds": [
+  "مسعود-المحمدي",
+  "سلمان-الدخيل",
+  "انيس-طاهر",
+  "بدر-البدر",
+  "عبداللطيف-الشاماني"
+ ],
+ "year": 1445,
+ "source": "youtube",
+ "channelId": "UC0XNCc-DU8J5_ksR-eufPaw",
+ "playlistId": "PLriFofF1xij5QJH8yw8J6vDDU4TMm1Jdt",
+ "url": "https://www.youtube.com/playlist?list=PLriFofF1xij5QJH8yw8J6vDDU4TMm1Jdt",
+ "thumbnail": "https://i.ytimg.com/vi/jAadIe1wQj4/maxresdefault.jpg",
+ "lessonCount": 13,
+ "duration": 57860,
+ "lessons": [
+  {
+   "n": 1,
+   "title": "تتمة كتاب الأربعين النووية",
+   "lang": "ar",
+   "scholarId": "مسعود-المحمدي",
+   "videoId": "jAadIe1wQj4",
+   "duration": 3891,
+   "hijriDate": null
+  },
+  {
+   "n": 2,
+   "title": "تتمة كتاب الأربعين النووية",
+   "lang": "ar",
+   "scholarId": "مسعود-المحمدي",
+   "videoId": "e3SJcQeCrCA",
+   "duration": 3781,
+   "hijriDate": null
+  },
+  {
+   "n": 3,
+   "title": "كتاب أخصر المختصرات (الصلاة)",
+   "lang": "ar",
+   "scholarId": "سلمان-الدخيل",
+   "videoId": "SYtS9ePDO5g",
+   "duration": 6181,
+   "hijriDate": null
+  },
+  {
+   "n": 4,
+   "title": "تتمة كتاب الأربعين النووية",
+   "lang": "ar",
+   "scholarId": "مسعود-المحمدي",
+   "videoId": "ruykgWAgq_o",
+   "duration": 3900,
+   "hijriDate": null
+  },
+  {
+   "n": 5,
+   "title": "كتاب المختصر في أصول الحديث",
+   "lang": "ar",
+   "scholarId": "انيس-طاهر",
+   "videoId": "zcuuvFVmrpM",
+   "duration": 3885,
+   "hijriDate": null
+  },
+  {
+   "n": 6,
+   "title": "كتاب المختصر في أصول الحديث",
+   "lang": "ar",
+   "scholarId": "انيس-طاهر",
+   "videoId": "5TMrd65hENc",
+   "duration": 4205,
+   "hijriDate": null
+  },
+  {
+   "n": 7,
+   "title": "كتاب أخصر المختصرات (الصلاة)",
+   "lang": "ar",
+   "scholarId": "سلمان-الدخيل",
+   "videoId": "q8OhJpluBGM",
+   "duration": 6226,
+   "hijriDate": null
+  },
+  {
+   "n": 8,
+   "title": "كتاب أخصر المختصرات (الصلاة)",
+   "lang": "ar",
+   "scholarId": "سلمان-الدخيل",
+   "videoId": "Wk60bBCh8qs",
+   "duration": 6101,
+   "hijriDate": null
+  },
+  {
+   "n": 9,
+   "title": "تتمة كتاب الأربعين النووية",
+   "lang": "ar",
+   "scholarId": "مسعود-المحمدي",
+   "videoId": "SYstYu3LtlE",
+   "duration": 3637,
+   "hijriDate": null
+  },
+  {
+   "n": 10,
+   "title": "فقهاء المدينة السبعة وسيرهم العطرة",
+   "lang": "ar",
+   "scholarId": "بدر-البدر",
+   "videoId": "5retblBQRTQ",
+   "duration": 4156,
+   "hijriDate": null
+  },
+  {
+   "n": 11,
+   "title": "فقهاء المدينة السبعة وسيرهم العطرة",
+   "lang": "ar",
+   "scholarId": "بدر-البدر",
+   "videoId": "wNp4Stkdsso",
+   "duration": 3986,
+   "hijriDate": null
+  },
+  {
+   "n": 12,
+   "title": "كتاب الدروس المهمة لعامة...(الأخلاق...)",
+   "lang": "ar",
+   "scholarId": "عبداللطيف-الشاماني",
+   "videoId": "lGJ78Z_0HA0",
+   "duration": 3156,
+   "hijriDate": null
+  },
+  {
+   "n": 13,
+   "title": "كتاب الدروس المهمة لعامة...(الأخلاق...)",
+   "lang": "ar",
+   "scholarId": "عبداللطيف-الشاماني",
+   "videoId": "3MPAaycsKhQ",
+   "duration": 4755,
+   "hijriDate": null
+  }
+ ]
+}

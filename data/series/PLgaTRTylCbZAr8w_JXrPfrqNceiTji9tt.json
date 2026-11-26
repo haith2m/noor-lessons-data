@@ -1,0 +1,66 @@
+{
+ "id": "PLgaTRTylCbZAr8w_JXrPfrqNceiTji9tt",
+ "title": "أصول السنة للحميدي",
+ "subject": "aqeedah",
+ "kind": "series",
+ "lang": "ar",
+ "scholarId": "عبدالمحسن-الزامل",
+ "scholarIds": [
+  "عبدالمحسن-الزامل"
+ ],
+ "year": 1443,
+ "source": "youtube",
+ "channelId": "UC3QAoXf9GN9xeQYhk-AZbTg",
+ "playlistId": "PLgaTRTylCbZAr8w_JXrPfrqNceiTji9tt",
+ "url": "https://www.youtube.com/playlist?list=PLgaTRTylCbZAr8w_JXrPfrqNceiTji9tt",
+ "thumbnail": "https://i.ytimg.com/vi/TG_iKPKnJZI/maxresdefault.jpg",
+ "lessonCount": 5,
+ "duration": 12786,
+ "lessons": [
+  {
+   "n": 1,
+   "title": "الدرس 1",
+   "lang": "ar",
+   "scholarId": "عبدالمحسن-الزامل",
+   "videoId": "TG_iKPKnJZI",
+   "duration": 2465,
+   "hijriDate": "1443-12-02"
+  },
+  {
+   "n": 2,
+   "title": "الدرس 2",
+   "lang": "ar",
+   "scholarId": "عبدالمحسن-الزامل",
+   "videoId": "2VXtNlmoh8c",
+   "duration": 2593,
+   "hijriDate": "1443-12-03"
+  },
+  {
+   "n": 3,
+   "title": "الدرس 3",
+   "lang": "ar",
+   "scholarId": "عبدالمحسن-الزامل",
+   "videoId": "287phqoQWD0",
+   "duration": 2406,
+   "hijriDate": "1443-12-04"
+  },
+  {
+   "n": 4,
+   "title": "الدرس 4",
+   "lang": "ar",
+   "scholarId": "عبدالمحسن-الزامل",
+   "videoId": "4efb-GjMNQA",
+   "duration": 2142,
+   "hijriDate": "1443-12-05"
+  },
+  {
+   "n": 5,
+   "title": "الدرس 5",
+   "lang": "ar",
+   "scholarId": "عبدالمحسن-الزامل",
+   "videoId": "gUhsXmjKBhw",
+   "duration": 3180,
+   "hijriDate": "1443-12-06"
+  }
+ ]
+}

@@ -1,0 +1,48 @@
+{
+ "id": "PLVZ3HkfVamD8",
+ "title": "مهمات الدين (شرح حديث جبريل عليه السلام)",
+ "subject": "aqeedah",
+ "kind": "series",
+ "lang": "ar",
+ "scholarId": "عبدالله-الشنقيطي",
+ "scholarIds": [
+  "عبدالله-الشنقيطي"
+ ],
+ "year": 1448,
+ "source": "youtube",
+ "channelId": "UC3QAoXf9GN9xeQYhk-AZbTg",
+ "playlistId": "PLVZ3HkfVamD8",
+ "url": "https://www.youtube.com/playlist?list=PLVZ3HkfVamD8",
+ "thumbnail": "https://i.ytimg.com/vi/maN_Mj0gc4g/maxresdefault.jpg",
+ "lessonCount": 3,
+ "duration": 8953,
+ "lessons": [
+  {
+   "n": 1,
+   "title": "الدرس 1",
+   "lang": "ar",
+   "scholarId": "عبدالله-الشنقيطي",
+   "videoId": "lc5e9s2kImA",
+   "duration": 2980,
+   "hijriDate": "1448-02-11"
+  },
+  {
+   "n": 2,
+   "title": "الدرس 2",
+   "lang": "ar",
+   "scholarId": "عبدالله-الشنقيطي",
+   "videoId": "HHYnfpk-7uA",
+   "duration": 3089,
+   "hijriDate": "1448-02-12"
+  },
+  {
+   "n": 3,
+   "title": "الدرس 3",
+   "lang": "ar",
+   "scholarId": "عبدالله-الشنقيطي",
+   "videoId": "maN_Mj0gc4g",
+   "duration": 2884,
+   "hijriDate": "1448-02-13"
+  }
+ ]
+}

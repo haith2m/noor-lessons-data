@@ -1,0 +1,57 @@
+{
+ "id": "PLgaTRTylCbZD-9jVVMENwXT7HTfXWaXO6",
+ "title": "شرح نزهة النظر في توضيح نخبة الفِكَر",
+ "subject": "hadith",
+ "kind": "series",
+ "lang": "ar",
+ "scholarId": "وصي-عباس",
+ "scholarIds": [
+  "وصي-عباس"
+ ],
+ "year": null,
+ "source": "youtube",
+ "channelId": "UC3QAoXf9GN9xeQYhk-AZbTg",
+ "playlistId": "PLgaTRTylCbZD-9jVVMENwXT7HTfXWaXO6",
+ "url": "https://www.youtube.com/playlist?list=PLgaTRTylCbZD-9jVVMENwXT7HTfXWaXO6",
+ "thumbnail": "https://i.ytimg.com/vi/Nwdde4O61qs/maxresdefault.jpg",
+ "lessonCount": 4,
+ "duration": 23560,
+ "lessons": [
+  {
+   "n": 1,
+   "title": "الدرس 1",
+   "lang": "ar",
+   "scholarId": "وصي-عباس",
+   "videoId": "Nwdde4O61qs",
+   "duration": 5561,
+   "hijriDate": null
+  },
+  {
+   "n": 2,
+   "title": "الدرس 2",
+   "lang": "ar",
+   "scholarId": "وصي-عباس",
+   "videoId": "sVCWdoloKDY",
+   "duration": 6235,
+   "hijriDate": null
+  },
+  {
+   "n": 3,
+   "title": "الدرس 3",
+   "lang": "ar",
+   "scholarId": "وصي-عباس",
+   "videoId": "nVphrMWj69w",
+   "duration": 5036,
+   "hijriDate": null
+  },
+  {
+   "n": 4,
+   "title": "الدرس 4",
+   "lang": "ar",
+   "scholarId": "وصي-عباس",
+   "videoId": "0_t3WIH8JfM",
+   "duration": 6728,
+   "hijriDate": null
+  }
+ ]
+}

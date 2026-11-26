@@ -1,0 +1,186 @@
+{
+ "id": "PLgaTRTylCbZBR7uYmZs_Vma1V7nrmFZH5",
+ "title": "الدورة العلمية العامة الثانية",
+ "subject": "fiqh",
+ "kind": "course",
+ "lang": "ar",
+ "scholarId": null,
+ "scholarIds": [
+  "صالح-حميد",
+  "سامي-الصقير",
+  "عبدالسلام-السليمان",
+  "عبدالمحسن-الزامل"
+ ],
+ "year": 1443,
+ "source": "youtube",
+ "channelId": "UC3QAoXf9GN9xeQYhk-AZbTg",
+ "playlistId": "PLgaTRTylCbZBR7uYmZs_Vma1V7nrmFZH5",
+ "url": "https://www.youtube.com/playlist?list=PLgaTRTylCbZBR7uYmZs_Vma1V7nrmFZH5",
+ "thumbnail": "https://i.ytimg.com/vi/hh4OyWagVCg/maxresdefault.jpg",
+ "lessonCount": 18,
+ "duration": 57716,
+ "lessons": [
+  {
+   "n": 1,
+   "title": "كتاب الطهارة من عمدة الأحكام",
+   "lang": "ar",
+   "scholarId": "صالح-حميد",
+   "videoId": "hh4OyWagVCg",
+   "duration": 2408,
+   "hijriDate": "1443-04-20"
+  },
+  {
+   "n": 2,
+   "title": "قاعدة لطيفة في أصول الفقه",
+   "lang": "ar",
+   "scholarId": "سامي-الصقير",
+   "videoId": "a2cysuJOIyw",
+   "duration": 2794,
+   "hijriDate": "1443-04-22"
+  },
+  {
+   "n": 3,
+   "title": "شرح الأصول الستة",
+   "lang": "ar",
+   "scholarId": "عبدالسلام-السليمان",
+   "videoId": "T7CGk0EQHGM",
+   "duration": 4269,
+   "hijriDate": "1443-04-22"
+  },
+  {
+   "n": 4,
+   "title": "قاعدة لطيفة في أصول الفقه",
+   "lang": "ar",
+   "scholarId": "سامي-الصقير",
+   "videoId": "_-RIEGGEBNE",
+   "duration": 2584,
+   "hijriDate": "1443-04-23"
+  },
+  {
+   "n": 5,
+   "title": "كتاب الطهارة من عمدة الأحكام",
+   "lang": "ar",
+   "scholarId": "صالح-حميد",
+   "videoId": "GBd7DkBVcUw",
+   "duration": 3072,
+   "hijriDate": "1443-04-23"
+  },
+  {
+   "n": 6,
+   "title": "شرح الأصول الستة",
+   "lang": "ar",
+   "scholarId": "عبدالسلام-السليمان",
+   "videoId": "q0NiMB2DmEU",
+   "duration": 4123,
+   "hijriDate": "1443-04-23"
+  },
+  {
+   "n": 7,
+   "title": "قاعدة لطيفة في أصول الفقه",
+   "lang": "ar",
+   "scholarId": "سامي-الصقير",
+   "videoId": "VqMOM6Iat20",
+   "duration": 2573,
+   "hijriDate": "1443-04-24"
+  },
+  {
+   "n": 8,
+   "title": "كتاب الطهارة من عمدة الأحكام",
+   "lang": "ar",
+   "scholarId": "صالح-حميد",
+   "videoId": "wzcJFB7xenE",
+   "duration": 2478,
+   "hijriDate": "1443-04-24"
+  },
+  {
+   "n": 9,
+   "title": "شرح الأصول الستة والقواعد الأربع",
+   "lang": "ar",
+   "scholarId": "عبدالسلام-السليمان",
+   "videoId": "JvA9pYHKqRs",
+   "duration": 3836,
+   "hijriDate": "1443-04-24"
+  },
+  {
+   "n": 10,
+   "title": "قاعدة لطيفة في أصول الفقه",
+   "lang": "ar",
+   "scholarId": "سامي-الصقير",
+   "videoId": "OGhc6WvQCDc",
+   "duration": 2640,
+   "hijriDate": "1443-04-25"
+  },
+  {
+   "n": 11,
+   "title": "الأجوبة الجلية في الأحكام الحنبلية",
+   "lang": "ar",
+   "scholarId": "عبدالمحسن-الزامل",
+   "videoId": "YSbJi3Jjt-8",
+   "duration": 3801,
+   "hijriDate": "1443-04-25"
+  },
+  {
+   "n": 12,
+   "title": "كتاب الطهارة من عمدة الأحكام",
+   "lang": "ar",
+   "scholarId": "صالح-حميد",
+   "videoId": "ohC38kwYmJo",
+   "duration": 2416,
+   "hijriDate": "1443-04-25"
+  },
+  {
+   "n": 13,
+   "title": "شرح القواعد الأربع",
+   "lang": "ar",
+   "scholarId": "عبدالسلام-السليمان",
+   "videoId": "ZuIfU4RAMoI",
+   "duration": 3376,
+   "hijriDate": "1443-04-25"
+  },
+  {
+   "n": 14,
+   "title": "كتاب الطهارة من عمدة الأحكام",
+   "lang": "ar",
+   "scholarId": "صالح-حميد",
+   "videoId": "X9dwQRlnk1w",
+   "duration": 2565,
+   "hijriDate": "1443-04-26"
+  },
+  {
+   "n": 15,
+   "title": "الأجوبة الجلية في الأحكام الحنبلية",
+   "lang": "ar",
+   "scholarId": "عبدالمحسن-الزامل",
+   "videoId": "SRcVPGpqP6k",
+   "duration": 3905,
+   "hijriDate": "1443-04-26"
+  },
+  {
+   "n": 16,
+   "title": "الأجوبة الجلية في الأحكام الحنبلية",
+   "lang": "ar",
+   "scholarId": "عبدالمحسن-الزامل",
+   "videoId": "v_glMwvYh6s",
+   "duration": 3690,
+   "hijriDate": "1443-04-27"
+  },
+  {
+   "n": 17,
+   "title": "الأجوبة الجلية في الأحكام الحنبلية",
+   "lang": "ar",
+   "scholarId": "عبدالمحسن-الزامل",
+   "videoId": "iNjrP8T-j8w",
+   "duration": 3883,
+   "hijriDate": "1443-04-27"
+  },
+  {
+   "n": 18,
+   "title": "الأجوبة الجلية في الأحكام الحنبلية",
+   "lang": "ar",
+   "scholarId": "عبدالمحسن-الزامل",
+   "videoId": "E3Kz1aMojiE",
+   "duration": 3303,
+   "hijriDate": "1443-04-27"
+  }
+ ]
+}

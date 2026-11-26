@@ -1,0 +1,97 @@
+{
+ "id": "PLgaTRTylCbZCYwRzIuI378dE5pCEIQbZn",
+ "title": "دورة صناعة الأصولي 2",
+ "subject": "usul",
+ "kind": "course",
+ "lang": "ar",
+ "scholarId": null,
+ "scholarIds": [
+  "غازي-العتيبي",
+  "عبدالرحمن-القرني",
+  "سعد-الشثري",
+  "عبدالرحمن-السديس",
+  "حسن-بخاري"
+ ],
+ "year": 1444,
+ "source": "youtube",
+ "channelId": "UC3QAoXf9GN9xeQYhk-AZbTg",
+ "playlistId": "PLgaTRTylCbZCYwRzIuI378dE5pCEIQbZn",
+ "url": "https://www.youtube.com/playlist?list=PLgaTRTylCbZCYwRzIuI378dE5pCEIQbZn",
+ "thumbnail": "https://i.ytimg.com/vi/if5KJdx_7i0/maxresdefault.jpg",
+ "lessonCount": 8,
+ "duration": 39458,
+ "lessons": [
+  {
+   "n": 1,
+   "title": "مقدمة في دلالات الألفاظ (1 من 3)",
+   "lang": "ar",
+   "scholarId": "غازي-العتيبي",
+   "videoId": "qgXktyz3MLY",
+   "duration": 5080,
+   "hijriDate": "1444-07-07"
+  },
+  {
+   "n": 2,
+   "title": "مقدمة في دلالات الألفاظ (2 من 3)",
+   "lang": "ar",
+   "scholarId": "غازي-العتيبي",
+   "videoId": "ADXMzzXZlUU",
+   "duration": 5884,
+   "hijriDate": "1444-07-08"
+  },
+  {
+   "n": 3,
+   "title": "مقدمة في دلالات الألفاظ (3 من 3)",
+   "lang": "ar",
+   "scholarId": "غازي-العتيبي",
+   "videoId": "kH-g0NYjKF4",
+   "duration": 8576,
+   "hijriDate": "1444-07-09"
+  },
+  {
+   "n": 4,
+   "title": "علاقة علم أصول الفقه بغيره من العلوم (1 من 2)",
+   "lang": "ar",
+   "scholarId": "عبدالرحمن-القرني",
+   "videoId": "ZXAUjSuawH8",
+   "duration": 2949,
+   "hijriDate": "1444-07-25"
+  },
+  {
+   "n": 5,
+   "title": "علاقة علم أصول الفقه بغيره من العلوم (2 من 2)",
+   "lang": "ar",
+   "scholarId": "عبدالرحمن-القرني",
+   "videoId": "TA0lcyI8LbE",
+   "duration": 3156,
+   "hijriDate": "1444-07-26"
+  },
+  {
+   "n": 6,
+   "title": "الجدل الأصولي",
+   "lang": "ar",
+   "scholarId": "سعد-الشثري",
+   "videoId": "ydZXo6ai7Oo",
+   "duration": 3543,
+   "hijriDate": "1444-07-28"
+  },
+  {
+   "n": 7,
+   "title": "أصول الفقه وأثره في تنمية الملكة الفكرية الصحيحة",
+   "lang": "ar",
+   "scholarId": "عبدالرحمن-السديس",
+   "videoId": "if5KJdx_7i0",
+   "duration": 5017,
+   "hijriDate": "1444-08-01"
+  },
+  {
+   "n": 8,
+   "title": "أصول فقه الحنفية",
+   "lang": "ar",
+   "scholarId": "حسن-بخاري",
+   "videoId": "4TeYowNQ-sI",
+   "duration": 5253,
+   "hijriDate": "1444-08-04"
+  }
+ ]
+}

@@ -1,0 +1,75 @@
+{
+ "id": "PLriFofF1xij54ROpTQ3ZQLhJXWTKcpM4j",
+ "title": "مقدمة رسالة ابن أبي زيد القيرواني 2",
+ "subject": "general",
+ "kind": "series",
+ "lang": "ar",
+ "scholarId": "سعود-الخلف",
+ "scholarIds": [
+  "سعود-الخلف"
+ ],
+ "year": null,
+ "source": "youtube",
+ "channelId": "UC0XNCc-DU8J5_ksR-eufPaw",
+ "playlistId": "PLriFofF1xij54ROpTQ3ZQLhJXWTKcpM4j",
+ "url": "https://www.youtube.com/playlist?list=PLriFofF1xij54ROpTQ3ZQLhJXWTKcpM4j",
+ "thumbnail": "https://i.ytimg.com/vi/DEDFMpJU3xw/maxresdefault.jpg",
+ "lessonCount": 6,
+ "duration": 20907,
+ "lessons": [
+  {
+   "n": 1,
+   "title": "الدرس 1",
+   "lang": "ar",
+   "scholarId": "سعود-الخلف",
+   "videoId": "DEDFMpJU3xw",
+   "duration": 3582,
+   "hijriDate": null
+  },
+  {
+   "n": 2,
+   "title": "الدرس 2",
+   "lang": "ar",
+   "scholarId": "سعود-الخلف",
+   "videoId": "odSNfj3cn0A",
+   "duration": 3293,
+   "hijriDate": null
+  },
+  {
+   "n": 3,
+   "title": "الدرس 3",
+   "lang": "ar",
+   "scholarId": "سعود-الخلف",
+   "videoId": "XwGhKh-rapE",
+   "duration": 3281,
+   "hijriDate": null
+  },
+  {
+   "n": 4,
+   "title": "الدرس 4",
+   "lang": "ar",
+   "scholarId": "سعود-الخلف",
+   "videoId": "wj9FzH-AnKs",
+   "duration": 2756,
+   "hijriDate": null
+  },
+  {
+   "n": 5,
+   "title": "الدرس 5",
+   "lang": "ar",
+   "scholarId": "سعود-الخلف",
+   "videoId": "duCuZxvQmjE",
+   "duration": 3671,
+   "hijriDate": null
+  },
+  {
+   "n": 6,
+   "title": "الدرس 6",
+   "lang": "ar",
+   "scholarId": "سعود-الخلف",
+   "videoId": "eWXr-I3KH6M",
+   "duration": 4324,
+   "hijriDate": null
+  }
+ ]
+}

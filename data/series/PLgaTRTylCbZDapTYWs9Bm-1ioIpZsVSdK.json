@@ -1,0 +1,66 @@
+{
+ "id": "PLgaTRTylCbZDapTYWs9Bm-1ioIpZsVSdK",
+ "title": "شرح السنة للإمام البربهاري",
+ "subject": "aqeedah",
+ "kind": "series",
+ "lang": "ar",
+ "scholarId": "وصي-عباس",
+ "scholarIds": [
+  "وصي-عباس"
+ ],
+ "year": null,
+ "source": "youtube",
+ "channelId": "UC3QAoXf9GN9xeQYhk-AZbTg",
+ "playlistId": "PLgaTRTylCbZDapTYWs9Bm-1ioIpZsVSdK",
+ "url": "https://www.youtube.com/playlist?list=PLgaTRTylCbZDapTYWs9Bm-1ioIpZsVSdK",
+ "thumbnail": "https://i.ytimg.com/vi/NUF2rEiqpfI/maxresdefault.jpg",
+ "lessonCount": 5,
+ "duration": 25959,
+ "lessons": [
+  {
+   "n": 1,
+   "title": "الدرس 1",
+   "lang": "ar",
+   "scholarId": "وصي-عباس",
+   "videoId": "NUF2rEiqpfI",
+   "duration": 5347,
+   "hijriDate": null
+  },
+  {
+   "n": 2,
+   "title": "الدرس 2",
+   "lang": "ar",
+   "scholarId": "وصي-عباس",
+   "videoId": "-skzr_KCMyI",
+   "duration": 5580,
+   "hijriDate": null
+  },
+  {
+   "n": 3,
+   "title": "الدرس 3",
+   "lang": "ar",
+   "scholarId": "وصي-عباس",
+   "videoId": "L2_prC_SJtk",
+   "duration": 5861,
+   "hijriDate": null
+  },
+  {
+   "n": 4,
+   "title": "الدرس 4",
+   "lang": "ar",
+   "scholarId": "وصي-عباس",
+   "videoId": "L-3zxkH0qYU",
+   "duration": 5693,
+   "hijriDate": null
+  },
+  {
+   "n": 5,
+   "title": "الدرس 5",
+   "lang": "ar",
+   "scholarId": "وصي-عباس",
+   "videoId": "BiWYee5Psr8",
+   "duration": 3478,
+   "hijriDate": null
+  }
+ ]
+}

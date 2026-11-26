@@ -1,0 +1,48 @@
+{
+ "id": "PLgaTRTylCbZAyQ_viO3vhsIVUkVTo87bl",
+ "title": "شرح منظومة القواعد الفقهية لابن سعدي",
+ "subject": "fiqh",
+ "kind": "series",
+ "lang": "ar",
+ "scholarId": "سلمان-الدخيل",
+ "scholarIds": [
+  "سلمان-الدخيل"
+ ],
+ "year": 1447,
+ "source": "youtube",
+ "channelId": "UC3QAoXf9GN9xeQYhk-AZbTg",
+ "playlistId": "PLgaTRTylCbZAyQ_viO3vhsIVUkVTo87bl",
+ "url": "https://www.youtube.com/playlist?list=PLgaTRTylCbZAyQ_viO3vhsIVUkVTo87bl",
+ "thumbnail": "https://i.ytimg.com/vi/IdvOgv4XnPA/maxresdefault.jpg",
+ "lessonCount": 3,
+ "duration": 12443,
+ "lessons": [
+  {
+   "n": 1,
+   "title": "الدرس 1",
+   "lang": "ar",
+   "scholarId": "سلمان-الدخيل",
+   "videoId": "Fwz4wXYF8bk",
+   "duration": 7105,
+   "hijriDate": "1447-02-23"
+  },
+  {
+   "n": 2,
+   "title": "الدرس 2",
+   "lang": "ar",
+   "scholarId": "سلمان-الدخيل",
+   "videoId": "Rwkr9big4Oc",
+   "duration": 4413,
+   "hijriDate": "1447-02-23"
+  },
+  {
+   "n": 3,
+   "title": "الدرس 3",
+   "lang": "ar",
+   "scholarId": "سلمان-الدخيل",
+   "videoId": "IdvOgv4XnPA",
+   "duration": 925,
+   "hijriDate": "1447-02-24"
+  }
+ ]
+}

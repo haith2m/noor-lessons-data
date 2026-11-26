@@ -1,0 +1,66 @@
+{
+ "id": "PLriFofF1xij4c71zWRZ8RohxASsf_Q70_",
+ "title": "العناية بأدلة الكفاية",
+ "subject": "general",
+ "kind": "series",
+ "lang": "ar",
+ "scholarId": "عبدالله-الزاحم",
+ "scholarIds": [
+  "عبدالله-الزاحم"
+ ],
+ "year": null,
+ "source": "youtube",
+ "channelId": "UC0XNCc-DU8J5_ksR-eufPaw",
+ "playlistId": "PLriFofF1xij4c71zWRZ8RohxASsf_Q70_",
+ "url": "https://www.youtube.com/playlist?list=PLriFofF1xij4c71zWRZ8RohxASsf_Q70_",
+ "thumbnail": "https://i.ytimg.com/vi/C1tVGH4xGtg/maxresdefault.jpg",
+ "lessonCount": 5,
+ "duration": 21168,
+ "lessons": [
+  {
+   "n": 1,
+   "title": "الدرس 1",
+   "lang": "ar",
+   "scholarId": "عبدالله-الزاحم",
+   "videoId": "C1tVGH4xGtg",
+   "duration": 4192,
+   "hijriDate": null
+  },
+  {
+   "n": 2,
+   "title": "الدرس 2",
+   "lang": "ar",
+   "scholarId": "عبدالله-الزاحم",
+   "videoId": "HqyZrBSrDbo",
+   "duration": 4162,
+   "hijriDate": null
+  },
+  {
+   "n": 3,
+   "title": "الدرس 3",
+   "lang": "ar",
+   "scholarId": "عبدالله-الزاحم",
+   "videoId": "h0Qg7YQLekU",
+   "duration": 4190,
+   "hijriDate": null
+  },
+  {
+   "n": 4,
+   "title": "الدرس 4",
+   "lang": "ar",
+   "scholarId": "عبدالله-الزاحم",
+   "videoId": "S_mwPyPb6Lk",
+   "duration": 4128,
+   "hijriDate": null
+  },
+  {
+   "n": 5,
+   "title": "الدرس 5",
+   "lang": "ar",
+   "scholarId": "عبدالله-الزاحم",
+   "videoId": "ZAgoqCcuo0A",
+   "duration": 4496,
+   "hijriDate": null
+  }
+ ]
+}

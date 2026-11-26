@@ -1,0 +1,48 @@
+{
+ "id": "PLgaTRTylCbZBf95MyxxLbIKtLhOz_UVQR",
+ "title": "شخصية المسلم",
+ "subject": "adab",
+ "kind": "series",
+ "lang": "ar",
+ "scholarId": "عبدالسلام-السليمان",
+ "scholarIds": [
+  "عبدالسلام-السليمان"
+ ],
+ "year": 1444,
+ "source": "youtube",
+ "channelId": "UC3QAoXf9GN9xeQYhk-AZbTg",
+ "playlistId": "PLgaTRTylCbZBf95MyxxLbIKtLhOz_UVQR",
+ "url": "https://www.youtube.com/playlist?list=PLgaTRTylCbZBf95MyxxLbIKtLhOz_UVQR",
+ "thumbnail": "https://i.ytimg.com/vi/6qhlgnmaO7o/maxresdefault.jpg",
+ "lessonCount": 3,
+ "duration": 6078,
+ "lessons": [
+  {
+   "n": 1,
+   "title": "الدرس 1",
+   "lang": "ar",
+   "scholarId": "عبدالسلام-السليمان",
+   "videoId": "6qhlgnmaO7o",
+   "duration": 2464,
+   "hijriDate": "1444-05-02"
+  },
+  {
+   "n": 2,
+   "title": "الدرس 2",
+   "lang": "ar",
+   "scholarId": "عبدالسلام-السليمان",
+   "videoId": "1hOS_Kp30Rg",
+   "duration": 2213,
+   "hijriDate": "1444-05-03"
+  },
+  {
+   "n": 3,
+   "title": "الدرس 3",
+   "lang": "ar",
+   "scholarId": "عبدالسلام-السليمان",
+   "videoId": "kRorE3lFPAQ",
+   "duration": 1401,
+   "hijriDate": "1444-05-04"
+  }
+ ]
+}

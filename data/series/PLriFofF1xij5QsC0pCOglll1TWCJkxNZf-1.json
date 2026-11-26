@@ -1,0 +1,57 @@
+{
+ "id": "PLriFofF1xij5QsC0pCOglll1TWCJkxNZf-1",
+ "title": "القواعد الخمس",
+ "subject": "fiqh",
+ "kind": "series",
+ "lang": "ar",
+ "scholarId": "مسعود-المحمدي",
+ "scholarIds": [
+  "مسعود-المحمدي"
+ ],
+ "year": null,
+ "source": "youtube",
+ "channelId": "UC0XNCc-DU8J5_ksR-eufPaw",
+ "playlistId": "PLriFofF1xij5QsC0pCOglll1TWCJkxNZf",
+ "url": "https://www.youtube.com/playlist?list=PLriFofF1xij5QsC0pCOglll1TWCJkxNZf",
+ "thumbnail": "https://i.ytimg.com/vi/8xCU4qvtGdE/maxresdefault.jpg",
+ "lessonCount": 4,
+ "duration": 15006,
+ "lessons": [
+  {
+   "n": 1,
+   "title": "الدرس 1",
+   "lang": "ar",
+   "scholarId": "مسعود-المحمدي",
+   "videoId": "8xCU4qvtGdE",
+   "duration": 3556,
+   "hijriDate": null
+  },
+  {
+   "n": 2,
+   "title": "الدرس 2",
+   "lang": "ar",
+   "scholarId": "مسعود-المحمدي",
+   "videoId": "z9x1P2gJJkg",
+   "duration": 3945,
+   "hijriDate": null
+  },
+  {
+   "n": 3,
+   "title": "الدرس 3",
+   "lang": "ar",
+   "scholarId": "مسعود-المحمدي",
+   "videoId": "2oXPxIz18fs",
+   "duration": 3864,
+   "hijriDate": null
+  },
+  {
+   "n": 4,
+   "title": "الدرس 4",
+   "lang": "ar",
+   "scholarId": "مسعود-المحمدي",
+   "videoId": "p9CvcUXVrUE",
+   "duration": 3641,
+   "hijriDate": null
+  }
+ ]
+}

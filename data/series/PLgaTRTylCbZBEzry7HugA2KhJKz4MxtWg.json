@@ -1,0 +1,114 @@
+{
+ "id": "PLgaTRTylCbZBEzry7HugA2KhJKz4MxtWg",
+ "title": "الدورة العلمية في (فقه المناسك ومقاصدها في ظل جائحة كورونا)",
+ "subject": "fiqh",
+ "kind": "course",
+ "lang": "ar",
+ "scholarId": null,
+ "scholarIds": [
+  "عبدالرحمن-القرني",
+  "حمزه-الفعر",
+  "عبدالمحسن-الزامل",
+  "غازي-العتيبي"
+ ],
+ "year": 1441,
+ "source": "youtube",
+ "channelId": "UC3QAoXf9GN9xeQYhk-AZbTg",
+ "playlistId": "PLgaTRTylCbZBEzry7HugA2KhJKz4MxtWg",
+ "url": "https://www.youtube.com/playlist?list=PLgaTRTylCbZBEzry7HugA2KhJKz4MxtWg",
+ "thumbnail": "https://i.ytimg.com/vi/xJqGpuSz7pM/maxresdefault.jpg",
+ "lessonCount": 10,
+ "duration": 20977,
+ "lessons": [
+  {
+   "n": 1,
+   "title": "تطبيقات أصولية على آيات الحج من سورة البقرة",
+   "lang": "ar",
+   "scholarId": "عبدالرحمن-القرني",
+   "videoId": "xJqGpuSz7pM",
+   "duration": 3319,
+   "hijriDate": null
+  },
+  {
+   "n": 2,
+   "title": "أحكام الحج في ظل الجائحة",
+   "lang": "ar",
+   "scholarId": "حمزه-الفعر",
+   "videoId": "QQ7d7QvEvDk",
+   "duration": 1519,
+   "hijriDate": null
+  },
+  {
+   "n": 3,
+   "title": "فقه النوازل في الحج",
+   "lang": "ar",
+   "scholarId": "عبدالمحسن-الزامل",
+   "videoId": "VWd2KDQwvs8",
+   "duration": 1841,
+   "hijriDate": null
+  },
+  {
+   "n": 4,
+   "title": "مقاصد الحج ونازلة كورونا (1 من 2)",
+   "lang": "ar",
+   "scholarId": "غازي-العتيبي",
+   "videoId": "jqSwO6tJ9yc",
+   "duration": 2952,
+   "hijriDate": null
+  },
+  {
+   "n": 5,
+   "title": "فقه النوازل في الحج",
+   "lang": "ar",
+   "scholarId": "عبدالمحسن-الزامل",
+   "videoId": "PyN_er-eCw4",
+   "duration": 1466,
+   "hijriDate": null
+  },
+  {
+   "n": 6,
+   "title": "أحكام الحج في ظل الجائحة",
+   "lang": "ar",
+   "scholarId": "حمزه-الفعر",
+   "videoId": "DRQMHnfMljY",
+   "duration": 1512,
+   "hijriDate": null
+  },
+  {
+   "n": 7,
+   "title": "مقاصد الحج ونازلة كورونا",
+   "lang": "ar",
+   "scholarId": "غازي-العتيبي",
+   "videoId": "sBCZb2b-U8w",
+   "duration": 2416,
+   "hijriDate": null
+  },
+  {
+   "n": 8,
+   "title": "فقه النوازل في الحج",
+   "lang": "ar",
+   "scholarId": "عبدالمحسن-الزامل",
+   "videoId": "yUn3ofmYFWQ",
+   "duration": 1925,
+   "hijriDate": null
+  },
+  {
+   "n": 9,
+   "title": "أحكام الحج في ظل الجائحة",
+   "lang": "ar",
+   "scholarId": "حمزه-الفعر",
+   "videoId": "4sXlYEoXjME",
+   "duration": 1764,
+   "hijriDate": null
+  },
+  {
+   "n": 10,
+   "title": "مقاصد الحج ونازلة كورونا",
+   "lang": "ar",
+   "scholarId": "غازي-العتيبي",
+   "videoId": "VcF-5BdayKE",
+   "duration": 2263,
+   "hijriDate": null
+  }
+ ]
+}

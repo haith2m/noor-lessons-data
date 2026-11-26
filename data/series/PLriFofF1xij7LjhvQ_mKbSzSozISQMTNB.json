@@ -1,0 +1,30 @@
+{
+ "id": "PLriFofF1xij7LjhvQ_mKbSzSozISQMTNB",
+ "title": "الدروس العامة",
+ "subject": "general",
+ "kind": "series",
+ "lang": "ar",
+ "scholarId": "محمد-اليوبي",
+ "scholarIds": [
+  "محمد-اليوبي"
+ ],
+ "year": null,
+ "source": "youtube",
+ "channelId": "UC0XNCc-DU8J5_ksR-eufPaw",
+ "playlistId": "PLriFofF1xij7LjhvQ_mKbSzSozISQMTNB",
+ "url": "https://www.youtube.com/playlist?list=PLriFofF1xij7LjhvQ_mKbSzSozISQMTNB",
+ "thumbnail": "https://i.ytimg.com/vi/Y2F2iQigdGo/maxresdefault.jpg",
+ "lessonCount": 1,
+ "duration": 1719,
+ "lessons": [
+  {
+   "n": 1,
+   "title": "احفظ الله يحفظك",
+   "lang": "ar",
+   "scholarId": "محمد-اليوبي",
+   "videoId": "Y2F2iQigdGo",
+   "duration": 1719,
+   "hijriDate": null
+  }
+ ]
+}

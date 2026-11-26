@@ -1,0 +1,57 @@
+{
+ "id": "PLriFofF1xij67tRZKS24tqy0W3NGLxS2M",
+ "title": "تفسير السعدي",
+ "subject": "tafsir",
+ "kind": "series",
+ "lang": "ar",
+ "scholarId": "عبدالعزيز-العبيد",
+ "scholarIds": [
+  "عبدالعزيز-العبيد"
+ ],
+ "year": null,
+ "source": "youtube",
+ "channelId": "UC0XNCc-DU8J5_ksR-eufPaw",
+ "playlistId": "PLriFofF1xij67tRZKS24tqy0W3NGLxS2M",
+ "url": "https://www.youtube.com/playlist?list=PLriFofF1xij67tRZKS24tqy0W3NGLxS2M",
+ "thumbnail": "https://i.ytimg.com/vi/8ywj3NX43Ig/maxresdefault.jpg",
+ "lessonCount": 4,
+ "duration": 7202,
+ "lessons": [
+  {
+   "n": 1,
+   "title": "الدرس 1",
+   "lang": "ar",
+   "scholarId": "عبدالعزيز-العبيد",
+   "videoId": "8ywj3NX43Ig",
+   "duration": 1817,
+   "hijriDate": null
+  },
+  {
+   "n": 2,
+   "title": "الدرس 2",
+   "lang": "ar",
+   "scholarId": "عبدالعزيز-العبيد",
+   "videoId": "w1yAshAYq0M",
+   "duration": 1824,
+   "hijriDate": null
+  },
+  {
+   "n": 3,
+   "title": "الدرس 3",
+   "lang": "ar",
+   "scholarId": "عبدالعزيز-العبيد",
+   "videoId": "hA16VIjpftU",
+   "duration": 1799,
+   "hijriDate": null
+  },
+  {
+   "n": 4,
+   "title": "الدرس 4",
+   "lang": "ar",
+   "scholarId": "عبدالعزيز-العبيد",
+   "videoId": "ABR_cq2favk",
+   "duration": 1762,
+   "hijriDate": null
+  }
+ ]
+}

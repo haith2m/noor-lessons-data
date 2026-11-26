@@ -1,0 +1,66 @@
+{
+ "id": "PLriFofF1xij7o2jvc2jRRPH1pCpVakxIl-2",
+ "title": "الدروس العامة",
+ "subject": "aqeedah",
+ "kind": "series",
+ "lang": "ar",
+ "scholarId": "علي-التويجري",
+ "scholarIds": [
+  "علي-التويجري"
+ ],
+ "year": null,
+ "source": "youtube",
+ "channelId": "UC0XNCc-DU8J5_ksR-eufPaw",
+ "playlistId": "PLriFofF1xij7o2jvc2jRRPH1pCpVakxIl",
+ "url": "https://www.youtube.com/playlist?list=PLriFofF1xij7o2jvc2jRRPH1pCpVakxIl",
+ "thumbnail": "https://i.ytimg.com/vi/85gobIlbyIQ/maxresdefault.jpg",
+ "lessonCount": 5,
+ "duration": 14953,
+ "lessons": [
+  {
+   "n": 1,
+   "title": "حديث جبريل الطويل",
+   "lang": "ar",
+   "scholarId": "علي-التويجري",
+   "videoId": "3Kp4_Pt0yNA",
+   "duration": 2949,
+   "hijriDate": null
+  },
+  {
+   "n": 2,
+   "title": "تحريم التهاجر والتقاطع بين المسلمين",
+   "lang": "ar",
+   "scholarId": "علي-التويجري",
+   "videoId": "i_5tjbYf2I0",
+   "duration": 3095,
+   "hijriDate": null
+  },
+  {
+   "n": 3,
+   "title": "شروط الصلاة",
+   "lang": "ar",
+   "scholarId": "علي-التويجري",
+   "videoId": "Ia46zq6L6_Q",
+   "duration": 2412,
+   "hijriDate": null
+  },
+  {
+   "n": 4,
+   "title": "شروط وأركان وواجبات الصلاة",
+   "lang": "ar",
+   "scholarId": "علي-التويجري",
+   "videoId": "41BljAeGsfA",
+   "duration": 2585,
+   "hijriDate": null
+  },
+  {
+   "n": 5,
+   "title": "علاج السحر والعين والوسوسة",
+   "lang": "ar",
+   "scholarId": "علي-التويجري",
+   "videoId": "pA8vcRG99no",
+   "duration": 3912,
+   "hijriDate": null
+  }
+ ]
+}

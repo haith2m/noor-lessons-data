@@ -1,0 +1,60 @@
+{
+ "id": "PLgaTRTylCbZD5q6_yY_rHdWNoOMApqNCI",
+ "title": "سلسلة محاضرات تعزيز قيم المواطنة",
+ "subject": "general",
+ "kind": "course",
+ "lang": "ar",
+ "scholarId": null,
+ "scholarIds": [
+  "خالد-عروس",
+  "طلال-ابوالنور",
+  "حسن-بخاري",
+  "غازي-العتيبي"
+ ],
+ "year": 1442,
+ "source": "youtube",
+ "channelId": "UC3QAoXf9GN9xeQYhk-AZbTg",
+ "playlistId": "PLgaTRTylCbZD5q6_yY_rHdWNoOMApqNCI",
+ "url": "https://www.youtube.com/playlist?list=PLgaTRTylCbZD5q6_yY_rHdWNoOMApqNCI",
+ "thumbnail": "https://i.ytimg.com/vi/EE94Bim3HGw/maxresdefault.jpg",
+ "lessonCount": 4,
+ "duration": 4358,
+ "lessons": [
+  {
+   "n": 1,
+   "title": "المواطنة وأثرها في حفظ الأمن",
+   "lang": "ar",
+   "scholarId": "خالد-عروس",
+   "videoId": "EE94Bim3HGw",
+   "duration": 1311,
+   "hijriDate": "1442-02-06"
+  },
+  {
+   "n": 2,
+   "title": "شرف خدمة الحرمين محل اهتمام دولتنا المباركة",
+   "lang": "ar",
+   "scholarId": "طلال-ابوالنور",
+   "videoId": "ocuurDPssYg",
+   "duration": 424,
+   "hijriDate": "1442-02-07"
+  },
+  {
+   "n": 3,
+   "title": "نعمة الأمن ورغد العيش",
+   "lang": "ar",
+   "scholarId": "حسن-بخاري",
+   "videoId": "lWgo7fnpn_Q",
+   "duration": 282,
+   "hijriDate": "1442-02-08"
+  },
+  {
+   "n": 4,
+   "title": "حقوق الراعي والرعية",
+   "lang": "ar",
+   "scholarId": "غازي-العتيبي",
+   "videoId": "K6g5NAaqm1o",
+   "duration": 2341,
+   "hijriDate": "1442-02-11"
+  }
+ ]
+}

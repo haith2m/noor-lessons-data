@@ -1,0 +1,88 @@
+{
+ "id": "PLOQtgKk_bnwQ",
+ "title": "الدورة العلمية الأولى في علم القراءات القرآنية",
+ "subject": "tafsir",
+ "kind": "course",
+ "lang": "ar",
+ "scholarId": null,
+ "scholarIds": [
+  "فيصل-غزاوي",
+  "محمد-برهجي",
+  "عبدالرحمن-السديس",
+  "وليد-الشمسان",
+  "عبدالله-القرافي"
+ ],
+ "year": 1448,
+ "source": "youtube",
+ "channelId": "UC3QAoXf9GN9xeQYhk-AZbTg",
+ "playlistId": "PLOQtgKk_bnwQ",
+ "url": "https://www.youtube.com/playlist?list=PLOQtgKk_bnwQ",
+ "thumbnail": "https://i.ytimg.com/vi/N5rXRpzoh-Y/maxresdefault.jpg",
+ "lessonCount": 7,
+ "duration": 38260,
+ "lessons": [
+  {
+   "n": 1,
+   "title": "توجيه القراءات الواردة في قصار السور",
+   "lang": "ar",
+   "scholarId": "فيصل-غزاوي",
+   "videoId": "J9Y3TDcNE7c",
+   "duration": 3878,
+   "hijriDate": "1448-04-29"
+  },
+  {
+   "n": 2,
+   "title": "أصول القُرّاء العشرة في قصار السور",
+   "lang": "ar",
+   "scholarId": "محمد-برهجي",
+   "videoId": "s2GP_bUDqJ0",
+   "duration": 8407,
+   "hijriDate": "1448-04-29"
+  },
+  {
+   "n": 3,
+   "title": "فضل علم القراءات وأثره على الأحكام الشرعية",
+   "lang": "ar",
+   "scholarId": "عبدالرحمن-السديس",
+   "videoId": "PTtEPjyaHz0",
+   "duration": 4624,
+   "hijriDate": "1448-05-16"
+  },
+  {
+   "n": 4,
+   "title": "علم القراءات وشروط رجال القراءات",
+   "lang": "ar",
+   "scholarId": "وليد-الشمسان",
+   "videoId": "w0Zf5Eoq8iU",
+   "duration": 2899,
+   "hijriDate": "1448-05-18"
+  },
+  {
+   "n": 5,
+   "title": "أخلاق حملة القرآن",
+   "lang": "ar",
+   "scholarId": "عبدالله-القرافي",
+   "videoId": "L917NlTV6xI",
+   "duration": 3653,
+   "hijriDate": "1448-05-18"
+  },
+  {
+   "n": 6,
+   "title": "إقراء قصار السور بالقراءات العشر",
+   "lang": "ar",
+   "scholarId": "محمد-برهجي",
+   "videoId": "DWls8h8GvZo",
+   "duration": 8496,
+   "hijriDate": "1448-05-20"
+  },
+  {
+   "n": 7,
+   "title": "تراجم وسير القراء العشرة",
+   "lang": "ar",
+   "scholarId": "محمد-برهجي",
+   "videoId": "N5rXRpzoh-Y",
+   "duration": 6303,
+   "hijriDate": "1448-05-20"
+  }
+ ]
+}

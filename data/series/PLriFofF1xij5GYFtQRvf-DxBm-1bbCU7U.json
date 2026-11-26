@@ -1,0 +1,128 @@
+{
+ "id": "PLriFofF1xij5GYFtQRvf-DxBm-1bbCU7U",
+ "title": "سلسلة محاضرات شهر رمضان المبارك",
+ "subject": "general",
+ "kind": "course",
+ "lang": "ar",
+ "scholarId": null,
+ "scholarIds": [
+  "علي-التويجري",
+  "عبداللطيف-الشاماني",
+  "عبدالسلام-السحيمي",
+  "انيس-طاهر",
+  "ابراهيم-التركي",
+  "مسعود-المحمدي",
+  "بدر-البدر",
+  "علي-ابابطين",
+  "سليمان-الرحيلي"
+ ],
+ "year": 1447,
+ "source": "youtube",
+ "channelId": "UC0XNCc-DU8J5_ksR-eufPaw",
+ "playlistId": "PLriFofF1xij5GYFtQRvf-DxBm-1bbCU7U",
+ "url": "https://www.youtube.com/playlist?list=PLriFofF1xij5GYFtQRvf-DxBm-1bbCU7U",
+ "thumbnail": "https://i.ytimg.com/vi/3HDpuMTC6SU/maxresdefault.jpg",
+ "lessonCount": 11,
+ "duration": 30797,
+ "lessons": [
+  {
+   "n": 1,
+   "title": "فضل رمضان",
+   "lang": "ar",
+   "scholarId": "علي-التويجري",
+   "videoId": "3HDpuMTC6SU",
+   "duration": 4129,
+   "hijriDate": null
+  },
+  {
+   "n": 2,
+   "title": "وجاء شهر الخير",
+   "lang": "ar",
+   "scholarId": "عبداللطيف-الشاماني",
+   "videoId": "jYSg9RwgDP8",
+   "duration": 1966,
+   "hijriDate": null
+  },
+  {
+   "n": 3,
+   "title": "وظائف شهر رمضان",
+   "lang": "ar",
+   "scholarId": "عبدالسلام-السحيمي",
+   "videoId": "ekuQXeenRNw",
+   "duration": 2561,
+   "hijriDate": null
+  },
+  {
+   "n": 4,
+   "title": "رمضان دروس في الصبر",
+   "lang": "ar",
+   "scholarId": "انيس-طاهر",
+   "videoId": "OCgXLBesKg0",
+   "duration": 3119,
+   "hijriDate": null
+  },
+  {
+   "n": 5,
+   "title": "فضائل رمضان",
+   "lang": "ar",
+   "scholarId": "ابراهيم-التركي",
+   "videoId": "JW1dDZ4a064",
+   "duration": 1643,
+   "hijriDate": null
+  },
+  {
+   "n": 6,
+   "title": "رمضان وتحقيق التقوى",
+   "lang": "ar",
+   "scholarId": "مسعود-المحمدي",
+   "videoId": "PrnTZUuEa0Q",
+   "duration": 1924,
+   "hijriDate": null
+  },
+  {
+   "n": 7,
+   "title": "شهر رمضان شهر القرآن",
+   "lang": "ar",
+   "scholarId": "ابراهيم-التركي",
+   "videoId": "WI02Iv9xGC0",
+   "duration": 3218,
+   "hijriDate": null
+  },
+  {
+   "n": 8,
+   "title": "الأسباب الجالبة لمحبة الله عز وجل",
+   "lang": "ar",
+   "scholarId": "بدر-البدر",
+   "videoId": "JQXD2MkYj9Y",
+   "duration": 3482,
+   "hijriDate": null
+  },
+  {
+   "n": 9,
+   "title": "خصائص رمضان",
+   "lang": "ar",
+   "scholarId": "علي-ابابطين",
+   "videoId": "Ny56C4zrakU",
+   "duration": 2545,
+   "hijriDate": null
+  },
+  {
+   "n": 10,
+   "title": "صيانة الصيام",
+   "lang": "ar",
+   "scholarId": "سليمان-الرحيلي",
+   "videoId": "XWBojWONirU",
+   "duration": 3726,
+   "hijriDate": null
+  },
+  {
+   "n": 11,
+   "title": "فضل العشر الأواخر",
+   "lang": "ar",
+   "scholarId": "عبدالسلام-السحيمي",
+   "videoId": "2Z3WbYwTgy4",
+   "duration": 2484,
+   "hijriDate": null
+  }
+ ]
+}

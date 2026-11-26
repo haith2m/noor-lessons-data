@@ -1,0 +1,79 @@
+{
+ "id": "PLriFofF1xij59Cm3kglrWq0fHK5hJyQIz",
+ "title": "الدورة الرمضانية بالمسجد النبوي لأعضاء هيئة كبار العلماء",
+ "subject": "fiqh",
+ "kind": "course",
+ "lang": "ar",
+ "scholarId": null,
+ "scholarIds": [
+  "سعد-الشثري",
+  "عبدالاله-الملا",
+  "محمد-الشنقيطي",
+  "عبدالباقي-مبارك",
+  "سامي-الصقير"
+ ],
+ "year": 1447,
+ "source": "youtube",
+ "channelId": "UC0XNCc-DU8J5_ksR-eufPaw",
+ "playlistId": "PLriFofF1xij59Cm3kglrWq0fHK5hJyQIz",
+ "url": "https://www.youtube.com/playlist?list=PLriFofF1xij59Cm3kglrWq0fHK5hJyQIz",
+ "thumbnail": "https://i.ytimg.com/vi/gv03XYFpmtw/maxresdefault.jpg",
+ "lessonCount": 6,
+ "duration": 24096,
+ "lessons": [
+  {
+   "n": 1,
+   "title": "الاستعداد لرمضان",
+   "lang": "ar",
+   "scholarId": "سعد-الشثري",
+   "videoId": "gv03XYFpmtw",
+   "duration": 3281,
+   "hijriDate": null
+  },
+  {
+   "n": 2,
+   "title": "المستجدات في مبطلات الصيام",
+   "lang": "ar",
+   "scholarId": "عبدالاله-الملا",
+   "videoId": "q9agrYxS_i4",
+   "duration": 3291,
+   "hijriDate": null
+  },
+  {
+   "n": 3,
+   "title": "فضل الصيام",
+   "lang": "ar",
+   "scholarId": "محمد-الشنقيطي",
+   "videoId": "9v8_KbmApv4",
+   "duration": 6165,
+   "hijriDate": null
+  },
+  {
+   "n": 4,
+   "title": "شرح آيات الصيام",
+   "lang": "ar",
+   "scholarId": "عبدالباقي-مبارك",
+   "videoId": "BwTtTERYKxk",
+   "duration": 4146,
+   "hijriDate": null
+  },
+  {
+   "n": 5,
+   "title": "شرح آيات الصيام",
+   "lang": "ar",
+   "scholarId": "عبدالباقي-مبارك",
+   "videoId": "y744YSTcURw",
+   "duration": 4297,
+   "hijriDate": null
+  },
+  {
+   "n": 6,
+   "title": "العشر الأواخر فضلها والاجتهاد فيها",
+   "lang": "ar",
+   "scholarId": "سامي-الصقير",
+   "videoId": "FJHtHBJ8FLw",
+   "duration": 2916,
+   "hijriDate": null
+  }
+ ]
+}

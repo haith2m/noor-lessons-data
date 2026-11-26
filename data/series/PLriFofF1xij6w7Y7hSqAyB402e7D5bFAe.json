@@ -1,0 +1,39 @@
+{
+ "id": "PLriFofF1xij6w7Y7hSqAyB402e7D5bFAe",
+ "title": "آيات الطلاق من سورة البقرة - تفسير وأحكام",
+ "subject": "tafsir",
+ "kind": "series",
+ "lang": "ar",
+ "scholarId": "بدر-البدر",
+ "scholarIds": [
+  "بدر-البدر"
+ ],
+ "year": null,
+ "source": "youtube",
+ "channelId": "UC0XNCc-DU8J5_ksR-eufPaw",
+ "playlistId": "PLriFofF1xij6w7Y7hSqAyB402e7D5bFAe",
+ "url": "https://www.youtube.com/playlist?list=PLriFofF1xij6w7Y7hSqAyB402e7D5bFAe",
+ "thumbnail": "https://i.ytimg.com/vi/9rVEkQP8vZE/maxresdefault.jpg",
+ "lessonCount": 2,
+ "duration": 4965,
+ "lessons": [
+  {
+   "n": 1,
+   "title": "الدرس 1",
+   "lang": "ar",
+   "scholarId": "بدر-البدر",
+   "videoId": "9rVEkQP8vZE",
+   "duration": 4421,
+   "hijriDate": null
+  },
+  {
+   "n": 2,
+   "title": "الدرس 2",
+   "lang": "ar",
+   "scholarId": "بدر-البدر",
+   "videoId": "5QQjy55jHsY",
+   "duration": 544,
+   "hijriDate": null
+  }
+ ]
+}

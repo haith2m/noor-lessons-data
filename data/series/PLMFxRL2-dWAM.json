@@ -1,0 +1,30 @@
+{
+ "id": "PLMFxRL2-dWAM",
+ "title": "فتح الباري",
+ "subject": "general",
+ "kind": "series",
+ "lang": "ar",
+ "scholarId": "علي-ابابطين",
+ "scholarIds": [
+  "علي-ابابطين"
+ ],
+ "year": null,
+ "source": "youtube",
+ "channelId": "UC0XNCc-DU8J5_ksR-eufPaw",
+ "playlistId": "PLMFxRL2-dWAM",
+ "url": "https://www.youtube.com/playlist?list=PLMFxRL2-dWAM",
+ "thumbnail": "https://i.ytimg.com/vi/uXw714h5iQc/maxresdefault.jpg",
+ "lessonCount": 1,
+ "duration": 4515,
+ "lessons": [
+  {
+   "n": 1,
+   "title": "الدرس 1",
+   "lang": "ar",
+   "scholarId": "علي-ابابطين",
+   "videoId": "uXw714h5iQc",
+   "duration": 4515,
+   "hijriDate": null
+  }
+ ]
+}

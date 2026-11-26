@@ -1,0 +1,48 @@
+{
+ "id": "PLgaTRTylCbZCpejfJyC4StV86n3j7TOpE",
+ "title": "التوحيد في الحج - الشيخ التويجري",
+ "subject": "aqeedah",
+ "kind": "series",
+ "lang": "ar",
+ "scholarId": "سليمان-التويجري",
+ "scholarIds": [
+  "سليمان-التويجري"
+ ],
+ "year": null,
+ "source": "youtube",
+ "channelId": "UC3QAoXf9GN9xeQYhk-AZbTg",
+ "playlistId": "PLgaTRTylCbZCpejfJyC4StV86n3j7TOpE",
+ "url": "https://www.youtube.com/playlist?list=PLgaTRTylCbZCpejfJyC4StV86n3j7TOpE",
+ "thumbnail": "https://i.ytimg.com/vi/453hPeO14Hk/sddefault.jpg",
+ "lessonCount": 3,
+ "duration": 9190,
+ "lessons": [
+  {
+   "n": 1,
+   "title": "الدرس 1",
+   "lang": "ar",
+   "scholarId": "سليمان-التويجري",
+   "videoId": "453hPeO14Hk",
+   "duration": 3019,
+   "hijriDate": null
+  },
+  {
+   "n": 2,
+   "title": "الدرس 2",
+   "lang": "ar",
+   "scholarId": "سليمان-التويجري",
+   "videoId": "10c4nLgMq34",
+   "duration": 3015,
+   "hijriDate": null
+  },
+  {
+   "n": 3,
+   "title": "الدرس 3",
+   "lang": "ar",
+   "scholarId": "سليمان-التويجري",
+   "videoId": "E73DOSHcYFM",
+   "duration": 3156,
+   "hijriDate": null
+  }
+ ]
+}

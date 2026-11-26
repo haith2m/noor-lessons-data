@@ -1,0 +1,100 @@
+{
+ "id": "PLriFofF1xij4vzBID_9oi1HiYD6GssRvG",
+ "title": "سلسلة محاضرات شهر رمضان المبارك",
+ "subject": "general",
+ "kind": "course",
+ "lang": "ar",
+ "scholarId": null,
+ "scholarIds": [
+  "سلمان-الدخيل",
+  "عبدالسلام-السحيمي",
+  "محمد-اليوبي",
+  "مسعود-المحمدي",
+  "سليمان-الغصن",
+  "علي-ابابطين",
+  "فيحان-المطيري",
+  "انيس-طاهر"
+ ],
+ "year": 1444,
+ "source": "youtube",
+ "channelId": "UC0XNCc-DU8J5_ksR-eufPaw",
+ "playlistId": "PLriFofF1xij4vzBID_9oi1HiYD6GssRvG",
+ "url": "https://www.youtube.com/playlist?list=PLriFofF1xij4vzBID_9oi1HiYD6GssRvG",
+ "thumbnail": "https://i.ytimg.com/vi/MCtqAlFqGqs/maxresdefault.jpg",
+ "lessonCount": 8,
+ "duration": 22817,
+ "lessons": [
+  {
+   "n": 1,
+   "title": "حقيقة الإخلاص",
+   "lang": "ar",
+   "scholarId": "سلمان-الدخيل",
+   "videoId": "A-tWKzlrzBA",
+   "duration": 1870,
+   "hijriDate": null
+  },
+  {
+   "n": 2,
+   "title": "الأحكام الفقهية لزائري المسجد النبوي",
+   "lang": "ar",
+   "scholarId": "عبدالسلام-السحيمي",
+   "videoId": "WlysqgNFDpw",
+   "duration": 4536,
+   "hijriDate": null
+  },
+  {
+   "n": 3,
+   "title": "الأعمال الصالحة في رمضان",
+   "lang": "ar",
+   "scholarId": "محمد-اليوبي",
+   "videoId": "rBfKzzX9r9c",
+   "duration": 1556,
+   "hijriDate": null
+  },
+  {
+   "n": 4,
+   "title": "فضل قيام الليل وثمراته",
+   "lang": "ar",
+   "scholarId": "مسعود-المحمدي",
+   "videoId": "MCtqAlFqGqs",
+   "duration": 1974,
+   "hijriDate": null
+  },
+  {
+   "n": 5,
+   "title": "فضل التوبة والاستغفار",
+   "lang": "ar",
+   "scholarId": "سليمان-الغصن",
+   "videoId": "CWhM0M0ZFMU",
+   "duration": 1970,
+   "hijriDate": null
+  },
+  {
+   "n": 6,
+   "title": "أحكام السّلام على النّبيّ صلّى الله عليه وسلّم",
+   "lang": "ar",
+   "scholarId": "علي-ابابطين",
+   "videoId": "kGFjrO5dRNg",
+   "duration": 5266,
+   "hijriDate": null
+  },
+  {
+   "n": 7,
+   "title": "الاعتكاف حكم وأحكام وآداب",
+   "lang": "ar",
+   "scholarId": "فيحان-المطيري",
+   "videoId": "yYdSJcJOiUw",
+   "duration": 1311,
+   "hijriDate": null
+  },
+  {
+   "n": 8,
+   "title": "آداب زيارة المسجد النبوي الشريف",
+   "lang": "ar",
+   "scholarId": "انيس-طاهر",
+   "videoId": "UZhyqpZbBQ0",
+   "duration": 4334,
+   "hijriDate": null
+  }
+ ]
+}

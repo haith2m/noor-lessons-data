@@ -1,0 +1,770 @@
+{
+ "id": "PLriFofF1xij7xvnMsbwzhZm_cTtT6JTs4",
+ "title": "سلسلة محاضرات من المسجد النبوي",
+ "subject": "general",
+ "kind": "course",
+ "lang": "ar",
+ "scholarId": null,
+ "scholarIds": [
+  "ابراهيم-التركي",
+  "سليمان-الغصن",
+  "بدر-البدر",
+  "عبدالرزاق-البدر",
+  "مسعود-المحمدي",
+  "عبداللطيف-الشاماني",
+  "سعود-الخلف",
+  "علي-التويجري",
+  "علي-ابابطين",
+  "عبدالله-الشنقيطي",
+  "عبدالسلام-السحيمي",
+  "جبريل-البصيلي",
+  "سلمان-الدخيل",
+  "صالح-السحيمي",
+  "عبدالعزيز-العبيد",
+  "محمد-اليوبي",
+  "سليمان-الرحيلي",
+  "سامي-الصقير",
+  "عبدالسلام-الشويعر",
+  "انيس-طاهر",
+  "احمد-السديس"
+ ],
+ "year": 1446,
+ "source": "youtube",
+ "channelId": "UC0XNCc-DU8J5_ksR-eufPaw",
+ "playlistId": "PLriFofF1xij7xvnMsbwzhZm_cTtT6JTs4",
+ "url": "https://www.youtube.com/playlist?list=PLriFofF1xij7xvnMsbwzhZm_cTtT6JTs4",
+ "thumbnail": "https://i.ytimg.com/vi/-VqWE7Gmeao/maxresdefault.jpg",
+ "lessonCount": 81,
+ "duration": 277477,
+ "lessons": [
+  {
+   "n": 1,
+   "title": "فضل صوم عاشوراء",
+   "lang": "ar",
+   "scholarId": "ابراهيم-التركي",
+   "videoId": "-VqWE7Gmeao",
+   "duration": 2671,
+   "hijriDate": null
+  },
+  {
+   "n": 2,
+   "title": "الدعاء آدابه وأحكامه",
+   "lang": "ar",
+   "scholarId": "سليمان-الغصن",
+   "videoId": "IbBbA7mYPk8",
+   "duration": 3746,
+   "hijriDate": null
+  },
+  {
+   "n": 3,
+   "title": "الذين لا خوف عليهم ولا هم يحزنون",
+   "lang": "ar",
+   "scholarId": "بدر-البدر",
+   "videoId": "KxAM-CGK5HQ",
+   "duration": 3764,
+   "hijriDate": null
+  },
+  {
+   "n": 4,
+   "title": "فضائل طلب العلم",
+   "lang": "ar",
+   "scholarId": "عبدالرزاق-البدر",
+   "videoId": "YDSVhv17H7k",
+   "duration": 2293,
+   "hijriDate": null
+  },
+  {
+   "n": 5,
+   "title": "ذكر الله فضلة وأثره",
+   "lang": "ar",
+   "scholarId": "مسعود-المحمدي",
+   "videoId": "d_VJfnJZCM4",
+   "duration": 4172,
+   "hijriDate": null
+  },
+  {
+   "n": 6,
+   "title": "ثمرات بر الوالدين وصلة الرحم",
+   "lang": "ar",
+   "scholarId": "مسعود-المحمدي",
+   "videoId": "sPH2eGkHwfc",
+   "duration": 4376,
+   "hijriDate": null
+  },
+  {
+   "n": 7,
+   "title": "من أخلاق النبي ﷺ",
+   "lang": "ar",
+   "scholarId": "عبداللطيف-الشاماني",
+   "videoId": "uYaxwXd9Tk0",
+   "duration": 3390,
+   "hijriDate": null
+  },
+  {
+   "n": 8,
+   "title": "وقفات من قوله تعالى :﴿ قل إِن كنتم...﴾",
+   "lang": "ar",
+   "scholarId": "سعود-الخلف",
+   "videoId": "w0ims-I3A2g",
+   "duration": 4046,
+   "hijriDate": null
+  },
+  {
+   "n": 9,
+   "title": "أسباب المغفرة",
+   "lang": "ar",
+   "scholarId": "ابراهيم-التركي",
+   "videoId": "MA8Vx6bqQYE",
+   "duration": 2581,
+   "hijriDate": null
+  },
+  {
+   "n": 10,
+   "title": "حقوق النبي ﷺ على أمته",
+   "lang": "ar",
+   "scholarId": "علي-التويجري",
+   "videoId": "MSSkwb8WJc0",
+   "duration": 4510,
+   "hijriDate": null
+  },
+  {
+   "n": 11,
+   "title": "حقوق ولاة الأمور",
+   "lang": "ar",
+   "scholarId": "مسعود-المحمدي",
+   "videoId": "FbwWqz5vUIU",
+   "duration": 3737,
+   "hijriDate": null
+  },
+  {
+   "n": 12,
+   "title": "تعظيم قدر الصلاة",
+   "lang": "ar",
+   "scholarId": "علي-ابابطين",
+   "videoId": "VOVd8ZXLeY0",
+   "duration": 4172,
+   "hijriDate": null
+  },
+  {
+   "n": 13,
+   "title": "﴿ياأيها الذين آمنوا لاتقدموا...﴾",
+   "lang": "ar",
+   "scholarId": "علي-التويجري",
+   "videoId": "npbWd9GkJ0s",
+   "duration": 4205,
+   "hijriDate": null
+  },
+  {
+   "n": 14,
+   "title": "﴿وَمَا آتَاكُمُ الرَّسُولُ ...﴾",
+   "lang": "ar",
+   "scholarId": "بدر-البدر",
+   "videoId": "n24IiIMAndw",
+   "duration": 3312,
+   "hijriDate": null
+  },
+  {
+   "n": 15,
+   "title": "﴿قل إِن كنتم تحبون الله...﴾",
+   "lang": "ar",
+   "scholarId": "عبدالله-الشنقيطي",
+   "videoId": "Mxn41TnUdU4",
+   "duration": 2490,
+   "hijriDate": null
+  },
+  {
+   "n": 16,
+   "title": "فمن رغب عن سنتي",
+   "lang": "ar",
+   "scholarId": "عبداللطيف-الشاماني",
+   "videoId": "uWBD855SIyQ",
+   "duration": 3126,
+   "hijriDate": null
+  },
+  {
+   "n": 17,
+   "title": "من أطاعني دخل الجنة",
+   "lang": "ar",
+   "scholarId": "علي-ابابطين",
+   "videoId": "wAJENDcfIfY",
+   "duration": 3100,
+   "hijriDate": null
+  },
+  {
+   "n": 18,
+   "title": "دور الفتوى في حفظ الضروريات الخمس",
+   "lang": "ar",
+   "scholarId": "بدر-البدر",
+   "videoId": "r-JHUJ-HB_g",
+   "duration": 3811,
+   "hijriDate": null
+  },
+  {
+   "n": 19,
+   "title": "الفتوى آداب وأحكام",
+   "lang": "ar",
+   "scholarId": "عبداللطيف-الشاماني",
+   "videoId": "Ei7Y9MciQho",
+   "duration": 3371,
+   "hijriDate": null
+  },
+  {
+   "n": 20,
+   "title": "دور الفتوى في حفظ الضرورات الخمس",
+   "lang": "ar",
+   "scholarId": "عبدالسلام-السحيمي",
+   "videoId": "2iSyhDRVqqU",
+   "duration": 3176,
+   "hijriDate": null
+  },
+  {
+   "n": 21,
+   "title": "خلق الرحمة والتسامح في ضوء الإسلام",
+   "lang": "ar",
+   "scholarId": "مسعود-المحمدي",
+   "videoId": "JtEPIK12YTA",
+   "duration": 3740,
+   "hijriDate": null
+  },
+  {
+   "n": 22,
+   "title": "﴿وإِنك لعلى خلق عظيم﴾",
+   "lang": "ar",
+   "scholarId": "بدر-البدر",
+   "videoId": "rj2wRzUP8-k",
+   "duration": 4360,
+   "hijriDate": null
+  },
+  {
+   "n": 23,
+   "title": "﴿وَإِن تُطِيعُوهُ تَهتَدُوا﴾",
+   "lang": "ar",
+   "scholarId": "جبريل-البصيلي",
+   "videoId": "Wlqrb6BhkeA",
+   "duration": 2495,
+   "hijriDate": null
+  },
+  {
+   "n": 24,
+   "title": "آداب زيارة المسجد النبوي",
+   "lang": "ar",
+   "scholarId": "مسعود-المحمدي",
+   "videoId": "ZO5Go3mXcJE",
+   "duration": 3654,
+   "hijriDate": null
+  },
+  {
+   "n": 25,
+   "title": "معاملة النبي ﷺ لزوجاته وأولاده",
+   "lang": "ar",
+   "scholarId": "مسعود-المحمدي",
+   "videoId": "HlHtBZGnWLc",
+   "duration": 3799,
+   "hijriDate": null
+  },
+  {
+   "n": 26,
+   "title": "من خصائص النبي ﷺ",
+   "lang": "ar",
+   "scholarId": "مسعود-المحمدي",
+   "videoId": "q-DA1n3ssj4",
+   "duration": 3693,
+   "hijriDate": null
+  },
+  {
+   "n": 27,
+   "title": "من معجزات النبي ﷺ",
+   "lang": "ar",
+   "scholarId": "مسعود-المحمدي",
+   "videoId": "2ZVIrjTIh14",
+   "duration": 3956,
+   "hijriDate": null
+  },
+  {
+   "n": 28,
+   "title": "ولكن ياحنظلة ساعة وساعة",
+   "lang": "ar",
+   "scholarId": "مسعود-المحمدي",
+   "videoId": "EEAYxNt2-iQ",
+   "duration": 4073,
+   "hijriDate": null
+  },
+  {
+   "n": 29,
+   "title": "ثمرات طاعة النبي ﷺ",
+   "lang": "ar",
+   "scholarId": "مسعود-المحمدي",
+   "videoId": "R4ocP-x65nA",
+   "duration": 3751,
+   "hijriDate": null
+  },
+  {
+   "n": 30,
+   "title": "أسباب دفع الهم والحزن",
+   "lang": "ar",
+   "scholarId": "مسعود-المحمدي",
+   "videoId": "g2XiwbQHQGM",
+   "duration": 4333,
+   "hijriDate": null
+  },
+  {
+   "n": 31,
+   "title": "حق المسلم على المسلم",
+   "lang": "ar",
+   "scholarId": "مسعود-المحمدي",
+   "videoId": "QBQda8-TuS4",
+   "duration": 4083,
+   "hijriDate": null
+  },
+  {
+   "n": 32,
+   "title": "فضل التوبة والاستغفار وثمراتها",
+   "lang": "ar",
+   "scholarId": "مسعود-المحمدي",
+   "videoId": "lyyAKJf4Az8",
+   "duration": 3882,
+   "hijriDate": null
+  },
+  {
+   "n": 33,
+   "title": "ثمرات التوبة والاستغفار",
+   "lang": "ar",
+   "scholarId": "مسعود-المحمدي",
+   "videoId": "KUv4t4KVZHQ",
+   "duration": 3968,
+   "hijriDate": null
+  },
+  {
+   "n": 34,
+   "title": "ثمرات بر الوالدين وصلة الأرحام",
+   "lang": "ar",
+   "scholarId": "مسعود-المحمدي",
+   "videoId": "gEBYsguSmFs",
+   "duration": 4097,
+   "hijriDate": null
+  },
+  {
+   "n": 35,
+   "title": "أسباب سعة الرزق",
+   "lang": "ar",
+   "scholarId": "مسعود-المحمدي",
+   "videoId": "mALiVwhvk9s",
+   "duration": 3781,
+   "hijriDate": null
+  },
+  {
+   "n": 36,
+   "title": "تنبيهات مهمة في استقبال شهر رمضان",
+   "lang": "ar",
+   "scholarId": "ابراهيم-التركي",
+   "videoId": "e18Z7W7LvqQ",
+   "duration": 2896,
+   "hijriDate": null
+  },
+  {
+   "n": 37,
+   "title": "أعمال القلوب وأثرها على الصيام",
+   "lang": "ar",
+   "scholarId": "سلمان-الدخيل",
+   "videoId": "43rldRzi1qQ",
+   "duration": 3631,
+   "hijriDate": null
+  },
+  {
+   "n": 38,
+   "title": "اغتنام الأوقات في رمضان",
+   "lang": "ar",
+   "scholarId": "صالح-السحيمي",
+   "videoId": "7F4gifmcELg",
+   "duration": 2040,
+   "hijriDate": null
+  },
+  {
+   "n": 39,
+   "title": "أثر القرآن على المسلم في رمضان",
+   "lang": "ar",
+   "scholarId": "سلمان-الدخيل",
+   "videoId": "peK74Y7gRrU",
+   "duration": 2231,
+   "hijriDate": null
+  },
+  {
+   "n": 40,
+   "title": "زيارة المسجد النبوي - أحكام وآداب",
+   "lang": "ar",
+   "scholarId": "سليمان-الغصن",
+   "videoId": "BetIQHjjF_I",
+   "duration": 1620,
+   "hijriDate": null
+  },
+  {
+   "n": 41,
+   "title": "فضل السنن الرواتب",
+   "lang": "ar",
+   "scholarId": "علي-ابابطين",
+   "videoId": "G8NoP4C-1Hg",
+   "duration": 2411,
+   "hijriDate": null
+  },
+  {
+   "n": 42,
+   "title": "وصايا لقمان لابنه - تفسير وبيان",
+   "lang": "ar",
+   "scholarId": "بدر-البدر",
+   "videoId": "OYyVib5g_HE",
+   "duration": 4217,
+   "hijriDate": null
+  },
+  {
+   "n": 43,
+   "title": "أخطاء يقع فيها المصلون في الطهارة والصلاة",
+   "lang": "ar",
+   "scholarId": "علي-التويجري",
+   "videoId": "S2G1eJ9Kvto",
+   "duration": 4412,
+   "hijriDate": null
+  },
+  {
+   "n": 44,
+   "title": "زيارة المسجد النبوي آداب وتوجيهات",
+   "lang": "ar",
+   "scholarId": "عبداللطيف-الشاماني",
+   "videoId": "Ow7mXK_rvBE",
+   "duration": 2948,
+   "hijriDate": null
+  },
+  {
+   "n": 45,
+   "title": "الآداب من خلال سورة الحجرات",
+   "lang": "ar",
+   "scholarId": "عبدالعزيز-العبيد",
+   "videoId": "B3Wg8FR8E9o",
+   "duration": 3810,
+   "hijriDate": null
+  },
+  {
+   "n": 46,
+   "title": "من أدعية الأنبياء في القرآن الكريم",
+   "lang": "ar",
+   "scholarId": "مسعود-المحمدي",
+   "videoId": "SaGqYFgbuBg",
+   "duration": 4122,
+   "hijriDate": null
+  },
+  {
+   "n": 47,
+   "title": "رمضان شهر الجود والإحسان",
+   "lang": "ar",
+   "scholarId": "عبداللطيف-الشاماني",
+   "videoId": "6gV3P3a6GYQ",
+   "duration": 2541,
+   "hijriDate": null
+  },
+  {
+   "n": 48,
+   "title": "هدي النبي ﷺ في رمضان",
+   "lang": "ar",
+   "scholarId": "مسعود-المحمدي",
+   "videoId": "fr_LxoLRvNk",
+   "duration": 2600,
+   "hijriDate": null
+  },
+  {
+   "n": 49,
+   "title": "رمضان والقرآن",
+   "lang": "ar",
+   "scholarId": "بدر-البدر",
+   "videoId": "OXNOKHnC8wE",
+   "duration": 2752,
+   "hijriDate": null
+  },
+  {
+   "n": 50,
+   "title": "حال السلف في رمضان",
+   "lang": "ar",
+   "scholarId": "سعود-الخلف",
+   "videoId": "7rbRAZNZQ-Y",
+   "duration": 3713,
+   "hijriDate": null
+  },
+  {
+   "n": 51,
+   "title": "الحكم التشريعية في الصوم",
+   "lang": "ar",
+   "scholarId": "محمد-اليوبي",
+   "videoId": "NBkr0SjNoz4",
+   "duration": 4124,
+   "hijriDate": null
+  },
+  {
+   "n": 52,
+   "title": "الأعمال بالخواتيم",
+   "lang": "ar",
+   "scholarId": "علي-ابابطين",
+   "videoId": "MlZnGgu0NgY",
+   "duration": 3646,
+   "hijriDate": null
+  },
+  {
+   "n": 53,
+   "title": "استقبال العشر الأواخر",
+   "lang": "ar",
+   "scholarId": "سليمان-الرحيلي",
+   "videoId": "wN6SVrRu0to",
+   "duration": 4132,
+   "hijriDate": null
+  },
+  {
+   "n": 54,
+   "title": "فضائل ليلة القدر وتحريها",
+   "lang": "ar",
+   "scholarId": "علي-التويجري",
+   "videoId": "vlzu-BeSeTg",
+   "duration": 3174,
+   "hijriDate": null
+  },
+  {
+   "n": 55,
+   "title": "توجيهات للمعتكفين والمعتكفات",
+   "lang": "ar",
+   "scholarId": "سامي-الصقير",
+   "videoId": "4t0KoFPXAPM",
+   "duration": 3342,
+   "hijriDate": null
+  },
+  {
+   "n": 56,
+   "title": "أحكام العيد وزكاة الفطر",
+   "lang": "ar",
+   "scholarId": "عبداللطيف-الشاماني",
+   "videoId": "7e4OQafU2jg",
+   "duration": 4172,
+   "hijriDate": null
+  },
+  {
+   "n": 57,
+   "title": "آداب الحج وشروطه",
+   "lang": "ar",
+   "scholarId": "ابراهيم-التركي",
+   "videoId": "Wk_a_pWFQ60",
+   "duration": 2240,
+   "hijriDate": null
+  },
+  {
+   "n": 58,
+   "title": "مقاصد الحج",
+   "lang": "ar",
+   "scholarId": "بدر-البدر",
+   "videoId": "JMNyPPge_aY",
+   "duration": 3687,
+   "hijriDate": null
+  },
+  {
+   "n": 59,
+   "title": "صفة الحج والعمرة",
+   "lang": "ar",
+   "scholarId": "علي-التويجري",
+   "videoId": "rnUj63NRi00",
+   "duration": 4206,
+   "hijriDate": null
+  },
+  {
+   "n": 60,
+   "title": "صفة الحج والعمرة",
+   "lang": "ar",
+   "scholarId": "علي-التويجري",
+   "videoId": "5cfQeqlnj2w",
+   "duration": 2256,
+   "hijriDate": null
+  },
+  {
+   "n": 61,
+   "title": "الحج المبرور",
+   "lang": "ar",
+   "scholarId": "عبدالرزاق-البدر",
+   "videoId": "lhxZ1znFnGw",
+   "duration": 2837,
+   "hijriDate": null
+  },
+  {
+   "n": 62,
+   "title": "يُسر أحكام الحج",
+   "lang": "ar",
+   "scholarId": "مسعود-المحمدي",
+   "videoId": "FLDFHoFFsdw",
+   "duration": 3933,
+   "hijriDate": null
+  },
+  {
+   "n": 63,
+   "title": "فضل الزيارة لمسجد رسول الله ﷺ",
+   "lang": "ar",
+   "scholarId": "ابراهيم-التركي",
+   "videoId": "t8ZbTtt9zOY",
+   "duration": 2079,
+   "hijriDate": null
+  },
+  {
+   "n": 64,
+   "title": "توحيد الله في الحج",
+   "lang": "ar",
+   "scholarId": "عبدالسلام-الشويعر",
+   "videoId": "BWhWkEqyenk",
+   "duration": 1293,
+   "hijriDate": null
+  },
+  {
+   "n": 65,
+   "title": "فضل أيام عشر من ذي الحجة",
+   "lang": "ar",
+   "scholarId": "عبدالعزيز-العبيد",
+   "videoId": "9XARZOPWnDE",
+   "duration": 3391,
+   "hijriDate": null
+  },
+  {
+   "n": 66,
+   "title": "مظاهر رفع الحرج في الحج",
+   "lang": "ar",
+   "scholarId": "محمد-اليوبي",
+   "videoId": "W36NfBWIh00",
+   "duration": 2893,
+   "hijriDate": null
+  },
+  {
+   "n": 67,
+   "title": "حديث جابر في صفة حج النبي ﷺ فوائد",
+   "lang": "ar",
+   "scholarId": "سعود-الخلف",
+   "videoId": "j_Ne9my4rWA",
+   "duration": 3880,
+   "hijriDate": null
+  },
+  {
+   "n": 68,
+   "title": "الحج المبرور",
+   "lang": "ar",
+   "scholarId": "صالح-السحيمي",
+   "videoId": "oBD9rDTe3CM",
+   "duration": 2637,
+   "hijriDate": null
+  },
+  {
+   "n": 69,
+   "title": "حديث جابر في صفة حج النبي ﷺ فوائد",
+   "lang": "ar",
+   "scholarId": "سعود-الخلف",
+   "videoId": "YDA8vbr-F0U",
+   "duration": 3846,
+   "hijriDate": null
+  },
+  {
+   "n": 70,
+   "title": "﴿ليشهدوا منافع لهم﴾",
+   "lang": "ar",
+   "scholarId": "سليمان-الرحيلي",
+   "videoId": "_fwlV0lpoeE",
+   "duration": 3551,
+   "hijriDate": null
+  },
+  {
+   "n": 71,
+   "title": "الأعمال الصالحة في ذي الحجة",
+   "lang": "ar",
+   "scholarId": "علي-التويجري",
+   "videoId": "6ZQcC68CT2g",
+   "duration": 4178,
+   "hijriDate": null
+  },
+  {
+   "n": 72,
+   "title": "من أحكام الأضحية",
+   "lang": "ar",
+   "scholarId": "علي-التويجري",
+   "videoId": "MxPkzYsfCtk",
+   "duration": 2481,
+   "hijriDate": null
+  },
+  {
+   "n": 73,
+   "title": "صفة الحج",
+   "lang": "ar",
+   "scholarId": "مسعود-المحمدي",
+   "videoId": "WpFwl6V9SBA",
+   "duration": 3784,
+   "hijriDate": null
+  },
+  {
+   "n": 74,
+   "title": "مخالفات تقع في الحج والعمرة والزيارة",
+   "lang": "ar",
+   "scholarId": "انيس-طاهر",
+   "videoId": "QpI1xjFzFAk",
+   "duration": 4391,
+   "hijriDate": null
+  },
+  {
+   "n": 75,
+   "title": "محظورات الإحرام",
+   "lang": "ar",
+   "scholarId": "مسعود-المحمدي",
+   "videoId": "PMLwtGFijYs",
+   "duration": 2717,
+   "hijriDate": null
+  },
+  {
+   "n": 76,
+   "title": "مجلس في فضل يوم عرفة",
+   "lang": "ar",
+   "scholarId": "احمد-السديس",
+   "videoId": "ioaZgbliKfs",
+   "duration": 3491,
+   "hijriDate": null
+  },
+  {
+   "n": 77,
+   "title": "حق الله على العباد",
+   "lang": "ar",
+   "scholarId": "مسعود-المحمدي",
+   "videoId": "bIHQ6ltpirc",
+   "duration": 4014,
+   "hijriDate": null
+  },
+  {
+   "n": 78,
+   "title": "محبة الرسول ﷺ وآثارها",
+   "lang": "ar",
+   "scholarId": "سامي-الصقير",
+   "videoId": "6rPlknCkBBw",
+   "duration": 4016,
+   "hijriDate": null
+  },
+  {
+   "n": 79,
+   "title": "أهمية التوحيد في حياة المسلم",
+   "lang": "ar",
+   "scholarId": "سامي-الصقير",
+   "videoId": "bfyhL1LVa5I",
+   "duration": 3096,
+   "hijriDate": null
+  },
+  {
+   "n": 80,
+   "title": "ماذا بعد الحج",
+   "lang": "ar",
+   "scholarId": "محمد-اليوبي",
+   "videoId": "xvLe1NAvgEc",
+   "duration": 2149,
+   "hijriDate": null
+  },
+  {
+   "n": 81,
+   "title": "دُعاء الأنبياء في القرآن",
+   "lang": "ar",
+   "scholarId": "مسعود-المحمدي",
+   "videoId": "hhKGhJeTYt8",
+   "duration": 4183,
+   "hijriDate": null
+  }
+ ]
+}

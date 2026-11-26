@@ -1,0 +1,85 @@
+{
+ "id": "PLriFofF1xij5RSsh9NQX1v5RNTdk8LTFl",
+ "title": "البرنامج العلمي في أحكام الحج",
+ "subject": "fiqh",
+ "kind": "course",
+ "lang": "ar",
+ "scholarId": null,
+ "scholarIds": [
+  "مسعود-المحمدي",
+  "سامي-الصقير"
+ ],
+ "year": null,
+ "source": "youtube",
+ "channelId": "UC0XNCc-DU8J5_ksR-eufPaw",
+ "playlistId": "PLriFofF1xij5RSsh9NQX1v5RNTdk8LTFl",
+ "url": "https://www.youtube.com/playlist?list=PLriFofF1xij5RSsh9NQX1v5RNTdk8LTFl",
+ "thumbnail": "https://i.ytimg.com/vi/T65wHDJ3vUc/maxresdefault.jpg",
+ "lessonCount": 7,
+ "duration": 27864,
+ "lessons": [
+  {
+   "n": 1,
+   "title": "كتاب التحقيق والإيضاح",
+   "lang": "ar",
+   "scholarId": "مسعود-المحمدي",
+   "videoId": "i7NyGudABIQ",
+   "duration": 3974,
+   "hijriDate": null
+  },
+  {
+   "n": 2,
+   "title": "حديث جابر في صفة حج النبي ﷺ",
+   "lang": "ar",
+   "scholarId": "سامي-الصقير",
+   "videoId": "T65wHDJ3vUc",
+   "duration": 4051,
+   "hijriDate": null
+  },
+  {
+   "n": 3,
+   "title": "حديث جابر في صفة حج النبي ﷺ",
+   "lang": "ar",
+   "scholarId": "سامي-الصقير",
+   "videoId": "EwXoKtcF4mI",
+   "duration": 3871,
+   "hijriDate": null
+  },
+  {
+   "n": 4,
+   "title": "كتاب التحقيق والإيضاح",
+   "lang": "ar",
+   "scholarId": "مسعود-المحمدي",
+   "videoId": "bPVZOILhsUE",
+   "duration": 3806,
+   "hijriDate": null
+  },
+  {
+   "n": 5,
+   "title": "كتاب التحقيق والإيضاح",
+   "lang": "ar",
+   "scholarId": "مسعود-المحمدي",
+   "videoId": "iqZPmnuJj2I",
+   "duration": 3956,
+   "hijriDate": null
+  },
+  {
+   "n": 6,
+   "title": "كتاب التحقيق والإيضاح",
+   "lang": "ar",
+   "scholarId": "مسعود-المحمدي",
+   "videoId": "BrWs3hX5GCc",
+   "duration": 4231,
+   "hijriDate": null
+  },
+  {
+   "n": 7,
+   "title": "كتاب التحقيق والإيضاح",
+   "lang": "ar",
+   "scholarId": "مسعود-المحمدي",
+   "videoId": "lW8IRi_7vmo",
+   "duration": 3975,
+   "hijriDate": null
+  }
+ ]
+}

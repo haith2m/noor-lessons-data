@@ -1,0 +1,104 @@
+{
+ "id": "PLgaTRTylCbZA2g7iXbYC52apW0ZFuWFrR",
+ "title": "الدورة العلمية الأولى عن بعد (بالعلم ننتفع)",
+ "subject": "hadith",
+ "kind": "course",
+ "lang": "ar",
+ "scholarId": null,
+ "scholarIds": [
+  "عبدالكريم-الخضير",
+  "سعد-الشثري",
+  "صالح-حميد"
+ ],
+ "year": 1442,
+ "source": "youtube",
+ "channelId": "UC3QAoXf9GN9xeQYhk-AZbTg",
+ "playlistId": "PLgaTRTylCbZA2g7iXbYC52apW0ZFuWFrR",
+ "url": "https://www.youtube.com/playlist?list=PLgaTRTylCbZA2g7iXbYC52apW0ZFuWFrR",
+ "thumbnail": "https://i.ytimg.com/vi/BmXF_6Qg7ZU/maxresdefault.jpg",
+ "lessonCount": 9,
+ "duration": 19331,
+ "lessons": [
+  {
+   "n": 1,
+   "title": "أهمية طلب العلم",
+   "lang": "ar",
+   "scholarId": "عبدالكريم-الخضير",
+   "videoId": "BmXF_6Qg7ZU",
+   "duration": 2679,
+   "hijriDate": "1442-01-28"
+  },
+  {
+   "n": 2,
+   "title": "كتاب العلم من مختصر صحيح البخاري",
+   "lang": "ar",
+   "scholarId": "سعد-الشثري",
+   "videoId": "vlUtcQyF8Mc",
+   "duration": 1909,
+   "hijriDate": "1442-01-28"
+  },
+  {
+   "n": 3,
+   "title": "كتاب العلم من مختصر صحيح البخاري",
+   "lang": "ar",
+   "scholarId": "سعد-الشثري",
+   "videoId": "cX-HrjuHKa8",
+   "duration": 1730,
+   "hijriDate": "1442-01-29"
+  },
+  {
+   "n": 4,
+   "title": "كتاب العلم من مختصر صحيح البخاري",
+   "lang": "ar",
+   "scholarId": "سعد-الشثري",
+   "videoId": "TaCqWmunUGY",
+   "duration": 1925,
+   "hijriDate": "1442-02-01"
+  },
+  {
+   "n": 5,
+   "title": "كتاب العلم من مختصر صحيح البخاري",
+   "lang": "ar",
+   "scholarId": "سعد-الشثري",
+   "videoId": "6TdHbwgpXTk",
+   "duration": 2011,
+   "hijriDate": "1442-02-03"
+  },
+  {
+   "n": 6,
+   "title": "كتاب العلم من مختصر صحيح البخاري",
+   "lang": "ar",
+   "scholarId": "سعد-الشثري",
+   "videoId": "u7UY09HeSOQ",
+   "duration": 2043,
+   "hijriDate": "1442-02-04"
+  },
+  {
+   "n": 7,
+   "title": "كتاب العلم من مختصر صحيح البخاري",
+   "lang": "ar",
+   "scholarId": "سعد-الشثري",
+   "videoId": "YnP6HLapjSc",
+   "duration": 1791,
+   "hijriDate": "1442-02-05"
+  },
+  {
+   "n": 8,
+   "title": "كتاب العلم من مختصر صحيح البخاري",
+   "lang": "ar",
+   "scholarId": "سعد-الشثري",
+   "videoId": "BmCP_u2zi9M",
+   "duration": 1673,
+   "hijriDate": "1442-02-06"
+  },
+  {
+   "n": 9,
+   "title": "سمات الفقيه والمتفقه في المسجد الحرام",
+   "lang": "ar",
+   "scholarId": "صالح-حميد",
+   "videoId": "93UtdayKKDU",
+   "duration": 3570,
+   "hijriDate": "1442-03-04"
+  }
+ ]
+}

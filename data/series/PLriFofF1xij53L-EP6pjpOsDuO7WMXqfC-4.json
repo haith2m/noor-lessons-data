@@ -1,0 +1,66 @@
+{
+ "id": "PLriFofF1xij53L-EP6pjpOsDuO7WMXqfC-4",
+ "title": "البرامج العلمية",
+ "subject": "fiqh",
+ "kind": "series",
+ "lang": "ar",
+ "scholarId": "سليمان-الغصن",
+ "scholarIds": [
+  "سليمان-الغصن"
+ ],
+ "year": null,
+ "source": "youtube",
+ "channelId": "UC0XNCc-DU8J5_ksR-eufPaw",
+ "playlistId": "PLriFofF1xij53L-EP6pjpOsDuO7WMXqfC",
+ "url": "https://www.youtube.com/playlist?list=PLriFofF1xij53L-EP6pjpOsDuO7WMXqfC",
+ "thumbnail": "https://i.ytimg.com/vi/SGQPw4bE0es/maxresdefault.jpg",
+ "lessonCount": 5,
+ "duration": 18011,
+ "lessons": [
+  {
+   "n": 1,
+   "title": "مصادرالتلقي عند السلف الصالح",
+   "lang": "ar",
+   "scholarId": "سليمان-الغصن",
+   "videoId": "SGQPw4bE0es",
+   "duration": 3346,
+   "hijriDate": null
+  },
+  {
+   "n": 2,
+   "title": "منهج الاستدلال عند السلف الصالح",
+   "lang": "ar",
+   "scholarId": "سليمان-الغصن",
+   "videoId": "QZ-3nDMVi40",
+   "duration": 4380,
+   "hijriDate": null
+  },
+  {
+   "n": 3,
+   "title": "حجيّة السنة النبوية",
+   "lang": "ar",
+   "scholarId": "سليمان-الغصن",
+   "videoId": "ix8DtoQsqA8",
+   "duration": 3170,
+   "hijriDate": null
+  },
+  {
+   "n": 4,
+   "title": "موافقة العقل للنقل",
+   "lang": "ar",
+   "scholarId": "سليمان-الغصن",
+   "videoId": "u04QriGMtuo",
+   "duration": 3270,
+   "hijriDate": null
+  },
+  {
+   "n": 5,
+   "title": "التوبة النصوح- شروطها وعوائقها",
+   "lang": "ar",
+   "scholarId": "سليمان-الغصن",
+   "videoId": "S9vMTnVyr1E",
+   "duration": 3845,
+   "hijriDate": null
+  }
+ ]
+}

@@ -1,0 +1,48 @@
+{
+ "id": "PLriFofF1xij51c6fg85sGav5so0JDO_ft",
+ "title": "الدروس العامة",
+ "subject": "aqeedah",
+ "kind": "series",
+ "lang": "ar",
+ "scholarId": "مسعود-المحمدي",
+ "scholarIds": [
+  "مسعود-المحمدي"
+ ],
+ "year": null,
+ "source": "youtube",
+ "channelId": "UC0XNCc-DU8J5_ksR-eufPaw",
+ "playlistId": "PLriFofF1xij51c6fg85sGav5so0JDO_ft",
+ "url": "https://www.youtube.com/playlist?list=PLriFofF1xij51c6fg85sGav5so0JDO_ft",
+ "thumbnail": "https://i.ytimg.com/vi/nzetNw73YUI/maxresdefault.jpg",
+ "lessonCount": 3,
+ "duration": 11679,
+ "lessons": [
+  {
+   "n": 1,
+   "title": "ثمرات طاعة الرسول ﷺ",
+   "lang": "ar",
+   "scholarId": "مسعود-المحمدي",
+   "videoId": "nzetNw73YUI",
+   "duration": 4169,
+   "hijriDate": null
+  },
+  {
+   "n": 2,
+   "title": "فقه حديث جبريل عليه السلام",
+   "lang": "ar",
+   "scholarId": "مسعود-المحمدي",
+   "videoId": "evhgrFRW8mg",
+   "duration": 3693,
+   "hijriDate": null
+  },
+  {
+   "n": 3,
+   "title": "علامات قبول العمل الصالح",
+   "lang": "ar",
+   "scholarId": "مسعود-المحمدي",
+   "videoId": "KdR_hx-tCjE",
+   "duration": 3817,
+   "hijriDate": null
+  }
+ ]
+}

@@ -1,0 +1,66 @@
+{
+ "id": "PLgaTRTylCbZCFOcMqaGxqKqIAG5unQcdR",
+ "title": "التعليق على كتاب الصيام من إحكام الأحكام",
+ "subject": "fiqh",
+ "kind": "series",
+ "lang": "ar",
+ "scholarId": "غازي-العتيبي",
+ "scholarIds": [
+  "غازي-العتيبي"
+ ],
+ "year": null,
+ "source": "youtube",
+ "channelId": "UC3QAoXf9GN9xeQYhk-AZbTg",
+ "playlistId": "PLgaTRTylCbZCFOcMqaGxqKqIAG5unQcdR",
+ "url": "https://www.youtube.com/playlist?list=PLgaTRTylCbZCFOcMqaGxqKqIAG5unQcdR",
+ "thumbnail": "https://i.ytimg.com/vi/k_oKuxKT51Q/maxresdefault.jpg",
+ "lessonCount": 5,
+ "duration": 20042,
+ "lessons": [
+  {
+   "n": 1,
+   "title": "الدرس 1",
+   "lang": "ar",
+   "scholarId": "غازي-العتيبي",
+   "videoId": "k_oKuxKT51Q",
+   "duration": 4381,
+   "hijriDate": null
+  },
+  {
+   "n": 2,
+   "title": "الدرس 2",
+   "lang": "ar",
+   "scholarId": "غازي-العتيبي",
+   "videoId": "F79YSAZckEo",
+   "duration": 4663,
+   "hijriDate": null
+  },
+  {
+   "n": 3,
+   "title": "الدرس 3",
+   "lang": "ar",
+   "scholarId": "غازي-العتيبي",
+   "videoId": "Rn-BX64xtso",
+   "duration": 4184,
+   "hijriDate": null
+  },
+  {
+   "n": 4,
+   "title": "الدرس 4",
+   "lang": "ar",
+   "scholarId": "غازي-العتيبي",
+   "videoId": "qa8sQXVjV1g",
+   "duration": 3549,
+   "hijriDate": null
+  },
+  {
+   "n": 5,
+   "title": "الدرس 5",
+   "lang": "ar",
+   "scholarId": "غازي-العتيبي",
+   "videoId": "36a4x_PY-z4",
+   "duration": 3265,
+   "hijriDate": null
+  }
+ ]
+}

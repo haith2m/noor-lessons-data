@@ -1,0 +1,100 @@
+{
+ "id": "PLgaTRTylCbZAwwzxZhdFE3w1zfdthc8yP",
+ "title": "الدورة العلمية الخامسة (الصيام حكم وأحكام)",
+ "subject": "fiqh",
+ "kind": "course",
+ "lang": "ar",
+ "scholarId": null,
+ "scholarIds": [
+  "احمد-المزروع",
+  "جبريل-البصيلي",
+  "خالد-عروس",
+  "سعد-الخثلان",
+  "شرف-الشريف",
+  "سليمان-التويجري",
+  "عبدالمحسن-الزامل",
+  "عبدالسلام-السليمان"
+ ],
+ "year": 1442,
+ "source": "youtube",
+ "channelId": "UC3QAoXf9GN9xeQYhk-AZbTg",
+ "playlistId": "PLgaTRTylCbZAwwzxZhdFE3w1zfdthc8yP",
+ "url": "https://www.youtube.com/playlist?list=PLgaTRTylCbZAwwzxZhdFE3w1zfdthc8yP",
+ "thumbnail": "https://i.ytimg.com/vi/hIL09aK1kJA/maxresdefault.jpg",
+ "lessonCount": 8,
+ "duration": 18890,
+ "lessons": [
+  {
+   "n": 1,
+   "title": "وأقبل شهر الصوم",
+   "lang": "ar",
+   "scholarId": "احمد-المزروع",
+   "videoId": "hIL09aK1kJA",
+   "duration": 1190,
+   "hijriDate": "1442-08-23"
+  },
+  {
+   "n": 2,
+   "title": "القرآن فضائله وأحكامه",
+   "lang": "ar",
+   "scholarId": "جبريل-البصيلي",
+   "videoId": "YjW_QX-8gyM",
+   "duration": 1019,
+   "hijriDate": "1442-08-23"
+  },
+  {
+   "n": 3,
+   "title": "مقاصد الصيام",
+   "lang": "ar",
+   "scholarId": "خالد-عروس",
+   "videoId": "KFBNZ8Tv73c",
+   "duration": 2582,
+   "hijriDate": "1442-08-24"
+  },
+  {
+   "n": 4,
+   "title": "أحكام الزكاة",
+   "lang": "ar",
+   "scholarId": "سعد-الخثلان",
+   "videoId": "0TqluBQpLm0",
+   "duration": 1023,
+   "hijriDate": "1442-08-24"
+  },
+  {
+   "n": 5,
+   "title": "أهم أحكام الصيام وحكمه",
+   "lang": "ar",
+   "scholarId": "شرف-الشريف",
+   "videoId": "MjJBoJXNYec",
+   "duration": 4092,
+   "hijriDate": "1442-08-25"
+  },
+  {
+   "n": 6,
+   "title": "أثر تحقيق التوحيد في عبادة المسلم",
+   "lang": "ar",
+   "scholarId": "سليمان-التويجري",
+   "videoId": "hXF1amU3Pyg",
+   "duration": 3106,
+   "hijriDate": "1442-08-25"
+  },
+  {
+   "n": 7,
+   "title": "أحاديث رمضانية ضعيفة مشهورة",
+   "lang": "ar",
+   "scholarId": "عبدالمحسن-الزامل",
+   "videoId": "bbyWCc2UscU",
+   "duration": 3535,
+   "hijriDate": "1442-08-26"
+  },
+  {
+   "n": 8,
+   "title": "قيام الليل فضائل وأحكام",
+   "lang": "ar",
+   "scholarId": "عبدالسلام-السليمان",
+   "videoId": "jGnoC7U_IYs",
+   "duration": 2343,
+   "hijriDate": "1442-08-26"
+  }
+ ]
+}

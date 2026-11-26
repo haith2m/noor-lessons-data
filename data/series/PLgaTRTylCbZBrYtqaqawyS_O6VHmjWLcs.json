@@ -1,0 +1,60 @@
+{
+ "id": "PLgaTRTylCbZBrYtqaqawyS_O6VHmjWLcs",
+ "title": "الدورة العلمية الأولى (الشمائل المحمدية 2)",
+ "subject": "seerah",
+ "kind": "course",
+ "lang": "ar",
+ "scholarId": null,
+ "scholarIds": [
+  "احمد-المزروع",
+  "سامي-الصقير",
+  "عبدالسلام-السليمان",
+  "جبريل-البصيلي"
+ ],
+ "year": 1443,
+ "source": "youtube",
+ "channelId": "UC3QAoXf9GN9xeQYhk-AZbTg",
+ "playlistId": "PLgaTRTylCbZBrYtqaqawyS_O6VHmjWLcs",
+ "url": "https://www.youtube.com/playlist?list=PLgaTRTylCbZBrYtqaqawyS_O6VHmjWLcs",
+ "thumbnail": "https://i.ytimg.com/vi/1vMx6KqY4II/maxresdefault.jpg",
+ "lessonCount": 4,
+ "duration": 8443,
+ "lessons": [
+  {
+   "n": 1,
+   "title": "فضائل الصلاة على النبي ﷺ ومواطنها",
+   "lang": "ar",
+   "scholarId": "احمد-المزروع",
+   "videoId": "hp23n7OcWCI",
+   "duration": 2239,
+   "hijriDate": "1443-03-04"
+  },
+  {
+   "n": 2,
+   "title": "محبة النبي ﷺ ومقتضياتها",
+   "lang": "ar",
+   "scholarId": "سامي-الصقير",
+   "videoId": "1vMx6KqY4II",
+   "duration": 3724,
+   "hijriDate": "1443-03-06"
+  },
+  {
+   "n": 3,
+   "title": "هدي النبي ﷺ في التعامل مع المخالف",
+   "lang": "ar",
+   "scholarId": "عبدالسلام-السليمان",
+   "videoId": "x0Zw80s531Q",
+   "duration": 1579,
+   "hijriDate": "1443-03-08"
+  },
+  {
+   "n": 4,
+   "title": "كان خُلقه القرآن ﷺ",
+   "lang": "ar",
+   "scholarId": "جبريل-البصيلي",
+   "videoId": "-Pg7_ETfoLU",
+   "duration": 901,
+   "hijriDate": "1443-03-08"
+  }
+ ]
+}

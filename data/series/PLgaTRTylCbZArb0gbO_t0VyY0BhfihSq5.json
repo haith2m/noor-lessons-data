@@ -1,0 +1,110 @@
+{
+ "id": "PLgaTRTylCbZArb0gbO_t0VyY0BhfihSq5",
+ "title": "الدورة العلمية الثانية لأئمة الحرمين الشريفين",
+ "subject": "tafsir",
+ "kind": "course",
+ "lang": "ar",
+ "scholarId": null,
+ "scholarIds": [
+  "احمد-الحذيفي",
+  "محمد-برهجي",
+  "عبدالرحمن-السديس",
+  "عبدالله-البعيجان",
+  "ياسر-الدوسري",
+  "فيصل-غزاوي",
+  "بدر-التركي",
+  "بندر-بليله",
+  "صالح-حميد"
+ ],
+ "year": 1447,
+ "source": "youtube",
+ "channelId": "UC3QAoXf9GN9xeQYhk-AZbTg",
+ "playlistId": "PLgaTRTylCbZArb0gbO_t0VyY0BhfihSq5",
+ "url": "https://www.youtube.com/playlist?list=PLgaTRTylCbZArb0gbO_t0VyY0BhfihSq5",
+ "thumbnail": "https://i.ytimg.com/vi/Efrdw9Ot9K4/maxresdefault.jpg",
+ "lessonCount": 9,
+ "duration": 32866,
+ "lessons": [
+  {
+   "n": 1,
+   "title": "وقفات مع آيات الصيام",
+   "lang": "ar",
+   "scholarId": "احمد-الحذيفي",
+   "videoId": "cECV8sUhVak",
+   "duration": 4414,
+   "hijriDate": "1447-08-14"
+  },
+  {
+   "n": 2,
+   "title": "شعبان شهر القُرّآء",
+   "lang": "ar",
+   "scholarId": "محمد-برهجي",
+   "videoId": "zqIp6SMjNPA",
+   "duration": 3183,
+   "hijriDate": "1447-08-15"
+  },
+  {
+   "n": 3,
+   "title": "آيات وأحاديث الصيام وهدي النبي ﷺ في رمضان",
+   "lang": "ar",
+   "scholarId": "عبدالرحمن-السديس",
+   "videoId": "RUmT2AJ6Nfc",
+   "duration": 3787,
+   "hijriDate": "1447-08-16"
+  },
+  {
+   "n": 4,
+   "title": "أحاديث الصيام",
+   "lang": "ar",
+   "scholarId": "عبدالله-البعيجان",
+   "videoId": "_70W-j-qemI",
+   "duration": 3825,
+   "hijriDate": "1447-08-17"
+  },
+  {
+   "n": 5,
+   "title": "مقاصد الصيام",
+   "lang": "ar",
+   "scholarId": "ياسر-الدوسري",
+   "videoId": "QcJzaabIjRg",
+   "duration": 4425,
+   "hijriDate": "1447-08-18"
+  },
+  {
+   "n": 6,
+   "title": "فقه الأوبة في شهر التوبة",
+   "lang": "ar",
+   "scholarId": "فيصل-غزاوي",
+   "videoId": "kEgAbkrOukg",
+   "duration": 3713,
+   "hijriDate": "1447-08-19"
+  },
+  {
+   "n": 7,
+   "title": "رمضان والقرآن",
+   "lang": "ar",
+   "scholarId": "بدر-التركي",
+   "videoId": "ob24q0C0JKY",
+   "duration": 3020,
+   "hijriDate": "1447-08-21"
+  },
+  {
+   "n": 8,
+   "title": "مع رسول الله ﷺ في رمضان",
+   "lang": "ar",
+   "scholarId": "بندر-بليله",
+   "videoId": "6QaXLS1S3eA",
+   "duration": 3315,
+   "hijriDate": "1447-08-22"
+  },
+  {
+   "n": 9,
+   "title": "استقبال رمضان",
+   "lang": "ar",
+   "scholarId": "صالح-حميد",
+   "videoId": "Efrdw9Ot9K4",
+   "duration": 3184,
+   "hijriDate": "1447-08-26"
+  }
+ ]
+}

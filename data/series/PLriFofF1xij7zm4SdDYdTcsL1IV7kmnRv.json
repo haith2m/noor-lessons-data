@@ -1,0 +1,39 @@
+{
+ "id": "PLriFofF1xij7zm4SdDYdTcsL1IV7kmnRv",
+ "title": "كتاب التوحيد",
+ "subject": "aqeedah",
+ "kind": "series",
+ "lang": "ar",
+ "scholarId": "صالح-السحيمي",
+ "scholarIds": [
+  "صالح-السحيمي"
+ ],
+ "year": null,
+ "source": "youtube",
+ "channelId": "UC0XNCc-DU8J5_ksR-eufPaw",
+ "playlistId": "PLriFofF1xij7zm4SdDYdTcsL1IV7kmnRv",
+ "url": "https://www.youtube.com/playlist?list=PLriFofF1xij7zm4SdDYdTcsL1IV7kmnRv",
+ "thumbnail": "https://i.ytimg.com/vi/u8E3CleS1Hc/maxresdefault.jpg",
+ "lessonCount": 2,
+ "duration": 4756,
+ "lessons": [
+  {
+   "n": 1,
+   "title": "الدرس 1",
+   "lang": "ar",
+   "scholarId": "صالح-السحيمي",
+   "videoId": "u8E3CleS1Hc",
+   "duration": 1907,
+   "hijriDate": null
+  },
+  {
+   "n": 2,
+   "title": "الدرس 2",
+   "lang": "ar",
+   "scholarId": "صالح-السحيمي",
+   "videoId": "XmG6O3GzrtU",
+   "duration": 2849,
+   "hijriDate": null
+  }
+ ]
+}

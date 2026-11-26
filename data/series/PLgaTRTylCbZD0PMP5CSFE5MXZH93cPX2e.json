@@ -1,0 +1,66 @@
+{
+ "id": "PLgaTRTylCbZD0PMP5CSFE5MXZH93cPX2e",
+ "title": "شرح كتاب الإجارة إلى الوصايا من عمدة الفقه",
+ "subject": "fiqh",
+ "kind": "series",
+ "lang": "ar",
+ "scholarId": "سعد-الخثلان",
+ "scholarIds": [
+  "سعد-الخثلان"
+ ],
+ "year": null,
+ "source": "youtube",
+ "channelId": "UC3QAoXf9GN9xeQYhk-AZbTg",
+ "playlistId": "PLgaTRTylCbZD0PMP5CSFE5MXZH93cPX2e",
+ "url": "https://www.youtube.com/playlist?list=PLgaTRTylCbZD0PMP5CSFE5MXZH93cPX2e",
+ "thumbnail": "https://i.ytimg.com/vi/BzlGHZCGAo0/maxresdefault.jpg",
+ "lessonCount": 5,
+ "duration": 16524,
+ "lessons": [
+  {
+   "n": 1,
+   "title": "الدرس 1",
+   "lang": "ar",
+   "scholarId": "سعد-الخثلان",
+   "videoId": "BzlGHZCGAo0",
+   "duration": 3742,
+   "hijriDate": null
+  },
+  {
+   "n": 2,
+   "title": "الدرس 2",
+   "lang": "ar",
+   "scholarId": "سعد-الخثلان",
+   "videoId": "Jvkh8NW10cM",
+   "duration": 2980,
+   "hijriDate": null
+  },
+  {
+   "n": 3,
+   "title": "الدرس 3",
+   "lang": "ar",
+   "scholarId": "سعد-الخثلان",
+   "videoId": "hHozks4NrpE",
+   "duration": 3285,
+   "hijriDate": null
+  },
+  {
+   "n": 4,
+   "title": "الدرس 4",
+   "lang": "ar",
+   "scholarId": "سعد-الخثلان",
+   "videoId": "r6PtO7ltTTk",
+   "duration": 3280,
+   "hijriDate": null
+  },
+  {
+   "n": 5,
+   "title": "الدرس 5",
+   "lang": "ar",
+   "scholarId": "سعد-الخثلان",
+   "videoId": "7vmN3hKhAqo",
+   "duration": 3237,
+   "hijriDate": null
+  }
+ ]
+}

@@ -1,0 +1,48 @@
+{
+ "id": "PLriFofF1xij7fs9C93Xuzp3RAGlIS-ZLA",
+ "title": "رسالة الأصول الستة",
+ "subject": "aqeedah",
+ "kind": "series",
+ "lang": "ar",
+ "scholarId": "سليمان-الغصن",
+ "scholarIds": [
+  "سليمان-الغصن"
+ ],
+ "year": null,
+ "source": "youtube",
+ "channelId": "UC0XNCc-DU8J5_ksR-eufPaw",
+ "playlistId": "PLriFofF1xij7fs9C93Xuzp3RAGlIS-ZLA",
+ "url": "https://www.youtube.com/playlist?list=PLriFofF1xij7fs9C93Xuzp3RAGlIS-ZLA",
+ "thumbnail": "https://i.ytimg.com/vi/a14KnrI_vyI/maxresdefault.jpg",
+ "lessonCount": 3,
+ "duration": 11655,
+ "lessons": [
+  {
+   "n": 1,
+   "title": "الدرس 1",
+   "lang": "ar",
+   "scholarId": "سليمان-الغصن",
+   "videoId": "a14KnrI_vyI",
+   "duration": 3874,
+   "hijriDate": null
+  },
+  {
+   "n": 2,
+   "title": "الدرس 2",
+   "lang": "ar",
+   "scholarId": "سليمان-الغصن",
+   "videoId": "2dE71-Ml4hA",
+   "duration": 3965,
+   "hijriDate": null
+  },
+  {
+   "n": 3,
+   "title": "الدرس 3",
+   "lang": "ar",
+   "scholarId": "سليمان-الغصن",
+   "videoId": "TXGwTxYn_FM",
+   "duration": 3816,
+   "hijriDate": null
+  }
+ ]
+}

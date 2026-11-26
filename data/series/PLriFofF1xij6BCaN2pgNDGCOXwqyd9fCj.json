@@ -1,0 +1,30 @@
+{
+ "id": "PLriFofF1xij6BCaN2pgNDGCOXwqyd9fCj",
+ "title": "اللقاءات العلمية",
+ "subject": "fiqh",
+ "kind": "series",
+ "lang": "ar",
+ "scholarId": "سليمان-الرحيلي",
+ "scholarIds": [
+  "سليمان-الرحيلي"
+ ],
+ "year": null,
+ "source": "youtube",
+ "channelId": "UC0XNCc-DU8J5_ksR-eufPaw",
+ "playlistId": "PLriFofF1xij6BCaN2pgNDGCOXwqyd9fCj",
+ "url": "https://www.youtube.com/playlist?list=PLriFofF1xij6BCaN2pgNDGCOXwqyd9fCj",
+ "thumbnail": "https://i.ytimg.com/vi/otwwTXLgS4M/maxresdefault.jpg",
+ "lessonCount": 1,
+ "duration": 4613,
+ "lessons": [
+  {
+   "n": 1,
+   "title": "الأحكام الفقهية المعاصرة (مستجدات...)",
+   "lang": "ar",
+   "scholarId": "سليمان-الرحيلي",
+   "videoId": "otwwTXLgS4M",
+   "duration": 4613,
+   "hijriDate": null
+  }
+ ]
+}

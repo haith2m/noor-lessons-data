@@ -1,0 +1,80 @@
+{
+ "id": "PLriFofF1xij51TUxcAnc2IZ_Ze0PIxFuN",
+ "title": "ندوة الفتوى في الحرمين الشريفين وأثرها في التيسير على قاصديهما 1 (البرنامج العلمي من رحاب المسجد النبوي)",
+ "subject": "fiqh",
+ "kind": "course",
+ "lang": "ar",
+ "scholarId": null,
+ "scholarIds": [
+  "سليمان-الرحيلي",
+  "عبداللطيف-الشاماني",
+  "عبدالسلام-الشويعر",
+  "علي-ابابطين",
+  "عبدالله-الزاحم",
+  "صالح-السحيمي"
+ ],
+ "year": null,
+ "source": "youtube",
+ "channelId": "UC0XNCc-DU8J5_ksR-eufPaw",
+ "playlistId": "PLriFofF1xij51TUxcAnc2IZ_Ze0PIxFuN",
+ "url": "https://www.youtube.com/playlist?list=PLriFofF1xij51TUxcAnc2IZ_Ze0PIxFuN",
+ "thumbnail": "https://i.ytimg.com/vi/vSCUG70aBiE/maxresdefault.jpg",
+ "lessonCount": 6,
+ "duration": 19048,
+ "lessons": [
+  {
+   "n": 1,
+   "title": "الفتوى بين التيسير",
+   "lang": "ar",
+   "scholarId": "سليمان-الرحيلي",
+   "videoId": "vSCUG70aBiE",
+   "duration": 4730,
+   "hijriDate": null
+  },
+  {
+   "n": 2,
+   "title": "آداب المستفتي وموقفه من",
+   "lang": "ar",
+   "scholarId": "عبداللطيف-الشاماني",
+   "videoId": "GRrcLaeZpAo",
+   "duration": 2491,
+   "hijriDate": null
+  },
+  {
+   "n": 3,
+   "title": "المستجدات والنوازل الفقهية",
+   "lang": "ar",
+   "scholarId": "عبدالسلام-الشويعر",
+   "videoId": "3iaUpm4jTlQ",
+   "duration": 2692,
+   "hijriDate": null
+  },
+  {
+   "n": 4,
+   "title": "أثر اختلاف الزمان والمكان في تغير",
+   "lang": "ar",
+   "scholarId": "علي-ابابطين",
+   "videoId": "zr2FV8Ydgd4",
+   "duration": 1190,
+   "hijriDate": null
+  },
+  {
+   "n": 5,
+   "title": "أهمية الإفتاء وحكمه",
+   "lang": "ar",
+   "scholarId": "عبدالله-الزاحم",
+   "videoId": "xFmVCMApKlc",
+   "duration": 4970,
+   "hijriDate": null
+  },
+  {
+   "n": 6,
+   "title": "الفتوى تعريفها وأهميتها",
+   "lang": "ar",
+   "scholarId": "صالح-السحيمي",
+   "videoId": "USoIFSdc_Bo",
+   "duration": 2975,
+   "hijriDate": null
+  }
+ ]
+}

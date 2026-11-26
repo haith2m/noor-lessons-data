@@ -1,0 +1,75 @@
+{
+ "id": "PLriFofF1xij7_Uc44DvMzIrOg2pAmqo0s",
+ "title": "فضائل القرآن من كتاب صحيح البخاري",
+ "subject": "hadith",
+ "kind": "series",
+ "lang": "ar",
+ "scholarId": "احمد-السديس",
+ "scholarIds": [
+  "احمد-السديس"
+ ],
+ "year": null,
+ "source": "youtube",
+ "channelId": "UC0XNCc-DU8J5_ksR-eufPaw",
+ "playlistId": "PLriFofF1xij7_Uc44DvMzIrOg2pAmqo0s",
+ "url": "https://www.youtube.com/playlist?list=PLriFofF1xij7_Uc44DvMzIrOg2pAmqo0s",
+ "thumbnail": "https://i.ytimg.com/vi/Ep2wQx-PEq0/maxresdefault.jpg",
+ "lessonCount": 6,
+ "duration": 11498,
+ "lessons": [
+  {
+   "n": 1,
+   "title": "الدرس 1",
+   "lang": "ar",
+   "scholarId": "احمد-السديس",
+   "videoId": "Ep2wQx-PEq0",
+   "duration": 1653,
+   "hijriDate": null
+  },
+  {
+   "n": 2,
+   "title": "الدرس 2",
+   "lang": "ar",
+   "scholarId": "احمد-السديس",
+   "videoId": "zWNawsdUKrE",
+   "duration": 2131,
+   "hijriDate": null
+  },
+  {
+   "n": 3,
+   "title": "الدرس 3",
+   "lang": "ar",
+   "scholarId": "احمد-السديس",
+   "videoId": "EPWd0s9pzOk",
+   "duration": 2106,
+   "hijriDate": null
+  },
+  {
+   "n": 4,
+   "title": "الدرس 4",
+   "lang": "ar",
+   "scholarId": "احمد-السديس",
+   "videoId": "n8XExLkByrs",
+   "duration": 1822,
+   "hijriDate": null
+  },
+  {
+   "n": 5,
+   "title": "الدرس 5",
+   "lang": "ar",
+   "scholarId": "احمد-السديس",
+   "videoId": "h9r-7D7MntY",
+   "duration": 1844,
+   "hijriDate": null
+  },
+  {
+   "n": 6,
+   "title": "الدرس 6",
+   "lang": "ar",
+   "scholarId": "احمد-السديس",
+   "videoId": "u6QJc28wwow",
+   "duration": 1942,
+   "hijriDate": null
+  }
+ ]
+}

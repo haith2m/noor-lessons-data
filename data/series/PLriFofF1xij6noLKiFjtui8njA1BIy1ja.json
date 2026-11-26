@@ -1,0 +1,57 @@
+{
+ "id": "PLriFofF1xij6noLKiFjtui8njA1BIy1ja",
+ "title": "الأربعين النووية",
+ "subject": "hadith",
+ "kind": "series",
+ "lang": "ar",
+ "scholarId": "عبدالله-الغنيمان",
+ "scholarIds": [
+  "عبدالله-الغنيمان"
+ ],
+ "year": null,
+ "source": "youtube",
+ "channelId": "UC0XNCc-DU8J5_ksR-eufPaw",
+ "playlistId": "PLriFofF1xij6noLKiFjtui8njA1BIy1ja",
+ "url": "https://www.youtube.com/playlist?list=PLriFofF1xij6noLKiFjtui8njA1BIy1ja",
+ "thumbnail": "https://i.ytimg.com/vi/IDMGmExZbiA/maxresdefault.jpg",
+ "lessonCount": 4,
+ "duration": 17446,
+ "lessons": [
+  {
+   "n": 1,
+   "title": "الدرس 1",
+   "lang": "ar",
+   "scholarId": "عبدالله-الغنيمان",
+   "videoId": "IDMGmExZbiA",
+   "duration": 4235,
+   "hijriDate": null
+  },
+  {
+   "n": 2,
+   "title": "الدرس 2",
+   "lang": "ar",
+   "scholarId": "عبدالله-الغنيمان",
+   "videoId": "qyH4tGzLMP8",
+   "duration": 4619,
+   "hijriDate": null
+  },
+  {
+   "n": 3,
+   "title": "الدرس 3",
+   "lang": "ar",
+   "scholarId": "عبدالله-الغنيمان",
+   "videoId": "13VUoZnn9ks",
+   "duration": 4306,
+   "hijriDate": null
+  },
+  {
+   "n": 4,
+   "title": "الدرس 4",
+   "lang": "ar",
+   "scholarId": "عبدالله-الغنيمان",
+   "videoId": "WkLCzbbgMAE",
+   "duration": 4286,
+   "hijriDate": null
+  }
+ ]
+}

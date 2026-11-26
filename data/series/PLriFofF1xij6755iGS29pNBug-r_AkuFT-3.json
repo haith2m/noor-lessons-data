@@ -1,0 +1,39 @@
+{
+ "id": "PLriFofF1xij6755iGS29pNBug-r_AkuFT-3",
+ "title": "رسالة صفة صلاة النبي ﷺ لابن باز",
+ "subject": "fiqh",
+ "kind": "series",
+ "lang": "ar",
+ "scholarId": "سليمان-الرحيلي",
+ "scholarIds": [
+  "سليمان-الرحيلي"
+ ],
+ "year": null,
+ "source": "youtube",
+ "channelId": "UC0XNCc-DU8J5_ksR-eufPaw",
+ "playlistId": "PLriFofF1xij6755iGS29pNBug-r_AkuFT",
+ "url": "https://www.youtube.com/playlist?list=PLriFofF1xij6755iGS29pNBug-r_AkuFT",
+ "thumbnail": "https://i.ytimg.com/vi/EeRhyUmIDbg/maxresdefault.jpg",
+ "lessonCount": 2,
+ "duration": 10442,
+ "lessons": [
+  {
+   "n": 1,
+   "title": "الدرس 1",
+   "lang": "ar",
+   "scholarId": "سليمان-الرحيلي",
+   "videoId": "x8-N-U4cPdk",
+   "duration": 6206,
+   "hijriDate": null
+  },
+  {
+   "n": 2,
+   "title": "الدرس 2",
+   "lang": "ar",
+   "scholarId": "سليمان-الرحيلي",
+   "videoId": "PaZwWpKGK6Y",
+   "duration": 4236,
+   "hijriDate": null
+  }
+ ]
+}

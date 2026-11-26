@@ -1,0 +1,48 @@
+{
+ "id": "PLriFofF1xij6C05BPH4GqTPDgZ5Vq78IQ",
+ "title": "أسماء رسول الله ﷺ ومعانيها",
+ "subject": "general",
+ "kind": "series",
+ "lang": "ar",
+ "scholarId": "عبدالسلام-الشويعر",
+ "scholarIds": [
+  "عبدالسلام-الشويعر"
+ ],
+ "year": null,
+ "source": "youtube",
+ "channelId": "UC0XNCc-DU8J5_ksR-eufPaw",
+ "playlistId": "PLriFofF1xij6C05BPH4GqTPDgZ5Vq78IQ",
+ "url": "https://www.youtube.com/playlist?list=PLriFofF1xij6C05BPH4GqTPDgZ5Vq78IQ",
+ "thumbnail": "https://i.ytimg.com/vi/WANqzPAOrzY/maxresdefault.jpg",
+ "lessonCount": 3,
+ "duration": 11313,
+ "lessons": [
+  {
+   "n": 1,
+   "title": "الدرس 1",
+   "lang": "ar",
+   "scholarId": "عبدالسلام-الشويعر",
+   "videoId": "WANqzPAOrzY",
+   "duration": 4161,
+   "hijriDate": null
+  },
+  {
+   "n": 2,
+   "title": "الدرس 2",
+   "lang": "ar",
+   "scholarId": "عبدالسلام-الشويعر",
+   "videoId": "dyhBfYI1Eqk",
+   "duration": 3631,
+   "hijriDate": null
+  },
+  {
+   "n": 3,
+   "title": "الدرس 3",
+   "lang": "ar",
+   "scholarId": "عبدالسلام-الشويعر",
+   "videoId": "6989r6t6SI0",
+   "duration": 3521,
+   "hijriDate": null
+  }
+ ]
+}

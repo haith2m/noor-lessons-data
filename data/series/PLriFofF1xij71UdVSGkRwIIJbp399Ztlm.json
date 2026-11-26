@@ -1,0 +1,48 @@
+{
+ "id": "PLriFofF1xij71UdVSGkRwIIJbp399Ztlm",
+ "title": "رسالة الأصول الثلاثة",
+ "subject": "aqeedah",
+ "kind": "series",
+ "lang": "ar",
+ "scholarId": "عبدالرزاق-البدر",
+ "scholarIds": [
+  "عبدالرزاق-البدر"
+ ],
+ "year": null,
+ "source": "youtube",
+ "channelId": "UC0XNCc-DU8J5_ksR-eufPaw",
+ "playlistId": "PLriFofF1xij71UdVSGkRwIIJbp399Ztlm",
+ "url": "https://www.youtube.com/playlist?list=PLriFofF1xij71UdVSGkRwIIJbp399Ztlm",
+ "thumbnail": "https://i.ytimg.com/vi/QTddnzHHW1M/maxresdefault.jpg",
+ "lessonCount": 3,
+ "duration": 11139,
+ "lessons": [
+  {
+   "n": 1,
+   "title": "الدرس 1",
+   "lang": "ar",
+   "scholarId": "عبدالرزاق-البدر",
+   "videoId": "QTddnzHHW1M",
+   "duration": 3785,
+   "hijriDate": null
+  },
+  {
+   "n": 2,
+   "title": "الدرس 2",
+   "lang": "ar",
+   "scholarId": "عبدالرزاق-البدر",
+   "videoId": "Gd4B4PTeqXU",
+   "duration": 3548,
+   "hijriDate": null
+  },
+  {
+   "n": 3,
+   "title": "الدرس 3",
+   "lang": "ar",
+   "scholarId": "عبدالرزاق-البدر",
+   "videoId": "02EiIozLysQ",
+   "duration": 3806,
+   "hijriDate": null
+  }
+ ]
+}

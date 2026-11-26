@@ -1,0 +1,57 @@
+{
+ "id": "PLriFofF1xij6wwXF6xz17it3rnBbs8Tpj-1",
+ "title": "الكفاية الصغرى في (الصيام)",
+ "subject": "fiqh",
+ "kind": "series",
+ "lang": "ar",
+ "scholarId": "عبدالله-الزاحم",
+ "scholarIds": [
+  "عبدالله-الزاحم"
+ ],
+ "year": null,
+ "source": "youtube",
+ "channelId": "UC0XNCc-DU8J5_ksR-eufPaw",
+ "playlistId": "PLriFofF1xij6wwXF6xz17it3rnBbs8Tpj",
+ "url": "https://www.youtube.com/playlist?list=PLriFofF1xij6wwXF6xz17it3rnBbs8Tpj",
+ "thumbnail": "https://i.ytimg.com/vi/OnA3Cs5Osy4/maxresdefault.jpg",
+ "lessonCount": 4,
+ "duration": 15081,
+ "lessons": [
+  {
+   "n": 1,
+   "title": "الدرس 1",
+   "lang": "ar",
+   "scholarId": "عبدالله-الزاحم",
+   "videoId": "OnA3Cs5Osy4",
+   "duration": 3120,
+   "hijriDate": null
+  },
+  {
+   "n": 2,
+   "title": "الدرس 2",
+   "lang": "ar",
+   "scholarId": "عبدالله-الزاحم",
+   "videoId": "YEaoq_v8WUk",
+   "duration": 3353,
+   "hijriDate": null
+  },
+  {
+   "n": 3,
+   "title": "الدرس 3",
+   "lang": "ar",
+   "scholarId": "عبدالله-الزاحم",
+   "videoId": "wA029hpAFiM",
+   "duration": 4402,
+   "hijriDate": null
+  },
+  {
+   "n": 4,
+   "title": "الدرس 4",
+   "lang": "ar",
+   "scholarId": "عبدالله-الزاحم",
+   "videoId": "64zYpvu2w-A",
+   "duration": 4206,
+   "hijriDate": null
+  }
+ ]
+}

@@ -1,0 +1,48 @@
+{
+ "id": "PLriFofF1xij7Ss_FK-jlIeiMvMlarkWzk-1",
+ "title": "الموقظة للذهبي",
+ "subject": "hadith",
+ "kind": "series",
+ "lang": "ar",
+ "scholarId": "انيس-طاهر",
+ "scholarIds": [
+  "انيس-طاهر"
+ ],
+ "year": null,
+ "source": "youtube",
+ "channelId": "UC0XNCc-DU8J5_ksR-eufPaw",
+ "playlistId": "PLriFofF1xij7Ss_FK-jlIeiMvMlarkWzk",
+ "url": "https://www.youtube.com/playlist?list=PLriFofF1xij7Ss_FK-jlIeiMvMlarkWzk",
+ "thumbnail": "https://i.ytimg.com/vi/C1RaEFmbzsg/maxresdefault.jpg",
+ "lessonCount": 3,
+ "duration": 12065,
+ "lessons": [
+  {
+   "n": 1,
+   "title": "الدرس 1",
+   "lang": "ar",
+   "scholarId": "انيس-طاهر",
+   "videoId": "C1RaEFmbzsg",
+   "duration": 4110,
+   "hijriDate": null
+  },
+  {
+   "n": 2,
+   "title": "الدرس 2",
+   "lang": "ar",
+   "scholarId": "انيس-طاهر",
+   "videoId": "VjS2P98Sd_U",
+   "duration": 4100,
+   "hijriDate": null
+  },
+  {
+   "n": 3,
+   "title": "الدرس 3",
+   "lang": "ar",
+   "scholarId": "انيس-طاهر",
+   "videoId": "J51oZl_5AqY",
+   "duration": 3855,
+   "hijriDate": null
+  }
+ ]
+}

@@ -1,0 +1,57 @@
+{
+ "id": "PLgaTRTylCbZAE_yyDULDbaygRe0eXIfkv",
+ "title": "نفحات رمضانية",
+ "subject": "adab",
+ "kind": "series",
+ "lang": "ar",
+ "scholarId": "حسن-بخاري",
+ "scholarIds": [
+  "حسن-بخاري"
+ ],
+ "year": 1442,
+ "source": "youtube",
+ "channelId": "UC3QAoXf9GN9xeQYhk-AZbTg",
+ "playlistId": "PLgaTRTylCbZAE_yyDULDbaygRe0eXIfkv",
+ "url": "https://www.youtube.com/playlist?list=PLgaTRTylCbZAE_yyDULDbaygRe0eXIfkv",
+ "thumbnail": "https://i.ytimg.com/vi/MOjOT32NENM/maxresdefault.jpg",
+ "lessonCount": 4,
+ "duration": 9620,
+ "lessons": [
+  {
+   "n": 1,
+   "title": "لعلكم تتقون",
+   "lang": "ar",
+   "scholarId": "حسن-بخاري",
+   "videoId": "MOjOT32NENM",
+   "duration": 2289,
+   "hijriDate": "1442-09-06"
+  },
+  {
+   "n": 2,
+   "title": "إيمانًا واحتسابًا",
+   "lang": "ar",
+   "scholarId": "حسن-بخاري",
+   "videoId": "HgT8JizD49E",
+   "duration": 2680,
+   "hijriDate": "1442-09-13"
+  },
+  {
+   "n": 3,
+   "title": "العشر الأواخر",
+   "lang": "ar",
+   "scholarId": "حسن-بخاري",
+   "videoId": "Efv1xb_D2BM",
+   "duration": 2466,
+   "hijriDate": "1442-09-20"
+  },
+  {
+   "n": 4,
+   "title": "ولتكبّروا الله على ماهداكم",
+   "lang": "ar",
+   "scholarId": "حسن-بخاري",
+   "videoId": "uWIYbyZOWgk",
+   "duration": 2185,
+   "hijriDate": "1442-09-27"
+  }
+ ]
+}

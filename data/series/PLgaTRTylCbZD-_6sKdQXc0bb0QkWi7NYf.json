@@ -1,0 +1,287 @@
+{
+ "id": "PLgaTRTylCbZD-_6sKdQXc0bb0QkWi7NYf",
+ "title": "الدورة الصيفة التأصيلية الثانية",
+ "subject": "hadith",
+ "kind": "course",
+ "lang": "ar",
+ "scholarId": null,
+ "scholarIds": [
+  "سليمان-الغصن",
+  "سعد-الشثري",
+  "غازي-العتيبي",
+  "سلمان-الدخيل",
+  "وصي-عباس",
+  "احمد-السديس"
+ ],
+ "year": 1447,
+ "source": "youtube",
+ "channelId": "UC3QAoXf9GN9xeQYhk-AZbTg",
+ "playlistId": "PLgaTRTylCbZD-_6sKdQXc0bb0QkWi7NYf",
+ "url": "https://www.youtube.com/playlist?list=PLgaTRTylCbZD-_6sKdQXc0bb0QkWi7NYf",
+ "thumbnail": "https://i.ytimg.com/vi/FKMWzQeYHNA/maxresdefault.jpg",
+ "lessonCount": 29,
+ "duration": 128489,
+ "lessons": [
+  {
+   "n": 1,
+   "title": "شرح العقيدة الواسطية05",
+   "lang": "ar",
+   "scholarId": "سليمان-الغصن",
+   "videoId": "hnkJj2CDMk0",
+   "duration": 3778,
+   "hijriDate": "1447-01-21"
+  },
+  {
+   "n": 2,
+   "title": "شرح نخبة الفكر04",
+   "lang": "ar",
+   "scholarId": "سعد-الشثري",
+   "videoId": "7b7k-pL3g20",
+   "duration": 3848,
+   "hijriDate": "1447-01-21"
+  },
+  {
+   "n": 3,
+   "title": "شرح العقيدة الواسطية04",
+   "lang": "ar",
+   "scholarId": "سليمان-الغصن",
+   "videoId": "wi2dlfpzUZc",
+   "duration": 3711,
+   "hijriDate": "1447-01-21"
+  },
+  {
+   "n": 4,
+   "title": "الأصول من علم الأصول 4",
+   "lang": "ar",
+   "scholarId": "غازي-العتيبي",
+   "videoId": "lA9f7uwHxIw",
+   "duration": 10234,
+   "hijriDate": "1447-01-22"
+  },
+  {
+   "n": 5,
+   "title": "شرح العقيدة الواسطية 6",
+   "lang": "ar",
+   "scholarId": "سليمان-الغصن",
+   "videoId": "1Ks-pTBRnd8",
+   "duration": 3799,
+   "hijriDate": "1447-01-22"
+  },
+  {
+   "n": 6,
+   "title": "شرح نخبة الفكر 5",
+   "lang": "ar",
+   "scholarId": "سعد-الشثري",
+   "videoId": "h0FIR78V2I4",
+   "duration": 2555,
+   "hijriDate": "1447-01-22"
+  },
+  {
+   "n": 7,
+   "title": "الأصول من علم الأصول 5",
+   "lang": "ar",
+   "scholarId": "غازي-العتيبي",
+   "videoId": "OVi91RzMsRs",
+   "duration": 9788,
+   "hijriDate": "1447-01-23"
+  },
+  {
+   "n": 8,
+   "title": "شرح منظومة الرحبية 1",
+   "lang": "ar",
+   "scholarId": "سلمان-الدخيل",
+   "videoId": "FFK_2uTtrOk",
+   "duration": 8731,
+   "hijriDate": "1447-01-26"
+  },
+  {
+   "n": 9,
+   "title": "شرح منظومة الرحبية 2",
+   "lang": "ar",
+   "scholarId": "سلمان-الدخيل",
+   "videoId": "e-yGd4pAgl0",
+   "duration": 3686,
+   "hijriDate": "1447-01-26"
+  },
+  {
+   "n": 10,
+   "title": "شرح منظومة الرحبية 3",
+   "lang": "ar",
+   "scholarId": "سلمان-الدخيل",
+   "videoId": "dfkSRKLOD3k",
+   "duration": 8801,
+   "hijriDate": "1447-01-27"
+  },
+  {
+   "n": 11,
+   "title": "شرح منظومة الرحبية 4",
+   "lang": "ar",
+   "scholarId": "سلمان-الدخيل",
+   "videoId": "jC9FLmeLShg",
+   "duration": 3718,
+   "hijriDate": "1447-01-27"
+  },
+  {
+   "n": 12,
+   "title": "شرح منظومة الرحبية 5",
+   "lang": "ar",
+   "scholarId": "سلمان-الدخيل",
+   "videoId": "1rWDOvA6U3Q",
+   "duration": 8206,
+   "hijriDate": "1447-01-28"
+  },
+  {
+   "n": 13,
+   "title": "شرح منظومة الرحبية 6",
+   "lang": "ar",
+   "scholarId": "سلمان-الدخيل",
+   "videoId": "Sy6OrUzXFxw",
+   "duration": 3641,
+   "hijriDate": "1447-01-28"
+  },
+  {
+   "n": 14,
+   "title": "شرح الموقظة للذهبي 1",
+   "lang": "ar",
+   "scholarId": "وصي-عباس",
+   "videoId": "d57EcyukH0E",
+   "duration": 4409,
+   "hijriDate": "1447-02-01"
+  },
+  {
+   "n": 15,
+   "title": "شرح الموقظة للذهبي 2",
+   "lang": "ar",
+   "scholarId": "وصي-عباس",
+   "videoId": "e4ucpUwVCoo",
+   "duration": 2735,
+   "hijriDate": "1447-02-01"
+  },
+  {
+   "n": 16,
+   "title": "شرح الموقظة للذهبي 3",
+   "lang": "ar",
+   "scholarId": "وصي-عباس",
+   "videoId": "d6IMMuhDg24",
+   "duration": 4511,
+   "hijriDate": "1447-02-02"
+  },
+  {
+   "n": 17,
+   "title": "شرح الموقظة للذهبي 4",
+   "lang": "ar",
+   "scholarId": "وصي-عباس",
+   "videoId": "DpQb-HEBih4",
+   "duration": 1924,
+   "hijriDate": "1447-02-02"
+  },
+  {
+   "n": 18,
+   "title": "شرح الموقظة للذهبي 5",
+   "lang": "ar",
+   "scholarId": "وصي-عباس",
+   "videoId": "BmMe6Ceoc_I",
+   "duration": 2760,
+   "hijriDate": "1447-02-03"
+  },
+  {
+   "n": 19,
+   "title": "شرح الموقظة للذهبي 6",
+   "lang": "ar",
+   "scholarId": "وصي-عباس",
+   "videoId": "96S9I-tXva4",
+   "duration": 4549,
+   "hijriDate": "1447-02-03"
+  },
+  {
+   "n": 20,
+   "title": "شرح الموقظة للذهبي 7",
+   "lang": "ar",
+   "scholarId": "وصي-عباس",
+   "videoId": "ug0zufv9IyE",
+   "duration": 2896,
+   "hijriDate": "1447-02-04"
+  },
+  {
+   "n": 21,
+   "title": "شرح الموقظة للذهبي 8",
+   "lang": "ar",
+   "scholarId": "وصي-عباس",
+   "videoId": "vcVJyGQe_cY",
+   "duration": 4046,
+   "hijriDate": "1447-02-04"
+  },
+  {
+   "n": 22,
+   "title": "شرح الموقظة للذهبي 9",
+   "lang": "ar",
+   "scholarId": "وصي-عباس",
+   "videoId": "G9zF9DH1d0k",
+   "duration": 2310,
+   "hijriDate": "1447-02-05"
+  },
+  {
+   "n": 23,
+   "title": "شرح الموقظة للذهبي 10",
+   "lang": "ar",
+   "scholarId": "وصي-عباس",
+   "videoId": "KfD0rO-BqXs",
+   "duration": 3080,
+   "hijriDate": "1447-02-05"
+  },
+  {
+   "n": 24,
+   "title": "تفسير سورة الكهف 1",
+   "lang": "ar",
+   "scholarId": "احمد-السديس",
+   "videoId": "bcFHc8fzG2I",
+   "duration": 3676,
+   "hijriDate": "1447-02-15"
+  },
+  {
+   "n": 25,
+   "title": "تفسير سورة الكهف 2",
+   "lang": "ar",
+   "scholarId": "احمد-السديس",
+   "videoId": "KBvMH6xqzOI",
+   "duration": 3654,
+   "hijriDate": "1447-02-16"
+  },
+  {
+   "n": 26,
+   "title": "تفسير سورة الكهف 3",
+   "lang": "ar",
+   "scholarId": "احمد-السديس",
+   "videoId": "wWDVe0snU8Q",
+   "duration": 3307,
+   "hijriDate": "1447-02-17"
+  },
+  {
+   "n": 27,
+   "title": "تفسير سورة الكهف 4",
+   "lang": "ar",
+   "scholarId": "احمد-السديس",
+   "videoId": "txK-9Sat9cw",
+   "duration": 3358,
+   "hijriDate": "1447-02-18"
+  },
+  {
+   "n": 28,
+   "title": "تفسير سورة الكهف 5",
+   "lang": "ar",
+   "scholarId": "احمد-السديس",
+   "videoId": "MnVJ2fZiXss",
+   "duration": 3427,
+   "hijriDate": "1447-02-19"
+  },
+  {
+   "n": 29,
+   "title": "تفسير سورة الكهف 6",
+   "lang": "ar",
+   "scholarId": "احمد-السديس",
+   "videoId": "FKMWzQeYHNA",
+   "duration": 3351,
+   "hijriDate": "1447-02-20"
+  }
+ ]
+}

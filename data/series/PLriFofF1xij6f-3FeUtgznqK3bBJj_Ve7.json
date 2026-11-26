@@ -1,0 +1,57 @@
+{
+ "id": "PLriFofF1xij6f-3FeUtgznqK3bBJj_Ve7",
+ "title": "سلسلة محاضرات ﴿ فَاسْتَبِقُوا الْخَيْرَاتِ ﴾ من رحاب المسجد النبوي",
+ "subject": "general",
+ "kind": "series",
+ "lang": "ar",
+ "scholarId": "بدر-البدر",
+ "scholarIds": [
+  "بدر-البدر"
+ ],
+ "year": null,
+ "source": "youtube",
+ "channelId": "UC0XNCc-DU8J5_ksR-eufPaw",
+ "playlistId": "PLriFofF1xij6f-3FeUtgznqK3bBJj_Ve7",
+ "url": "https://www.youtube.com/playlist?list=PLriFofF1xij6f-3FeUtgznqK3bBJj_Ve7",
+ "thumbnail": "https://i.ytimg.com/vi/8tcwSAjqr_s/maxresdefault.jpg",
+ "lessonCount": 4,
+ "duration": 13500,
+ "lessons": [
+  {
+   "n": 1,
+   "title": "استقبال العشر الأواخر واغتنامها",
+   "lang": "ar",
+   "scholarId": "بدر-البدر",
+   "videoId": "8tcwSAjqr_s",
+   "duration": 2353,
+   "hijriDate": null
+  },
+  {
+   "n": 2,
+   "title": "الدعاء فضله وآدابه",
+   "lang": "ar",
+   "scholarId": "بدر-البدر",
+   "videoId": "emEj8TMaCX8",
+   "duration": 3865,
+   "hijriDate": null
+  },
+  {
+   "n": 3,
+   "title": "الاعتكاف فضله وأحكامه",
+   "lang": "ar",
+   "scholarId": "بدر-البدر",
+   "videoId": "FPouM2U3fTE",
+   "duration": 3825,
+   "hijriDate": null
+  },
+  {
+   "n": 4,
+   "title": "تحري ليلة القدر والاجتهاد فيها",
+   "lang": "ar",
+   "scholarId": "بدر-البدر",
+   "videoId": "ng8rM_FSoIo",
+   "duration": 3457,
+   "hijriDate": null
+  }
+ ]
+}

@@ -1,0 +1,75 @@
+{
+ "id": "PLriFofF1xij5HscsHnk5X2mLnh0tExcX9",
+ "title": "شرح السنة للمزني",
+ "subject": "aqeedah",
+ "kind": "series",
+ "lang": "ar",
+ "scholarId": "سعد-الشثري",
+ "scholarIds": [
+  "سعد-الشثري"
+ ],
+ "year": null,
+ "source": "youtube",
+ "channelId": "UC0XNCc-DU8J5_ksR-eufPaw",
+ "playlistId": "PLriFofF1xij5HscsHnk5X2mLnh0tExcX9",
+ "url": "https://www.youtube.com/playlist?list=PLriFofF1xij5HscsHnk5X2mLnh0tExcX9",
+ "thumbnail": "https://i.ytimg.com/vi/_zBD_Ro-Ifg/maxresdefault.jpg",
+ "lessonCount": 6,
+ "duration": 14967,
+ "lessons": [
+  {
+   "n": 1,
+   "title": "كتاب شرح السنة",
+   "lang": "ar",
+   "scholarId": "سعد-الشثري",
+   "videoId": "_zBD_Ro-Ifg",
+   "duration": 2211,
+   "hijriDate": null
+  },
+  {
+   "n": 2,
+   "title": "كتاب شرح السنة",
+   "lang": "ar",
+   "scholarId": "سعد-الشثري",
+   "videoId": "9M56IWqeYCU",
+   "duration": 1499,
+   "hijriDate": null
+  },
+  {
+   "n": 3,
+   "title": "كتاب شرح السنة",
+   "lang": "ar",
+   "scholarId": "سعد-الشثري",
+   "videoId": "-mMvsOdRP44",
+   "duration": 3785,
+   "hijriDate": null
+  },
+  {
+   "n": 4,
+   "title": "كتاب شرح السنة",
+   "lang": "ar",
+   "scholarId": "سعد-الشثري",
+   "videoId": "M6nCaZOBaDs",
+   "duration": 2486,
+   "hijriDate": null
+  },
+  {
+   "n": 5,
+   "title": "كتاب شرح السنة",
+   "lang": "ar",
+   "scholarId": "سعد-الشثري",
+   "videoId": "uz9Pv0wJ_UI",
+   "duration": 1109,
+   "hijriDate": null
+  },
+  {
+   "n": 6,
+   "title": "كتاب شرح السنة",
+   "lang": "ar",
+   "scholarId": "سعد-الشثري",
+   "videoId": "GjEwSbvq0rM",
+   "duration": 3877,
+   "hijriDate": null
+  }
+ ]
+}

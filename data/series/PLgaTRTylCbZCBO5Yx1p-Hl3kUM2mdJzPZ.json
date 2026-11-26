@@ -1,0 +1,135 @@
+{
+ "id": "PLgaTRTylCbZCBO5Yx1p-Hl3kUM2mdJzPZ",
+ "title": "الدورة الرمضانية لأعضاء هيئة كبار العلماء",
+ "subject": "fiqh",
+ "kind": "course",
+ "lang": "ar",
+ "scholarId": null,
+ "scholarIds": [
+  "محمد-الشنقيطي",
+  "عبدالباقي-مبارك",
+  "صالح-حميد",
+  "عبدالاله-الملا",
+  "عبدالله-المنيع",
+  "عبدالله-التركي",
+  "جبريل-البصيلي"
+ ],
+ "year": 1447,
+ "source": "youtube",
+ "channelId": "UC3QAoXf9GN9xeQYhk-AZbTg",
+ "playlistId": "PLgaTRTylCbZCBO5Yx1p-Hl3kUM2mdJzPZ",
+ "url": "https://www.youtube.com/playlist?list=PLgaTRTylCbZCBO5Yx1p-Hl3kUM2mdJzPZ",
+ "thumbnail": "https://i.ytimg.com/vi/OK3jxPhMhdw/sddefault.jpg",
+ "lessonCount": 12,
+ "duration": 38077,
+ "lessons": [
+  {
+   "n": 1,
+   "title": "رسالة لجنودنا المرابطين",
+   "lang": "ar",
+   "scholarId": "محمد-الشنقيطي",
+   "videoId": "OK3jxPhMhdw",
+   "duration": 936,
+   "hijriDate": null
+  },
+  {
+   "n": 2,
+   "title": "الزكاة مسائل وأحكام (2 من 2)",
+   "lang": "ar",
+   "scholarId": "عبدالباقي-مبارك",
+   "videoId": "gSBmo46Sqqw",
+   "duration": 2288,
+   "hijriDate": "1447-09-08"
+  },
+  {
+   "n": 3,
+   "title": "الزكاة مسائل وأحكام (1 من 2)",
+   "lang": "ar",
+   "scholarId": "عبدالباقي-مبارك",
+   "videoId": "M-jIiPTicJg",
+   "duration": 2755,
+   "hijriDate": "1447-09-09"
+  },
+  {
+   "n": 4,
+   "title": "طلب العلم وموسم الخيرات",
+   "lang": "ar",
+   "scholarId": "صالح-حميد",
+   "videoId": "XwoAFq1pZtA",
+   "duration": 2636,
+   "hijriDate": "1447-09-12"
+  },
+  {
+   "n": 5,
+   "title": "أحكام النوازل في الصيام (1 من 2)",
+   "lang": "ar",
+   "scholarId": "عبدالاله-الملا",
+   "videoId": "9oVi1Arnap0",
+   "duration": 5263,
+   "hijriDate": "1447-09-13"
+  },
+  {
+   "n": 6,
+   "title": "أحكام النوازل في الصيام (2 من 2)",
+   "lang": "ar",
+   "scholarId": "عبدالاله-الملا",
+   "videoId": "k4gEM2vxycM",
+   "duration": 3789,
+   "hijriDate": "1447-09-14"
+  },
+  {
+   "n": 7,
+   "title": "ادعوني أستجب لكم",
+   "lang": "ar",
+   "scholarId": "عبدالله-المنيع",
+   "videoId": "KL3NOEW6hxM",
+   "duration": 1343,
+   "hijriDate": "1447-09-15"
+  },
+  {
+   "n": 8,
+   "title": "رمضان خصائص وفضائل",
+   "lang": "ar",
+   "scholarId": "عبدالله-التركي",
+   "videoId": "4YFz3bgCpNw",
+   "duration": 1188,
+   "hijriDate": "1447-09-16"
+  },
+  {
+   "n": 9,
+   "title": "فاستبقوا الخيرات",
+   "lang": "ar",
+   "scholarId": "جبريل-البصيلي",
+   "videoId": "fbGEFRqtQN0",
+   "duration": 4134,
+   "hijriDate": "1447-09-17"
+  },
+  {
+   "n": 10,
+   "title": "أحكام العيد وزكاة الفطر",
+   "lang": "ar",
+   "scholarId": "محمد-الشنقيطي",
+   "videoId": "v_kgCv463vI",
+   "duration": 5922,
+   "hijriDate": "1447-09-18"
+  },
+  {
+   "n": 11,
+   "title": "أحكام العيد وزكاة الفطر",
+   "lang": "ar",
+   "scholarId": "محمد-الشنقيطي",
+   "videoId": "hQJKuloGa4E",
+   "duration": 4853,
+   "hijriDate": "1447-09-18"
+  },
+  {
+   "n": 12,
+   "title": "فاستبقوا الخيرات",
+   "lang": "ar",
+   "scholarId": "جبريل-البصيلي",
+   "videoId": "ZwnO7cq9fCI",
+   "duration": 2970,
+   "hijriDate": "1447-09-18"
+  }
+ ]
+}

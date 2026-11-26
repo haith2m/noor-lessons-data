@@ -1,0 +1,90 @@
+{
+ "id": "PLriFofF1xij4WkmyQvEJ9xm92W9E_A1-2",
+ "title": "ندوة الفتوى في الحرمين الشريفين وأثرها في التيسير على قاصديهما 2 (البرنامج العلمي من رحاب المسجد النبوي)",
+ "subject": "aqeedah",
+ "kind": "course",
+ "lang": "ar",
+ "scholarId": null,
+ "scholarIds": [
+  "جبريل-البصيلي",
+  "عبدالله-المطلق",
+  "سعد-الشثري",
+  "عبدالسلام-السليمان",
+  "سامي-الصقير",
+  "صالح-الشيخ",
+  "عبدالرحمن-السند"
+ ],
+ "year": null,
+ "source": "youtube",
+ "channelId": "UC0XNCc-DU8J5_ksR-eufPaw",
+ "playlistId": "PLriFofF1xij4WkmyQvEJ9xm92W9E_A1-2",
+ "url": "https://www.youtube.com/playlist?list=PLriFofF1xij4WkmyQvEJ9xm92W9E_A1-2",
+ "thumbnail": "https://i.ytimg.com/vi/rNHfoEkD_b0/maxresdefault.jpg",
+ "lessonCount": 7,
+ "duration": 27003,
+ "lessons": [
+  {
+   "n": 1,
+   "title": "﴿واجنبني وبني أن...﴾",
+   "lang": "ar",
+   "scholarId": "جبريل-البصيلي",
+   "videoId": "5YB2IfSDuUo",
+   "duration": 3685,
+   "hijriDate": null
+  },
+  {
+   "n": 2,
+   "title": "أهمية التوحيد وفضله",
+   "lang": "ar",
+   "scholarId": "عبدالله-المطلق",
+   "videoId": "rNHfoEkD_b0",
+   "duration": 4161,
+   "hijriDate": null
+  },
+  {
+   "n": 3,
+   "title": "إِن الشرك لظلم",
+   "lang": "ar",
+   "scholarId": "سعد-الشثري",
+   "videoId": "72dw9qIPKss",
+   "duration": 3746,
+   "hijriDate": null
+  },
+  {
+   "n": 4,
+   "title": "قل اللَه أعبد",
+   "lang": "ar",
+   "scholarId": "عبدالسلام-السليمان",
+   "videoId": "SaQjeAupP2Y",
+   "duration": 2296,
+   "hijriDate": null
+  },
+  {
+   "n": 5,
+   "title": "﴿إِياك نعبد وإِياك...﴾",
+   "lang": "ar",
+   "scholarId": "سامي-الصقير",
+   "videoId": "nPzjE69S_x0",
+   "duration": 3493,
+   "hijriDate": null
+  },
+  {
+   "n": 6,
+   "title": "تفسير سورة يس",
+   "lang": "ar",
+   "scholarId": "صالح-الشيخ",
+   "videoId": "r-2EHZu_1x0",
+   "duration": 6076,
+   "hijriDate": null
+  },
+  {
+   "n": 7,
+   "title": "﴿إِني أشهِد...﴾",
+   "lang": "ar",
+   "scholarId": "عبدالرحمن-السند",
+   "videoId": "RVfg9Ezoz-Q",
+   "duration": 3546,
+   "hijriDate": null
+  }
+ ]
+}

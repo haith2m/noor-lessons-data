@@ -1,0 +1,48 @@
+{
+ "id": "PLriFofF1xij6EXvnJHJL509-kA_B_xGuP-1",
+ "title": "﴿إنما المؤمنون الذين﴾",
+ "subject": "general",
+ "kind": "series",
+ "lang": "ar",
+ "scholarId": "عبدالسلام-السليمان",
+ "scholarIds": [
+  "عبدالسلام-السليمان"
+ ],
+ "year": null,
+ "source": "youtube",
+ "channelId": "UC0XNCc-DU8J5_ksR-eufPaw",
+ "playlistId": "PLriFofF1xij6EXvnJHJL509-kA_B_xGuP",
+ "url": "https://www.youtube.com/playlist?list=PLriFofF1xij6EXvnJHJL509-kA_B_xGuP",
+ "thumbnail": "https://i.ytimg.com/vi/1H2Gyz9Kcrg/maxresdefault.jpg",
+ "lessonCount": 3,
+ "duration": 12558,
+ "lessons": [
+  {
+   "n": 1,
+   "title": "الدرس 1",
+   "lang": "ar",
+   "scholarId": "عبدالسلام-السليمان",
+   "videoId": "aofWIzVq878",
+   "duration": 3996,
+   "hijriDate": null
+  },
+  {
+   "n": 2,
+   "title": "الدرس 2",
+   "lang": "ar",
+   "scholarId": "عبدالسلام-السليمان",
+   "videoId": "-k4ETXe4AU8",
+   "duration": 4561,
+   "hijriDate": null
+  },
+  {
+   "n": 3,
+   "title": "الدرس 3",
+   "lang": "ar",
+   "scholarId": "عبدالسلام-السليمان",
+   "videoId": "CuDN0fTlXLc",
+   "duration": 4001,
+   "hijriDate": null
+  }
+ ]
+}

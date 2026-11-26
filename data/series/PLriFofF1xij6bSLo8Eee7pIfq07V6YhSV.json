@@ -1,0 +1,183 @@
+{
+ "id": "PLriFofF1xij6bSLo8Eee7pIfq07V6YhSV",
+ "title": "سلسلة محاضرات عن بُعد من المسجد النبوي",
+ "subject": "general",
+ "kind": "course",
+ "lang": "ar",
+ "scholarId": null,
+ "scholarIds": [
+  "عبدالرحمن-السديس",
+  "حسن-بخاري",
+  "بدر-البدر",
+  "سعود-الخلف",
+  "علي-التويجري",
+  "مسعود-المحمدي",
+  "علي-ابابطين",
+  "عبداللطيف-الشاماني",
+  "سامي-الصقير",
+  "عبدالله-البعيجان"
+ ],
+ "year": 1442,
+ "source": "youtube",
+ "channelId": "UC0XNCc-DU8J5_ksR-eufPaw",
+ "playlistId": "PLriFofF1xij6bSLo8Eee7pIfq07V6YhSV",
+ "url": "https://www.youtube.com/playlist?list=PLriFofF1xij6bSLo8Eee7pIfq07V6YhSV",
+ "thumbnail": "https://i.ytimg.com/vi/Tv0ocM6P7fM/maxresdefault.jpg",
+ "lessonCount": 17,
+ "duration": 48678,
+ "lessons": [
+  {
+   "n": 1,
+   "title": "توجيهات وتنبيهات تهم المسلمين",
+   "lang": "ar",
+   "scholarId": "عبدالرحمن-السديس",
+   "videoId": "Tv0ocM6P7fM",
+   "duration": 3931,
+   "hijriDate": null
+  },
+  {
+   "n": 2,
+   "title": "وإن تطيعوه تهتدوا",
+   "lang": "ar",
+   "scholarId": "حسن-بخاري",
+   "videoId": "8UpSegRRnTI",
+   "duration": 3665,
+   "hijriDate": null
+  },
+  {
+   "n": 3,
+   "title": "التحصين الفكري في ضوء الكتاب والسنة",
+   "lang": "ar",
+   "scholarId": "بدر-البدر",
+   "videoId": "_M0SqvQo-9M",
+   "duration": 3130,
+   "hijriDate": null
+  },
+  {
+   "n": 4,
+   "title": "﴿فاعلم أنه لا إله إلا الله﴾",
+   "lang": "ar",
+   "scholarId": "سعود-الخلف",
+   "videoId": "d2-OtJ-BG2Y",
+   "duration": 3281,
+   "hijriDate": null
+  },
+  {
+   "n": 5,
+   "title": "أهمية الصلاة في الإسلام",
+   "lang": "ar",
+   "scholarId": "علي-التويجري",
+   "videoId": "9wgTNhqXZfE",
+   "duration": 2688,
+   "hijriDate": null
+  },
+  {
+   "n": 6,
+   "title": "قيمة الرحمة في حياة النبي ﷺ",
+   "lang": "ar",
+   "scholarId": "مسعود-المحمدي",
+   "videoId": "k3Kj2IysVM0",
+   "duration": 2480,
+   "hijriDate": null
+  },
+  {
+   "n": 7,
+   "title": "التوكل على الله فريضة من الفرائض",
+   "lang": "ar",
+   "scholarId": "علي-ابابطين",
+   "videoId": "uLMoZz4Es6k",
+   "duration": 1936,
+   "hijriDate": null
+  },
+  {
+   "n": 8,
+   "title": "ذكر الله فضله وأنواعه",
+   "lang": "ar",
+   "scholarId": "علي-التويجري",
+   "videoId": "NzMsl9ofPA8",
+   "duration": 2656,
+   "hijriDate": null
+  },
+  {
+   "n": 9,
+   "title": "مكانة الأسرة في الإسلام ودورالوالدين",
+   "lang": "ar",
+   "scholarId": "عبداللطيف-الشاماني",
+   "videoId": "UmArem_sbYg",
+   "duration": 2693,
+   "hijriDate": null
+  },
+  {
+   "n": 10,
+   "title": "من سير علماء الحديث",
+   "lang": "ar",
+   "scholarId": "مسعود-المحمدي",
+   "videoId": "y_OF5ZBr_4M",
+   "duration": 3095,
+   "hijriDate": null
+  },
+  {
+   "n": 11,
+   "title": "وإنك لعلى خُلقٍ عظيم",
+   "lang": "ar",
+   "scholarId": "حسن-بخاري",
+   "videoId": "aLV8qyIs_gI",
+   "duration": 3085,
+   "hijriDate": null
+  },
+  {
+   "n": 12,
+   "title": "شهر رمضان فضائل وأحكام",
+   "lang": "ar",
+   "scholarId": "سامي-الصقير",
+   "videoId": "81eRMd_0hvI",
+   "duration": 4603,
+   "hijriDate": null
+  },
+  {
+   "n": 13,
+   "title": "العشر الأواخر وليلة القدر فضلها وخصائصها",
+   "lang": "ar",
+   "scholarId": "بدر-البدر",
+   "videoId": "iExXrJiJ26U",
+   "duration": 2760,
+   "hijriDate": null
+  },
+  {
+   "n": 14,
+   "title": "فقه صلاة العيد",
+   "lang": "ar",
+   "scholarId": "عبدالله-البعيجان",
+   "videoId": "3zWGkqV1mRM",
+   "duration": 739,
+   "hijriDate": null
+  },
+  {
+   "n": 15,
+   "title": "أثر الأمن على الصيام والعبادة",
+   "lang": "ar",
+   "scholarId": "عبداللطيف-الشاماني",
+   "videoId": "rCx6va5NVqs",
+   "duration": 1297,
+   "hijriDate": null
+  },
+  {
+   "n": 16,
+   "title": "وسطية الإسلام",
+   "lang": "ar",
+   "scholarId": "علي-التويجري",
+   "videoId": "DJo5Vh5SGFY",
+   "duration": 2514,
+   "hijriDate": null
+  },
+  {
+   "n": 17,
+   "title": "صلوا عليه وسلموا تسليما",
+   "lang": "ar",
+   "scholarId": "حسن-بخاري",
+   "videoId": "0aTaKq-6Ahg",
+   "duration": 4125,
+   "hijriDate": null
+  }
+ ]
+}

@@ -1,0 +1,80 @@
+{
+ "id": "PLSSyGX2jCCfc",
+ "title": "سلسلة محاضرات《المواطنة انتماء وعطاء》",
+ "subject": "general",
+ "kind": "course",
+ "lang": "ar",
+ "scholarId": null,
+ "scholarIds": [
+  "وصي-عباس",
+  "عبدالاله-الملا",
+  "يوسف-الوابل",
+  "غازي-العتيبي",
+  "عبدالرحمن-القرني",
+  "حمزه-الفعر"
+ ],
+ "year": 1448,
+ "source": "youtube",
+ "channelId": "UC3QAoXf9GN9xeQYhk-AZbTg",
+ "playlistId": "PLSSyGX2jCCfc",
+ "url": "https://www.youtube.com/playlist?list=PLSSyGX2jCCfc",
+ "thumbnail": "https://i.ytimg.com/vi/rvwWWgXqGos/maxresdefault.jpg",
+ "lessonCount": 6,
+ "duration": 17021,
+ "lessons": [
+  {
+   "n": 1,
+   "title": "الاعتصام بالكتاب والسنة وأثره في وحدة الصف",
+   "lang": "ar",
+   "scholarId": "وصي-عباس",
+   "videoId": "xQe-YeqmyzI",
+   "duration": 3227,
+   "hijriDate": "1448-04-06"
+  },
+  {
+   "n": 2,
+   "title": "نعمة التوحيد واجتماع الكلمة",
+   "lang": "ar",
+   "scholarId": "عبدالاله-الملا",
+   "videoId": "qHopjHC4Ghw",
+   "duration": 3218,
+   "hijriDate": "1448-04-10"
+  },
+  {
+   "n": 3,
+   "title": "الوسطية والاعتدال وأثرهما في سلامة الفكر والمجتمع",
+   "lang": "ar",
+   "scholarId": "يوسف-الوابل",
+   "videoId": "9IhjchU4TOo",
+   "duration": 3734,
+   "hijriDate": "1448-04-10"
+  },
+  {
+   "n": 4,
+   "title": "الوسطية وأثرها في حياة المسلم",
+   "lang": "ar",
+   "scholarId": "غازي-العتيبي",
+   "videoId": "ntkacJBJjIs",
+   "duration": 5073,
+   "hijriDate": "1448-04-11"
+  },
+  {
+   "n": 5,
+   "title": "شكر النعم وأثره في حفظ النعم",
+   "lang": "ar",
+   "scholarId": "عبدالرحمن-القرني",
+   "videoId": "ZBFxrGr4XdY",
+   "duration": 1163,
+   "hijriDate": "1448-04-11"
+  },
+  {
+   "n": 6,
+   "title": "شكر النعم",
+   "lang": "ar",
+   "scholarId": "حمزه-الفعر",
+   "videoId": "rvwWWgXqGos",
+   "duration": 606,
+   "hijriDate": "1448-04-12"
+  }
+ ]
+}

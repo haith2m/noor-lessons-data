@@ -1,0 +1,57 @@
+{
+ "id": "PLgaTRTylCbZDsy36s6t7yOIvcy9Cr-faF",
+ "title": "شرح كتاب الصيام من عمدة الفقه",
+ "subject": "fiqh",
+ "kind": "series",
+ "lang": "ar",
+ "scholarId": "عبدالمحسن-القاسم",
+ "scholarIds": [
+  "عبدالمحسن-القاسم"
+ ],
+ "year": null,
+ "source": "youtube",
+ "channelId": "UC3QAoXf9GN9xeQYhk-AZbTg",
+ "playlistId": "PLgaTRTylCbZDsy36s6t7yOIvcy9Cr-faF",
+ "url": "https://www.youtube.com/playlist?list=PLgaTRTylCbZDsy36s6t7yOIvcy9Cr-faF",
+ "thumbnail": "https://i.ytimg.com/vi/4IFgGUSQIdM/maxresdefault.jpg",
+ "lessonCount": 4,
+ "duration": 12832,
+ "lessons": [
+  {
+   "n": 1,
+   "title": "الدرس 1",
+   "lang": "ar",
+   "scholarId": "عبدالمحسن-القاسم",
+   "videoId": "4IFgGUSQIdM",
+   "duration": 4607,
+   "hijriDate": null
+  },
+  {
+   "n": 2,
+   "title": "الدرس 2",
+   "lang": "ar",
+   "scholarId": "عبدالمحسن-القاسم",
+   "videoId": "-pYfjHgkSsw",
+   "duration": 2729,
+   "hijriDate": null
+  },
+  {
+   "n": 3,
+   "title": "الدرس 3",
+   "lang": "ar",
+   "scholarId": "عبدالمحسن-القاسم",
+   "videoId": "PfC_Le9-hzc",
+   "duration": 2440,
+   "hijriDate": null
+  },
+  {
+   "n": 4,
+   "title": "الدرس 4",
+   "lang": "ar",
+   "scholarId": "عبدالمحسن-القاسم",
+   "videoId": "icyjEYatcG8",
+   "duration": 3056,
+   "hijriDate": null
+  }
+ ]
+}

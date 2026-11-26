@@ -1,0 +1,126 @@
+{
+ "id": "PLgaTRTylCbZDdKHjCPXBkoqiUFM_pWMP2",
+ "title": "سلسلة محاضرات الحج فضائل وأحكام",
+ "subject": "fiqh",
+ "kind": "course",
+ "lang": "ar",
+ "scholarId": null,
+ "scholarIds": [
+  "عبدالرحمن-القرني",
+  "حسن-بخاري",
+  "حمزه-الفعر",
+  "احمد-المزروع",
+  "طلال-ابوالنور",
+  "خالد-عروس",
+  "غالب-الحامظي"
+ ],
+ "year": 1442,
+ "source": "youtube",
+ "channelId": "UC3QAoXf9GN9xeQYhk-AZbTg",
+ "playlistId": "PLgaTRTylCbZDdKHjCPXBkoqiUFM_pWMP2",
+ "url": "https://www.youtube.com/playlist?list=PLgaTRTylCbZDdKHjCPXBkoqiUFM_pWMP2",
+ "thumbnail": "https://i.ytimg.com/vi/aHnvowquJPc/sddefault.jpg",
+ "lessonCount": 11,
+ "duration": 18109,
+ "lessons": [
+  {
+   "n": 1,
+   "title": "وَمَنْ دَخَلَهُ كَانَ آمِنًا",
+   "lang": "ar",
+   "scholarId": "عبدالرحمن-القرني",
+   "videoId": "aHnvowquJPc",
+   "duration": 1147,
+   "hijriDate": "1442-11-17"
+  },
+  {
+   "n": 2,
+   "title": "ليشهدوا منافع لهم",
+   "lang": "ar",
+   "scholarId": "حسن-بخاري",
+   "videoId": "a3dKw2wyGQE",
+   "duration": 2891,
+   "hijriDate": "1442-11-24"
+  },
+  {
+   "n": 3,
+   "title": "ولكن يناله التقوى منكم",
+   "lang": "ar",
+   "scholarId": "حمزه-الفعر",
+   "videoId": "dKzbtHQyFec",
+   "duration": 1963,
+   "hijriDate": "1442-11-25"
+  },
+  {
+   "n": 4,
+   "title": "الحج أشهر معلومات",
+   "lang": "ar",
+   "scholarId": "احمد-المزروع",
+   "videoId": "Dk8mzHDIbZ0",
+   "duration": 3486,
+   "hijriDate": "1442-11-28"
+  },
+  {
+   "n": 5,
+   "title": "فضل أيام عشر ذي الحجة",
+   "lang": "ar",
+   "scholarId": "طلال-ابوالنور",
+   "videoId": "v28rDBm3Aoc",
+   "duration": 414,
+   "hijriDate": null
+  },
+  {
+   "n": 6,
+   "title": "ما من أيام العمل الصالح فيهن خير من هذه الأيام",
+   "lang": "ar",
+   "scholarId": "طلال-ابوالنور",
+   "videoId": "JT1qEgFOBPo",
+   "duration": 2496,
+   "hijriDate": null
+  },
+  {
+   "n": 7,
+   "title": "أحكام الأضحية",
+   "lang": "ar",
+   "scholarId": "عبدالرحمن-القرني",
+   "videoId": "LWm4WTtKVUY",
+   "duration": 2266,
+   "hijriDate": "1442-12-02"
+  },
+  {
+   "n": 8,
+   "title": "الحج عرفة",
+   "lang": "ar",
+   "scholarId": "خالد-عروس",
+   "videoId": "xuqqqMfaagE",
+   "duration": 1974,
+   "hijriDate": "1442-12-03"
+  },
+  {
+   "n": 9,
+   "title": "فضائل يوم عرفة",
+   "lang": "ar",
+   "scholarId": "حسن-بخاري",
+   "videoId": "f7mVqxiwOzk",
+   "duration": 459,
+   "hijriDate": null
+  },
+  {
+   "n": 10,
+   "title": "فضائل يوم النحر",
+   "lang": "ar",
+   "scholarId": "طلال-ابوالنور",
+   "videoId": "hZ2Scfcwjm0",
+   "duration": 363,
+   "hijriDate": null
+  },
+  {
+   "n": 11,
+   "title": "فضائل وأعمال أيام التشريق",
+   "lang": "ar",
+   "scholarId": "غالب-الحامظي",
+   "videoId": "-kG6Xf76rAk",
+   "duration": 650,
+   "hijriDate": null
+  }
+ ]
+}

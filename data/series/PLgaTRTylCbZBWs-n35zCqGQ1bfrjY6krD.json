@@ -1,0 +1,70 @@
+{
+ "id": "PLgaTRTylCbZBWs-n35zCqGQ1bfrjY6krD",
+ "title": "دورة إتحاف القاصد بعلم المقاصد",
+ "subject": "usul",
+ "kind": "course",
+ "lang": "ar",
+ "scholarId": null,
+ "scholarIds": [
+  "عبدالرحمن-السديس",
+  "عبدالرحمن-القرني",
+  "غازي-العتيبي",
+  "خالد-عروس",
+  "احمد-حميد"
+ ],
+ "year": 1447,
+ "source": "youtube",
+ "channelId": "UC3QAoXf9GN9xeQYhk-AZbTg",
+ "playlistId": "PLgaTRTylCbZBWs-n35zCqGQ1bfrjY6krD",
+ "url": "https://www.youtube.com/playlist?list=PLgaTRTylCbZBWs-n35zCqGQ1bfrjY6krD",
+ "thumbnail": "https://i.ytimg.com/vi/EWdBZNegHCc/maxresdefault.jpg",
+ "lessonCount": 5,
+ "duration": 20885,
+ "lessons": [
+  {
+   "n": 1,
+   "title": "الصَّنعةُ المقاصديّة وصناعةُ المقاصدي (1 من 5)",
+   "lang": "ar",
+   "scholarId": "عبدالرحمن-السديس",
+   "videoId": "1HVPQ5q3IGY",
+   "duration": 4207,
+   "hijriDate": "1447-06-20"
+  },
+  {
+   "n": 2,
+   "title": "تطبيقات فقهية للمقاصد الشرعية (2 من 5)",
+   "lang": "ar",
+   "scholarId": "عبدالرحمن-القرني",
+   "videoId": "Peq8AlJhQAE",
+   "duration": 3145,
+   "hijriDate": "1447-06-22"
+  },
+  {
+   "n": 3,
+   "title": "أهمية المقاصد في النظر الأصولي والفقهي (3 من 5)",
+   "lang": "ar",
+   "scholarId": "غازي-العتيبي",
+   "videoId": "AHij_tt0YNM",
+   "duration": 6462,
+   "hijriDate": "1447-06-22"
+  },
+  {
+   "n": 4,
+   "title": "منهج الشاطبي وجهوده في المقاصد الشرعية (4 من 5)",
+   "lang": "ar",
+   "scholarId": "خالد-عروس",
+   "videoId": "X48a3zmt4tg",
+   "duration": 5378,
+   "hijriDate": "1447-06-23"
+  },
+  {
+   "n": 5,
+   "title": "النوازل على ضوء المقاصد الشرعية (5 من 5)",
+   "lang": "ar",
+   "scholarId": "احمد-حميد",
+   "videoId": "EWdBZNegHCc",
+   "duration": 1693,
+   "hijriDate": "1447-06-23"
+  }
+ ]
+}

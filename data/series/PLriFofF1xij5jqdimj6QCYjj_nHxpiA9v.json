@@ -1,0 +1,107 @@
+{
+ "id": "PLriFofF1xij5jqdimj6QCYjj_nHxpiA9v",
+ "title": "الدورة العلمية لأئمة الحرمين الشريفين (2)",
+ "subject": "fiqh",
+ "kind": "course",
+ "lang": "ar",
+ "scholarId": null,
+ "scholarIds": [
+  "خالد-المهنا",
+  "صالح-المغامسي",
+  "عبدالله-البعيجان",
+  "محمد-برهجي",
+  "احمد-الحذيفي",
+  "عبدالرحمن-السديس"
+ ],
+ "year": 1447,
+ "source": "youtube",
+ "channelId": "UC0XNCc-DU8J5_ksR-eufPaw",
+ "playlistId": "PLriFofF1xij5jqdimj6QCYjj_nHxpiA9v",
+ "url": "https://www.youtube.com/playlist?list=PLriFofF1xij5jqdimj6QCYjj_nHxpiA9v",
+ "thumbnail": "https://i.ytimg.com/vi/O7vI9bzttTY/maxresdefault.jpg",
+ "lessonCount": 9,
+ "duration": 27302,
+ "lessons": [
+  {
+   "n": 1,
+   "title": "الهدي النبوي في الحج",
+   "lang": "ar",
+   "scholarId": "خالد-المهنا",
+   "videoId": "O7vI9bzttTY",
+   "duration": 3726,
+   "hijriDate": null
+  },
+  {
+   "n": 2,
+   "title": "وإذ بوأنا",
+   "lang": "ar",
+   "scholarId": "صالح-المغامسي",
+   "videoId": "YFFu2rJbFDc",
+   "duration": 2059,
+   "hijriDate": null
+  },
+  {
+   "n": 3,
+   "title": "أحكام عشر ذي الحجة",
+   "lang": "ar",
+   "scholarId": "عبدالله-البعيجان",
+   "videoId": "s89RPnn8_iQ",
+   "duration": 3561,
+   "hijriDate": null
+  },
+  {
+   "n": 4,
+   "title": "الحج آداب ودروس",
+   "lang": "ar",
+   "scholarId": "محمد-برهجي",
+   "videoId": "SNPHFltWzs0",
+   "duration": 3352,
+   "hijriDate": null
+  },
+  {
+   "n": 5,
+   "title": "تأملات في سورة الحج",
+   "lang": "ar",
+   "scholarId": "صالح-المغامسي",
+   "videoId": "KH_Hl821ZTs",
+   "duration": 2262,
+   "hijriDate": null
+  },
+  {
+   "n": 6,
+   "title": "الحج أشهر معلومات",
+   "lang": "ar",
+   "scholarId": "احمد-الحذيفي",
+   "videoId": "pbBZLKXbkvI",
+   "duration": 4099,
+   "hijriDate": null
+  },
+  {
+   "n": 7,
+   "title": "تأملات في سورة الحج",
+   "lang": "ar",
+   "scholarId": "صالح-المغامسي",
+   "videoId": "HSO_K5ulYTg",
+   "duration": 2117,
+   "hijriDate": null
+  },
+  {
+   "n": 8,
+   "title": "تأملات في سورة الحج",
+   "lang": "ar",
+   "scholarId": "صالح-المغامسي",
+   "videoId": "lsWmKNvn3TA",
+   "duration": 2514,
+   "hijriDate": null
+  },
+  {
+   "n": 9,
+   "title": "العقيدة الصحيحة ركيزة",
+   "lang": "ar",
+   "scholarId": "عبدالرحمن-السديس",
+   "videoId": "75LgHdaA_2I",
+   "duration": 3612,
+   "hijriDate": null
+  }
+ ]
+}

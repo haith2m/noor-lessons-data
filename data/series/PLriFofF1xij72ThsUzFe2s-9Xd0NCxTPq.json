@@ -1,0 +1,79 @@
+{
+ "id": "PLriFofF1xij72ThsUzFe2s-9Xd0NCxTPq",
+ "title": "خطب الاستسقاء",
+ "subject": "khutab",
+ "kind": "course",
+ "lang": "ar",
+ "scholarId": null,
+ "scholarIds": [
+  "عبدالمحسن-القاسم",
+  "احمد-حميد",
+  "صلاح-البدير",
+  "عبدالباري-الثبيتي",
+  "عبدالله-البعيجان"
+ ],
+ "year": 1441,
+ "source": "youtube",
+ "channelId": "UC0XNCc-DU8J5_ksR-eufPaw",
+ "playlistId": "PLriFofF1xij72ThsUzFe2s-9Xd0NCxTPq",
+ "url": "https://www.youtube.com/playlist?list=PLriFofF1xij72ThsUzFe2s-9Xd0NCxTPq",
+ "thumbnail": "https://i.ytimg.com/vi/7cqJBycMp6U/maxresdefault.jpg",
+ "lessonCount": 6,
+ "duration": 4228,
+ "lessons": [
+  {
+   "n": 1,
+   "title": "خطبة صلاة الاستسقاء ب المسجد النبوي - 29 03 1443",
+   "lang": "ar",
+   "scholarId": "عبدالمحسن-القاسم",
+   "videoId": "-bnE-_6w-ss",
+   "duration": 684,
+   "hijriDate": null
+  },
+  {
+   "n": 2,
+   "title": "خطبة صلاة الاستسقاء ب المسجد النبوي",
+   "lang": "ar",
+   "scholarId": "احمد-حميد",
+   "videoId": "7cqJBycMp6U",
+   "duration": 1118,
+   "hijriDate": "1441-03-03"
+  },
+  {
+   "n": 3,
+   "title": "خطبة صلاة الاستسقاء ب المسجد النبوي",
+   "lang": "ar",
+   "scholarId": "صلاح-البدير",
+   "videoId": "Wj10pbx7sUs",
+   "duration": 507,
+   "hijriDate": "1441-05-07"
+  },
+  {
+   "n": 4,
+   "title": "خطبة الاستسقاء ب المسجد النبوي",
+   "lang": "ar",
+   "scholarId": "عبدالباري-الثبيتي",
+   "videoId": "LN3HdixFAkY",
+   "duration": 645,
+   "hijriDate": "1442-04-04"
+  },
+  {
+   "n": 5,
+   "title": "خطبة صلاة الاستسقاء ب المسجد النبوي",
+   "lang": "ar",
+   "scholarId": "صلاح-البدير",
+   "videoId": "HdbqjY3cez0",
+   "duration": 626,
+   "hijriDate": "1443-05-09"
+  },
+  {
+   "n": 6,
+   "title": "خطبة الاستسقاء بالمسجد النبوي - التاريخ",
+   "lang": "ar",
+   "scholarId": "عبدالله-البعيجان",
+   "videoId": "DaAlMCgJOis",
+   "duration": 648,
+   "hijriDate": "1444-04-23"
+  }
+ ]
+}

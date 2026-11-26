@@ -1,0 +1,66 @@
+{
+ "id": "PLriFofF1xij7iXmuPSWMdJRkgtLF5RZMQ",
+ "title": "سلسلة محاضرات العشر المباركات من رحاب المسجد النبوي",
+ "subject": "general",
+ "kind": "series",
+ "lang": "ar",
+ "scholarId": "سليمان-الرحيلي",
+ "scholarIds": [
+  "سليمان-الرحيلي"
+ ],
+ "year": null,
+ "source": "youtube",
+ "channelId": "UC0XNCc-DU8J5_ksR-eufPaw",
+ "playlistId": "PLriFofF1xij7iXmuPSWMdJRkgtLF5RZMQ",
+ "url": "https://www.youtube.com/playlist?list=PLriFofF1xij7iXmuPSWMdJRkgtLF5RZMQ",
+ "thumbnail": "https://i.ytimg.com/vi/_rKQY3tGrdA/maxresdefault.jpg",
+ "lessonCount": 5,
+ "duration": 18438,
+ "lessons": [
+  {
+   "n": 1,
+   "title": "وأقبلت العشر",
+   "lang": "ar",
+   "scholarId": "سليمان-الرحيلي",
+   "videoId": "_rKQY3tGrdA",
+   "duration": 3389,
+   "hijriDate": null
+  },
+  {
+   "n": 2,
+   "title": "﴿ألم يأن للذين ءامنوا...﴾",
+   "lang": "ar",
+   "scholarId": "سليمان-الرحيلي",
+   "videoId": "im9ZpK6xtSE",
+   "duration": 3620,
+   "hijriDate": null
+  },
+  {
+   "n": 3,
+   "title": "وانتصفت العشر",
+   "lang": "ar",
+   "scholarId": "سليمان-الرحيلي",
+   "videoId": "KP5eEk8ykY8",
+   "duration": 3787,
+   "hijriDate": null
+  },
+  {
+   "n": 4,
+   "title": "وماذا بعد",
+   "lang": "ar",
+   "scholarId": "سليمان-الرحيلي",
+   "videoId": "BgBxIMJTSJk",
+   "duration": 2785,
+   "hijriDate": null
+  },
+  {
+   "n": 5,
+   "title": "﴿ولتكملوا العدة﴾",
+   "lang": "ar",
+   "scholarId": "سليمان-الرحيلي",
+   "videoId": "m9tQxLaTMf0",
+   "duration": 4857,
+   "hijriDate": null
+  }
+ ]
+}

@@ -1,0 +1,48 @@
+{
+ "id": "PLgaTRTylCbZBEePyWrQjjCAPb8qx1JdHw",
+ "title": "منسك الشيخ ابن سعدي",
+ "subject": "fiqh",
+ "kind": "series",
+ "lang": "ar",
+ "scholarId": "عبدالسلام-الشويعر",
+ "scholarIds": [
+  "عبدالسلام-الشويعر"
+ ],
+ "year": 1447,
+ "source": "youtube",
+ "channelId": "UC3QAoXf9GN9xeQYhk-AZbTg",
+ "playlistId": "PLgaTRTylCbZBEePyWrQjjCAPb8qx1JdHw",
+ "url": "https://www.youtube.com/playlist?list=PLgaTRTylCbZBEePyWrQjjCAPb8qx1JdHw",
+ "thumbnail": "https://i.ytimg.com/vi/Wex4HL9Flps/maxresdefault.jpg",
+ "lessonCount": 3,
+ "duration": 18655,
+ "lessons": [
+  {
+   "n": 1,
+   "title": "الدرس 1",
+   "lang": "ar",
+   "scholarId": "عبدالسلام-الشويعر",
+   "videoId": "F3KbBBFgwek",
+   "duration": 5959,
+   "hijriDate": "1447-12-04"
+  },
+  {
+   "n": 2,
+   "title": "الدرس 2",
+   "lang": "ar",
+   "scholarId": "عبدالسلام-الشويعر",
+   "videoId": "UElxiHThRwU",
+   "duration": 6374,
+   "hijriDate": "1447-12-05"
+  },
+  {
+   "n": 3,
+   "title": "الدرس 3",
+   "lang": "ar",
+   "scholarId": "عبدالسلام-الشويعر",
+   "videoId": "Wex4HL9Flps",
+   "duration": 6322,
+   "hijriDate": "1447-12-06"
+  }
+ ]
+}

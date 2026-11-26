@@ -1,0 +1,66 @@
+{
+ "id": "PLriFofF1xij7hswCb9LtipI6-yu5zFtjf",
+ "title": "التحقيق والإيضاح للشيخ عبدالعزيز بن باز",
+ "subject": "fiqh",
+ "kind": "series",
+ "lang": "ar",
+ "scholarId": "سليمان-الغصن",
+ "scholarIds": [
+  "سليمان-الغصن"
+ ],
+ "year": null,
+ "source": "youtube",
+ "channelId": "UC0XNCc-DU8J5_ksR-eufPaw",
+ "playlistId": "PLriFofF1xij7hswCb9LtipI6-yu5zFtjf",
+ "url": "https://www.youtube.com/playlist?list=PLriFofF1xij7hswCb9LtipI6-yu5zFtjf",
+ "thumbnail": "https://i.ytimg.com/vi/7nXlY5j-uAU/maxresdefault.jpg",
+ "lessonCount": 5,
+ "duration": 22890,
+ "lessons": [
+  {
+   "n": 1,
+   "title": "الدرس 1",
+   "lang": "ar",
+   "scholarId": "سليمان-الغصن",
+   "videoId": "7nXlY5j-uAU",
+   "duration": 6821,
+   "hijriDate": null
+  },
+  {
+   "n": 2,
+   "title": "الدرس 2",
+   "lang": "ar",
+   "scholarId": "سليمان-الغصن",
+   "videoId": "0YJY1UkRJ9g",
+   "duration": 3371,
+   "hijriDate": null
+  },
+  {
+   "n": 3,
+   "title": "الدرس 3",
+   "lang": "ar",
+   "scholarId": "سليمان-الغصن",
+   "videoId": "tIY4SazfgHA",
+   "duration": 5181,
+   "hijriDate": null
+  },
+  {
+   "n": 4,
+   "title": "الدرس 4",
+   "lang": "ar",
+   "scholarId": "سليمان-الغصن",
+   "videoId": "MVQ7YyH4GMY",
+   "duration": 3584,
+   "hijriDate": null
+  },
+  {
+   "n": 5,
+   "title": "الدرس 5",
+   "lang": "ar",
+   "scholarId": "سليمان-الغصن",
+   "videoId": "ZUgNX-HU3Sk",
+   "duration": 3933,
+   "hijriDate": null
+  }
+ ]
+}

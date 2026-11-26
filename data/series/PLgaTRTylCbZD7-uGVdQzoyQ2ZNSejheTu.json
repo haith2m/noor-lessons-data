@@ -1,0 +1,39 @@
+{
+ "id": "PLgaTRTylCbZD7-uGVdQzoyQ2ZNSejheTu",
+ "title": "محاضرتي صلاح القلوب",
+ "subject": "adab",
+ "kind": "series",
+ "lang": "ar",
+ "scholarId": "طلال-ابوالنور",
+ "scholarIds": [
+  "طلال-ابوالنور"
+ ],
+ "year": null,
+ "source": "youtube",
+ "channelId": "UC3QAoXf9GN9xeQYhk-AZbTg",
+ "playlistId": "PLgaTRTylCbZD7-uGVdQzoyQ2ZNSejheTu",
+ "url": "https://www.youtube.com/playlist?list=PLgaTRTylCbZD7-uGVdQzoyQ2ZNSejheTu",
+ "thumbnail": "https://i.ytimg.com/vi/cUaCaBH16Vk/maxresdefault.jpg",
+ "lessonCount": 2,
+ "duration": 7256,
+ "lessons": [
+  {
+   "n": 1,
+   "title": "الدرس 1",
+   "lang": "ar",
+   "scholarId": "طلال-ابوالنور",
+   "videoId": "cUaCaBH16Vk",
+   "duration": 3635,
+   "hijriDate": null
+  },
+  {
+   "n": 2,
+   "title": "الدرس 2",
+   "lang": "ar",
+   "scholarId": "طلال-ابوالنور",
+   "videoId": "mU74Cy7DE08",
+   "duration": 3621,
+   "hijriDate": null
+  }
+ ]
+}

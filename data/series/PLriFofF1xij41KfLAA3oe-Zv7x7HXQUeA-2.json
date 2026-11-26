@@ -1,0 +1,48 @@
+{
+ "id": "PLriFofF1xij41KfLAA3oe-Zv7x7HXQUeA-2",
+ "title": "رسالة الأصول الستة",
+ "subject": "aqeedah",
+ "kind": "series",
+ "lang": "ar",
+ "scholarId": "عبداللطيف-الشاماني",
+ "scholarIds": [
+  "عبداللطيف-الشاماني"
+ ],
+ "year": null,
+ "source": "youtube",
+ "channelId": "UC0XNCc-DU8J5_ksR-eufPaw",
+ "playlistId": "PLriFofF1xij41KfLAA3oe-Zv7x7HXQUeA",
+ "url": "https://www.youtube.com/playlist?list=PLriFofF1xij41KfLAA3oe-Zv7x7HXQUeA",
+ "thumbnail": "https://i.ytimg.com/vi/nx17v4L-k_k/maxresdefault.jpg",
+ "lessonCount": 3,
+ "duration": 11427,
+ "lessons": [
+  {
+   "n": 1,
+   "title": "الدرس 1",
+   "lang": "ar",
+   "scholarId": "عبداللطيف-الشاماني",
+   "videoId": "7ql3f_36hBY",
+   "duration": 4085,
+   "hijriDate": null
+  },
+  {
+   "n": 2,
+   "title": "الدرس 2",
+   "lang": "ar",
+   "scholarId": "عبداللطيف-الشاماني",
+   "videoId": "oQD47s6Rhc8",
+   "duration": 3642,
+   "hijriDate": null
+  },
+  {
+   "n": 3,
+   "title": "الدرس 3",
+   "lang": "ar",
+   "scholarId": "عبداللطيف-الشاماني",
+   "videoId": "EdPEEYiGXIg",
+   "duration": 3700,
+   "hijriDate": null
+  }
+ ]
+}

@@ -1,0 +1,126 @@
+{
+ "id": "PLQlr5joN-JNg",
+ "title": "دورة البناء الفقهي والأصولي",
+ "subject": "fiqh",
+ "kind": "course",
+ "lang": "ar",
+ "scholarId": null,
+ "scholarIds": [
+  "عبدالسلام-الشويعر",
+  "احمد-حميد",
+  "خالد-عروس",
+  "عبدالاله-الملا",
+  "عبدالباقي-مبارك",
+  "عبدالرحمن-القرني",
+  "عبدالسلام-السليمان"
+ ],
+ "year": 1448,
+ "source": "youtube",
+ "channelId": "UC3QAoXf9GN9xeQYhk-AZbTg",
+ "playlistId": "PLQlr5joN-JNg",
+ "url": "https://www.youtube.com/playlist?list=PLQlr5joN-JNg",
+ "thumbnail": "https://i.ytimg.com/vi/FK31uSyPrjU/maxresdefault.jpg",
+ "lessonCount": 11,
+ "duration": 63276,
+ "lessons": [
+  {
+   "n": 1,
+   "title": "شرح رسالة ابن سعدي في أصول الفقه (1 من 2)",
+   "lang": "ar",
+   "scholarId": "عبدالسلام-الشويعر",
+   "videoId": "EgYh1l-EW-Y",
+   "duration": 6669,
+   "hijriDate": "1448-01-12"
+  },
+  {
+   "n": 2,
+   "title": "التخريج الفقهي ودوره في النوازل",
+   "lang": "ar",
+   "scholarId": "احمد-حميد",
+   "videoId": "Mjrip50lw2A",
+   "duration": 2579,
+   "hijriDate": "1448-01-12"
+  },
+  {
+   "n": 3,
+   "title": "شرح رسالة ابن سعدي في أصول الفقه (2 من 2)",
+   "lang": "ar",
+   "scholarId": "عبدالسلام-الشويعر",
+   "videoId": "QJcxLkuCM9Q",
+   "duration": 9775,
+   "hijriDate": "1448-01-13"
+  },
+  {
+   "n": 4,
+   "title": "مدخل إلى كتاب الإنصاف للمرداوي",
+   "lang": "ar",
+   "scholarId": "خالد-عروس",
+   "videoId": "d4cGvoqpjvM",
+   "duration": 6684,
+   "hijriDate": "1448-01-13"
+  },
+  {
+   "n": 5,
+   "title": "مهارة دراسة المسائل الفقهية المقارنة",
+   "lang": "ar",
+   "scholarId": "عبدالاله-الملا",
+   "videoId": "SFviIkJX9O0",
+   "duration": 3964,
+   "hijriDate": "1448-01-14"
+  },
+  {
+   "n": 6,
+   "title": "مهارة تصوير المسائل",
+   "lang": "ar",
+   "scholarId": "عبدالباقي-مبارك",
+   "videoId": "ZxApfwWQMVM",
+   "duration": 4392,
+   "hijriDate": "1448-01-19"
+  },
+  {
+   "n": 7,
+   "title": "بداية العابد وكفاية الزاهد (4 من 5)",
+   "lang": "ar",
+   "scholarId": "عبدالسلام-الشويعر",
+   "videoId": "j-j79ByaXqQ",
+   "duration": 6749,
+   "hijriDate": "1448-01-21"
+  },
+  {
+   "n": 8,
+   "title": "بداية العابد وكفاية الزاهد (5 من 5)",
+   "lang": "ar",
+   "scholarId": "عبدالسلام-الشويعر",
+   "videoId": "2SOPlBsUq0Q",
+   "duration": 7973,
+   "hijriDate": "1448-01-22"
+  },
+  {
+   "n": 9,
+   "title": "مهارة تحرير الخلاف",
+   "lang": "ar",
+   "scholarId": "عبدالرحمن-القرني",
+   "videoId": "HdwxqdT_B-Q",
+   "duration": 3713,
+   "hijriDate": "1448-01-24"
+  },
+  {
+   "n": 10,
+   "title": "شرح منظومة القواعد الفقهية (1 من 2)",
+   "lang": "ar",
+   "scholarId": "عبدالسلام-السليمان",
+   "videoId": "M50c4KQA4U0",
+   "duration": 5445,
+   "hijriDate": "1448-02-01"
+  },
+  {
+   "n": 11,
+   "title": "شرح منظومة القواعد الفقهية 2",
+   "lang": "ar",
+   "scholarId": "عبدالسلام-السليمان",
+   "videoId": "FK31uSyPrjU",
+   "duration": 5333,
+   "hijriDate": "1448-02-02"
+  }
+ ]
+}

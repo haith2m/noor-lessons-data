@@ -1,0 +1,40 @@
+{
+ "id": "PLgaTRTylCbZBIB3-jVmC8u1nmtlUp3fMy",
+ "title": "شعار الحج رسالة سلام",
+ "subject": "fiqh",
+ "kind": "course",
+ "lang": "ar",
+ "scholarId": null,
+ "scholarIds": [
+  "عبدالرحمن-السديس",
+  "سعد-الشثري"
+ ],
+ "year": 1438,
+ "source": "youtube",
+ "channelId": "UC3QAoXf9GN9xeQYhk-AZbTg",
+ "playlistId": "PLgaTRTylCbZBIB3-jVmC8u1nmtlUp3fMy",
+ "url": "https://www.youtube.com/playlist?list=PLgaTRTylCbZBIB3-jVmC8u1nmtlUp3fMy",
+ "thumbnail": "https://i.ytimg.com/vi/wGKn2lzyLPM/maxresdefault.jpg",
+ "lessonCount": 2,
+ "duration": 8007,
+ "lessons": [
+  {
+   "n": 1,
+   "title": "الدرس 1",
+   "lang": "ar",
+   "scholarId": "عبدالرحمن-السديس",
+   "videoId": "wGKn2lzyLPM",
+   "duration": 4212,
+   "hijriDate": "1438-12-02"
+  },
+  {
+   "n": 2,
+   "title": "وما أرسلناك إلا رحمة للعالمين",
+   "lang": "ar",
+   "scholarId": "سعد-الشثري",
+   "videoId": "D8zGJaxahkg",
+   "duration": 3795,
+   "hijriDate": "1438-12-04"
+  }
+ ]
+}

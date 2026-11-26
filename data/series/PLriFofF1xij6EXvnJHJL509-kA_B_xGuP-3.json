@@ -1,0 +1,39 @@
+{
+ "id": "PLriFofF1xij6EXvnJHJL509-kA_B_xGuP-3",
+ "title": "رسالة الأصول الستة",
+ "subject": "aqeedah",
+ "kind": "series",
+ "lang": "ar",
+ "scholarId": "عبدالسلام-السليمان",
+ "scholarIds": [
+  "عبدالسلام-السليمان"
+ ],
+ "year": null,
+ "source": "youtube",
+ "channelId": "UC0XNCc-DU8J5_ksR-eufPaw",
+ "playlistId": "PLriFofF1xij6EXvnJHJL509-kA_B_xGuP",
+ "url": "https://www.youtube.com/playlist?list=PLriFofF1xij6EXvnJHJL509-kA_B_xGuP",
+ "thumbnail": "https://i.ytimg.com/vi/1H2Gyz9Kcrg/maxresdefault.jpg",
+ "lessonCount": 2,
+ "duration": 8897,
+ "lessons": [
+  {
+   "n": 1,
+   "title": "الدرس 1",
+   "lang": "ar",
+   "scholarId": "عبدالسلام-السليمان",
+   "videoId": "IN_k9QSyFO0",
+   "duration": 4401,
+   "hijriDate": null
+  },
+  {
+   "n": 2,
+   "title": "الدرس 2",
+   "lang": "ar",
+   "scholarId": "عبدالسلام-السليمان",
+   "videoId": "aYFWrQH4T3k",
+   "duration": 4496,
+   "hijriDate": null
+  }
+ ]
+}

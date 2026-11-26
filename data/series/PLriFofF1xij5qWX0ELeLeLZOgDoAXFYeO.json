@@ -1,0 +1,30 @@
+{
+ "id": "PLriFofF1xij5qWX0ELeLeLZOgDoAXFYeO",
+ "title": "عشريات ابن القيم",
+ "subject": "general",
+ "kind": "series",
+ "lang": "ar",
+ "scholarId": "بدر-البدر",
+ "scholarIds": [
+  "بدر-البدر"
+ ],
+ "year": null,
+ "source": "youtube",
+ "channelId": "UC0XNCc-DU8J5_ksR-eufPaw",
+ "playlistId": "PLriFofF1xij5qWX0ELeLeLZOgDoAXFYeO",
+ "url": "https://www.youtube.com/playlist?list=PLriFofF1xij5qWX0ELeLeLZOgDoAXFYeO",
+ "thumbnail": "https://i.ytimg.com/vi/3fS3j3G2Tc4/maxresdefault.jpg",
+ "lessonCount": 1,
+ "duration": 4561,
+ "lessons": [
+  {
+   "n": 1,
+   "title": "الدرس 1",
+   "lang": "ar",
+   "scholarId": "بدر-البدر",
+   "videoId": "3fS3j3G2Tc4",
+   "duration": 4561,
+   "hijriDate": null
+  }
+ ]
+}

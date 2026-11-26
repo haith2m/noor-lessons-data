@@ -1,0 +1,39 @@
+{
+ "id": "PLgaTRTylCbZCfmcjfte1wRSs-0hBGBsrj",
+ "title": "المسجد الحرام فضائل وأحكام",
+ "subject": "fiqh",
+ "kind": "series",
+ "lang": "ar",
+ "scholarId": "حسن-بخاري",
+ "scholarIds": [
+  "حسن-بخاري"
+ ],
+ "year": 1442,
+ "source": "youtube",
+ "channelId": "UC3QAoXf9GN9xeQYhk-AZbTg",
+ "playlistId": "PLgaTRTylCbZCfmcjfte1wRSs-0hBGBsrj",
+ "url": "https://www.youtube.com/playlist?list=PLgaTRTylCbZCfmcjfte1wRSs-0hBGBsrj",
+ "thumbnail": "https://i.ytimg.com/vi/d3g8vcw17Vo/maxresdefault.jpg",
+ "lessonCount": 2,
+ "duration": 7061,
+ "lessons": [
+  {
+   "n": 1,
+   "title": "الدرس 1",
+   "lang": "ar",
+   "scholarId": "حسن-بخاري",
+   "videoId": "d3g8vcw17Vo",
+   "duration": 3586,
+   "hijriDate": "1442-05-28"
+  },
+  {
+   "n": 2,
+   "title": "الدرس 2",
+   "lang": "ar",
+   "scholarId": "حسن-بخاري",
+   "videoId": "LU_JoFvmFhw",
+   "duration": 3475,
+   "hijriDate": "1442-05-29"
+  }
+ ]
+}

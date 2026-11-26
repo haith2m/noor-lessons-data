@@ -1,0 +1,66 @@
+{
+ "id": "PLgaTRTylCbZAj1s2jBouWAnoMvdiOdKLg",
+ "title": "رمضان في حياة النبي ﷺ",
+ "subject": "seerah",
+ "kind": "series",
+ "lang": "ar",
+ "scholarId": "حسن-بخاري",
+ "scholarIds": [
+  "حسن-بخاري"
+ ],
+ "year": 1442,
+ "source": "youtube",
+ "channelId": "UC3QAoXf9GN9xeQYhk-AZbTg",
+ "playlistId": "PLgaTRTylCbZAj1s2jBouWAnoMvdiOdKLg",
+ "url": "https://www.youtube.com/playlist?list=PLgaTRTylCbZAj1s2jBouWAnoMvdiOdKLg",
+ "thumbnail": "https://i.ytimg.com/vi/HpfcjE1CjEA/maxresdefault.jpg",
+ "lessonCount": 5,
+ "duration": 13780,
+ "lessons": [
+  {
+   "n": 1,
+   "title": "الإحتساب والصيام",
+   "lang": "ar",
+   "scholarId": "حسن-بخاري",
+   "videoId": "73YN8URs9ms",
+   "duration": 2731,
+   "hijriDate": "1442-09-03"
+  },
+  {
+   "n": 2,
+   "title": "القيام والقرآن",
+   "lang": "ar",
+   "scholarId": "حسن-بخاري",
+   "videoId": "TLUNkyhd8uk",
+   "duration": 2521,
+   "hijriDate": "1442-09-10"
+  },
+  {
+   "n": 3,
+   "title": "الاجتهاد والاعتكاف",
+   "lang": "ar",
+   "scholarId": "حسن-بخاري",
+   "videoId": "7cRasiJdAZ8",
+   "duration": 2716,
+   "hijriDate": "1442-09-17"
+  },
+  {
+   "n": 4,
+   "title": "الدعاء",
+   "lang": "ar",
+   "scholarId": "حسن-بخاري",
+   "videoId": "NXMx0mUXDDA",
+   "duration": 2614,
+   "hijriDate": "1442-09-24"
+  },
+  {
+   "n": 5,
+   "title": "الدرس 5",
+   "lang": "ar",
+   "scholarId": "حسن-بخاري",
+   "videoId": "HpfcjE1CjEA",
+   "duration": 3198,
+   "hijriDate": "1442-08-26"
+  }
+ ]
+}

@@ -1,0 +1,46 @@
+{
+ "id": "PLgaTRTylCbZBS-NOUaKwPFGTqxNJrj3LM",
+ "title": "English (اللغة الانجليزية)",
+ "subject": "general",
+ "kind": "clips",
+ "lang": "en",
+ "scholarId": null,
+ "scholarIds": [],
+ "year": null,
+ "source": "youtube",
+ "channelId": "UC3QAoXf9GN9xeQYhk-AZbTg",
+ "playlistId": "PLgaTRTylCbZBS-NOUaKwPFGTqxNJrj3LM",
+ "url": "https://www.youtube.com/playlist?list=PLgaTRTylCbZBS-NOUaKwPFGTqxNJrj3LM",
+ "thumbnail": "https://i.ytimg.com/vi/yFNlJ5VQxiQ/maxresdefault.jpg",
+ "lessonCount": 3,
+ "duration": 427,
+ "lessons": [
+  {
+   "n": 1,
+   "title": "DAY OF IMMOLATION",
+   "lang": "en",
+   "scholarId": null,
+   "videoId": "yFNlJ5VQxiQ",
+   "duration": 191,
+   "hijriDate": null
+  },
+  {
+   "n": 2,
+   "title": "DAYS OF TASHREEQ",
+   "lang": "en",
+   "scholarId": null,
+   "videoId": "86le0YjcIHA",
+   "duration": 187,
+   "hijriDate": null
+  },
+  {
+   "n": 3,
+   "title": "صيام يوم عاشوراء",
+   "lang": "en",
+   "scholarId": null,
+   "videoId": "KE2cWuoec68",
+   "duration": 49,
+   "hijriDate": null
+  }
+ ]
+}

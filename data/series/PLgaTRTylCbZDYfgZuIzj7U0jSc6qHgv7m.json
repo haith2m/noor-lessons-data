@@ -1,0 +1,48 @@
+{
+ "id": "PLgaTRTylCbZDYfgZuIzj7U0jSc6qHgv7m",
+ "title": "وقفات مع خطبة النّبي ﷺ في حجّة الوداع",
+ "subject": "seerah",
+ "kind": "series",
+ "lang": "ar",
+ "scholarId": "طلال-ابوالنور",
+ "scholarIds": [
+  "طلال-ابوالنور"
+ ],
+ "year": 1444,
+ "source": "youtube",
+ "channelId": "UC3QAoXf9GN9xeQYhk-AZbTg",
+ "playlistId": "PLgaTRTylCbZDYfgZuIzj7U0jSc6qHgv7m",
+ "url": "https://www.youtube.com/playlist?list=PLgaTRTylCbZDYfgZuIzj7U0jSc6qHgv7m",
+ "thumbnail": "https://i.ytimg.com/vi/keHeRA7MsFE/maxresdefault.jpg",
+ "lessonCount": 3,
+ "duration": 11836,
+ "lessons": [
+  {
+   "n": 1,
+   "title": "الدرس 1",
+   "lang": "ar",
+   "scholarId": "طلال-ابوالنور",
+   "videoId": "bo8eJEg2k70",
+   "duration": 3769,
+   "hijriDate": "1444-11-16"
+  },
+  {
+   "n": 2,
+   "title": "الدرس 2",
+   "lang": "ar",
+   "scholarId": "طلال-ابوالنور",
+   "videoId": "A8wQyc0PtBI",
+   "duration": 3846,
+   "hijriDate": "1444-11-23"
+  },
+  {
+   "n": 3,
+   "title": "ثمرات الحج",
+   "lang": "ar",
+   "scholarId": "طلال-ابوالنور",
+   "videoId": "keHeRA7MsFE",
+   "duration": 4221,
+   "hijriDate": "1444-12-15"
+  }
+ ]
+}

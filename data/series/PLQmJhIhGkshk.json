@@ -1,0 +1,30 @@
+{
+ "id": "PLQmJhIhGkshk",
+ "title": "أصل دعوة الرسل",
+ "subject": "general",
+ "kind": "series",
+ "lang": "ar",
+ "scholarId": "عبدالرحمن-السديس",
+ "scholarIds": [
+  "عبدالرحمن-السديس"
+ ],
+ "year": null,
+ "source": "youtube",
+ "channelId": "UC0XNCc-DU8J5_ksR-eufPaw",
+ "playlistId": "PLQmJhIhGkshk",
+ "url": "https://www.youtube.com/playlist?list=PLQmJhIhGkshk",
+ "thumbnail": "https://i.ytimg.com/vi/YX5Yii5Eo2M/maxresdefault.jpg",
+ "lessonCount": 1,
+ "duration": 4237,
+ "lessons": [
+  {
+   "n": 1,
+   "title": "الدرس 1",
+   "lang": "ar",
+   "scholarId": "عبدالرحمن-السديس",
+   "videoId": "YX5Yii5Eo2M",
+   "duration": 4237,
+   "hijriDate": null
+  }
+ ]
+}

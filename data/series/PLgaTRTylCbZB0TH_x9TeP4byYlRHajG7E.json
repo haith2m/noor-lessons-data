@@ -1,0 +1,57 @@
+{
+ "id": "PLgaTRTylCbZB0TH_x9TeP4byYlRHajG7E",
+ "title": "شرح كتاب كشف الشبهات",
+ "subject": "aqeedah",
+ "kind": "series",
+ "lang": "ar",
+ "scholarId": "سليمان-الغصن",
+ "scholarIds": [
+  "سليمان-الغصن"
+ ],
+ "year": 1447,
+ "source": "youtube",
+ "channelId": "UC3QAoXf9GN9xeQYhk-AZbTg",
+ "playlistId": "PLgaTRTylCbZB0TH_x9TeP4byYlRHajG7E",
+ "url": "https://www.youtube.com/playlist?list=PLgaTRTylCbZB0TH_x9TeP4byYlRHajG7E",
+ "thumbnail": "https://i.ytimg.com/vi/gA7lVyeNcVQ/maxresdefault.jpg",
+ "lessonCount": 4,
+ "duration": 20563,
+ "lessons": [
+  {
+   "n": 1,
+   "title": "الدرس 1",
+   "lang": "ar",
+   "scholarId": "سليمان-الغصن",
+   "videoId": "k8dpwjY2JpI",
+   "duration": 5597,
+   "hijriDate": "1447-04-07"
+  },
+  {
+   "n": 2,
+   "title": "الدرس 2",
+   "lang": "ar",
+   "scholarId": "سليمان-الغصن",
+   "videoId": "ZZIcVgAPnRs",
+   "duration": 4175,
+   "hijriDate": "1447-04-07"
+  },
+  {
+   "n": 3,
+   "title": "الدرس 3",
+   "lang": "ar",
+   "scholarId": "سليمان-الغصن",
+   "videoId": "H6s5v2XyOws",
+   "duration": 6832,
+   "hijriDate": "1447-04-08"
+  },
+  {
+   "n": 4,
+   "title": "الدرس 4",
+   "lang": "ar",
+   "scholarId": "سليمان-الغصن",
+   "videoId": "gA7lVyeNcVQ",
+   "duration": 3959,
+   "hijriDate": "1447-04-08"
+  }
+ ]
+}

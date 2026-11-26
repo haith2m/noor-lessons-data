@@ -1,0 +1,75 @@
+{
+ "id": "PLriFofF1xij5EX2H2nay73bUFcZdUOQZA",
+ "title": "النكت على كتاب ابن الصلاح",
+ "subject": "general",
+ "kind": "series",
+ "lang": "ar",
+ "scholarId": "انيس-طاهر",
+ "scholarIds": [
+  "انيس-طاهر"
+ ],
+ "year": null,
+ "source": "youtube",
+ "channelId": "UC0XNCc-DU8J5_ksR-eufPaw",
+ "playlistId": "PLriFofF1xij5EX2H2nay73bUFcZdUOQZA",
+ "url": "https://www.youtube.com/playlist?list=PLriFofF1xij5EX2H2nay73bUFcZdUOQZA",
+ "thumbnail": "https://i.ytimg.com/vi/5-pcOvBc9Nk/maxresdefault.jpg",
+ "lessonCount": 6,
+ "duration": 24847,
+ "lessons": [
+  {
+   "n": 1,
+   "title": "الدرس 1",
+   "lang": "ar",
+   "scholarId": "انيس-طاهر",
+   "videoId": "5-pcOvBc9Nk",
+   "duration": 3884,
+   "hijriDate": null
+  },
+  {
+   "n": 2,
+   "title": "الدرس 2",
+   "lang": "ar",
+   "scholarId": "انيس-طاهر",
+   "videoId": "MBi-xTXd_2w",
+   "duration": 4054,
+   "hijriDate": null
+  },
+  {
+   "n": 3,
+   "title": "الدرس 3",
+   "lang": "ar",
+   "scholarId": "انيس-طاهر",
+   "videoId": "MqsTLNOZIhc",
+   "duration": 4210,
+   "hijriDate": null
+  },
+  {
+   "n": 4,
+   "title": "الدرس 4",
+   "lang": "ar",
+   "scholarId": "انيس-طاهر",
+   "videoId": "Afau8SG8D-A",
+   "duration": 4223,
+   "hijriDate": null
+  },
+  {
+   "n": 5,
+   "title": "الدرس 5",
+   "lang": "ar",
+   "scholarId": "انيس-طاهر",
+   "videoId": "skzAM-uSX7g",
+   "duration": 3887,
+   "hijriDate": null
+  },
+  {
+   "n": 6,
+   "title": "الدرس 6",
+   "lang": "ar",
+   "scholarId": "انيس-طاهر",
+   "videoId": "dZd6CLL-jCY",
+   "duration": 4589,
+   "hijriDate": null
+  }
+ ]
+}

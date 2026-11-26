@@ -1,0 +1,48 @@
+{
+ "id": "PLgaTRTylCbZChzo_m9dpvT9ZARDfBJsMd",
+ "title": "حديث جابر رضي الله عنه صفة الحج",
+ "subject": "fiqh",
+ "kind": "series",
+ "lang": "ar",
+ "scholarId": "حسن-بخاري",
+ "scholarIds": [
+  "حسن-بخاري"
+ ],
+ "year": null,
+ "source": "youtube",
+ "channelId": "UC3QAoXf9GN9xeQYhk-AZbTg",
+ "playlistId": "PLgaTRTylCbZChzo_m9dpvT9ZARDfBJsMd",
+ "url": "https://www.youtube.com/playlist?list=PLgaTRTylCbZChzo_m9dpvT9ZARDfBJsMd",
+ "thumbnail": "https://i.ytimg.com/vi/gnhOth8MInc/sddefault.jpg",
+ "lessonCount": 3,
+ "duration": 15358,
+ "lessons": [
+  {
+   "n": 1,
+   "title": "الدرس 1",
+   "lang": "ar",
+   "scholarId": "حسن-بخاري",
+   "videoId": "gnhOth8MInc",
+   "duration": 4192,
+   "hijriDate": null
+  },
+  {
+   "n": 2,
+   "title": "الدرس 2",
+   "lang": "ar",
+   "scholarId": "حسن-بخاري",
+   "videoId": "_5FE_OgF5O0",
+   "duration": 4552,
+   "hijriDate": null
+  },
+  {
+   "n": 3,
+   "title": "الدرس 3",
+   "lang": "ar",
+   "scholarId": "حسن-بخاري",
+   "videoId": "UhkW9b6UG4s",
+   "duration": 6614,
+   "hijriDate": null
+  }
+ ]
+}

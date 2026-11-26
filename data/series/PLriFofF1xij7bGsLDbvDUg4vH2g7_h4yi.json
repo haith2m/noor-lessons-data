@@ -1,0 +1,39 @@
+{
+ "id": "PLriFofF1xij7bGsLDbvDUg4vH2g7_h4yi",
+ "title": "النصيحة المختصة لابن الحبال الحنبلي",
+ "subject": "general",
+ "kind": "series",
+ "lang": "ar",
+ "scholarId": "سليمان-الرحيلي",
+ "scholarIds": [
+  "سليمان-الرحيلي"
+ ],
+ "year": null,
+ "source": "youtube",
+ "channelId": "UC0XNCc-DU8J5_ksR-eufPaw",
+ "playlistId": "PLriFofF1xij7bGsLDbvDUg4vH2g7_h4yi",
+ "url": "https://www.youtube.com/playlist?list=PLriFofF1xij7bGsLDbvDUg4vH2g7_h4yi",
+ "thumbnail": "https://i.ytimg.com/vi/N4tt5Ozr7ww/maxresdefault.jpg",
+ "lessonCount": 2,
+ "duration": 13623,
+ "lessons": [
+  {
+   "n": 1,
+   "title": "رسالة النصيحة المختصة",
+   "lang": "ar",
+   "scholarId": "سليمان-الرحيلي",
+   "videoId": "N4tt5Ozr7ww",
+   "duration": 7036,
+   "hijriDate": null
+  },
+  {
+   "n": 2,
+   "title": "رسالة النصيحة المختصة",
+   "lang": "ar",
+   "scholarId": "سليمان-الرحيلي",
+   "videoId": "t5XtNjRpFBw",
+   "duration": 6587,
+   "hijriDate": null
+  }
+ ]
+}

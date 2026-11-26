@@ -1,0 +1,197 @@
+{
+ "id": "PLriFofF1xij7zlO2siWOYFoPcQuog7gWl",
+ "title": "الدورة العلمية الافتراضية (فقه الحج من الكتاب والسنة)",
+ "subject": "fiqh",
+ "kind": "course",
+ "lang": "ar",
+ "scholarId": null,
+ "scholarIds": [
+  "علي-التويجري",
+  "عبدالله-الشنقيطي",
+  "عبدالله-الزاحم",
+  "عبدالرزاق-البدر",
+  "سامي-الصقير",
+  "انيس-طاهر"
+ ],
+ "year": 1442,
+ "source": "youtube",
+ "channelId": "UC0XNCc-DU8J5_ksR-eufPaw",
+ "playlistId": "PLriFofF1xij7zlO2siWOYFoPcQuog7gWl",
+ "url": "https://www.youtube.com/playlist?list=PLriFofF1xij7zlO2siWOYFoPcQuog7gWl",
+ "thumbnail": "https://i.ytimg.com/vi/009aGvO1by0/sddefault.jpg",
+ "lessonCount": 19,
+ "duration": 55536,
+ "lessons": [
+  {
+   "n": 1,
+   "title": "تفسير آيات الحج من سورة الحج",
+   "lang": "ar",
+   "scholarId": "علي-التويجري",
+   "videoId": "009aGvO1by0",
+   "duration": 2557,
+   "hijriDate": null
+  },
+  {
+   "n": 2,
+   "title": "تفسير آيات الحج من سورة الحج",
+   "lang": "ar",
+   "scholarId": "علي-التويجري",
+   "videoId": "9wbDSIUiES0",
+   "duration": 3521,
+   "hijriDate": null
+  },
+  {
+   "n": 3,
+   "title": "تفسير آيات الحج من سورة البقرة",
+   "lang": "ar",
+   "scholarId": "عبدالله-الشنقيطي",
+   "videoId": "7964RdadQGM",
+   "duration": 3744,
+   "hijriDate": null
+  },
+  {
+   "n": 4,
+   "title": "تفسير آيات الحج من سورة الحج",
+   "lang": "ar",
+   "scholarId": "علي-التويجري",
+   "videoId": "5uhXJikqYOk",
+   "duration": 2742,
+   "hijriDate": null
+  },
+  {
+   "n": 5,
+   "title": "الحج والعمرة",
+   "lang": "ar",
+   "scholarId": "عبدالله-الزاحم",
+   "videoId": "tV4J59Qpa1s",
+   "duration": 2927,
+   "hijriDate": null
+  },
+  {
+   "n": 6,
+   "title": "كتاب عمدة الأحكام (الحج)",
+   "lang": "ar",
+   "scholarId": "عبدالرزاق-البدر",
+   "videoId": "a6f4flRqX-Q",
+   "duration": 3402,
+   "hijriDate": null
+  },
+  {
+   "n": 7,
+   "title": "كتاب عمدة الأحكام (الحج)",
+   "lang": "ar",
+   "scholarId": "عبدالرزاق-البدر",
+   "videoId": "Wx2j83Kt4Z0",
+   "duration": 2662,
+   "hijriDate": null
+  },
+  {
+   "n": 8,
+   "title": "الحج والعمرة",
+   "lang": "ar",
+   "scholarId": "عبدالله-الزاحم",
+   "videoId": "i_zfJHz2oFg",
+   "duration": 2860,
+   "hijriDate": null
+  },
+  {
+   "n": 9,
+   "title": "كتاب عمدة الأحكام (الحج)",
+   "lang": "ar",
+   "scholarId": "عبدالرزاق-البدر",
+   "videoId": "a-p13ZBUf5E",
+   "duration": 3319,
+   "hijriDate": null
+  },
+  {
+   "n": 10,
+   "title": "الحج والعمرة",
+   "lang": "ar",
+   "scholarId": "عبدالله-الزاحم",
+   "videoId": "6ubHn0q7ElM",
+   "duration": 2893,
+   "hijriDate": null
+  },
+  {
+   "n": 11,
+   "title": "كتاب عمدة الأحكام (الحج)",
+   "lang": "ar",
+   "scholarId": "عبدالرزاق-البدر",
+   "videoId": "2iw9aU2uBDM",
+   "duration": 3623,
+   "hijriDate": null
+  },
+  {
+   "n": 12,
+   "title": "الحج والعمرة",
+   "lang": "ar",
+   "scholarId": "عبدالله-الزاحم",
+   "videoId": "Kqu8zlwE9g8",
+   "duration": 2386,
+   "hijriDate": null
+  },
+  {
+   "n": 13,
+   "title": "كتاب عمدة الأحكام (الحج)",
+   "lang": "ar",
+   "scholarId": "عبدالرزاق-البدر",
+   "videoId": "SbiJplyLsy0",
+   "duration": 3384,
+   "hijriDate": null
+  },
+  {
+   "n": 14,
+   "title": "كتاب عمدة الفقه (الحج)",
+   "lang": "ar",
+   "scholarId": "سامي-الصقير",
+   "videoId": "WNeA_WNBl4k",
+   "duration": 2660,
+   "hijriDate": null
+  },
+  {
+   "n": 15,
+   "title": "كتاب بلوغ المرام (الحج)",
+   "lang": "ar",
+   "scholarId": "انيس-طاهر",
+   "videoId": "2XSEw7HthHU",
+   "duration": 2938,
+   "hijriDate": null
+  },
+  {
+   "n": 16,
+   "title": "كتاب عمدة الفقه (الحج)",
+   "lang": "ar",
+   "scholarId": "سامي-الصقير",
+   "videoId": "VGSipSW0aZY",
+   "duration": 2596,
+   "hijriDate": null
+  },
+  {
+   "n": 17,
+   "title": "كتاب عمدة الفقه (الحج)",
+   "lang": "ar",
+   "scholarId": "سامي-الصقير",
+   "videoId": "LIfh7J-5KZM",
+   "duration": 1440,
+   "hijriDate": null
+  },
+  {
+   "n": 18,
+   "title": "كتاب بلوغ المرام (الحج)",
+   "lang": "ar",
+   "scholarId": "انيس-طاهر",
+   "videoId": "nMgb7MUX5oY",
+   "duration": 2544,
+   "hijriDate": null
+  },
+  {
+   "n": 19,
+   "title": "تفسير آيات الحج من سورة البقرة",
+   "lang": "ar",
+   "scholarId": "عبدالله-الشنقيطي",
+   "videoId": "uf2LkAQjuac",
+   "duration": 3338,
+   "hijriDate": null
+  }
+ ]
+}

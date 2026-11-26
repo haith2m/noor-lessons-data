@@ -1,0 +1,57 @@
+{
+ "id": "PLriFofF1xij56C0crXaW3vkzKmh1OqLXs-4",
+ "title": "المحرر في الحديث (الصيام)",
+ "subject": "hadith",
+ "kind": "series",
+ "lang": "ar",
+ "scholarId": "سلمان-الدخيل",
+ "scholarIds": [
+  "سلمان-الدخيل"
+ ],
+ "year": null,
+ "source": "youtube",
+ "channelId": "UC0XNCc-DU8J5_ksR-eufPaw",
+ "playlistId": "PLriFofF1xij56C0crXaW3vkzKmh1OqLXs",
+ "url": "https://www.youtube.com/playlist?list=PLriFofF1xij56C0crXaW3vkzKmh1OqLXs",
+ "thumbnail": "https://i.ytimg.com/vi/yxS01hTIm1g/maxresdefault.jpg",
+ "lessonCount": 4,
+ "duration": 12164,
+ "lessons": [
+  {
+   "n": 1,
+   "title": "الدرس 1",
+   "lang": "ar",
+   "scholarId": "سلمان-الدخيل",
+   "videoId": "XDU_yozXHso",
+   "duration": 3459,
+   "hijriDate": null
+  },
+  {
+   "n": 2,
+   "title": "الدرس 2",
+   "lang": "ar",
+   "scholarId": "سلمان-الدخيل",
+   "videoId": "tMH2A0c2GcA",
+   "duration": 2250,
+   "hijriDate": null
+  },
+  {
+   "n": 3,
+   "title": "الدرس 3",
+   "lang": "ar",
+   "scholarId": "سلمان-الدخيل",
+   "videoId": "uu6KCLKFr30",
+   "duration": 3160,
+   "hijriDate": null
+  },
+  {
+   "n": 4,
+   "title": "الدرس 4",
+   "lang": "ar",
+   "scholarId": "سلمان-الدخيل",
+   "videoId": "5_bMAMzmb7E",
+   "duration": 3295,
+   "hijriDate": null
+  }
+ ]
+}

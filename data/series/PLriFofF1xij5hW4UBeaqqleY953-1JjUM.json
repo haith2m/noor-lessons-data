@@ -1,0 +1,39 @@
+{
+ "id": "PLriFofF1xij5hW4UBeaqqleY953-1JjUM",
+ "title": "تطهير الاعتقاد عن أدران الإلحاد",
+ "subject": "aqeedah",
+ "kind": "series",
+ "lang": "ar",
+ "scholarId": "سعود-الخلف",
+ "scholarIds": [
+  "سعود-الخلف"
+ ],
+ "year": null,
+ "source": "youtube",
+ "channelId": "UC0XNCc-DU8J5_ksR-eufPaw",
+ "playlistId": "PLriFofF1xij5hW4UBeaqqleY953-1JjUM",
+ "url": "https://www.youtube.com/playlist?list=PLriFofF1xij5hW4UBeaqqleY953-1JjUM",
+ "thumbnail": "https://i.ytimg.com/vi/8iZRrUl7rFY/maxresdefault.jpg",
+ "lessonCount": 2,
+ "duration": 6432,
+ "lessons": [
+  {
+   "n": 1,
+   "title": "الدرس 1",
+   "lang": "ar",
+   "scholarId": "سعود-الخلف",
+   "videoId": "8iZRrUl7rFY",
+   "duration": 3041,
+   "hijriDate": null
+  },
+  {
+   "n": 2,
+   "title": "الدرس 2",
+   "lang": "ar",
+   "scholarId": "سعود-الخلف",
+   "videoId": "1CiR8Z_HssM",
+   "duration": 3391,
+   "hijriDate": null
+  }
+ ]
+}

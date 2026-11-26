@@ -1,0 +1,30 @@
+{
+ "id": "PLriFofF1xij7LbH6vCjzrrSGaEi49OTK0",
+ "title": "كتاب التوحيد",
+ "subject": "aqeedah",
+ "kind": "series",
+ "lang": "ar",
+ "scholarId": "صالح-الحديثي",
+ "scholarIds": [
+  "صالح-الحديثي"
+ ],
+ "year": null,
+ "source": "youtube",
+ "channelId": "UC0XNCc-DU8J5_ksR-eufPaw",
+ "playlistId": "PLriFofF1xij7LbH6vCjzrrSGaEi49OTK0",
+ "url": "https://www.youtube.com/playlist?list=PLriFofF1xij7LbH6vCjzrrSGaEi49OTK0",
+ "thumbnail": "https://i.ytimg.com/vi/h9zjCD0KuQY/maxresdefault.jpg",
+ "lessonCount": 1,
+ "duration": 3342,
+ "lessons": [
+  {
+   "n": 1,
+   "title": "الدرس 1",
+   "lang": "ar",
+   "scholarId": "صالح-الحديثي",
+   "videoId": "h9zjCD0KuQY",
+   "duration": 3342,
+   "hijriDate": null
+  }
+ ]
+}

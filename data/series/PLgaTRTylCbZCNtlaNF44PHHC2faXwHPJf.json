@@ -1,0 +1,39 @@
+{
+ "id": "PLgaTRTylCbZCNtlaNF44PHHC2faXwHPJf",
+ "title": "شرح كتاب الحج من لطائف المعارف",
+ "subject": "adab",
+ "kind": "series",
+ "lang": "ar",
+ "scholarId": "خالد-عروس",
+ "scholarIds": [
+  "خالد-عروس"
+ ],
+ "year": 1447,
+ "source": "youtube",
+ "channelId": "UC3QAoXf9GN9xeQYhk-AZbTg",
+ "playlistId": "PLgaTRTylCbZCNtlaNF44PHHC2faXwHPJf",
+ "url": "https://www.youtube.com/playlist?list=PLgaTRTylCbZCNtlaNF44PHHC2faXwHPJf",
+ "thumbnail": "https://i.ytimg.com/vi/ic2iRvWtKW8/maxresdefault.jpg",
+ "lessonCount": 2,
+ "duration": 6860,
+ "lessons": [
+  {
+   "n": 1,
+   "title": "الدرس 1",
+   "lang": "ar",
+   "scholarId": "خالد-عروس",
+   "videoId": "ic2iRvWtKW8",
+   "duration": 4010,
+   "hijriDate": "1447-11-29"
+  },
+  {
+   "n": 2,
+   "title": "الدرس 2",
+   "lang": "ar",
+   "scholarId": "خالد-عروس",
+   "videoId": "BU-Wui2jMc8",
+   "duration": 2850,
+   "hijriDate": "1447-11-30"
+  }
+ ]
+}

@@ -1,0 +1,57 @@
+{
+ "id": "PLriFofF1xij4-iIUNUXauLyrs9eAL2GTv",
+ "title": "تيسير العزيز الحميد بشرح كتاب التوحيد",
+ "subject": "aqeedah",
+ "kind": "series",
+ "lang": "ar",
+ "scholarId": "عبدالله-الغنيمان",
+ "scholarIds": [
+  "عبدالله-الغنيمان"
+ ],
+ "year": null,
+ "source": "youtube",
+ "channelId": "UC0XNCc-DU8J5_ksR-eufPaw",
+ "playlistId": "PLriFofF1xij4-iIUNUXauLyrs9eAL2GTv",
+ "url": "https://www.youtube.com/playlist?list=PLriFofF1xij4-iIUNUXauLyrs9eAL2GTv",
+ "thumbnail": "https://i.ytimg.com/vi/Eqei_WFqDEY/maxresdefault.jpg",
+ "lessonCount": 4,
+ "duration": 16320,
+ "lessons": [
+  {
+   "n": 1,
+   "title": "الدرس 1",
+   "lang": "ar",
+   "scholarId": "عبدالله-الغنيمان",
+   "videoId": "Eqei_WFqDEY",
+   "duration": 3967,
+   "hijriDate": null
+  },
+  {
+   "n": 2,
+   "title": "الدرس 2",
+   "lang": "ar",
+   "scholarId": "عبدالله-الغنيمان",
+   "videoId": "DNweeGOxdQ8",
+   "duration": 3721,
+   "hijriDate": null
+  },
+  {
+   "n": 3,
+   "title": "الدرس 3",
+   "lang": "ar",
+   "scholarId": "عبدالله-الغنيمان",
+   "videoId": "a4oI8_gaw9s",
+   "duration": 4336,
+   "hijriDate": null
+  },
+  {
+   "n": 4,
+   "title": "الدرس 4",
+   "lang": "ar",
+   "scholarId": "عبدالله-الغنيمان",
+   "videoId": "mAOqrjN8SQc",
+   "duration": 4296,
+   "hijriDate": null
+  }
+ ]
+}

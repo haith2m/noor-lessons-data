@@ -1,0 +1,85 @@
+{
+ "id": "PLriFofF1xij6bUKO8S0HnviZoIkkg1Qqd",
+ "title": "برنامج العناية بالعقيدة",
+ "subject": "aqeedah",
+ "kind": "course",
+ "lang": "ar",
+ "scholarId": null,
+ "scholarIds": [
+  "سلمان-الدخيل",
+  "عبدالسلام-السحيمي"
+ ],
+ "year": null,
+ "source": "youtube",
+ "channelId": "UC0XNCc-DU8J5_ksR-eufPaw",
+ "playlistId": "PLriFofF1xij6bUKO8S0HnviZoIkkg1Qqd",
+ "url": "https://www.youtube.com/playlist?list=PLriFofF1xij6bUKO8S0HnviZoIkkg1Qqd",
+ "thumbnail": "https://i.ytimg.com/vi/11rzcVYN2a4/maxresdefault.jpg",
+ "lessonCount": 7,
+ "duration": 31615,
+ "lessons": [
+  {
+   "n": 1,
+   "title": "فضائل لا إله إلا الله وشروطها",
+   "lang": "ar",
+   "scholarId": "سلمان-الدخيل",
+   "videoId": "11rzcVYN2a4",
+   "duration": 3956,
+   "hijriDate": null
+  },
+  {
+   "n": 2,
+   "title": "رسالة العقيدة الصحيحةومايضادها",
+   "lang": "ar",
+   "scholarId": "عبدالسلام-السحيمي",
+   "videoId": "M8M_OwGazes",
+   "duration": 4476,
+   "hijriDate": null
+  },
+  {
+   "n": 3,
+   "title": "رسالة العقيدة الصحيحة ومايضادها",
+   "lang": "ar",
+   "scholarId": "عبدالسلام-السحيمي",
+   "videoId": "cCrCC-pQ0Ek",
+   "duration": 4636,
+   "hijriDate": null
+  },
+  {
+   "n": 4,
+   "title": "رسالة العقيدة الصحيحة ومايضادها",
+   "lang": "ar",
+   "scholarId": "عبدالسلام-السحيمي",
+   "videoId": "J97Aw24aoL0",
+   "duration": 4886,
+   "hijriDate": null
+  },
+  {
+   "n": 5,
+   "title": "رسالة العقيدة الصحيحة ومايضادها",
+   "lang": "ar",
+   "scholarId": "عبدالسلام-السحيمي",
+   "videoId": "WCPbaXn_fFI",
+   "duration": 4631,
+   "hijriDate": null
+  },
+  {
+   "n": 6,
+   "title": "رسالة العقيدة الصحيحة ومايضادها",
+   "lang": "ar",
+   "scholarId": "عبدالسلام-السحيمي",
+   "videoId": "zo5xduWf5Yc",
+   "duration": 4446,
+   "hijriDate": null
+  },
+  {
+   "n": 7,
+   "title": "رسالة العقيدة الصحيحة ومايضادها",
+   "lang": "ar",
+   "scholarId": "عبدالسلام-السحيمي",
+   "videoId": "5jN85_dcvss",
+   "duration": 4584,
+   "hijriDate": null
+  }
+ ]
+}

@@ -1,0 +1,60 @@
+{
+ "id": "PLgaTRTylCbZCR7TEHRJpDujyi8tUO_DvR",
+ "title": "الدورة العلمية الأولى لأئمة الحرمين الشريفين في الحج",
+ "subject": "fiqh",
+ "kind": "course",
+ "lang": "ar",
+ "scholarId": null,
+ "scholarIds": [
+  "صالح-حميد",
+  "ياسر-الدوسري",
+  "عبدالله-البعيجان",
+  "محمد-برهجي"
+ ],
+ "year": 1446,
+ "source": "youtube",
+ "channelId": "UC3QAoXf9GN9xeQYhk-AZbTg",
+ "playlistId": "PLgaTRTylCbZCR7TEHRJpDujyi8tUO_DvR",
+ "url": "https://www.youtube.com/playlist?list=PLgaTRTylCbZCR7TEHRJpDujyi8tUO_DvR",
+ "thumbnail": "https://i.ytimg.com/vi/T8ojJB8YyJA/maxresdefault.jpg",
+ "lessonCount": 4,
+ "duration": 13133,
+ "lessons": [
+  {
+   "n": 1,
+   "title": "حنفاء لله غير مشركين به",
+   "lang": "ar",
+   "scholarId": "صالح-حميد",
+   "videoId": "51sMOJUnTQY",
+   "duration": 1971,
+   "hijriDate": "1446-12-01"
+  },
+  {
+   "n": 2,
+   "title": "﴿وَتَزَوَّدُوا فَإِنَّ خَيْرَ الزَّادِ التَّقْوَىٰ﴾",
+   "lang": "ar",
+   "scholarId": "ياسر-الدوسري",
+   "videoId": "m2f4tsbB24M",
+   "duration": 4091,
+   "hijriDate": "1446-12-06"
+  },
+  {
+   "n": 3,
+   "title": "﴿وَأَذِّن فِي النّاسِ بِالحَجِّ﴾",
+   "lang": "ar",
+   "scholarId": "عبدالله-البعيجان",
+   "videoId": "n4swlxFI5ZM",
+   "duration": 3585,
+   "hijriDate": "1446-12-07"
+  },
+  {
+   "n": 4,
+   "title": "﴿وَاذْكُرُوا اللَّهَ فِي أَيَّامٍ مَّعْدُودَاتٍ﴾",
+   "lang": "ar",
+   "scholarId": "محمد-برهجي",
+   "videoId": "T8ojJB8YyJA",
+   "duration": 3486,
+   "hijriDate": "1446-12-08"
+  }
+ ]
+}

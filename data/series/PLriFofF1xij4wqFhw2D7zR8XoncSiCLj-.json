@@ -1,0 +1,39 @@
+{
+ "id": "PLriFofF1xij4wqFhw2D7zR8XoncSiCLj-",
+ "title": "الدروس العامة",
+ "subject": "tafsir",
+ "kind": "series",
+ "lang": "ar",
+ "scholarId": "عبدالسلام-الشويعر",
+ "scholarIds": [
+  "عبدالسلام-الشويعر"
+ ],
+ "year": null,
+ "source": "youtube",
+ "channelId": "UC0XNCc-DU8J5_ksR-eufPaw",
+ "playlistId": "PLriFofF1xij4wqFhw2D7zR8XoncSiCLj-",
+ "url": "https://www.youtube.com/playlist?list=PLriFofF1xij4wqFhw2D7zR8XoncSiCLj-",
+ "thumbnail": "https://i.ytimg.com/vi/TP71zXPUeVg/hqdefault.jpg",
+ "lessonCount": 2,
+ "duration": 5034,
+ "lessons": [
+  {
+   "n": 1,
+   "title": "أن الله يأجر بالقرآن ثلاثة",
+   "lang": "ar",
+   "scholarId": "عبدالسلام-الشويعر",
+   "videoId": "TP71zXPUeVg",
+   "duration": 2344,
+   "hijriDate": null
+  },
+  {
+   "n": 2,
+   "title": "من فضائل الدعاء",
+   "lang": "ar",
+   "scholarId": "عبدالسلام-الشويعر",
+   "videoId": "7awauswSWpI",
+   "duration": 2690,
+   "hijriDate": null
+  }
+ ]
+}

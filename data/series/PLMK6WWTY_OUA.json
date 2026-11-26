@@ -1,0 +1,93 @@
+{
+ "id": "PLMK6WWTY_OUA",
+ "title": "العقيدة الواسطية",
+ "subject": "aqeedah",
+ "kind": "series",
+ "lang": "ar",
+ "scholarId": "عبدالسلام-السحيمي",
+ "scholarIds": [
+  "عبدالسلام-السحيمي"
+ ],
+ "year": null,
+ "source": "youtube",
+ "channelId": "UC0XNCc-DU8J5_ksR-eufPaw",
+ "playlistId": "PLMK6WWTY_OUA",
+ "url": "https://www.youtube.com/playlist?list=PLMK6WWTY_OUA",
+ "thumbnail": "https://i.ytimg.com/vi/OL1jdx7yFaU/maxresdefault.jpg",
+ "lessonCount": 8,
+ "duration": 32707,
+ "lessons": [
+  {
+   "n": 1,
+   "title": "الدرس 1",
+   "lang": "ar",
+   "scholarId": "عبدالسلام-السحيمي",
+   "videoId": "OL1jdx7yFaU",
+   "duration": 4496,
+   "hijriDate": null
+  },
+  {
+   "n": 2,
+   "title": "الدرس 2",
+   "lang": "ar",
+   "scholarId": "عبدالسلام-السحيمي",
+   "videoId": "nsU9bsXQ5oI",
+   "duration": 4223,
+   "hijriDate": null
+  },
+  {
+   "n": 3,
+   "title": "الدرس 3",
+   "lang": "ar",
+   "scholarId": "عبدالسلام-السحيمي",
+   "videoId": "M6-O4SdatQ4",
+   "duration": 4067,
+   "hijriDate": null
+  },
+  {
+   "n": 4,
+   "title": "الدرس 4",
+   "lang": "ar",
+   "scholarId": "عبدالسلام-السحيمي",
+   "videoId": "kl9nh_wDBBs",
+   "duration": 3728,
+   "hijriDate": null
+  },
+  {
+   "n": 5,
+   "title": "الدرس 5",
+   "lang": "ar",
+   "scholarId": "عبدالسلام-السحيمي",
+   "videoId": "pcreKBMbJnU",
+   "duration": 4327,
+   "hijriDate": null
+  },
+  {
+   "n": 6,
+   "title": "الدرس 6",
+   "lang": "ar",
+   "scholarId": "عبدالسلام-السحيمي",
+   "videoId": "V4Bh3Zkzywk",
+   "duration": 4202,
+   "hijriDate": null
+  },
+  {
+   "n": 7,
+   "title": "الدرس 7",
+   "lang": "ar",
+   "scholarId": "عبدالسلام-السحيمي",
+   "videoId": "4sNuHMqw_ZQ",
+   "duration": 3498,
+   "hijriDate": null
+  },
+  {
+   "n": 8,
+   "title": "الدرس 8",
+   "lang": "ar",
+   "scholarId": "عبدالسلام-السحيمي",
+   "videoId": "EZAeubYFP-M",
+   "duration": 4166,
+   "hijriDate": null
+  }
+ ]
+}

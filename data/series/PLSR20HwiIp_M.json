@@ -1,0 +1,40 @@
+{
+ "id": "PLSR20HwiIp_M",
+ "title": "برنامج مهمات الدين",
+ "subject": "aqeedah",
+ "kind": "course",
+ "lang": "ar",
+ "scholarId": null,
+ "scholarIds": [
+  "عبدالسلام-الشويعر",
+  "سليمان-الغصن"
+ ],
+ "year": 1448,
+ "source": "youtube",
+ "channelId": "UC0XNCc-DU8J5_ksR-eufPaw",
+ "playlistId": "PLSR20HwiIp_M",
+ "url": "https://www.youtube.com/playlist?list=PLSR20HwiIp_M",
+ "thumbnail": "https://i.ytimg.com/vi/JXsMrcP7N8M/maxresdefault.jpg",
+ "lessonCount": 2,
+ "duration": 4762,
+ "lessons": [
+  {
+   "n": 1,
+   "title": "الإيمان بالكتب",
+   "lang": "ar",
+   "scholarId": "عبدالسلام-الشويعر",
+   "videoId": "JXsMrcP7N8M",
+   "duration": 895,
+   "hijriDate": null
+  },
+  {
+   "n": 2,
+   "title": "تحقيق التوحيد",
+   "lang": "ar",
+   "scholarId": "سليمان-الغصن",
+   "videoId": "cDIvnO--OJ4",
+   "duration": 3867,
+   "hijriDate": null
+  }
+ ]
+}

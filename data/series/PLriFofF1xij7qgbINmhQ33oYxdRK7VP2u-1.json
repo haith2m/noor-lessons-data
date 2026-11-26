@@ -1,0 +1,66 @@
+{
+ "id": "PLriFofF1xij7qgbINmhQ33oYxdRK7VP2u-1",
+ "title": "شروط الصلاة وأركانها وواجباتها",
+ "subject": "fiqh",
+ "kind": "series",
+ "lang": "ar",
+ "scholarId": "سامي-الصقير",
+ "scholarIds": [
+  "سامي-الصقير"
+ ],
+ "year": null,
+ "source": "youtube",
+ "channelId": "UC0XNCc-DU8J5_ksR-eufPaw",
+ "playlistId": "PLriFofF1xij7qgbINmhQ33oYxdRK7VP2u",
+ "url": "https://www.youtube.com/playlist?list=PLriFofF1xij7qgbINmhQ33oYxdRK7VP2u",
+ "thumbnail": "https://i.ytimg.com/vi/oZpF8JYzpv4/maxresdefault.jpg",
+ "lessonCount": 5,
+ "duration": 19053,
+ "lessons": [
+  {
+   "n": 1,
+   "title": "الدرس 1",
+   "lang": "ar",
+   "scholarId": "سامي-الصقير",
+   "videoId": "BjaFg4CdXW0",
+   "duration": 4121,
+   "hijriDate": null
+  },
+  {
+   "n": 2,
+   "title": "الدرس 2",
+   "lang": "ar",
+   "scholarId": "سامي-الصقير",
+   "videoId": "xImIpwSIwjk",
+   "duration": 3966,
+   "hijriDate": null
+  },
+  {
+   "n": 3,
+   "title": "الدرس 3",
+   "lang": "ar",
+   "scholarId": "سامي-الصقير",
+   "videoId": "F9lO5E_8bIE",
+   "duration": 3574,
+   "hijriDate": null
+  },
+  {
+   "n": 4,
+   "title": "الدرس 4",
+   "lang": "ar",
+   "scholarId": "سامي-الصقير",
+   "videoId": "AiLqT5oWs7A",
+   "duration": 3126,
+   "hijriDate": null
+  },
+  {
+   "n": 5,
+   "title": "الدرس 5",
+   "lang": "ar",
+   "scholarId": "سامي-الصقير",
+   "videoId": "z9Q0flfLZG4",
+   "duration": 4266,
+   "hijriDate": null
+  }
+ ]
+}

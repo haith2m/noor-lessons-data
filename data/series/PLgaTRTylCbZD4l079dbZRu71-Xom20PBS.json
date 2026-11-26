@@ -1,0 +1,75 @@
+{
+ "id": "PLgaTRTylCbZD4l079dbZRu71-Xom20PBS",
+ "title": "نفحات رمضانية",
+ "subject": "adab",
+ "kind": "series",
+ "lang": "ar",
+ "scholarId": "حسن-بخاري",
+ "scholarIds": [
+  "حسن-بخاري"
+ ],
+ "year": 1443,
+ "source": "youtube",
+ "channelId": "UC3QAoXf9GN9xeQYhk-AZbTg",
+ "playlistId": "PLgaTRTylCbZD4l079dbZRu71-Xom20PBS",
+ "url": "https://www.youtube.com/playlist?list=PLgaTRTylCbZD4l079dbZRu71-Xom20PBS",
+ "thumbnail": "https://i.ytimg.com/vi/6XOzXC-sUI8/maxresdefault.jpg",
+ "lessonCount": 6,
+ "duration": 18773,
+ "lessons": [
+  {
+   "n": 1,
+   "title": "الفرح والتوبة",
+   "lang": "ar",
+   "scholarId": "حسن-بخاري",
+   "videoId": "6XOzXC-sUI8",
+   "duration": 2488,
+   "hijriDate": null
+  },
+  {
+   "n": 2,
+   "title": "الصيام - القيام",
+   "lang": "ar",
+   "scholarId": "حسن-بخاري",
+   "videoId": "Z9-C3KyKVPA",
+   "duration": 3121,
+   "hijriDate": "1443-09-09"
+  },
+  {
+   "n": 3,
+   "title": "الاحتساب - القرآن",
+   "lang": "ar",
+   "scholarId": "حسن-بخاري",
+   "videoId": "3RLq_BxWzto",
+   "duration": 3547,
+   "hijriDate": "1443-09-16"
+  },
+  {
+   "n": 4,
+   "title": "العشر الأواخر من رمضان",
+   "lang": "ar",
+   "scholarId": "حسن-بخاري",
+   "videoId": "6gen_RLW6k4",
+   "duration": 3196,
+   "hijriDate": "1443-09-20"
+  },
+  {
+   "n": 5,
+   "title": "أثر الصيام في تزكية النفس",
+   "lang": "ar",
+   "scholarId": "حسن-بخاري",
+   "videoId": "YNOUDCMEqig",
+   "duration": 2626,
+   "hijriDate": "1443-09-21"
+  },
+  {
+   "n": 6,
+   "title": "الاعتكاف - الدعاء",
+   "lang": "ar",
+   "scholarId": "حسن-بخاري",
+   "videoId": "l_Nlo-bazkU",
+   "duration": 3795,
+   "hijriDate": "1443-09-23"
+  }
+ ]
+}

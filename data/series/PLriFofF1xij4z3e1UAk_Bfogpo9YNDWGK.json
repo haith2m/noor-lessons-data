@@ -1,0 +1,57 @@
+{
+ "id": "PLriFofF1xij4z3e1UAk_Bfogpo9YNDWGK",
+ "title": "التحقيق والإيضاح",
+ "subject": "fiqh",
+ "kind": "series",
+ "lang": "ar",
+ "scholarId": "سليمان-الرحيلي",
+ "scholarIds": [
+  "سليمان-الرحيلي"
+ ],
+ "year": null,
+ "source": "youtube",
+ "channelId": "UC0XNCc-DU8J5_ksR-eufPaw",
+ "playlistId": "PLriFofF1xij4z3e1UAk_Bfogpo9YNDWGK",
+ "url": "https://www.youtube.com/playlist?list=PLriFofF1xij4z3e1UAk_Bfogpo9YNDWGK",
+ "thumbnail": "https://i.ytimg.com/vi/7BhvyQ-rryA/maxresdefault.jpg",
+ "lessonCount": 4,
+ "duration": 22503,
+ "lessons": [
+  {
+   "n": 1,
+   "title": "الدرس 1",
+   "lang": "ar",
+   "scholarId": "سليمان-الرحيلي",
+   "videoId": "7BhvyQ-rryA",
+   "duration": 4451,
+   "hijriDate": null
+  },
+  {
+   "n": 2,
+   "title": "الدرس 2",
+   "lang": "ar",
+   "scholarId": "سليمان-الرحيلي",
+   "videoId": "9tQZ9XISeDg",
+   "duration": 5781,
+   "hijriDate": null
+  },
+  {
+   "n": 3,
+   "title": "الدرس 3",
+   "lang": "ar",
+   "scholarId": "سليمان-الرحيلي",
+   "videoId": "ayX5-5wC9DM",
+   "duration": 5971,
+   "hijriDate": null
+  },
+  {
+   "n": 4,
+   "title": "الدرس 4",
+   "lang": "ar",
+   "scholarId": "سليمان-الرحيلي",
+   "videoId": "TR3spBWGiV0",
+   "duration": 6300,
+   "hijriDate": null
+  }
+ ]
+}

@@ -1,0 +1,40 @@
+{
+ "id": "PLgaTRTylCbZB-anc4jEJf0lTC8Ce27dur",
+ "title": "محاضرات يوم العلم",
+ "subject": "general",
+ "kind": "clips",
+ "lang": "ar",
+ "scholarId": null,
+ "scholarIds": [
+  "يوسف-الوابل",
+  "حمزه-الفعر"
+ ],
+ "year": 1444,
+ "source": "youtube",
+ "channelId": "UC3QAoXf9GN9xeQYhk-AZbTg",
+ "playlistId": "PLgaTRTylCbZB-anc4jEJf0lTC8Ce27dur",
+ "url": "https://www.youtube.com/playlist?list=PLgaTRTylCbZB-anc4jEJf0lTC8Ce27dur",
+ "thumbnail": "https://i.ytimg.com/vi/2t5lih3jpiM/maxresdefault.jpg",
+ "lessonCount": 2,
+ "duration": 451,
+ "lessons": [
+  {
+   "n": 1,
+   "title": "رسالة التوحيد في العلم الوطني",
+   "lang": "ar",
+   "scholarId": "يوسف-الوابل",
+   "videoId": "2t5lih3jpiM",
+   "duration": 248,
+   "hijriDate": "1444-08-18"
+  },
+  {
+   "n": 2,
+   "title": "أهمية العلم",
+   "lang": "ar",
+   "scholarId": "حمزه-الفعر",
+   "videoId": "N8SHEH_f-zE",
+   "duration": 203,
+   "hijriDate": "1444-08-21"
+  }
+ ]
+}

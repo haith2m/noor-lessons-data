@@ -1,0 +1,66 @@
+{
+ "id": "PLriFofF1xij6z9m0HgSJDINa8nyNEOneb",
+ "title": "الأحاديث المختارة في الأصول والأحكام والآداب وغيرها",
+ "subject": "hadith",
+ "kind": "series",
+ "lang": "ar",
+ "scholarId": "يوسف-سعيد",
+ "scholarIds": [
+  "يوسف-سعيد"
+ ],
+ "year": null,
+ "source": "youtube",
+ "channelId": "UC0XNCc-DU8J5_ksR-eufPaw",
+ "playlistId": "PLriFofF1xij6z9m0HgSJDINa8nyNEOneb",
+ "url": "https://www.youtube.com/playlist?list=PLriFofF1xij6z9m0HgSJDINa8nyNEOneb",
+ "thumbnail": "https://i.ytimg.com/vi/G-kUyPVT2rY/maxresdefault.jpg",
+ "lessonCount": 5,
+ "duration": 11041,
+ "lessons": [
+  {
+   "n": 1,
+   "title": "الدرس 1",
+   "lang": "ar",
+   "scholarId": "يوسف-سعيد",
+   "videoId": "G-kUyPVT2rY",
+   "duration": 2632,
+   "hijriDate": null
+  },
+  {
+   "n": 2,
+   "title": "الدرس 2",
+   "lang": "ar",
+   "scholarId": "يوسف-سعيد",
+   "videoId": "E_OREV6in08",
+   "duration": 2511,
+   "hijriDate": null
+  },
+  {
+   "n": 3,
+   "title": "الدرس 3",
+   "lang": "ar",
+   "scholarId": "يوسف-سعيد",
+   "videoId": "Aqkrcp0w_iI",
+   "duration": 1299,
+   "hijriDate": null
+  },
+  {
+   "n": 4,
+   "title": "الدرس 4",
+   "lang": "ar",
+   "scholarId": "يوسف-سعيد",
+   "videoId": "hGh_6_mRi2w",
+   "duration": 2062,
+   "hijriDate": null
+  },
+  {
+   "n": 5,
+   "title": "الدرس 5",
+   "lang": "ar",
+   "scholarId": "يوسف-سعيد",
+   "videoId": "glDn7ojnrhE",
+   "duration": 2537,
+   "hijriDate": null
+  }
+ ]
+}

@@ -1,0 +1,116 @@
+{
+ "id": "PLgaTRTylCbZBZ4gJvIBv1bcDv-6AhNuyw",
+ "title": "محاضرات اللحمة الوطنية",
+ "subject": "general",
+ "kind": "course",
+ "lang": "ar",
+ "scholarId": null,
+ "scholarIds": [
+  "سعد-الشثري",
+  "خالد-عروس",
+  "عبدالله-الغطيمل",
+  "علي-العلياني",
+  "حمزه-الفعر",
+  "طلال-ابوالنور"
+ ],
+ "year": 1439,
+ "source": "youtube",
+ "channelId": "UC3QAoXf9GN9xeQYhk-AZbTg",
+ "playlistId": "PLgaTRTylCbZBZ4gJvIBv1bcDv-6AhNuyw",
+ "url": "https://www.youtube.com/playlist?list=PLgaTRTylCbZBZ4gJvIBv1bcDv-6AhNuyw",
+ "thumbnail": "https://i.ytimg.com/vi/SjVQ_mzzYR4/maxresdefault.jpg",
+ "lessonCount": 10,
+ "duration": 21385,
+ "lessons": [
+  {
+   "n": 1,
+   "title": "أحكام البيعة",
+   "lang": "ar",
+   "scholarId": "سعد-الشثري",
+   "videoId": "Ubf3CPVPtI4",
+   "duration": 3514,
+   "hijriDate": null
+  },
+  {
+   "n": 2,
+   "title": "مكانة الوطن في الإسلام",
+   "lang": "ar",
+   "scholarId": "خالد-عروس",
+   "videoId": "ptTGl0w7MLg",
+   "duration": 1679,
+   "hijriDate": "1440-01-22"
+  },
+  {
+   "n": 3,
+   "title": "التلاحم بين الرعاة والرعية",
+   "lang": "ar",
+   "scholarId": "عبدالله-الغطيمل",
+   "videoId": "Lcjwyx0xC_8",
+   "duration": 2677,
+   "hijriDate": "1439-01-29"
+  },
+  {
+   "n": 4,
+   "title": "اللحمة الوطنية حقوق وواجبات",
+   "lang": "ar",
+   "scholarId": "سعد-الشثري",
+   "videoId": "-kTR02Z_PfA",
+   "duration": 3821,
+   "hijriDate": "1440-03-27"
+  },
+  {
+   "n": 5,
+   "title": "البيعة الشرعية",
+   "lang": "ar",
+   "scholarId": "سعد-الشثري",
+   "videoId": "Mq7g27e7DRk",
+   "duration": 169,
+   "hijriDate": null
+  },
+  {
+   "n": 6,
+   "title": "وجوب طاعة ولي الأمر",
+   "lang": "ar",
+   "scholarId": "علي-العلياني",
+   "videoId": "yU-euFz5hsI",
+   "duration": 395,
+   "hijriDate": null
+  },
+  {
+   "n": 7,
+   "title": "الاجتماع على كلمة الإمام",
+   "lang": "ar",
+   "scholarId": "حمزه-الفعر",
+   "videoId": "SjVQ_mzzYR4",
+   "duration": 461,
+   "hijriDate": null
+  },
+  {
+   "n": 8,
+   "title": "تحقيق مقاصد الشريعة من خلال تنظيم شؤون الأمة",
+   "lang": "ar",
+   "scholarId": "عبدالله-الغطيمل",
+   "videoId": "3pI63rONvRM",
+   "duration": 1438,
+   "hijriDate": "1441-04-05"
+  },
+  {
+   "n": 9,
+   "title": "قاعدة مختصرة في وجوب طاعة الله ورسوله ﷺ وولاة الأمر",
+   "lang": "ar",
+   "scholarId": "طلال-ابوالنور",
+   "videoId": "LlRd-r8f1UA",
+   "duration": 3605,
+   "hijriDate": null
+  },
+  {
+   "n": 10,
+   "title": "قاعدة مختصرة في وجوب طاعة الله ورسولهﷺوولاة الأمر",
+   "lang": "ar",
+   "scholarId": "طلال-ابوالنور",
+   "videoId": "yKaOv-xDr-Q",
+   "duration": 3626,
+   "hijriDate": null
+  }
+ ]
+}

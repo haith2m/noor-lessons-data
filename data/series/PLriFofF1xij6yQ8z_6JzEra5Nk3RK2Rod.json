@@ -1,0 +1,206 @@
+{
+ "id": "PLriFofF1xij6yQ8z_6JzEra5Nk3RK2Rod",
+ "title": "الدورة العلمية الفصلية الافتراضية",
+ "subject": "fiqh",
+ "kind": "course",
+ "lang": "ar",
+ "scholarId": null,
+ "scholarIds": [
+  "عبدالسلام-الشويعر",
+  "بدر-البدر",
+  "احمد-السديس",
+  "سلمان-الدخيل",
+  "سامي-الصقير",
+  "علي-ابابطين"
+ ],
+ "year": 1442,
+ "source": "youtube",
+ "channelId": "UC0XNCc-DU8J5_ksR-eufPaw",
+ "playlistId": "PLriFofF1xij6yQ8z_6JzEra5Nk3RK2Rod",
+ "url": "https://www.youtube.com/playlist?list=PLriFofF1xij6yQ8z_6JzEra5Nk3RK2Rod",
+ "thumbnail": "https://i.ytimg.com/vi/YG3VigTDNuQ/maxresdefault.jpg",
+ "lessonCount": 20,
+ "duration": 81482,
+ "lessons": [
+  {
+   "n": 1,
+   "title": "كتاب فروع الفقه",
+   "lang": "ar",
+   "scholarId": "عبدالسلام-الشويعر",
+   "videoId": "YG3VigTDNuQ",
+   "duration": 5665,
+   "hijriDate": null
+  },
+  {
+   "n": 2,
+   "title": "كتاب فروع الفقه",
+   "lang": "ar",
+   "scholarId": "عبدالسلام-الشويعر",
+   "videoId": "V69htqEpMSo",
+   "duration": 8850,
+   "hijriDate": null
+  },
+  {
+   "n": 3,
+   "title": "آيات أحكام الفرائض",
+   "lang": "ar",
+   "scholarId": "بدر-البدر",
+   "videoId": "rYPz2T21d4M",
+   "duration": 3258,
+   "hijriDate": null
+  },
+  {
+   "n": 4,
+   "title": "كتاب فروع الفقه",
+   "lang": "ar",
+   "scholarId": "عبدالسلام-الشويعر",
+   "videoId": "JGI6KiiQxAw",
+   "duration": 4260,
+   "hijriDate": null
+  },
+  {
+   "n": 5,
+   "title": "آيات أحكام الفرائض",
+   "lang": "ar",
+   "scholarId": "بدر-البدر",
+   "videoId": "3QaGrcXEscQ",
+   "duration": 3526,
+   "hijriDate": null
+  },
+  {
+   "n": 6,
+   "title": "كتاب فروع الفقه",
+   "lang": "ar",
+   "scholarId": "عبدالسلام-الشويعر",
+   "videoId": "slxTs6wbzhU",
+   "duration": 4370,
+   "hijriDate": null
+  },
+  {
+   "n": 7,
+   "title": "كتاب فروع الفقه",
+   "lang": "ar",
+   "scholarId": "عبدالسلام-الشويعر",
+   "videoId": "khQOElrJonk",
+   "duration": 7419,
+   "hijriDate": null
+  },
+  {
+   "n": 8,
+   "title": "كتاب فتح الرحيم الملك العلام",
+   "lang": "ar",
+   "scholarId": "احمد-السديس",
+   "videoId": "XpPz3cXCPc8",
+   "duration": 3098,
+   "hijriDate": null
+  },
+  {
+   "n": 9,
+   "title": "كتاب فروع الفقه",
+   "lang": "ar",
+   "scholarId": "عبدالسلام-الشويعر",
+   "videoId": "yWpV2gEeTPc",
+   "duration": 6415,
+   "hijriDate": null
+  },
+  {
+   "n": 10,
+   "title": "كتاب أخصر المختصرات (الصلاة)",
+   "lang": "ar",
+   "scholarId": "سلمان-الدخيل",
+   "videoId": "mO_CetJWAcQ",
+   "duration": 3997,
+   "hijriDate": null
+  },
+  {
+   "n": 11,
+   "title": "كتاب فتح الرحيم الملك العلام",
+   "lang": "ar",
+   "scholarId": "احمد-السديس",
+   "videoId": "eeflTUjmj7E",
+   "duration": 2781,
+   "hijriDate": null
+  },
+  {
+   "n": 12,
+   "title": "كتاب أخصر المختصرات (الصلاة)",
+   "lang": "ar",
+   "scholarId": "سلمان-الدخيل",
+   "videoId": "XzMBZgVQBLg",
+   "duration": 4456,
+   "hijriDate": null
+  },
+  {
+   "n": 13,
+   "title": "كتاب فتح الرحيم الملك العلام",
+   "lang": "ar",
+   "scholarId": "احمد-السديس",
+   "videoId": "XXi_GA5tXvs",
+   "duration": 2771,
+   "hijriDate": null
+  },
+  {
+   "n": 14,
+   "title": "كتاب أخصر المختصرات (الصلاة)",
+   "lang": "ar",
+   "scholarId": "سلمان-الدخيل",
+   "videoId": "YZj-oeTRaIg",
+   "duration": 3627,
+   "hijriDate": null
+  },
+  {
+   "n": 15,
+   "title": "رسالة أصول العقائد الدينية",
+   "lang": "ar",
+   "scholarId": "سامي-الصقير",
+   "videoId": "nOUq69jJdlg",
+   "duration": 2375,
+   "hijriDate": null
+  },
+  {
+   "n": 16,
+   "title": "رسالة صريح السنة",
+   "lang": "ar",
+   "scholarId": "علي-ابابطين",
+   "videoId": "t70Hlu7tEv8",
+   "duration": 5086,
+   "hijriDate": null
+  },
+  {
+   "n": 17,
+   "title": "رسالة أصول العقائد الدينية",
+   "lang": "ar",
+   "scholarId": "سامي-الصقير",
+   "videoId": "mMATl3JTt2c",
+   "duration": 2530,
+   "hijriDate": null
+  },
+  {
+   "n": 18,
+   "title": "رسالة صريح السنة",
+   "lang": "ar",
+   "scholarId": "علي-ابابطين",
+   "videoId": "wieBfL6R6BA",
+   "duration": 2261,
+   "hijriDate": null
+  },
+  {
+   "n": 19,
+   "title": "رسالة أصول العقائد الدينية",
+   "lang": "ar",
+   "scholarId": "سامي-الصقير",
+   "videoId": "4gvXiLJw8A4",
+   "duration": 2235,
+   "hijriDate": null
+  },
+  {
+   "n": 20,
+   "title": "رسالة صريح السنة",
+   "lang": "ar",
+   "scholarId": "علي-ابابطين",
+   "videoId": "aCj92VhEUA0",
+   "duration": 2502,
+   "hijriDate": null
+  }
+ ]
+}

@@ -1,0 +1,48 @@
+{
+ "id": "PLgaTRTylCbZDLbt1yoZzE5SAgnqX_JpYn",
+ "title": "مدخل إلى الأخلاق في الإسلام",
+ "subject": "adab",
+ "kind": "series",
+ "lang": "ar",
+ "scholarId": "طلال-ابوالنور",
+ "scholarIds": [
+  "طلال-ابوالنور"
+ ],
+ "year": null,
+ "source": "youtube",
+ "channelId": "UC3QAoXf9GN9xeQYhk-AZbTg",
+ "playlistId": "PLgaTRTylCbZDLbt1yoZzE5SAgnqX_JpYn",
+ "url": "https://www.youtube.com/playlist?list=PLgaTRTylCbZDLbt1yoZzE5SAgnqX_JpYn",
+ "thumbnail": "https://i.ytimg.com/vi/PYs1CnRgbjg/sddefault.jpg",
+ "lessonCount": 3,
+ "duration": 11681,
+ "lessons": [
+  {
+   "n": 1,
+   "title": "الدرس 1",
+   "lang": "ar",
+   "scholarId": "طلال-ابوالنور",
+   "videoId": "PYs1CnRgbjg",
+   "duration": 4036,
+   "hijriDate": null
+  },
+  {
+   "n": 2,
+   "title": "الدرس 2",
+   "lang": "ar",
+   "scholarId": "طلال-ابوالنور",
+   "videoId": "b5LUo-arC3Q",
+   "duration": 3889,
+   "hijriDate": null
+  },
+  {
+   "n": 3,
+   "title": "الدرس 3",
+   "lang": "ar",
+   "scholarId": "طلال-ابوالنور",
+   "videoId": "pug2EV7xlhU",
+   "duration": 3756,
+   "hijriDate": null
+  }
+ ]
+}

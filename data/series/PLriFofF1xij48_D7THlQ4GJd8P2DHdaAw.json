@@ -1,0 +1,66 @@
+{
+ "id": "PLriFofF1xij48_D7THlQ4GJd8P2DHdaAw",
+ "title": "الرسالة المدنية",
+ "subject": "general",
+ "kind": "series",
+ "lang": "ar",
+ "scholarId": "سليمان-الغصن",
+ "scholarIds": [
+  "سليمان-الغصن"
+ ],
+ "year": null,
+ "source": "youtube",
+ "channelId": "UC0XNCc-DU8J5_ksR-eufPaw",
+ "playlistId": "PLriFofF1xij48_D7THlQ4GJd8P2DHdaAw",
+ "url": "https://www.youtube.com/playlist?list=PLriFofF1xij48_D7THlQ4GJd8P2DHdaAw",
+ "thumbnail": "https://i.ytimg.com/vi/k4NJmwtnsbY/maxresdefault.jpg",
+ "lessonCount": 5,
+ "duration": 23944,
+ "lessons": [
+  {
+   "n": 1,
+   "title": "الدرس 1",
+   "lang": "ar",
+   "scholarId": "سليمان-الغصن",
+   "videoId": "k4NJmwtnsbY",
+   "duration": 5121,
+   "hijriDate": null
+  },
+  {
+   "n": 2,
+   "title": "الدرس 2",
+   "lang": "ar",
+   "scholarId": "سليمان-الغصن",
+   "videoId": "14nBqGyPkew",
+   "duration": 5676,
+   "hijriDate": null
+  },
+  {
+   "n": 3,
+   "title": "الدرس 3",
+   "lang": "ar",
+   "scholarId": "سليمان-الغصن",
+   "videoId": "Ys6kZfQ7bB0",
+   "duration": 4191,
+   "hijriDate": null
+  },
+  {
+   "n": 4,
+   "title": "الدرس 4",
+   "lang": "ar",
+   "scholarId": "سليمان-الغصن",
+   "videoId": "RdpFt08W1qg",
+   "duration": 4934,
+   "hijriDate": null
+  },
+  {
+   "n": 5,
+   "title": "الدرس 5",
+   "lang": "ar",
+   "scholarId": "سليمان-الغصن",
+   "videoId": "ggT4R1V0mgo",
+   "duration": 4022,
+   "hijriDate": null
+  }
+ ]
+}

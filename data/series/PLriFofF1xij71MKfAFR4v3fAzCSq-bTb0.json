@@ -1,0 +1,75 @@
+{
+ "id": "PLriFofF1xij71MKfAFR4v3fAzCSq-bTb0",
+ "title": "الفتوى الحموية الكبرى",
+ "subject": "aqeedah",
+ "kind": "series",
+ "lang": "ar",
+ "scholarId": "بدر-البدر",
+ "scholarIds": [
+  "بدر-البدر"
+ ],
+ "year": null,
+ "source": "youtube",
+ "channelId": "UC0XNCc-DU8J5_ksR-eufPaw",
+ "playlistId": "PLriFofF1xij71MKfAFR4v3fAzCSq-bTb0",
+ "url": "https://www.youtube.com/playlist?list=PLriFofF1xij71MKfAFR4v3fAzCSq-bTb0",
+ "thumbnail": "https://i.ytimg.com/vi/PPbVLK68SWU/maxresdefault.jpg",
+ "lessonCount": 6,
+ "duration": 13949,
+ "lessons": [
+  {
+   "n": 1,
+   "title": "الدرس 1",
+   "lang": "ar",
+   "scholarId": "بدر-البدر",
+   "videoId": "PPbVLK68SWU",
+   "duration": 2588,
+   "hijriDate": null
+  },
+  {
+   "n": 2,
+   "title": "الدرس 2",
+   "lang": "ar",
+   "scholarId": "بدر-البدر",
+   "videoId": "NmGs2mTGGRY",
+   "duration": 2473,
+   "hijriDate": null
+  },
+  {
+   "n": 3,
+   "title": "الدرس 3",
+   "lang": "ar",
+   "scholarId": "بدر-البدر",
+   "videoId": "m-0TJYZnAi4",
+   "duration": 2626,
+   "hijriDate": null
+  },
+  {
+   "n": 4,
+   "title": "الدرس 4",
+   "lang": "ar",
+   "scholarId": "بدر-البدر",
+   "videoId": "lv_O59kgDos",
+   "duration": 2108,
+   "hijriDate": null
+  },
+  {
+   "n": 5,
+   "title": "الدرس 5",
+   "lang": "ar",
+   "scholarId": "بدر-البدر",
+   "videoId": "GvThrdlB894",
+   "duration": 2099,
+   "hijriDate": null
+  },
+  {
+   "n": 6,
+   "title": "الدرس 6",
+   "lang": "ar",
+   "scholarId": "بدر-البدر",
+   "videoId": "L0TlLrg5YSg",
+   "duration": 2055,
+   "hijriDate": null
+  }
+ ]
+}

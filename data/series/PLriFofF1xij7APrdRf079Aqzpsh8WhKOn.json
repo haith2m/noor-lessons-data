@@ -1,0 +1,66 @@
+{
+ "id": "PLriFofF1xij7APrdRf079Aqzpsh8WhKOn",
+ "title": "تفسير السعدي",
+ "subject": "tafsir",
+ "kind": "series",
+ "lang": "ar",
+ "scholarId": "عبداللطيف-الشاماني",
+ "scholarIds": [
+  "عبداللطيف-الشاماني"
+ ],
+ "year": null,
+ "source": "youtube",
+ "channelId": "UC0XNCc-DU8J5_ksR-eufPaw",
+ "playlistId": "PLriFofF1xij7APrdRf079Aqzpsh8WhKOn",
+ "url": "https://www.youtube.com/playlist?list=PLriFofF1xij7APrdRf079Aqzpsh8WhKOn",
+ "thumbnail": "https://i.ytimg.com/vi/jxzm7O453tU/maxresdefault.jpg",
+ "lessonCount": 5,
+ "duration": 18284,
+ "lessons": [
+  {
+   "n": 1,
+   "title": "تفسير الفاتحة وقصار المفصل",
+   "lang": "ar",
+   "scholarId": "عبداللطيف-الشاماني",
+   "videoId": "jxzm7O453tU",
+   "duration": 3801,
+   "hijriDate": null
+  },
+  {
+   "n": 2,
+   "title": "تفسير الفاتحة وقصار المفصل",
+   "lang": "ar",
+   "scholarId": "عبداللطيف-الشاماني",
+   "videoId": "MfXyd4WtaW8",
+   "duration": 3336,
+   "hijriDate": null
+  },
+  {
+   "n": 3,
+   "title": "تفسير الفاتحة وقصار المفصل",
+   "lang": "ar",
+   "scholarId": "عبداللطيف-الشاماني",
+   "videoId": "DyB5HkrBGcY",
+   "duration": 5146,
+   "hijriDate": null
+  },
+  {
+   "n": 4,
+   "title": "الدرس 4",
+   "lang": "ar",
+   "scholarId": "عبداللطيف-الشاماني",
+   "videoId": "7j7ISxAA1Mw",
+   "duration": 2688,
+   "hijriDate": null
+  },
+  {
+   "n": 5,
+   "title": "الدرس 5",
+   "lang": "ar",
+   "scholarId": "عبداللطيف-الشاماني",
+   "videoId": "PP9tN85HJsE",
+   "duration": 3313,
+   "hijriDate": null
+  }
+ ]
+}

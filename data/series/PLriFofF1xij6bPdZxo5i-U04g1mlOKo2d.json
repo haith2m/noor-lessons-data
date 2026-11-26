@@ -1,0 +1,39 @@
+{
+ "id": "PLriFofF1xij6bPdZxo5i-U04g1mlOKo2d",
+ "title": "أركان الإيمان",
+ "subject": "aqeedah",
+ "kind": "series",
+ "lang": "ar",
+ "scholarId": "سلمان-الدخيل",
+ "scholarIds": [
+  "سلمان-الدخيل"
+ ],
+ "year": null,
+ "source": "youtube",
+ "channelId": "UC0XNCc-DU8J5_ksR-eufPaw",
+ "playlistId": "PLriFofF1xij6bPdZxo5i-U04g1mlOKo2d",
+ "url": "https://www.youtube.com/playlist?list=PLriFofF1xij6bPdZxo5i-U04g1mlOKo2d",
+ "thumbnail": "https://i.ytimg.com/vi/aVns1JQMOOU/maxresdefault.jpg",
+ "lessonCount": 2,
+ "duration": 4561,
+ "lessons": [
+  {
+   "n": 1,
+   "title": "الدرس 1",
+   "lang": "ar",
+   "scholarId": "سلمان-الدخيل",
+   "videoId": "aVns1JQMOOU",
+   "duration": 2370,
+   "hijriDate": null
+  },
+  {
+   "n": 2,
+   "title": "الدرس 2",
+   "lang": "ar",
+   "scholarId": "سلمان-الدخيل",
+   "videoId": "kvJyb5Uc1QI",
+   "duration": 2191,
+   "hijriDate": null
+  }
+ ]
+}

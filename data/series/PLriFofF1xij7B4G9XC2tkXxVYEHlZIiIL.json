@@ -1,0 +1,57 @@
+{
+ "id": "PLriFofF1xij7B4G9XC2tkXxVYEHlZIiIL",
+ "title": "فضل المدينة وآداب سكناها وزيارتها",
+ "subject": "adab",
+ "kind": "series",
+ "lang": "ar",
+ "scholarId": "عبدالرزاق-البدر",
+ "scholarIds": [
+  "عبدالرزاق-البدر"
+ ],
+ "year": null,
+ "source": "youtube",
+ "channelId": "UC0XNCc-DU8J5_ksR-eufPaw",
+ "playlistId": "PLriFofF1xij7B4G9XC2tkXxVYEHlZIiIL",
+ "url": "https://www.youtube.com/playlist?list=PLriFofF1xij7B4G9XC2tkXxVYEHlZIiIL",
+ "thumbnail": "https://i.ytimg.com/vi/vlHBiarTfJM/maxresdefault.jpg",
+ "lessonCount": 4,
+ "duration": 13417,
+ "lessons": [
+  {
+   "n": 1,
+   "title": "الدرس 1",
+   "lang": "ar",
+   "scholarId": "عبدالرزاق-البدر",
+   "videoId": "vlHBiarTfJM",
+   "duration": 3733,
+   "hijriDate": null
+  },
+  {
+   "n": 2,
+   "title": "الدرس 2",
+   "lang": "ar",
+   "scholarId": "عبدالرزاق-البدر",
+   "videoId": "muGR2IsjHPI",
+   "duration": 3640,
+   "hijriDate": null
+  },
+  {
+   "n": 3,
+   "title": "الدرس 3",
+   "lang": "ar",
+   "scholarId": "عبدالرزاق-البدر",
+   "videoId": "2aWY0jwun5A",
+   "duration": 2718,
+   "hijriDate": null
+  },
+  {
+   "n": 4,
+   "title": "الدرس 4",
+   "lang": "ar",
+   "scholarId": "عبدالرزاق-البدر",
+   "videoId": "kGzwcACy59g",
+   "duration": 3326,
+   "hijriDate": null
+  }
+ ]
+}

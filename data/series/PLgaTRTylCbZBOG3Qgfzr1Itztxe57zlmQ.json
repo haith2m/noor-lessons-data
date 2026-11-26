@@ -1,0 +1,66 @@
+{
+ "id": "PLgaTRTylCbZBOG3Qgfzr1Itztxe57zlmQ",
+ "title": "المصرفية الإسلامية",
+ "subject": "fiqh",
+ "kind": "series",
+ "lang": "ar",
+ "scholarId": "سعد-الشثري",
+ "scholarIds": [
+  "سعد-الشثري"
+ ],
+ "year": null,
+ "source": "youtube",
+ "channelId": "UC3QAoXf9GN9xeQYhk-AZbTg",
+ "playlistId": "PLgaTRTylCbZBOG3Qgfzr1Itztxe57zlmQ",
+ "url": "https://www.youtube.com/playlist?list=PLgaTRTylCbZBOG3Qgfzr1Itztxe57zlmQ",
+ "thumbnail": "https://i.ytimg.com/vi/FaupxQHKfJc/sddefault.jpg",
+ "lessonCount": 5,
+ "duration": 14085,
+ "lessons": [
+  {
+   "n": 1,
+   "title": "الدرس 1",
+   "lang": "ar",
+   "scholarId": "سعد-الشثري",
+   "videoId": "FaupxQHKfJc",
+   "duration": 2630,
+   "hijriDate": null
+  },
+  {
+   "n": 2,
+   "title": "الدرس 2",
+   "lang": "ar",
+   "scholarId": "سعد-الشثري",
+   "videoId": "EH0Y_66xxeo",
+   "duration": 3176,
+   "hijriDate": null
+  },
+  {
+   "n": 3,
+   "title": "الدرس 3",
+   "lang": "ar",
+   "scholarId": "سعد-الشثري",
+   "videoId": "QkGmlvj_WM8",
+   "duration": 2734,
+   "hijriDate": null
+  },
+  {
+   "n": 4,
+   "title": "الدرس 4",
+   "lang": "ar",
+   "scholarId": "سعد-الشثري",
+   "videoId": "TT_RbYosOcU",
+   "duration": 2899,
+   "hijriDate": null
+  },
+  {
+   "n": 5,
+   "title": "الدرس 5",
+   "lang": "ar",
+   "scholarId": "سعد-الشثري",
+   "videoId": "KKE405h8rjs",
+   "duration": 2646,
+   "hijriDate": null
+  }
+ ]
+}

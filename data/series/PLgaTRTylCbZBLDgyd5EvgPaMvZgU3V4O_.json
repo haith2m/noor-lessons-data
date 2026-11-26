@@ -1,0 +1,66 @@
+{
+ "id": "PLgaTRTylCbZBLDgyd5EvgPaMvZgU3V4O_",
+ "title": "معالم الهدي النبوي في رمضان",
+ "subject": "seerah",
+ "kind": "series",
+ "lang": "ar",
+ "scholarId": "حسن-بخاري",
+ "scholarIds": [
+  "حسن-بخاري"
+ ],
+ "year": 1447,
+ "source": "youtube",
+ "channelId": "UC3QAoXf9GN9xeQYhk-AZbTg",
+ "playlistId": "PLgaTRTylCbZBLDgyd5EvgPaMvZgU3V4O_",
+ "url": "https://www.youtube.com/playlist?list=PLgaTRTylCbZBLDgyd5EvgPaMvZgU3V4O_",
+ "thumbnail": "https://i.ytimg.com/vi/Sk-wLogWWbc/maxresdefault.jpg",
+ "lessonCount": 5,
+ "duration": 13327,
+ "lessons": [
+  {
+   "n": 1,
+   "title": "الدرس 1",
+   "lang": "ar",
+   "scholarId": "حسن-بخاري",
+   "videoId": "8BdDNYiDVwM",
+   "duration": 2899,
+   "hijriDate": "1447-09-02"
+  },
+  {
+   "n": 2,
+   "title": "القرآن في شهر القرآن",
+   "lang": "ar",
+   "scholarId": "حسن-بخاري",
+   "videoId": "iAUjh5D8n1w",
+   "duration": 2646,
+   "hijriDate": "1447-09-06"
+  },
+  {
+   "n": 3,
+   "title": "الدعاء",
+   "lang": "ar",
+   "scholarId": "حسن-بخاري",
+   "videoId": "gAA4UpSer3A",
+   "duration": 2929,
+   "hijriDate": "1447-09-13"
+  },
+  {
+   "n": 4,
+   "title": "العشر الأواخر",
+   "lang": "ar",
+   "scholarId": "حسن-بخاري",
+   "videoId": "Rz3LAlhJUqI",
+   "duration": 2782,
+   "hijriDate": "1447-09-20"
+  },
+  {
+   "n": 5,
+   "title": "وصايا في ختام رمضان",
+   "lang": "ar",
+   "scholarId": "حسن-بخاري",
+   "videoId": "Sk-wLogWWbc",
+   "duration": 2071,
+   "hijriDate": "1447-09-27"
+  }
+ ]
+}

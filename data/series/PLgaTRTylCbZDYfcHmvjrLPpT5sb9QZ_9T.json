@@ -1,0 +1,66 @@
+{
+ "id": "PLgaTRTylCbZDYfcHmvjrLPpT5sb9QZ_9T",
+ "title": "تفسير آيات الصيام",
+ "subject": "tafsir",
+ "kind": "series",
+ "lang": "ar",
+ "scholarId": "محمد-الشنقيطي",
+ "scholarIds": [
+  "محمد-الشنقيطي"
+ ],
+ "year": 1443,
+ "source": "youtube",
+ "channelId": "UC3QAoXf9GN9xeQYhk-AZbTg",
+ "playlistId": "PLgaTRTylCbZDYfcHmvjrLPpT5sb9QZ_9T",
+ "url": "https://www.youtube.com/playlist?list=PLgaTRTylCbZDYfcHmvjrLPpT5sb9QZ_9T",
+ "thumbnail": "https://i.ytimg.com/vi/Y7XLLFf4Yw4/maxresdefault.jpg",
+ "lessonCount": 5,
+ "duration": 19281,
+ "lessons": [
+  {
+   "n": 1,
+   "title": "الدرس 1",
+   "lang": "ar",
+   "scholarId": "محمد-الشنقيطي",
+   "videoId": "Y7XLLFf4Yw4",
+   "duration": 4633,
+   "hijriDate": "1443-09-01"
+  },
+  {
+   "n": 2,
+   "title": "الدرس 2",
+   "lang": "ar",
+   "scholarId": "محمد-الشنقيطي",
+   "videoId": "s41Wqqp40pQ",
+   "duration": 3003,
+   "hijriDate": "1443-09-06"
+  },
+  {
+   "n": 3,
+   "title": "الدرس 3",
+   "lang": "ar",
+   "scholarId": "محمد-الشنقيطي",
+   "videoId": "2EkfXFrByKQ",
+   "duration": 2532,
+   "hijriDate": "1443-09-13"
+  },
+  {
+   "n": 4,
+   "title": "الدرس 4",
+   "lang": "ar",
+   "scholarId": "محمد-الشنقيطي",
+   "videoId": "Mb56iHNNilw",
+   "duration": 4301,
+   "hijriDate": "1443-09-20"
+  },
+  {
+   "n": 5,
+   "title": "الدرس 5",
+   "lang": "ar",
+   "scholarId": "محمد-الشنقيطي",
+   "videoId": "2bccQFeZ9fk",
+   "duration": 4812,
+   "hijriDate": "1443-10-20"
+  }
+ ]
+}

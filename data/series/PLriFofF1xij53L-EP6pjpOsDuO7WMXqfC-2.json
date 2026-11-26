@@ -1,0 +1,48 @@
+{
+ "id": "PLriFofF1xij53L-EP6pjpOsDuO7WMXqfC-2",
+ "title": "عقيدة الإمام البخاري",
+ "subject": "aqeedah",
+ "kind": "series",
+ "lang": "ar",
+ "scholarId": "سليمان-الغصن",
+ "scholarIds": [
+  "سليمان-الغصن"
+ ],
+ "year": null,
+ "source": "youtube",
+ "channelId": "UC0XNCc-DU8J5_ksR-eufPaw",
+ "playlistId": "PLriFofF1xij53L-EP6pjpOsDuO7WMXqfC",
+ "url": "https://www.youtube.com/playlist?list=PLriFofF1xij53L-EP6pjpOsDuO7WMXqfC",
+ "thumbnail": "https://i.ytimg.com/vi/SGQPw4bE0es/maxresdefault.jpg",
+ "lessonCount": 3,
+ "duration": 10495,
+ "lessons": [
+  {
+   "n": 1,
+   "title": "الدرس 1",
+   "lang": "ar",
+   "scholarId": "سليمان-الغصن",
+   "videoId": "rDbYQN4BpFA",
+   "duration": 3577,
+   "hijriDate": null
+  },
+  {
+   "n": 2,
+   "title": "الدرس 2",
+   "lang": "ar",
+   "scholarId": "سليمان-الغصن",
+   "videoId": "yxStYa3Kioo",
+   "duration": 4461,
+   "hijriDate": null
+  },
+  {
+   "n": 3,
+   "title": "الدرس 3",
+   "lang": "ar",
+   "scholarId": "سليمان-الغصن",
+   "videoId": "KCuaXcFxVGI",
+   "duration": 2457,
+   "hijriDate": null
+  }
+ ]
+}

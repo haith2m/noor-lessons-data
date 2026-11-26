@@ -1,0 +1,39 @@
+{
+ "id": "PLgaTRTylCbZDEdqxbeHvHS2QLr6MPEp_0",
+ "title": "الأصول الثلاثة",
+ "subject": "aqeedah",
+ "kind": "series",
+ "lang": "ar",
+ "scholarId": "سليمان-الغصن",
+ "scholarIds": [
+  "سليمان-الغصن"
+ ],
+ "year": null,
+ "source": "youtube",
+ "channelId": "UC3QAoXf9GN9xeQYhk-AZbTg",
+ "playlistId": "PLgaTRTylCbZDEdqxbeHvHS2QLr6MPEp_0",
+ "url": "https://www.youtube.com/playlist?list=PLgaTRTylCbZDEdqxbeHvHS2QLr6MPEp_0",
+ "thumbnail": "https://i.ytimg.com/vi/_t15TTFrqgE/maxresdefault.jpg",
+ "lessonCount": 2,
+ "duration": 10328,
+ "lessons": [
+  {
+   "n": 1,
+   "title": "الدرس 1",
+   "lang": "ar",
+   "scholarId": "سليمان-الغصن",
+   "videoId": "_t15TTFrqgE",
+   "duration": 5261,
+   "hijriDate": null
+  },
+  {
+   "n": 2,
+   "title": "الدرس 2",
+   "lang": "ar",
+   "scholarId": "سليمان-الغصن",
+   "videoId": "jBSJD0Jh_vg",
+   "duration": 5067,
+   "hijriDate": null
+  }
+ ]
+}

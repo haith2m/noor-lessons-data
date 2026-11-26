@@ -1,0 +1,30 @@
+{
+ "id": "PLgaTRTylCbZCM99rL9jxCC3ze-YbrmiMh",
+ "title": "محاضرات متلاحمون والتوعية الفكرية",
+ "subject": "general",
+ "kind": "series",
+ "lang": "ar",
+ "scholarId": "سعد-الشثري",
+ "scholarIds": [
+  "سعد-الشثري"
+ ],
+ "year": 1440,
+ "source": "youtube",
+ "channelId": "UC3QAoXf9GN9xeQYhk-AZbTg",
+ "playlistId": "PLgaTRTylCbZCM99rL9jxCC3ze-YbrmiMh",
+ "url": "https://www.youtube.com/playlist?list=PLgaTRTylCbZCM99rL9jxCC3ze-YbrmiMh",
+ "thumbnail": "https://i.ytimg.com/vi/-kTR02Z_PfA/maxresdefault.jpg",
+ "lessonCount": 1,
+ "duration": 3821,
+ "lessons": [
+  {
+   "n": 1,
+   "title": "اللحمة الوطنية حقوق وواجبات",
+   "lang": "ar",
+   "scholarId": "سعد-الشثري",
+   "videoId": "-kTR02Z_PfA",
+   "duration": 3821,
+   "hijriDate": "1440-03-27"
+  }
+ ]
+}

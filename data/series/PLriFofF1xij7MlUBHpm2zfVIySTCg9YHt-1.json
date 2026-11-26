@@ -1,0 +1,39 @@
+{
+ "id": "PLriFofF1xij7MlUBHpm2zfVIySTCg9YHt-1",
+ "title": "القواعد الفقهية",
+ "subject": "fiqh",
+ "kind": "series",
+ "lang": "ar",
+ "scholarId": "سليمان-الرحيلي",
+ "scholarIds": [
+  "سليمان-الرحيلي"
+ ],
+ "year": null,
+ "source": "youtube",
+ "channelId": "UC0XNCc-DU8J5_ksR-eufPaw",
+ "playlistId": "PLriFofF1xij7MlUBHpm2zfVIySTCg9YHt",
+ "url": "https://www.youtube.com/playlist?list=PLriFofF1xij7MlUBHpm2zfVIySTCg9YHt",
+ "thumbnail": "https://i.ytimg.com/vi/6sRK_6FeQmk/maxresdefault.jpg",
+ "lessonCount": 2,
+ "duration": 14383,
+ "lessons": [
+  {
+   "n": 1,
+   "title": "الدرس 1",
+   "lang": "ar",
+   "scholarId": "سليمان-الرحيلي",
+   "videoId": "6sRK_6FeQmk",
+   "duration": 6781,
+   "hijriDate": null
+  },
+  {
+   "n": 2,
+   "title": "الدرس 2",
+   "lang": "ar",
+   "scholarId": "سليمان-الرحيلي",
+   "videoId": "qtMYYlDArx4",
+   "duration": 7602,
+   "hijriDate": null
+  }
+ ]
+}

@@ -1,0 +1,250 @@
+{
+ "id": "PLT0YTpHm8GcE",
+ "title": "الدورة العلمية الأولى في اللغة العربية",
+ "subject": "arabic",
+ "kind": "course",
+ "lang": "ar",
+ "scholarId": null,
+ "scholarIds": [
+  "صالح-المغامسي",
+  "احمد-السديس",
+  "عبدالرحمن-القرني",
+  "سليمان-العيوني",
+  "عبدالله-الشنقيطي"
+ ],
+ "year": 1448,
+ "source": "youtube",
+ "channelId": "UC3QAoXf9GN9xeQYhk-AZbTg",
+ "playlistId": "PLT0YTpHm8GcE",
+ "url": "https://www.youtube.com/playlist?list=PLT0YTpHm8GcE",
+ "thumbnail": "https://i.ytimg.com/vi/OB4kmdwJs_g/maxresdefault.jpg",
+ "lessonCount": 25,
+ "duration": 147944,
+ "lessons": [
+  {
+   "n": 1,
+   "title": "بلسانٍ عربِي مُبِين",
+   "lang": "ar",
+   "scholarId": "صالح-المغامسي",
+   "videoId": "VsMKcghsOzk",
+   "duration": 2414,
+   "hijriDate": "1448-02-02"
+  },
+  {
+   "n": 2,
+   "title": "أهمية اللغة العربية،علم التفسيرأنموذجًا",
+   "lang": "ar",
+   "scholarId": "احمد-السديس",
+   "videoId": "A_9rALKA5og",
+   "duration": 3458,
+   "hijriDate": "1448-02-03"
+  },
+  {
+   "n": 3,
+   "title": "أهمية اللغة العربية،أصول الفقه أنموذجًا",
+   "lang": "ar",
+   "scholarId": "عبدالرحمن-القرني",
+   "videoId": "9vjwQvKEKFw",
+   "duration": 2702,
+   "hijriDate": "1448-02-03"
+  },
+  {
+   "n": 4,
+   "title": "شرح متن النحو الصغير ((1 من 9)",
+   "lang": "ar",
+   "scholarId": "سليمان-العيوني",
+   "videoId": "KK0ac4Si28A",
+   "duration": 10239,
+   "hijriDate": "1448-02-04"
+  },
+  {
+   "n": 5,
+   "title": "شرح متن النحو الصغير ((2 من 9)",
+   "lang": "ar",
+   "scholarId": "سليمان-العيوني",
+   "videoId": "drPBv9RTepM",
+   "duration": 3496,
+   "hijriDate": "1448-02-04"
+  },
+  {
+   "n": 6,
+   "title": "شرح متن النحو الصغير ((3 من 9)",
+   "lang": "ar",
+   "scholarId": "سليمان-العيوني",
+   "videoId": "lO9UDB1JNVE",
+   "duration": 4461,
+   "hijriDate": "1448-02-04"
+  },
+  {
+   "n": 7,
+   "title": "شرح متن النحو الصغير ((4 من 9)",
+   "lang": "ar",
+   "scholarId": "سليمان-العيوني",
+   "videoId": "TWWjY0EXw-M",
+   "duration": 9399,
+   "hijriDate": "1448-02-05"
+  },
+  {
+   "n": 8,
+   "title": "شرح متن النحو الصغير ((5 من 9)",
+   "lang": "ar",
+   "scholarId": "سليمان-العيوني",
+   "videoId": "qwB4XDjYA-c",
+   "duration": 3372,
+   "hijriDate": "1448-02-05"
+  },
+  {
+   "n": 9,
+   "title": "شرح متن النحو الصغير ((6 من 9)",
+   "lang": "ar",
+   "scholarId": "سليمان-العيوني",
+   "videoId": "OB4kmdwJs_g",
+   "duration": 4160,
+   "hijriDate": "1448-02-05"
+  },
+  {
+   "n": 10,
+   "title": "شرح متن النحو الصغير ((7 من 9)",
+   "lang": "ar",
+   "scholarId": "سليمان-العيوني",
+   "videoId": "wa5ha96twWQ",
+   "duration": 7891,
+   "hijriDate": "1448-02-06"
+  },
+  {
+   "n": 11,
+   "title": "شرح متن النحو الصغير ((8 من 9)",
+   "lang": "ar",
+   "scholarId": "سليمان-العيوني",
+   "videoId": "mtceol6EMYE",
+   "duration": 3457,
+   "hijriDate": "1448-02-06"
+  },
+  {
+   "n": 12,
+   "title": "شرح متن النحو الصغير ((9 من 9)",
+   "lang": "ar",
+   "scholarId": "سليمان-العيوني",
+   "videoId": "udHE-K9ktOI",
+   "duration": 3123,
+   "hijriDate": "1448-02-06"
+  },
+  {
+   "n": 13,
+   "title": "شرح متن الصرف الصغير ((1 من 8)",
+   "lang": "ar",
+   "scholarId": "سليمان-العيوني",
+   "videoId": "TXOqi8ZNTpU",
+   "duration": 9294,
+   "hijriDate": "1448-02-07"
+  },
+  {
+   "n": 14,
+   "title": "شرح متن الصرف الصغير ((2 من 8)",
+   "lang": "ar",
+   "scholarId": "سليمان-العيوني",
+   "videoId": "JTvv_RxIIyg",
+   "duration": 3491,
+   "hijriDate": "1448-02-07"
+  },
+  {
+   "n": 15,
+   "title": "شرح متن الصرف الصغير ((3 من 8)",
+   "lang": "ar",
+   "scholarId": "سليمان-العيوني",
+   "videoId": "AXH6B91kmH8",
+   "duration": 4942,
+   "hijriDate": "1448-02-07"
+  },
+  {
+   "n": 16,
+   "title": "شرح متن الصرف الصغير ((5 من 8)",
+   "lang": "ar",
+   "scholarId": "سليمان-العيوني",
+   "videoId": "AeoOZGyoPu8",
+   "duration": 3669,
+   "hijriDate": "1448-02-08"
+  },
+  {
+   "n": 17,
+   "title": "شرح متن الصرف الصغير ((4 من 8)",
+   "lang": "ar",
+   "scholarId": "سليمان-العيوني",
+   "videoId": "0JY0BHQ9K6Y",
+   "duration": 10088,
+   "hijriDate": "1448-02-08"
+  },
+  {
+   "n": 18,
+   "title": "شرح متن الصرف الصغير ((6 من 8)",
+   "lang": "ar",
+   "scholarId": "سليمان-العيوني",
+   "videoId": "C4lSa_tJPEs",
+   "duration": 3404,
+   "hijriDate": "1448-02-08"
+  },
+  {
+   "n": 19,
+   "title": "شرح متن الصرف الصغير ((7 من 8)",
+   "lang": "ar",
+   "scholarId": "سليمان-العيوني",
+   "videoId": "wkM23nsMn8o",
+   "duration": 7402,
+   "hijriDate": "1448-02-09"
+  },
+  {
+   "n": 20,
+   "title": "شرح متن الصرف الصغير ((8 من 8)",
+   "lang": "ar",
+   "scholarId": "سليمان-العيوني",
+   "videoId": "druGYl4qJJo",
+   "duration": 3974,
+   "hijriDate": "1448-02-09"
+  },
+  {
+   "n": 21,
+   "title": "شرح منظومة مئة المعاني والبيان 1",
+   "lang": "ar",
+   "scholarId": "عبدالله-الشنقيطي",
+   "videoId": "urPk8jIS9UU",
+   "duration": 9081,
+   "hijriDate": "1448-02-11"
+  },
+  {
+   "n": 22,
+   "title": "شرح منظومة مئة المعاني والبيان 2",
+   "lang": "ar",
+   "scholarId": "عبدالله-الشنقيطي",
+   "videoId": "MwJuXuyx1P4",
+   "duration": 8711,
+   "hijriDate": "1448-02-12"
+  },
+  {
+   "n": 23,
+   "title": "شرح منظومة مئة المعاني والبيان 3",
+   "lang": "ar",
+   "scholarId": "عبدالله-الشنقيطي",
+   "videoId": "uni_xtGU0H4",
+   "duration": 7694,
+   "hijriDate": "1448-02-13"
+  },
+  {
+   "n": 24,
+   "title": "شرح منظومة مئة المعاني والبيان 4",
+   "lang": "ar",
+   "scholarId": "عبدالله-الشنقيطي",
+   "videoId": "czKEVwtI-CI",
+   "duration": 8595,
+   "hijriDate": "1448-02-14"
+  },
+  {
+   "n": 25,
+   "title": "شرح منظومة مئة المعاني والبيان 5",
+   "lang": "ar",
+   "scholarId": "عبدالله-الشنقيطي",
+   "videoId": "ZijTrju6j_s",
+   "duration": 9427,
+   "hijriDate": "1448-02-15"
+  }
+ ]
+}

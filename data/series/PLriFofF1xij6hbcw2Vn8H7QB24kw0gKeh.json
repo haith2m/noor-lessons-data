@@ -1,0 +1,150 @@
+{
+ "id": "PLriFofF1xij6hbcw2Vn8H7QB24kw0gKeh",
+ "title": "خطب عيد الأضحى",
+ "subject": "khutab",
+ "kind": "clips",
+ "lang": "ar",
+ "scholarId": null,
+ "scholarIds": [
+  "عبدالباري-الثبيتي",
+  "احمد-حميد",
+  "علي-الحذيفي",
+  "حسين-الشيخ"
+ ],
+ "year": 1440,
+ "source": "youtube",
+ "channelId": "UC0XNCc-DU8J5_ksR-eufPaw",
+ "playlistId": "PLriFofF1xij6hbcw2Vn8H7QB24kw0gKeh",
+ "url": "https://www.youtube.com/playlist?list=PLriFofF1xij6hbcw2Vn8H7QB24kw0gKeh",
+ "thumbnail": "https://i.ytimg.com/vi/ffPuRXNHut8/maxresdefault.jpg",
+ "lessonCount": 14,
+ "duration": 6086,
+ "lessons": [
+  {
+   "n": 1,
+   "title": "إحياء سنة التكبير",
+   "lang": "ar",
+   "scholarId": null,
+   "videoId": "ffPuRXNHut8",
+   "duration": 138,
+   "hijriDate": null
+  },
+  {
+   "n": 2,
+   "title": "خطبة العيد \" القيم \"",
+   "lang": "ar",
+   "scholarId": "عبدالباري-الثبيتي",
+   "videoId": "fRVtDYWByUA",
+   "duration": 940,
+   "hijriDate": "1440-12-10"
+  },
+  {
+   "n": 3,
+   "title": "مقتطفات إحياء سنة التكبير من رحاب",
+   "lang": "ar",
+   "scholarId": null,
+   "videoId": "RB26UIpWowg",
+   "duration": 137,
+   "hijriDate": null
+  },
+  {
+   "n": 4,
+   "title": "خطبة عيد الأضحى المبارك - التاريخ",
+   "lang": "ar",
+   "scholarId": "احمد-حميد",
+   "videoId": "XarMUIr66yQ",
+   "duration": 691,
+   "hijriDate": "1441-12-10"
+  },
+  {
+   "n": 5,
+   "title": "مقتطفات من تكبيرات عيد الأضحى المبارك لعام 1441ه من رحاب",
+   "lang": "ar",
+   "scholarId": null,
+   "videoId": "er9ae7DTPxc",
+   "duration": 328,
+   "hijriDate": null
+  },
+  {
+   "n": 6,
+   "title": "إحياء سنة التكبير",
+   "lang": "ar",
+   "scholarId": null,
+   "videoId": "3vvf0Em0GSQ",
+   "duration": 140,
+   "hijriDate": null
+  },
+  {
+   "n": 7,
+   "title": "من تكبيرات عيد الأضحى المبارك لعام 1442ه من رحاب المسجد النبوي الشريف",
+   "lang": "ar",
+   "scholarId": null,
+   "videoId": "2J2Es0-Mhwg",
+   "duration": 277,
+   "hijriDate": null
+  },
+  {
+   "n": 8,
+   "title": "خطبة عيد الأضحى المبارك ب المسجد النبوي",
+   "lang": "ar",
+   "scholarId": "علي-الحذيفي",
+   "videoId": "l4qOKkE3Oe4",
+   "duration": 1621,
+   "hijriDate": "1442-12-10"
+  },
+  {
+   "n": 9,
+   "title": "مقتطفات إحياء سنة التكبير من رحاب",
+   "lang": "ar",
+   "scholarId": null,
+   "videoId": "gkvyBw1bW1U",
+   "duration": 139,
+   "hijriDate": null
+  },
+  {
+   "n": 10,
+   "title": "خطبة عيد الأضحى المبارك بالمسجد النبوي",
+   "lang": "ar",
+   "scholarId": "عبدالباري-الثبيتي",
+   "videoId": "seTXMcvUx3I",
+   "duration": 735,
+   "hijriDate": "1443-12-10"
+  },
+  {
+   "n": 11,
+   "title": "مقتطفات من تكبيرات عيد الأضحى المبارك لعام 1443ه من رحاب المسجد النبوي الشريف المدينة المنورة",
+   "lang": "ar",
+   "scholarId": null,
+   "videoId": "V2FJZOMtGDQ",
+   "duration": 198,
+   "hijriDate": null
+  },
+  {
+   "n": 12,
+   "title": "إحياء سنة التكبير",
+   "lang": "ar",
+   "scholarId": null,
+   "videoId": "Dh4nC0xTp2o",
+   "duration": 94,
+   "hijriDate": null
+  },
+  {
+   "n": 13,
+   "title": "خطبة عيد الأضحى المبارك بالمسجد النبوي",
+   "lang": "ar",
+   "scholarId": "حسين-الشيخ",
+   "videoId": "WjMJU2Y0kMI",
+   "duration": 448,
+   "hijriDate": "1444-12-10"
+  },
+  {
+   "n": 14,
+   "title": "مقتطفات من تكبيرات عيد الأضحى المبارك لعام 1444ه من رحاب المسجد النبوي بالمدينة المنورة",
+   "lang": "ar",
+   "scholarId": null,
+   "videoId": "3lcdQ6PjUkY",
+   "duration": 200,
+   "hijriDate": null
+  }
+ ]
+}

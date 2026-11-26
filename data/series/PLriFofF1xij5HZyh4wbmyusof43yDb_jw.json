@@ -1,0 +1,39 @@
+{
+ "id": "PLriFofF1xij5HZyh4wbmyusof43yDb_jw",
+ "title": "الأربعين النووية",
+ "subject": "hadith",
+ "kind": "series",
+ "lang": "ar",
+ "scholarId": "صالح-حميد",
+ "scholarIds": [
+  "صالح-حميد"
+ ],
+ "year": null,
+ "source": "youtube",
+ "channelId": "UC0XNCc-DU8J5_ksR-eufPaw",
+ "playlistId": "PLriFofF1xij5HZyh4wbmyusof43yDb_jw",
+ "url": "https://www.youtube.com/playlist?list=PLriFofF1xij5HZyh4wbmyusof43yDb_jw",
+ "thumbnail": "https://i.ytimg.com/vi/3aJsKHOY1Bo/maxresdefault.jpg",
+ "lessonCount": 2,
+ "duration": 8005,
+ "lessons": [
+  {
+   "n": 1,
+   "title": "الدرس 1",
+   "lang": "ar",
+   "scholarId": "صالح-حميد",
+   "videoId": "3aJsKHOY1Bo",
+   "duration": 3966,
+   "hijriDate": null
+  },
+  {
+   "n": 2,
+   "title": "الدرس 2",
+   "lang": "ar",
+   "scholarId": "صالح-حميد",
+   "videoId": "opqCZsuUw0M",
+   "duration": 4039,
+   "hijriDate": null
+  }
+ ]
+}

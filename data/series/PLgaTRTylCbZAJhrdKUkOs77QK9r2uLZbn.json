@@ -1,0 +1,84 @@
+{
+ "id": "PLgaTRTylCbZAJhrdKUkOs77QK9r2uLZbn",
+ "title": "العلم من مختصر صحيح البخاري",
+ "subject": "hadith",
+ "kind": "series",
+ "lang": "ar",
+ "scholarId": "سعد-الشثري",
+ "scholarIds": [
+  "سعد-الشثري"
+ ],
+ "year": 1442,
+ "source": "youtube",
+ "channelId": "UC3QAoXf9GN9xeQYhk-AZbTg",
+ "playlistId": "PLgaTRTylCbZAJhrdKUkOs77QK9r2uLZbn",
+ "url": "https://www.youtube.com/playlist?list=PLgaTRTylCbZAJhrdKUkOs77QK9r2uLZbn",
+ "thumbnail": "https://i.ytimg.com/vi/vlUtcQyF8Mc/maxresdefault.jpg",
+ "lessonCount": 7,
+ "duration": 13082,
+ "lessons": [
+  {
+   "n": 1,
+   "title": "الدرس 1",
+   "lang": "ar",
+   "scholarId": "سعد-الشثري",
+   "videoId": "vlUtcQyF8Mc",
+   "duration": 1909,
+   "hijriDate": "1442-01-28"
+  },
+  {
+   "n": 2,
+   "title": "الدرس 2",
+   "lang": "ar",
+   "scholarId": "سعد-الشثري",
+   "videoId": "cX-HrjuHKa8",
+   "duration": 1730,
+   "hijriDate": "1442-01-29"
+  },
+  {
+   "n": 3,
+   "title": "الدرس 3",
+   "lang": "ar",
+   "scholarId": "سعد-الشثري",
+   "videoId": "TaCqWmunUGY",
+   "duration": 1925,
+   "hijriDate": "1442-02-01"
+  },
+  {
+   "n": 4,
+   "title": "الدرس 4",
+   "lang": "ar",
+   "scholarId": "سعد-الشثري",
+   "videoId": "6TdHbwgpXTk",
+   "duration": 2011,
+   "hijriDate": "1442-02-03"
+  },
+  {
+   "n": 5,
+   "title": "الدرس 5",
+   "lang": "ar",
+   "scholarId": "سعد-الشثري",
+   "videoId": "u7UY09HeSOQ",
+   "duration": 2043,
+   "hijriDate": "1442-02-04"
+  },
+  {
+   "n": 6,
+   "title": "الدرس 6",
+   "lang": "ar",
+   "scholarId": "سعد-الشثري",
+   "videoId": "YnP6HLapjSc",
+   "duration": 1791,
+   "hijriDate": "1442-02-05"
+  },
+  {
+   "n": 7,
+   "title": "الدرس 7",
+   "lang": "ar",
+   "scholarId": "سعد-الشثري",
+   "videoId": "BmCP_u2zi9M",
+   "duration": 1673,
+   "hijriDate": "1442-02-06"
+  }
+ ]
+}

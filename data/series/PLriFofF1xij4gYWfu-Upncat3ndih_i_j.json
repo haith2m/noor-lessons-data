@@ -1,0 +1,30 @@
+{
+ "id": "PLriFofF1xij4gYWfu-Upncat3ndih_i_j",
+ "title": "اللقاءات العلمية",
+ "subject": "hadith",
+ "kind": "series",
+ "lang": "ar",
+ "scholarId": "عبدالله-المطلق",
+ "scholarIds": [
+  "عبدالله-المطلق"
+ ],
+ "year": null,
+ "source": "youtube",
+ "channelId": "UC0XNCc-DU8J5_ksR-eufPaw",
+ "playlistId": "PLriFofF1xij4gYWfu-Upncat3ndih_i_j",
+ "url": "https://www.youtube.com/playlist?list=PLriFofF1xij4gYWfu-Upncat3ndih_i_j",
+ "thumbnail": "https://i.ytimg.com/vi/K6aZLdRMnwo/maxresdefault.jpg",
+ "lessonCount": 1,
+ "duration": 3396,
+ "lessons": [
+  {
+   "n": 1,
+   "title": "كتاب رياض الصالحين (الصبر)",
+   "lang": "ar",
+   "scholarId": "عبدالله-المطلق",
+   "videoId": "K6aZLdRMnwo",
+   "duration": 3396,
+   "hijriDate": null
+  }
+ ]
+}

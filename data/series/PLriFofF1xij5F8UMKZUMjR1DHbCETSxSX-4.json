@@ -1,0 +1,30 @@
+{
+ "id": "PLriFofF1xij5F8UMKZUMjR1DHbCETSxSX-4",
+ "title": "البرامج العلمية",
+ "subject": "fiqh",
+ "kind": "series",
+ "lang": "ar",
+ "scholarId": "علي-ابابطين",
+ "scholarIds": [
+  "علي-ابابطين"
+ ],
+ "year": null,
+ "source": "youtube",
+ "channelId": "UC0XNCc-DU8J5_ksR-eufPaw",
+ "playlistId": "PLriFofF1xij5F8UMKZUMjR1DHbCETSxSX",
+ "url": "https://www.youtube.com/playlist?list=PLriFofF1xij5F8UMKZUMjR1DHbCETSxSX",
+ "thumbnail": "https://i.ytimg.com/vi/2frdmfT9yy8/maxresdefault.jpg",
+ "lessonCount": 1,
+ "duration": 3113,
+ "lessons": [
+  {
+   "n": 1,
+   "title": "أحكام صلاة العيد",
+   "lang": "ar",
+   "scholarId": "علي-ابابطين",
+   "videoId": "_c6cjkk31yw",
+   "duration": 3113,
+   "hijriDate": null
+  }
+ ]
+}

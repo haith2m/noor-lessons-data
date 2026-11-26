@@ -1,0 +1,48 @@
+{
+ "id": "PLriFofF1xij4dIo-Z1oIPXj7koXNhy90O-1",
+ "title": "عمدة الأحكام (الصيام)",
+ "subject": "fiqh",
+ "kind": "series",
+ "lang": "ar",
+ "scholarId": "علي-ابابطين",
+ "scholarIds": [
+  "علي-ابابطين"
+ ],
+ "year": null,
+ "source": "youtube",
+ "channelId": "UC0XNCc-DU8J5_ksR-eufPaw",
+ "playlistId": "PLriFofF1xij4dIo-Z1oIPXj7koXNhy90O",
+ "url": "https://www.youtube.com/playlist?list=PLriFofF1xij4dIo-Z1oIPXj7koXNhy90O",
+ "thumbnail": "https://i.ytimg.com/vi/OsWBWuybKZQ/maxresdefault.jpg",
+ "lessonCount": 3,
+ "duration": 5767,
+ "lessons": [
+  {
+   "n": 1,
+   "title": "الدرس 1",
+   "lang": "ar",
+   "scholarId": "علي-ابابطين",
+   "videoId": "OsWBWuybKZQ",
+   "duration": 2187,
+   "hijriDate": null
+  },
+  {
+   "n": 2,
+   "title": "الدرس 2",
+   "lang": "ar",
+   "scholarId": "علي-ابابطين",
+   "videoId": "8wArpu_hZ7Y",
+   "duration": 1325,
+   "hijriDate": null
+  },
+  {
+   "n": 3,
+   "title": "الدرس 3",
+   "lang": "ar",
+   "scholarId": "علي-ابابطين",
+   "videoId": "dMR8DeVySvQ",
+   "duration": 2255,
+   "hijriDate": null
+  }
+ ]
+}

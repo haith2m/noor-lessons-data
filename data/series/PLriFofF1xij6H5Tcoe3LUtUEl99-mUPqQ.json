@@ -1,0 +1,39 @@
+{
+ "id": "PLriFofF1xij6H5Tcoe3LUtUEl99-mUPqQ",
+ "title": "رسالة الكفاية الصغرى في أحكام العبادات الكبرى",
+ "subject": "fiqh",
+ "kind": "series",
+ "lang": "ar",
+ "scholarId": "عبدالله-الزاحم",
+ "scholarIds": [
+  "عبدالله-الزاحم"
+ ],
+ "year": null,
+ "source": "youtube",
+ "channelId": "UC0XNCc-DU8J5_ksR-eufPaw",
+ "playlistId": "PLriFofF1xij6H5Tcoe3LUtUEl99-mUPqQ",
+ "url": "https://www.youtube.com/playlist?list=PLriFofF1xij6H5Tcoe3LUtUEl99-mUPqQ",
+ "thumbnail": "https://i.ytimg.com/vi/YuAeElkxDrU/maxresdefault.jpg",
+ "lessonCount": 2,
+ "duration": 7527,
+ "lessons": [
+  {
+   "n": 1,
+   "title": "الدرس 1",
+   "lang": "ar",
+   "scholarId": "عبدالله-الزاحم",
+   "videoId": "YuAeElkxDrU",
+   "duration": 3961,
+   "hijriDate": null
+  },
+  {
+   "n": 2,
+   "title": "الدرس 2",
+   "lang": "ar",
+   "scholarId": "عبدالله-الزاحم",
+   "videoId": "bD6euTADF-I",
+   "duration": 3566,
+   "hijriDate": null
+  }
+ ]
+}

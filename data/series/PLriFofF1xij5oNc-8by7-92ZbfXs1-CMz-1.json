@@ -1,0 +1,48 @@
+{
+ "id": "PLriFofF1xij5oNc-8by7-92ZbfXs1-CMz-1",
+ "title": "فصول في الصيام والتراويح والزكاة",
+ "subject": "fiqh",
+ "kind": "series",
+ "lang": "ar",
+ "scholarId": "انيس-طاهر",
+ "scholarIds": [
+  "انيس-طاهر"
+ ],
+ "year": null,
+ "source": "youtube",
+ "channelId": "UC0XNCc-DU8J5_ksR-eufPaw",
+ "playlistId": "PLriFofF1xij5oNc-8by7-92ZbfXs1-CMz",
+ "url": "https://www.youtube.com/playlist?list=PLriFofF1xij5oNc-8by7-92ZbfXs1-CMz",
+ "thumbnail": "https://i.ytimg.com/vi/8PrZbg6jubo/maxresdefault.jpg",
+ "lessonCount": 3,
+ "duration": 11966,
+ "lessons": [
+  {
+   "n": 1,
+   "title": "الدرس 1",
+   "lang": "ar",
+   "scholarId": "انيس-طاهر",
+   "videoId": "NtXVgxeo3DQ",
+   "duration": 3522,
+   "hijriDate": null
+  },
+  {
+   "n": 2,
+   "title": "الدرس 2",
+   "lang": "ar",
+   "scholarId": "انيس-طاهر",
+   "videoId": "uSmu9vtvGw8",
+   "duration": 4038,
+   "hijriDate": null
+  },
+  {
+   "n": 3,
+   "title": "الدرس 3",
+   "lang": "ar",
+   "scholarId": "انيس-طاهر",
+   "videoId": "8PrZbg6jubo",
+   "duration": 4406,
+   "hijriDate": null
+  }
+ ]
+}

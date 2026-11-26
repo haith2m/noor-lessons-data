@@ -1,0 +1,48 @@
+{
+ "id": "PLriFofF1xij5QsC0pCOglll1TWCJkxNZf-3",
+ "title": "الدروس المهمة لعامة الأمة",
+ "subject": "aqeedah",
+ "kind": "series",
+ "lang": "ar",
+ "scholarId": "مسعود-المحمدي",
+ "scholarIds": [
+  "مسعود-المحمدي"
+ ],
+ "year": null,
+ "source": "youtube",
+ "channelId": "UC0XNCc-DU8J5_ksR-eufPaw",
+ "playlistId": "PLriFofF1xij5QsC0pCOglll1TWCJkxNZf",
+ "url": "https://www.youtube.com/playlist?list=PLriFofF1xij5QsC0pCOglll1TWCJkxNZf",
+ "thumbnail": "https://i.ytimg.com/vi/8xCU4qvtGdE/maxresdefault.jpg",
+ "lessonCount": 3,
+ "duration": 10836,
+ "lessons": [
+  {
+   "n": 1,
+   "title": "الدرس 1",
+   "lang": "ar",
+   "scholarId": "مسعود-المحمدي",
+   "videoId": "_9BnsmiMPqI",
+   "duration": 3211,
+   "hijriDate": null
+  },
+  {
+   "n": 2,
+   "title": "الدرس 2",
+   "lang": "ar",
+   "scholarId": "مسعود-المحمدي",
+   "videoId": "HWZhVKWYLVY",
+   "duration": 3886,
+   "hijriDate": null
+  },
+  {
+   "n": 3,
+   "title": "الدرس 3",
+   "lang": "ar",
+   "scholarId": "مسعود-المحمدي",
+   "videoId": "odWntP-5qMw",
+   "duration": 3739,
+   "hijriDate": null
+  }
+ ]
+}

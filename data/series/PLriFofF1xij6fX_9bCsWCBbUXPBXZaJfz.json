@@ -1,0 +1,49 @@
+{
+ "id": "PLriFofF1xij6fX_9bCsWCBbUXPBXZaJfz",
+ "title": "الدورة العلمية خلال شهر رمضان المبارك",
+ "subject": "tafsir",
+ "kind": "course",
+ "lang": "ar",
+ "scholarId": null,
+ "scholarIds": [
+  "بدر-البدر",
+  "عبدالله-الشنقيطي"
+ ],
+ "year": 1443,
+ "source": "youtube",
+ "channelId": "UC0XNCc-DU8J5_ksR-eufPaw",
+ "playlistId": "PLriFofF1xij6fX_9bCsWCBbUXPBXZaJfz",
+ "url": "https://www.youtube.com/playlist?list=PLriFofF1xij6fX_9bCsWCBbUXPBXZaJfz",
+ "thumbnail": "https://i.ytimg.com/vi/f5wpmNOiyL8/maxresdefault.jpg",
+ "lessonCount": 3,
+ "duration": 10931,
+ "lessons": [
+  {
+   "n": 1,
+   "title": "تفسيرمن آيات الصيام من سورة البقرة (184 من 183)",
+   "lang": "ar",
+   "scholarId": "بدر-البدر",
+   "videoId": "f5wpmNOiyL8",
+   "duration": 3168,
+   "hijriDate": null
+  },
+  {
+   "n": 2,
+   "title": "تفسير آيات الصيام من سورة البقرة (187 من 183)",
+   "lang": "ar",
+   "scholarId": "عبدالله-الشنقيطي",
+   "videoId": "4_dMXmfzww8",
+   "duration": 4289,
+   "hijriDate": null
+  },
+  {
+   "n": 3,
+   "title": "تفسير آيات الصيام من سورة البقرة (187 من 183)",
+   "lang": "ar",
+   "scholarId": "عبدالله-الشنقيطي",
+   "videoId": "DqJN6EPL3V4",
+   "duration": 3474,
+   "hijriDate": null
+  }
+ ]
+}

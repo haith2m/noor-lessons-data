@@ -1,0 +1,57 @@
+{
+ "id": "PLgaTRTylCbZCrgoNsoloTyExwgpBDO4OY",
+ "title": "الحج من عمدة الفقه",
+ "subject": "fiqh",
+ "kind": "series",
+ "lang": "ar",
+ "scholarId": "سليمان-التويجري",
+ "scholarIds": [
+  "سليمان-التويجري"
+ ],
+ "year": null,
+ "source": "youtube",
+ "channelId": "UC3QAoXf9GN9xeQYhk-AZbTg",
+ "playlistId": "PLgaTRTylCbZCrgoNsoloTyExwgpBDO4OY",
+ "url": "https://www.youtube.com/playlist?list=PLgaTRTylCbZCrgoNsoloTyExwgpBDO4OY",
+ "thumbnail": "https://i.ytimg.com/vi/NiFqKhKW1MQ/sddefault.jpg",
+ "lessonCount": 4,
+ "duration": 20090,
+ "lessons": [
+  {
+   "n": 1,
+   "title": "الدرس 1",
+   "lang": "ar",
+   "scholarId": "سليمان-التويجري",
+   "videoId": "NiFqKhKW1MQ",
+   "duration": 7324,
+   "hijriDate": null
+  },
+  {
+   "n": 2,
+   "title": "الدرس 2",
+   "lang": "ar",
+   "scholarId": "سليمان-التويجري",
+   "videoId": "Yer2wXRYfwY",
+   "duration": 3961,
+   "hijriDate": null
+  },
+  {
+   "n": 3,
+   "title": "الدرس 3",
+   "lang": "ar",
+   "scholarId": "سليمان-التويجري",
+   "videoId": "STEPE3WNM-0",
+   "duration": 3853,
+   "hijriDate": null
+  },
+  {
+   "n": 4,
+   "title": "الدرس 4",
+   "lang": "ar",
+   "scholarId": "سليمان-التويجري",
+   "videoId": "Isch6iOhvqQ",
+   "duration": 4952,
+   "hijriDate": null
+  }
+ ]
+}

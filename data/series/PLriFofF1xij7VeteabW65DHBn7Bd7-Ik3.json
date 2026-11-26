@@ -1,0 +1,75 @@
+{
+ "id": "PLriFofF1xij7VeteabW65DHBn7Bd7-Ik3",
+ "title": "الإيمان لأبي عبيد القاسم بن سلام",
+ "subject": "aqeedah",
+ "kind": "series",
+ "lang": "ar",
+ "scholarId": "سليمان-الغصن",
+ "scholarIds": [
+  "سليمان-الغصن"
+ ],
+ "year": null,
+ "source": "youtube",
+ "channelId": "UC0XNCc-DU8J5_ksR-eufPaw",
+ "playlistId": "PLriFofF1xij7VeteabW65DHBn7Bd7-Ik3",
+ "url": "https://www.youtube.com/playlist?list=PLriFofF1xij7VeteabW65DHBn7Bd7-Ik3",
+ "thumbnail": "https://i.ytimg.com/vi/5y0sJYj0YjQ/maxresdefault.jpg",
+ "lessonCount": 6,
+ "duration": 23908,
+ "lessons": [
+  {
+   "n": 1,
+   "title": "الدرس 1",
+   "lang": "ar",
+   "scholarId": "سليمان-الغصن",
+   "videoId": "5y0sJYj0YjQ",
+   "duration": 4032,
+   "hijriDate": null
+  },
+  {
+   "n": 2,
+   "title": "الدرس 2",
+   "lang": "ar",
+   "scholarId": "سليمان-الغصن",
+   "videoId": "zwzZlGt56SU",
+   "duration": 4681,
+   "hijriDate": null
+  },
+  {
+   "n": 3,
+   "title": "الدرس 3",
+   "lang": "ar",
+   "scholarId": "سليمان-الغصن",
+   "videoId": "zfpMYsgs-dk",
+   "duration": 3515,
+   "hijriDate": null
+  },
+  {
+   "n": 4,
+   "title": "الدرس 4",
+   "lang": "ar",
+   "scholarId": "سليمان-الغصن",
+   "videoId": "OPZo0kPucgY",
+   "duration": 4886,
+   "hijriDate": null
+  },
+  {
+   "n": 5,
+   "title": "الدرس 5",
+   "lang": "ar",
+   "scholarId": "سليمان-الغصن",
+   "videoId": "ZPW_rdDk2Zo",
+   "duration": 2546,
+   "hijriDate": null
+  },
+  {
+   "n": 6,
+   "title": "الدرس 6",
+   "lang": "ar",
+   "scholarId": "سليمان-الغصن",
+   "videoId": "UeT7Hk_Dk5g",
+   "duration": 4248,
+   "hijriDate": null
+  }
+ ]
+}

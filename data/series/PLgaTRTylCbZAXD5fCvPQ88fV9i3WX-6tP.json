@@ -1,0 +1,39 @@
+{
+ "id": "PLgaTRTylCbZAXD5fCvPQ88fV9i3WX-6tP",
+ "title": "شرح كتاب التسهيل في الفقه",
+ "subject": "fiqh",
+ "kind": "series",
+ "lang": "ar",
+ "scholarId": "عبدالمحسن-الزامل",
+ "scholarIds": [
+  "عبدالمحسن-الزامل"
+ ],
+ "year": 1440,
+ "source": "youtube",
+ "channelId": "UC3QAoXf9GN9xeQYhk-AZbTg",
+ "playlistId": "PLgaTRTylCbZAXD5fCvPQ88fV9i3WX-6tP",
+ "url": "https://www.youtube.com/playlist?list=PLgaTRTylCbZAXD5fCvPQ88fV9i3WX-6tP",
+ "thumbnail": "https://i.ytimg.com/vi/xoogl0vuXGo/sddefault.jpg",
+ "lessonCount": 2,
+ "duration": 10938,
+ "lessons": [
+  {
+   "n": 1,
+   "title": "الدرس 1",
+   "lang": "ar",
+   "scholarId": "عبدالمحسن-الزامل",
+   "videoId": "xoogl0vuXGo",
+   "duration": 7928,
+   "hijriDate": "1440-08-07"
+  },
+  {
+   "n": 2,
+   "title": "الدرس 2",
+   "lang": "ar",
+   "scholarId": "عبدالمحسن-الزامل",
+   "videoId": "Fad8bdq4SKI",
+   "duration": 3010,
+   "hijriDate": "1440-08-07"
+  }
+ ]
+}

@@ -1,0 +1,84 @@
+{
+ "id": "PLriFofF1xij6fhwnscSdUtP2JDczTMPj5",
+ "title": "هدي السلف مع القرآن الكريم",
+ "subject": "tafsir",
+ "kind": "series",
+ "lang": "ar",
+ "scholarId": "بدر-البدر",
+ "scholarIds": [
+  "بدر-البدر"
+ ],
+ "year": null,
+ "source": "youtube",
+ "channelId": "UC0XNCc-DU8J5_ksR-eufPaw",
+ "playlistId": "PLriFofF1xij6fhwnscSdUtP2JDczTMPj5",
+ "url": "https://www.youtube.com/playlist?list=PLriFofF1xij6fhwnscSdUtP2JDczTMPj5",
+ "thumbnail": "https://i.ytimg.com/vi/8isAXhkzmT4/maxresdefault.jpg",
+ "lessonCount": 7,
+ "duration": 18697,
+ "lessons": [
+  {
+   "n": 1,
+   "title": "الدرس 1",
+   "lang": "ar",
+   "scholarId": "بدر-البدر",
+   "videoId": "sb9TZ39M-N0",
+   "duration": 3496,
+   "hijriDate": null
+  },
+  {
+   "n": 2,
+   "title": "الدرس 2",
+   "lang": "ar",
+   "scholarId": "بدر-البدر",
+   "videoId": "8isAXhkzmT4",
+   "duration": 2837,
+   "hijriDate": null
+  },
+  {
+   "n": 3,
+   "title": "الدرس 3",
+   "lang": "ar",
+   "scholarId": "بدر-البدر",
+   "videoId": "dZqKFWfOjmE",
+   "duration": 2606,
+   "hijriDate": null
+  },
+  {
+   "n": 4,
+   "title": "الدرس 4",
+   "lang": "ar",
+   "scholarId": "بدر-البدر",
+   "videoId": "PUczgiFTBKc",
+   "duration": 3134,
+   "hijriDate": null
+  },
+  {
+   "n": 5,
+   "title": "الدرس 5",
+   "lang": "ar",
+   "scholarId": "بدر-البدر",
+   "videoId": "MSAr3ObdSog",
+   "duration": 2976,
+   "hijriDate": null
+  },
+  {
+   "n": 6,
+   "title": "الدرس 6",
+   "lang": "ar",
+   "scholarId": "بدر-البدر",
+   "videoId": "CXx2ebHJNJw",
+   "duration": 1824,
+   "hijriDate": null
+  },
+  {
+   "n": 7,
+   "title": "الدرس 7",
+   "lang": "ar",
+   "scholarId": "بدر-البدر",
+   "videoId": "_LMt46sgKZs",
+   "duration": 1824,
+   "hijriDate": null
+  }
+ ]
+}

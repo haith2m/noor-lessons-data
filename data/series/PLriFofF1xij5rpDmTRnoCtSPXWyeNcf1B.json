@@ -1,0 +1,84 @@
+{
+ "id": "PLriFofF1xij5rpDmTRnoCtSPXWyeNcf1B",
+ "title": "رسالة آداب المعلمين والمتعلمين للسعدي",
+ "subject": "adab",
+ "kind": "series",
+ "lang": "ar",
+ "scholarId": "عبدالرزاق-البدر",
+ "scholarIds": [
+  "عبدالرزاق-البدر"
+ ],
+ "year": null,
+ "source": "youtube",
+ "channelId": "UC0XNCc-DU8J5_ksR-eufPaw",
+ "playlistId": "PLriFofF1xij5rpDmTRnoCtSPXWyeNcf1B",
+ "url": "https://www.youtube.com/playlist?list=PLriFofF1xij5rpDmTRnoCtSPXWyeNcf1B",
+ "thumbnail": "https://i.ytimg.com/vi/mAOFHPMLtRw/maxresdefault.jpg",
+ "lessonCount": 7,
+ "duration": 25147,
+ "lessons": [
+  {
+   "n": 1,
+   "title": "الدرس 1",
+   "lang": "ar",
+   "scholarId": "عبدالرزاق-البدر",
+   "videoId": "mAOFHPMLtRw",
+   "duration": 3675,
+   "hijriDate": null
+  },
+  {
+   "n": 2,
+   "title": "الدرس 2",
+   "lang": "ar",
+   "scholarId": "عبدالرزاق-البدر",
+   "videoId": "qD2ATZJ57Qo",
+   "duration": 3522,
+   "hijriDate": null
+  },
+  {
+   "n": 3,
+   "title": "الدرس 3",
+   "lang": "ar",
+   "scholarId": "عبدالرزاق-البدر",
+   "videoId": "gQgHIkQiOlk",
+   "duration": 3616,
+   "hijriDate": null
+  },
+  {
+   "n": 4,
+   "title": "الدرس 4",
+   "lang": "ar",
+   "scholarId": "عبدالرزاق-البدر",
+   "videoId": "OGQ-tKt9KYo",
+   "duration": 3791,
+   "hijriDate": null
+  },
+  {
+   "n": 5,
+   "title": "الدرس 5",
+   "lang": "ar",
+   "scholarId": "عبدالرزاق-البدر",
+   "videoId": "FGPlXi7YJiM",
+   "duration": 3441,
+   "hijriDate": null
+  },
+  {
+   "n": 6,
+   "title": "الدرس 6",
+   "lang": "ar",
+   "scholarId": "عبدالرزاق-البدر",
+   "videoId": "l9wyaxgE9P8",
+   "duration": 3566,
+   "hijriDate": null
+  },
+  {
+   "n": 7,
+   "title": "الدرس 7",
+   "lang": "ar",
+   "scholarId": "عبدالرزاق-البدر",
+   "videoId": "P43D4jcDGf8",
+   "duration": 3536,
+   "hijriDate": null
+  }
+ ]
+}

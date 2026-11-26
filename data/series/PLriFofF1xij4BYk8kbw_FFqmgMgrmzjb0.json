@@ -1,0 +1,48 @@
+{
+ "id": "PLriFofF1xij4BYk8kbw_FFqmgMgrmzjb0",
+ "title": "رسالة الأربعين في الأحكام للجعبري",
+ "subject": "fiqh",
+ "kind": "series",
+ "lang": "ar",
+ "scholarId": "عبدالسلام-الشويعر",
+ "scholarIds": [
+  "عبدالسلام-الشويعر"
+ ],
+ "year": null,
+ "source": "youtube",
+ "channelId": "UC0XNCc-DU8J5_ksR-eufPaw",
+ "playlistId": "PLriFofF1xij4BYk8kbw_FFqmgMgrmzjb0",
+ "url": "https://www.youtube.com/playlist?list=PLriFofF1xij4BYk8kbw_FFqmgMgrmzjb0",
+ "thumbnail": "https://i.ytimg.com/vi/a-6PP9-lk7Q/sddefault.jpg",
+ "lessonCount": 3,
+ "duration": 10112,
+ "lessons": [
+  {
+   "n": 1,
+   "title": "الدرس 1",
+   "lang": "ar",
+   "scholarId": "عبدالسلام-الشويعر",
+   "videoId": "vEwoNkcSjlI",
+   "duration": 4556,
+   "hijriDate": null
+  },
+  {
+   "n": 2,
+   "title": "الدرس 2",
+   "lang": "ar",
+   "scholarId": "عبدالسلام-الشويعر",
+   "videoId": "ejACKnOd1BE",
+   "duration": 1121,
+   "hijriDate": null
+  },
+  {
+   "n": 3,
+   "title": "الدرس 3",
+   "lang": "ar",
+   "scholarId": "عبدالسلام-الشويعر",
+   "videoId": "a-6PP9-lk7Q",
+   "duration": 4435,
+   "hijriDate": null
+  }
+ ]
+}

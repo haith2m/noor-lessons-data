@@ -1,0 +1,48 @@
+{
+ "id": "PLriFofF1xij77BKTAxWkkrcxEFqWA9ssG-1",
+ "title": "تفسير آيات الصيام",
+ "subject": "tafsir",
+ "kind": "series",
+ "lang": "ar",
+ "scholarId": "محمد-الشنقيطي",
+ "scholarIds": [
+  "محمد-الشنقيطي"
+ ],
+ "year": null,
+ "source": "youtube",
+ "channelId": "UC0XNCc-DU8J5_ksR-eufPaw",
+ "playlistId": "PLriFofF1xij77BKTAxWkkrcxEFqWA9ssG",
+ "url": "https://www.youtube.com/playlist?list=PLriFofF1xij77BKTAxWkkrcxEFqWA9ssG",
+ "thumbnail": "https://i.ytimg.com/vi/Ynfles2O7YA/maxresdefault.jpg",
+ "lessonCount": 3,
+ "duration": 10190,
+ "lessons": [
+  {
+   "n": 1,
+   "title": "الدرس 1",
+   "lang": "ar",
+   "scholarId": "محمد-الشنقيطي",
+   "videoId": "Ynfles2O7YA",
+   "duration": 3255,
+   "hijriDate": null
+  },
+  {
+   "n": 2,
+   "title": "الدرس 2",
+   "lang": "ar",
+   "scholarId": "محمد-الشنقيطي",
+   "videoId": "VokAUbIsOts",
+   "duration": 2567,
+   "hijriDate": null
+  },
+  {
+   "n": 3,
+   "title": "الدرس 3",
+   "lang": "ar",
+   "scholarId": "محمد-الشنقيطي",
+   "videoId": "Va_RE2x8-Vw",
+   "duration": 4368,
+   "hijriDate": null
+  }
+ ]
+}

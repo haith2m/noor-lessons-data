@@ -1,0 +1,109 @@
+{
+ "id": "PLriFofF1xij5xC3dkk32ZSoYzp0BbxFC8",
+ "title": "الدورة العلمية لأئمة الحرمين الشريفين (1)",
+ "subject": "fiqh",
+ "kind": "course",
+ "lang": "ar",
+ "scholarId": null,
+ "scholarIds": [
+  "عبدالله-البعيجان",
+  "عبدالله-القرافي",
+  "عبدالرحمن-السديس",
+  "محمد-برهجي",
+  "خالد-المهنا",
+  "ياسر-الدوسري",
+  "علي-الحذيفي",
+  "حسين-الشيخ"
+ ],
+ "year": 1447,
+ "source": "youtube",
+ "channelId": "UC0XNCc-DU8J5_ksR-eufPaw",
+ "playlistId": "PLriFofF1xij5xC3dkk32ZSoYzp0BbxFC8",
+ "url": "https://www.youtube.com/playlist?list=PLriFofF1xij5xC3dkk32ZSoYzp0BbxFC8",
+ "thumbnail": "https://i.ytimg.com/vi/TMZ1VxsWHXs/maxresdefault.jpg",
+ "lessonCount": 9,
+ "duration": 27269,
+ "lessons": [
+  {
+   "n": 1,
+   "title": "تفسير آيات الصيام",
+   "lang": "ar",
+   "scholarId": "عبدالله-البعيجان",
+   "videoId": "TMZ1VxsWHXs",
+   "duration": 3240,
+   "hijriDate": null
+  },
+  {
+   "n": 2,
+   "title": "رمضان والتوبة",
+   "lang": "ar",
+   "scholarId": "عبدالله-القرافي",
+   "videoId": "H4iLmAAzCyw",
+   "duration": 2767,
+   "hijriDate": null
+  },
+  {
+   "n": 3,
+   "title": "كتاب زاد المعاد (الصيام)",
+   "lang": "ar",
+   "scholarId": "عبدالرحمن-السديس",
+   "videoId": "853HcMLAIMY",
+   "duration": 3792,
+   "hijriDate": null
+  },
+  {
+   "n": 4,
+   "title": "آداب الصيام",
+   "lang": "ar",
+   "scholarId": "محمد-برهجي",
+   "videoId": "CyII5MCPq4I",
+   "duration": 2981,
+   "hijriDate": null
+  },
+  {
+   "n": 5,
+   "title": "فضل رمضان وفضل الصيام",
+   "lang": "ar",
+   "scholarId": "خالد-المهنا",
+   "videoId": "6zS_Au-wWwk",
+   "duration": 3076,
+   "hijriDate": null
+  },
+  {
+   "n": 6,
+   "title": "﴿شهر رمضان..﴾",
+   "lang": "ar",
+   "scholarId": "ياسر-الدوسري",
+   "videoId": "TJr4skoIWik",
+   "duration": 3076,
+   "hijriDate": null
+  },
+  {
+   "n": 7,
+   "title": "فضائل وآداب شهر رمضان",
+   "lang": "ar",
+   "scholarId": "علي-الحذيفي",
+   "videoId": "deVcjqdndD8",
+   "duration": 2245,
+   "hijriDate": null
+  },
+  {
+   "n": 8,
+   "title": "آية 48 - 49 من سورة البقرة",
+   "lang": "ar",
+   "scholarId": "حسين-الشيخ",
+   "videoId": "skoXIH7Utlw",
+   "duration": 2074,
+   "hijriDate": null
+  },
+  {
+   "n": 9,
+   "title": "آية 46 - 48 من سورة البقرة",
+   "lang": "ar",
+   "scholarId": "حسين-الشيخ",
+   "videoId": "uQtNEEy0Mzk",
+   "duration": 4018,
+   "hijriDate": null
+  }
+ ]
+}

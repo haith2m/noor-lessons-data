@@ -1,0 +1,66 @@
+{
+ "id": "PLgaTRTylCbZD3Xxwuhe0KJMHZN10KGM9K",
+ "title": "منهج السالكين - كتاب الزكاة والصيام والحج",
+ "subject": "fiqh",
+ "kind": "series",
+ "lang": "ar",
+ "scholarId": "عبدالسلام-الشويعر",
+ "scholarIds": [
+  "عبدالسلام-الشويعر"
+ ],
+ "year": null,
+ "source": "youtube",
+ "channelId": "UC3QAoXf9GN9xeQYhk-AZbTg",
+ "playlistId": "PLgaTRTylCbZD3Xxwuhe0KJMHZN10KGM9K",
+ "url": "https://www.youtube.com/playlist?list=PLgaTRTylCbZD3Xxwuhe0KJMHZN10KGM9K",
+ "thumbnail": "https://i.ytimg.com/vi/Y9aHnbkCDUQ/sddefault.jpg",
+ "lessonCount": 5,
+ "duration": 14074,
+ "lessons": [
+  {
+   "n": 1,
+   "title": "الدرس 1",
+   "lang": "ar",
+   "scholarId": "عبدالسلام-الشويعر",
+   "videoId": "Y9aHnbkCDUQ",
+   "duration": 2777,
+   "hijriDate": null
+  },
+  {
+   "n": 2,
+   "title": "الدرس 2",
+   "lang": "ar",
+   "scholarId": "عبدالسلام-الشويعر",
+   "videoId": "uWa6vKnH06w",
+   "duration": 2568,
+   "hijriDate": null
+  },
+  {
+   "n": 3,
+   "title": "الدرس 3",
+   "lang": "ar",
+   "scholarId": "عبدالسلام-الشويعر",
+   "videoId": "ANBpN5I_9Cc",
+   "duration": 3280,
+   "hijriDate": null
+  },
+  {
+   "n": 4,
+   "title": "الدرس 4",
+   "lang": "ar",
+   "scholarId": "عبدالسلام-الشويعر",
+   "videoId": "lJUgaMZ0WS4",
+   "duration": 2737,
+   "hijriDate": null
+  },
+  {
+   "n": 5,
+   "title": "الدرس 5",
+   "lang": "ar",
+   "scholarId": "عبدالسلام-الشويعر",
+   "videoId": "df40T51PZrE",
+   "duration": 2712,
+   "hijriDate": null
+  }
+ ]
+}

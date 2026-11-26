@@ -1,0 +1,57 @@
+{
+ "id": "PLriFofF1xij56C0crXaW3vkzKmh1OqLXs-2",
+ "title": "المحرر لابن عبدالهادي (الحج)",
+ "subject": "fiqh",
+ "kind": "series",
+ "lang": "ar",
+ "scholarId": "سلمان-الدخيل",
+ "scholarIds": [
+  "سلمان-الدخيل"
+ ],
+ "year": null,
+ "source": "youtube",
+ "channelId": "UC0XNCc-DU8J5_ksR-eufPaw",
+ "playlistId": "PLriFofF1xij56C0crXaW3vkzKmh1OqLXs",
+ "url": "https://www.youtube.com/playlist?list=PLriFofF1xij56C0crXaW3vkzKmh1OqLXs",
+ "thumbnail": "https://i.ytimg.com/vi/yxS01hTIm1g/maxresdefault.jpg",
+ "lessonCount": 4,
+ "duration": 15222,
+ "lessons": [
+  {
+   "n": 1,
+   "title": "الدرس 1",
+   "lang": "ar",
+   "scholarId": "سلمان-الدخيل",
+   "videoId": "ImM13V3ZxUA",
+   "duration": 3484,
+   "hijriDate": null
+  },
+  {
+   "n": 2,
+   "title": "الدرس 2",
+   "lang": "ar",
+   "scholarId": "سلمان-الدخيل",
+   "videoId": "1d8xJIZQnDA",
+   "duration": 1016,
+   "hijriDate": null
+  },
+  {
+   "n": 3,
+   "title": "الدرس 3",
+   "lang": "ar",
+   "scholarId": "سلمان-الدخيل",
+   "videoId": "SJ4qLfrR3YU",
+   "duration": 6811,
+   "hijriDate": null
+  },
+  {
+   "n": 4,
+   "title": "الدرس 4",
+   "lang": "ar",
+   "scholarId": "سلمان-الدخيل",
+   "videoId": "7mDkXNUx77M",
+   "duration": 3911,
+   "hijriDate": null
+  }
+ ]
+}

@@ -1,0 +1,48 @@
+{
+ "id": "PLriFofF1xij7HGsKF6DKWGOZQEonSnAVR",
+ "title": "الجواب الصحيح لمن بدل دين المسيح",
+ "subject": "general",
+ "kind": "series",
+ "lang": "ar",
+ "scholarId": "بدر-البدر",
+ "scholarIds": [
+  "بدر-البدر"
+ ],
+ "year": null,
+ "source": "youtube",
+ "channelId": "UC0XNCc-DU8J5_ksR-eufPaw",
+ "playlistId": "PLriFofF1xij7HGsKF6DKWGOZQEonSnAVR",
+ "url": "https://www.youtube.com/playlist?list=PLriFofF1xij7HGsKF6DKWGOZQEonSnAVR",
+ "thumbnail": "https://i.ytimg.com/vi/VxBM1hERvTE/maxresdefault.jpg",
+ "lessonCount": 3,
+ "duration": 10003,
+ "lessons": [
+  {
+   "n": 1,
+   "title": "الدرس 1",
+   "lang": "ar",
+   "scholarId": "بدر-البدر",
+   "videoId": "VxBM1hERvTE",
+   "duration": 3471,
+   "hijriDate": null
+  },
+  {
+   "n": 2,
+   "title": "الدرس 2",
+   "lang": "ar",
+   "scholarId": "بدر-البدر",
+   "videoId": "Yy1ez0BzflM",
+   "duration": 2826,
+   "hijriDate": null
+  },
+  {
+   "n": 3,
+   "title": "الدرس 3",
+   "lang": "ar",
+   "scholarId": "بدر-البدر",
+   "videoId": "CRRXvG0cWWE",
+   "duration": 3706,
+   "hijriDate": null
+  }
+ ]
+}

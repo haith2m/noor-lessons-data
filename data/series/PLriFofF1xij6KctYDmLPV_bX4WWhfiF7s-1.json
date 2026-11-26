@@ -1,0 +1,48 @@
+{
+ "id": "PLriFofF1xij6KctYDmLPV_bX4WWhfiF7s-1",
+ "title": "فضل قيام رمضان",
+ "subject": "general",
+ "kind": "series",
+ "lang": "ar",
+ "scholarId": "عبدالسلام-الشويعر",
+ "scholarIds": [
+  "عبدالسلام-الشويعر"
+ ],
+ "year": null,
+ "source": "youtube",
+ "channelId": "UC0XNCc-DU8J5_ksR-eufPaw",
+ "playlistId": "PLriFofF1xij6KctYDmLPV_bX4WWhfiF7s",
+ "url": "https://www.youtube.com/playlist?list=PLriFofF1xij6KctYDmLPV_bX4WWhfiF7s",
+ "thumbnail": "https://i.ytimg.com/vi/lMjin97Ili8/maxresdefault.jpg",
+ "lessonCount": 3,
+ "duration": 6818,
+ "lessons": [
+  {
+   "n": 1,
+   "title": "الدرس 1",
+   "lang": "ar",
+   "scholarId": "عبدالسلام-الشويعر",
+   "videoId": "lMjin97Ili8",
+   "duration": 2423,
+   "hijriDate": null
+  },
+  {
+   "n": 2,
+   "title": "الدرس 2",
+   "lang": "ar",
+   "scholarId": "عبدالسلام-الشويعر",
+   "videoId": "2OiULVuUvw4",
+   "duration": 2348,
+   "hijriDate": null
+  },
+  {
+   "n": 3,
+   "title": "الدرس 3",
+   "lang": "ar",
+   "scholarId": "عبدالسلام-الشويعر",
+   "videoId": "boDN7_i9huk",
+   "duration": 2047,
+   "hijriDate": null
+  }
+ ]
+}

@@ -1,0 +1,39 @@
+{
+ "id": "PLriFofF1xij5oNc-8by7-92ZbfXs1-CMz-2",
+ "title": "التذكرة في علوم الحديث",
+ "subject": "hadith",
+ "kind": "series",
+ "lang": "ar",
+ "scholarId": "انيس-طاهر",
+ "scholarIds": [
+  "انيس-طاهر"
+ ],
+ "year": null,
+ "source": "youtube",
+ "channelId": "UC0XNCc-DU8J5_ksR-eufPaw",
+ "playlistId": "PLriFofF1xij5oNc-8by7-92ZbfXs1-CMz",
+ "url": "https://www.youtube.com/playlist?list=PLriFofF1xij5oNc-8by7-92ZbfXs1-CMz",
+ "thumbnail": "https://i.ytimg.com/vi/8PrZbg6jubo/maxresdefault.jpg",
+ "lessonCount": 2,
+ "duration": 8349,
+ "lessons": [
+  {
+   "n": 1,
+   "title": "الدرس 1",
+   "lang": "ar",
+   "scholarId": "انيس-طاهر",
+   "videoId": "fCNO_jl3kok",
+   "duration": 4251,
+   "hijriDate": null
+  },
+  {
+   "n": 2,
+   "title": "الدرس 2",
+   "lang": "ar",
+   "scholarId": "انيس-طاهر",
+   "videoId": "udqomFPVl9k",
+   "duration": 4098,
+   "hijriDate": null
+  }
+ ]
+}

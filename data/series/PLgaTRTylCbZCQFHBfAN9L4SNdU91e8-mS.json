@@ -1,0 +1,57 @@
+{
+ "id": "PLgaTRTylCbZCQFHBfAN9L4SNdU91e8-mS",
+ "title": "الصيام من عمدة الفقه",
+ "subject": "fiqh",
+ "kind": "series",
+ "lang": "ar",
+ "scholarId": "سليمان-التويجري",
+ "scholarIds": [
+  "سليمان-التويجري"
+ ],
+ "year": null,
+ "source": "youtube",
+ "channelId": "UC3QAoXf9GN9xeQYhk-AZbTg",
+ "playlistId": "PLgaTRTylCbZCQFHBfAN9L4SNdU91e8-mS",
+ "url": "https://www.youtube.com/playlist?list=PLgaTRTylCbZCQFHBfAN9L4SNdU91e8-mS",
+ "thumbnail": "https://i.ytimg.com/vi/KikdZR--0VM/maxresdefault.jpg",
+ "lessonCount": 4,
+ "duration": 9097,
+ "lessons": [
+  {
+   "n": 1,
+   "title": "وجوب صوم رمضان ورؤية الهلال",
+   "lang": "ar",
+   "scholarId": "سليمان-التويجري",
+   "videoId": "KikdZR--0VM",
+   "duration": 2059,
+   "hijriDate": null
+  },
+  {
+   "n": 2,
+   "title": "أحكام المفطرين في رمضان",
+   "lang": "ar",
+   "scholarId": "سليمان-التويجري",
+   "videoId": "Mi6eFrwlFnc",
+   "duration": 2768,
+   "hijriDate": null
+  },
+  {
+   "n": 3,
+   "title": "مفسدات الصيام",
+   "lang": "ar",
+   "scholarId": "سليمان-التويجري",
+   "videoId": "9bIs6FP9mao",
+   "duration": 1960,
+   "hijriDate": null
+  },
+  {
+   "n": 4,
+   "title": "صيام التطوع - الإعتكاف",
+   "lang": "ar",
+   "scholarId": "سليمان-التويجري",
+   "videoId": "bl9aj-qzx9I",
+   "duration": 2310,
+   "hijriDate": null
+  }
+ ]
+}

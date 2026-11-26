@@ -1,0 +1,90 @@
+{
+ "id": "PLgaTRTylCbZDgguvETxdaao4I30nBa500",
+ "title": "الدورة العلمية «إرشاد القاصد إلى آداب ومقاصد المناسك» لائمة الحرمين الشريفين",
+ "subject": "fiqh",
+ "kind": "course",
+ "lang": "ar",
+ "scholarId": null,
+ "scholarIds": [
+  "صالح-حميد",
+  "عبدالرحمن-السديس",
+  "فيصل-غزاوي",
+  "ياسر-الدوسري",
+  "احمد-الحذيفي",
+  "محمد-برهجي",
+  "عبدالله-البعيجان"
+ ],
+ "year": 1447,
+ "source": "youtube",
+ "channelId": "UC3QAoXf9GN9xeQYhk-AZbTg",
+ "playlistId": "PLgaTRTylCbZDgguvETxdaao4I30nBa500",
+ "url": "https://www.youtube.com/playlist?list=PLgaTRTylCbZDgguvETxdaao4I30nBa500",
+ "thumbnail": "https://i.ytimg.com/vi/NV0ebGW0YhM/maxresdefault.jpg",
+ "lessonCount": 7,
+ "duration": 21634,
+ "lessons": [
+  {
+   "n": 1,
+   "title": "الحج موصل إلى مقام الإحسان",
+   "lang": "ar",
+   "scholarId": "صالح-حميد",
+   "videoId": "MnKY5_eMDVM",
+   "duration": 2987,
+   "hijriDate": "1447-12-01"
+  },
+  {
+   "n": 2,
+   "title": "العقيدة الصحيحية ركيزة أداء المناسك",
+   "lang": "ar",
+   "scholarId": "عبدالرحمن-السديس",
+   "videoId": "IZuoExeJou4",
+   "duration": 3576,
+   "hijriDate": "1447-12-02"
+  },
+  {
+   "n": 3,
+   "title": "وقفة مع قوله تعالى: ذلك ومن يعظم شعائر الله",
+   "lang": "ar",
+   "scholarId": "فيصل-غزاوي",
+   "videoId": "vRnhtrU9kU0",
+   "duration": 2855,
+   "hijriDate": "1447-12-03"
+  },
+  {
+   "n": 4,
+   "title": "تفسير ايات الحج",
+   "lang": "ar",
+   "scholarId": "ياسر-الدوسري",
+   "videoId": "Vsttx6dZKKo",
+   "duration": 3846,
+   "hijriDate": "1447-12-04"
+  },
+  {
+   "n": 5,
+   "title": "مَن حَجَّ للَّهِ فلَم يَرفُثْ…",
+   "lang": "ar",
+   "scholarId": "احمد-الحذيفي",
+   "videoId": "qybdbuUMOg4",
+   "duration": 3711,
+   "hijriDate": "1447-12-05"
+  },
+  {
+   "n": 6,
+   "title": "ليشهدوا منافع لهم",
+   "lang": "ar",
+   "scholarId": "محمد-برهجي",
+   "videoId": "NV0ebGW0YhM",
+   "duration": 2620,
+   "hijriDate": "1447-12-07"
+  },
+  {
+   "n": 7,
+   "title": "أحكام الهدي والأضحية",
+   "lang": "ar",
+   "scholarId": "عبدالله-البعيجان",
+   "videoId": "0ZKr-KqDw5A",
+   "duration": 2039,
+   "hijriDate": "1447-12-08"
+  }
+ ]
+}

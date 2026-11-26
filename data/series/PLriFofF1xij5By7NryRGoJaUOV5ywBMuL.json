@@ -1,0 +1,117 @@
+{
+ "id": "PLriFofF1xij5By7NryRGoJaUOV5ywBMuL",
+ "title": "برنامج مهمات الدين",
+ "subject": "aqeedah",
+ "kind": "course",
+ "lang": "ar",
+ "scholarId": null,
+ "scholarIds": [
+  "عبداللطيف-الشاماني",
+  "سلمان-الدخيل",
+  "عبدالرزاق-البدر",
+  "احمد-السديس",
+  "بدر-البدر",
+  "عبدالسلام-الشويعر",
+  "حسن-بخاري"
+ ],
+ "year": 1446,
+ "source": "youtube",
+ "channelId": "UC0XNCc-DU8J5_ksR-eufPaw",
+ "playlistId": "PLriFofF1xij5By7NryRGoJaUOV5ywBMuL",
+ "url": "https://www.youtube.com/playlist?list=PLriFofF1xij5By7NryRGoJaUOV5ywBMuL",
+ "thumbnail": "https://i.ytimg.com/vi/WE7Jod_5S7M/maxresdefault.jpg",
+ "lessonCount": 10,
+ "duration": 36903,
+ "lessons": [
+  {
+   "n": 1,
+   "title": "تحقيق الشهادتين",
+   "lang": "ar",
+   "scholarId": "عبداللطيف-الشاماني",
+   "videoId": "WE7Jod_5S7M",
+   "duration": 3051,
+   "hijriDate": null
+  },
+  {
+   "n": 2,
+   "title": "أحكام الطهارة",
+   "lang": "ar",
+   "scholarId": "سلمان-الدخيل",
+   "videoId": "mv0oYRPIlOo",
+   "duration": 4126,
+   "hijriDate": null
+  },
+  {
+   "n": 3,
+   "title": "الإيمان باليوم الآخر",
+   "lang": "ar",
+   "scholarId": "عبدالرزاق-البدر",
+   "videoId": "is1tWlllfFk",
+   "duration": 3611,
+   "hijriDate": null
+  },
+  {
+   "n": 4,
+   "title": "أحكام الطهارة 2",
+   "lang": "ar",
+   "scholarId": "سلمان-الدخيل",
+   "videoId": "IK-UpTACMYg",
+   "duration": 1951,
+   "hijriDate": null
+  },
+  {
+   "n": 5,
+   "title": "الإيمان بالقضاء والقدر",
+   "lang": "ar",
+   "scholarId": "عبدالرزاق-البدر",
+   "videoId": "FKpsrzq_b3k",
+   "duration": 3581,
+   "hijriDate": null
+  },
+  {
+   "n": 6,
+   "title": "الإيمان بالله وملائكته وكتبه ورسله",
+   "lang": "ar",
+   "scholarId": "احمد-السديس",
+   "videoId": "zT8bzWZW4vw",
+   "duration": 3966,
+   "hijriDate": null
+  },
+  {
+   "n": 7,
+   "title": "أحكام الصلاة",
+   "lang": "ar",
+   "scholarId": "بدر-البدر",
+   "videoId": "c51JEkx7Ghc",
+   "duration": 4506,
+   "hijriDate": null
+  },
+  {
+   "n": 8,
+   "title": "أحكام الزكاة",
+   "lang": "ar",
+   "scholarId": "عبدالسلام-الشويعر",
+   "videoId": "n9UVUFU-ERY",
+   "duration": 4406,
+   "hijriDate": null
+  },
+  {
+   "n": 9,
+   "title": "أحكام الزكاة",
+   "lang": "ar",
+   "scholarId": "عبدالسلام-الشويعر",
+   "videoId": "_mewzbtV1Q0",
+   "duration": 3581,
+   "hijriDate": null
+  },
+  {
+   "n": 10,
+   "title": "الإحسان",
+   "lang": "ar",
+   "scholarId": "حسن-بخاري",
+   "videoId": "-Uueom1M9CE",
+   "duration": 4124,
+   "hijriDate": null
+  }
+ ]
+}

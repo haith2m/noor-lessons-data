@@ -1,0 +1,69 @@
+{
+ "id": "PLgaTRTylCbZCTO8UWqsp0yTWPMpKiKVOr",
+ "title": "سلسلة محاضرات الشتاء مسائل وأحكام",
+ "subject": "fiqh",
+ "kind": "course",
+ "lang": "ar",
+ "scholarId": null,
+ "scholarIds": [
+  "سامي-الصقير",
+  "سعد-الخثلان",
+  "شرف-الشريف",
+  "حسن-بخاري"
+ ],
+ "year": 1442,
+ "source": "youtube",
+ "channelId": "UC3QAoXf9GN9xeQYhk-AZbTg",
+ "playlistId": "PLgaTRTylCbZCTO8UWqsp0yTWPMpKiKVOr",
+ "url": "https://www.youtube.com/playlist?list=PLgaTRTylCbZCTO8UWqsp0yTWPMpKiKVOr",
+ "thumbnail": "https://i.ytimg.com/vi/_lrzZp1FCwA/maxresdefault.jpg",
+ "lessonCount": 5,
+ "duration": 11879,
+ "lessons": [
+  {
+   "n": 1,
+   "title": "أحكام المسح على الخفين والجمع بين الصلاتين",
+   "lang": "ar",
+   "scholarId": "سامي-الصقير",
+   "videoId": "ZeVvdS-fkQY",
+   "duration": 3072,
+   "hijriDate": null
+  },
+  {
+   "n": 2,
+   "title": "أحكام الشتاء",
+   "lang": "ar",
+   "scholarId": "سعد-الخثلان",
+   "videoId": "c365v29cbdw",
+   "duration": 1554,
+   "hijriDate": "1442-04-23"
+  },
+  {
+   "n": 3,
+   "title": "نَفَسَين عظيمين وعلاجهما",
+   "lang": "ar",
+   "scholarId": "شرف-الشريف",
+   "videoId": "_lrzZp1FCwA",
+   "duration": 3570,
+   "hijriDate": "1443-05-29"
+  },
+  {
+   "n": 4,
+   "title": "الشتاء غنيمة العابدين",
+   "lang": "ar",
+   "scholarId": "حسن-بخاري",
+   "videoId": "y7G_deKXLUs",
+   "duration": 1825,
+   "hijriDate": "1443-06-04"
+  },
+  {
+   "n": 5,
+   "title": "الشتاء مسائل وآداب",
+   "lang": "ar",
+   "scholarId": "سامي-الصقير",
+   "videoId": "YITspVw7ll0",
+   "duration": 1858,
+   "hijriDate": "1443-06-06"
+  }
+ ]
+}

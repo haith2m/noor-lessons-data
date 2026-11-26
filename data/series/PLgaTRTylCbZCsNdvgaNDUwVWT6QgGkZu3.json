@@ -1,0 +1,50 @@
+{
+ "id": "PLgaTRTylCbZCsNdvgaNDUwVWT6QgGkZu3",
+ "title": "سلسلة محاضرات المخدرات",
+ "subject": "general",
+ "kind": "course",
+ "lang": "ar",
+ "scholarId": null,
+ "scholarIds": [
+  "شرف-الشريف",
+  "سليمان-التويجري",
+  "عبدالرحمن-القرني"
+ ],
+ "year": 1444,
+ "source": "youtube",
+ "channelId": "UC3QAoXf9GN9xeQYhk-AZbTg",
+ "playlistId": "PLgaTRTylCbZCsNdvgaNDUwVWT6QgGkZu3",
+ "url": "https://www.youtube.com/playlist?list=PLgaTRTylCbZCsNdvgaNDUwVWT6QgGkZu3",
+ "thumbnail": "https://i.ytimg.com/vi/PZ3LfkmpAvc/maxresdefault.jpg",
+ "lessonCount": 3,
+ "duration": 7320,
+ "lessons": [
+  {
+   "n": 1,
+   "title": "كل مسكر خمر وكل خمر حرام",
+   "lang": "ar",
+   "scholarId": "شرف-الشريف",
+   "videoId": "9FUkZJEy7WY",
+   "duration": 3057,
+   "hijriDate": "1444-10-19"
+  },
+  {
+   "n": 2,
+   "title": "أهمية حفظ العقل في الشريعة",
+   "lang": "ar",
+   "scholarId": "سليمان-التويجري",
+   "videoId": "g3BSYNglT-E",
+   "duration": 2902,
+   "hijriDate": "1444-10-24"
+  },
+  {
+   "n": 3,
+   "title": "وَلَا تَقْتُلُوا أَنْفُسَكُمْ",
+   "lang": "ar",
+   "scholarId": "عبدالرحمن-القرني",
+   "videoId": "PZ3LfkmpAvc",
+   "duration": 1361,
+   "hijriDate": "1444-10-25"
+  }
+ ]
+}

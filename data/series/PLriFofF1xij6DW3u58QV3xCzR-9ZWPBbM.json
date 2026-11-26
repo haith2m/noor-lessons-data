@@ -1,0 +1,57 @@
+{
+ "id": "PLriFofF1xij6DW3u58QV3xCzR-9ZWPBbM",
+ "title": "الشمائل للترمذي",
+ "subject": "seerah",
+ "kind": "series",
+ "lang": "ar",
+ "scholarId": "مسعود-المحمدي",
+ "scholarIds": [
+  "مسعود-المحمدي"
+ ],
+ "year": null,
+ "source": "youtube",
+ "channelId": "UC0XNCc-DU8J5_ksR-eufPaw",
+ "playlistId": "PLriFofF1xij6DW3u58QV3xCzR-9ZWPBbM",
+ "url": "https://www.youtube.com/playlist?list=PLriFofF1xij6DW3u58QV3xCzR-9ZWPBbM",
+ "thumbnail": "https://i.ytimg.com/vi/nfAtMNXYlvc/sddefault.jpg",
+ "lessonCount": 4,
+ "duration": 5729,
+ "lessons": [
+  {
+   "n": 1,
+   "title": "الدرس 1",
+   "lang": "ar",
+   "scholarId": "مسعود-المحمدي",
+   "videoId": "nfAtMNXYlvc",
+   "duration": 1369,
+   "hijriDate": null
+  },
+  {
+   "n": 2,
+   "title": "الدرس 2",
+   "lang": "ar",
+   "scholarId": "مسعود-المحمدي",
+   "videoId": "Aw3zHTAwH1g",
+   "duration": 1298,
+   "hijriDate": null
+  },
+  {
+   "n": 3,
+   "title": "الدرس 3",
+   "lang": "ar",
+   "scholarId": "مسعود-المحمدي",
+   "videoId": "OURhROvU0Qs",
+   "duration": 1269,
+   "hijriDate": null
+  },
+  {
+   "n": 4,
+   "title": "الدرس 4",
+   "lang": "ar",
+   "scholarId": "مسعود-المحمدي",
+   "videoId": "bw-VqW_TdSk",
+   "duration": 1793,
+   "hijriDate": null
+  }
+ ]
+}

@@ -1,0 +1,99 @@
+{
+ "id": "PLgaTRTylCbZBxujiAU3P4WfWHASS52q6D",
+ "title": "محاضرات",
+ "subject": "general",
+ "kind": "course",
+ "lang": "ar",
+ "scholarId": null,
+ "scholarIds": [
+  "سعد-الخثلان",
+  "عبدالرحمن-السديس",
+  "عبدالكريم-الخضير",
+  "حسن-بخاري",
+  "عبدالله-خنين",
+  "سعد-الشثري",
+  "سامي-الصقير"
+ ],
+ "year": 1437,
+ "source": "youtube",
+ "channelId": "UC3QAoXf9GN9xeQYhk-AZbTg",
+ "playlistId": "PLgaTRTylCbZBxujiAU3P4WfWHASS52q6D",
+ "url": "https://www.youtube.com/playlist?list=PLgaTRTylCbZBxujiAU3P4WfWHASS52q6D",
+ "thumbnail": "https://i.ytimg.com/vi/RgLeaMetbQk/maxresdefault.jpg",
+ "lessonCount": 8,
+ "duration": 23644,
+ "lessons": [
+  {
+   "n": 1,
+   "title": "فتنةُ التكفيروآثارها",
+   "lang": "ar",
+   "scholarId": "سعد-الخثلان",
+   "videoId": "IvUyP2v6tz8",
+   "duration": 2178,
+   "hijriDate": null
+  },
+  {
+   "n": 2,
+   "title": "الائتلاف والاختلاف د وصي الله محمد عباس'",
+   "lang": "ar",
+   "scholarId": null,
+   "videoId": "cy2_JwTvFnE",
+   "duration": 5748,
+   "hijriDate": null
+  },
+  {
+   "n": 3,
+   "title": "تفسير آيات الحج",
+   "lang": "ar",
+   "scholarId": "عبدالرحمن-السديس",
+   "videoId": "iatDHEYkKEY",
+   "duration": 3799,
+   "hijriDate": "1437-11-13"
+  },
+  {
+   "n": 4,
+   "title": "اللقاء المفتوح",
+   "lang": "ar",
+   "scholarId": "عبدالكريم-الخضير",
+   "videoId": "UAQrzs0Hk00",
+   "duration": 2607,
+   "hijriDate": "1438-06-21"
+  },
+  {
+   "n": 5,
+   "title": "ختام شرح جمع الجوامع",
+   "lang": "ar",
+   "scholarId": "حسن-بخاري",
+   "videoId": "iVU7X2bS19Q",
+   "duration": 1080,
+   "hijriDate": null
+  },
+  {
+   "n": 6,
+   "title": "اللقاء المفتوح",
+   "lang": "ar",
+   "scholarId": "عبدالله-خنين",
+   "videoId": "RgLeaMetbQk",
+   "duration": 1646,
+   "hijriDate": "1438-09-05"
+  },
+  {
+   "n": 7,
+   "title": "أحكام البيعة",
+   "lang": "ar",
+   "scholarId": "سعد-الشثري",
+   "videoId": "Ubf3CPVPtI4",
+   "duration": 3514,
+   "hijriDate": null
+  },
+  {
+   "n": 8,
+   "title": "أحكام المسح على الخفين والجمع بين الصلاتين",
+   "lang": "ar",
+   "scholarId": "سامي-الصقير",
+   "videoId": "ZeVvdS-fkQY",
+   "duration": 3072,
+   "hijriDate": null
+  }
+ ]
+}

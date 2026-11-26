@@ -1,0 +1,48 @@
+{
+ "id": "PLgaTRTylCbZCFjipwskRDyehmxhTnU6k-",
+ "title": "درس مترجم إلى 12 لغة 17-5-1446",
+ "subject": "general",
+ "kind": "series",
+ "lang": "ar",
+ "scholarId": "عبدالرحمن-السديس",
+ "scholarIds": [
+  "عبدالرحمن-السديس"
+ ],
+ "year": 1446,
+ "source": "youtube",
+ "channelId": "UC3QAoXf9GN9xeQYhk-AZbTg",
+ "playlistId": "PLgaTRTylCbZCFjipwskRDyehmxhTnU6k-",
+ "url": "https://www.youtube.com/playlist?list=PLgaTRTylCbZCFjipwskRDyehmxhTnU6k-",
+ "thumbnail": "https://i.ytimg.com/vi/Z3IOMyG51HI/maxresdefault.jpg",
+ "lessonCount": 3,
+ "duration": 14746,
+ "lessons": [
+  {
+   "n": 1,
+   "title": "Tafsir as-Si’di & ‘Umdatul Ahkam",
+   "lang": "en",
+   "scholarId": "عبدالرحمن-السديس",
+   "videoId": "GwY1170MOeo",
+   "duration": 5066,
+   "hijriDate": null
+  },
+  {
+   "n": 2,
+   "title": "تفسير السعدي - عمدة الأحكام",
+   "lang": "ar",
+   "scholarId": "عبدالرحمن-السديس",
+   "videoId": "Z3IOMyG51HI",
+   "duration": 5005,
+   "hijriDate": "1446-05-17"
+  },
+  {
+   "n": 3,
+   "title": "تفسير السعدي - عمدة الأحكام",
+   "lang": "ar",
+   "scholarId": "عبدالرحمن-السديس",
+   "videoId": "xmjrdkNGeqE",
+   "duration": 4675,
+   "hijriDate": "1446-06-09"
+  }
+ ]
+}

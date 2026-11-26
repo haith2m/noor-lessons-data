@@ -1,0 +1,75 @@
+{
+ "id": "PLriFofF1xij7U21mD5OP8qVbJE8CaX8jC",
+ "title": "نبذة في العقيدة الإسلامية للشيخ ابن عثيمين",
+ "subject": "aqeedah",
+ "kind": "series",
+ "lang": "ar",
+ "scholarId": "بدر-البدر",
+ "scholarIds": [
+  "بدر-البدر"
+ ],
+ "year": null,
+ "source": "youtube",
+ "channelId": "UC0XNCc-DU8J5_ksR-eufPaw",
+ "playlistId": "PLriFofF1xij7U21mD5OP8qVbJE8CaX8jC",
+ "url": "https://www.youtube.com/playlist?list=PLriFofF1xij7U21mD5OP8qVbJE8CaX8jC",
+ "thumbnail": "https://i.ytimg.com/vi/fCrAs_pfIm8/maxresdefault.jpg",
+ "lessonCount": 6,
+ "duration": 22458,
+ "lessons": [
+  {
+   "n": 1,
+   "title": "الدرس 1",
+   "lang": "ar",
+   "scholarId": "بدر-البدر",
+   "videoId": "fCrAs_pfIm8",
+   "duration": 3723,
+   "hijriDate": null
+  },
+  {
+   "n": 2,
+   "title": "الدرس 2",
+   "lang": "ar",
+   "scholarId": "بدر-البدر",
+   "videoId": "ZoLl1M_zFVM",
+   "duration": 3883,
+   "hijriDate": null
+  },
+  {
+   "n": 3,
+   "title": "الدرس 3",
+   "lang": "ar",
+   "scholarId": "بدر-البدر",
+   "videoId": "Nyl7snAKFto",
+   "duration": 3569,
+   "hijriDate": null
+  },
+  {
+   "n": 4,
+   "title": "الدرس 4",
+   "lang": "ar",
+   "scholarId": "بدر-البدر",
+   "videoId": "hILEsCOjo6M",
+   "duration": 3921,
+   "hijriDate": null
+  },
+  {
+   "n": 5,
+   "title": "الدرس 5",
+   "lang": "ar",
+   "scholarId": "بدر-البدر",
+   "videoId": "-zX5xoagt2Y",
+   "duration": 3851,
+   "hijriDate": null
+  },
+  {
+   "n": 6,
+   "title": "الدرس 6",
+   "lang": "ar",
+   "scholarId": "بدر-البدر",
+   "videoId": "BDFkSSqun94",
+   "duration": 3511,
+   "hijriDate": null
+  }
+ ]
+}

@@ -1,0 +1,75 @@
+{
+ "id": "PLriFofF1xij5YwahFbTq7HmSaUp48V1SL",
+ "title": "رسالة رفع الملام عن الأئمة الأعلام لشيخ الإسلام ابن تيمية",
+ "subject": "usul",
+ "kind": "series",
+ "lang": "ar",
+ "scholarId": "علي-ابابطين",
+ "scholarIds": [
+  "علي-ابابطين"
+ ],
+ "year": null,
+ "source": "youtube",
+ "channelId": "UC0XNCc-DU8J5_ksR-eufPaw",
+ "playlistId": "PLriFofF1xij5YwahFbTq7HmSaUp48V1SL",
+ "url": "https://www.youtube.com/playlist?list=PLriFofF1xij5YwahFbTq7HmSaUp48V1SL",
+ "thumbnail": "https://i.ytimg.com/vi/sx_1YVuDgMo/sddefault.jpg",
+ "lessonCount": 6,
+ "duration": 11658,
+ "lessons": [
+  {
+   "n": 1,
+   "title": "الدرس 1",
+   "lang": "ar",
+   "scholarId": "علي-ابابطين",
+   "videoId": "sx_1YVuDgMo",
+   "duration": 2281,
+   "hijriDate": null
+  },
+  {
+   "n": 2,
+   "title": "الدرس 2",
+   "lang": "ar",
+   "scholarId": "علي-ابابطين",
+   "videoId": "X9CCtFrnqS0",
+   "duration": 1427,
+   "hijriDate": null
+  },
+  {
+   "n": 3,
+   "title": "الدرس 3",
+   "lang": "ar",
+   "scholarId": "علي-ابابطين",
+   "videoId": "YRVvWDZkBI4",
+   "duration": 1660,
+   "hijriDate": null
+  },
+  {
+   "n": 4,
+   "title": "الدرس 4",
+   "lang": "ar",
+   "scholarId": "علي-ابابطين",
+   "videoId": "neciTmO0K5k",
+   "duration": 2018,
+   "hijriDate": null
+  },
+  {
+   "n": 5,
+   "title": "الدرس 5",
+   "lang": "ar",
+   "scholarId": "علي-ابابطين",
+   "videoId": "hWdHLbe19bo",
+   "duration": 1160,
+   "hijriDate": null
+  },
+  {
+   "n": 6,
+   "title": "الدرس 6",
+   "lang": "ar",
+   "scholarId": "علي-ابابطين",
+   "videoId": "GJhxdFouiqQ",
+   "duration": 3112,
+   "hijriDate": null
+  }
+ ]
+}

@@ -1,0 +1,66 @@
+{
+ "id": "PLriFofF1xij7OQfae2EMYxuY6Al7vGHDG-2",
+ "title": "الدروس العامة",
+ "subject": "fiqh",
+ "kind": "series",
+ "lang": "ar",
+ "scholarId": "سامي-الصقير",
+ "scholarIds": [
+  "سامي-الصقير"
+ ],
+ "year": null,
+ "source": "youtube",
+ "channelId": "UC0XNCc-DU8J5_ksR-eufPaw",
+ "playlistId": "PLriFofF1xij7OQfae2EMYxuY6Al7vGHDG",
+ "url": "https://www.youtube.com/playlist?list=PLriFofF1xij7OQfae2EMYxuY6Al7vGHDG",
+ "thumbnail": "https://i.ytimg.com/vi/zjz6b1plQuw/maxresdefault.jpg",
+ "lessonCount": 5,
+ "duration": 15055,
+ "lessons": [
+  {
+   "n": 1,
+   "title": "أحكام سجود السهو",
+   "lang": "ar",
+   "scholarId": "سامي-الصقير",
+   "videoId": "zjz6b1plQuw",
+   "duration": 3504,
+   "hijriDate": null
+  },
+  {
+   "n": 2,
+   "title": "العبادات المشروعة في ختام رمضان",
+   "lang": "ar",
+   "scholarId": "سامي-الصقير",
+   "videoId": "j898ZpsEUfQ",
+   "duration": 3648,
+   "hijriDate": null
+  },
+  {
+   "n": 3,
+   "title": "الأعمال المشروعة في ختام شهر رمضان",
+   "lang": "ar",
+   "scholarId": "سامي-الصقير",
+   "videoId": "Z-7xnOJT1cM",
+   "duration": 3134,
+   "hijriDate": null
+  },
+  {
+   "n": 4,
+   "title": "﴿ياأيها الذين آمنوا إذا قمتم﴾",
+   "lang": "ar",
+   "scholarId": "سامي-الصقير",
+   "videoId": "tjdptd6zlmc",
+   "duration": 2578,
+   "hijriDate": null
+  },
+  {
+   "n": 5,
+   "title": "الثبات والاستمرار على العمل الصالح",
+   "lang": "ar",
+   "scholarId": "سامي-الصقير",
+   "videoId": "m7JkrXhK014",
+   "duration": 2191,
+   "hijriDate": null
+  }
+ ]
+}

@@ -1,0 +1,48 @@
+{
+ "id": "PLgaTRTylCbZDrJUEQyWcc6vmlmxA87LIZ",
+ "title": "الفروق الأصولية",
+ "subject": "usul",
+ "kind": "series",
+ "lang": "ar",
+ "scholarId": "حسن-بخاري",
+ "scholarIds": [
+  "حسن-بخاري"
+ ],
+ "year": null,
+ "source": "youtube",
+ "channelId": "UC3QAoXf9GN9xeQYhk-AZbTg",
+ "playlistId": "PLgaTRTylCbZDrJUEQyWcc6vmlmxA87LIZ",
+ "url": "https://www.youtube.com/playlist?list=PLgaTRTylCbZDrJUEQyWcc6vmlmxA87LIZ",
+ "thumbnail": "https://i.ytimg.com/vi/KgPnLQFD7-s/maxresdefault.jpg",
+ "lessonCount": 3,
+ "duration": 15030,
+ "lessons": [
+  {
+   "n": 1,
+   "title": "الدرس 1",
+   "lang": "ar",
+   "scholarId": "حسن-بخاري",
+   "videoId": "aHmz3M3T_TA",
+   "duration": 4535,
+   "hijriDate": null
+  },
+  {
+   "n": 2,
+   "title": "الدرس 2",
+   "lang": "ar",
+   "scholarId": "حسن-بخاري",
+   "videoId": "KgPnLQFD7-s",
+   "duration": 5537,
+   "hijriDate": null
+  },
+  {
+   "n": 3,
+   "title": "الدرس 3",
+   "lang": "ar",
+   "scholarId": "حسن-بخاري",
+   "videoId": "fOp8mDV0ADg",
+   "duration": 4958,
+   "hijriDate": null
+  }
+ ]
+}

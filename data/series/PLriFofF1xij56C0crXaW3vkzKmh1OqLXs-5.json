@@ -1,0 +1,57 @@
+{
+ "id": "PLriFofF1xij56C0crXaW3vkzKmh1OqLXs-5",
+ "title": "وقفات مع آيات الحج",
+ "subject": "tafsir",
+ "kind": "series",
+ "lang": "ar",
+ "scholarId": "سلمان-الدخيل",
+ "scholarIds": [
+  "سلمان-الدخيل"
+ ],
+ "year": null,
+ "source": "youtube",
+ "channelId": "UC0XNCc-DU8J5_ksR-eufPaw",
+ "playlistId": "PLriFofF1xij56C0crXaW3vkzKmh1OqLXs",
+ "url": "https://www.youtube.com/playlist?list=PLriFofF1xij56C0crXaW3vkzKmh1OqLXs",
+ "thumbnail": "https://i.ytimg.com/vi/yxS01hTIm1g/maxresdefault.jpg",
+ "lessonCount": 4,
+ "duration": 11879,
+ "lessons": [
+  {
+   "n": 1,
+   "title": "الدرس 1",
+   "lang": "ar",
+   "scholarId": "سلمان-الدخيل",
+   "videoId": "4fBTXIxr6Uo",
+   "duration": 1809,
+   "hijriDate": null
+  },
+  {
+   "n": 2,
+   "title": "الدرس 2",
+   "lang": "ar",
+   "scholarId": "سلمان-الدخيل",
+   "videoId": "BqfjoR0EN8s",
+   "duration": 3616,
+   "hijriDate": null
+  },
+  {
+   "n": 3,
+   "title": "الدرس 3",
+   "lang": "ar",
+   "scholarId": "سلمان-الدخيل",
+   "videoId": "VZs2BUlFt4g",
+   "duration": 2304,
+   "hijriDate": null
+  },
+  {
+   "n": 4,
+   "title": "الدرس 4",
+   "lang": "ar",
+   "scholarId": "سلمان-الدخيل",
+   "videoId": "QYQqoz796io",
+   "duration": 4150,
+   "hijriDate": null
+  }
+ ]
+}

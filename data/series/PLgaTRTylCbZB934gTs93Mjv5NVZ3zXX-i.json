@@ -1,0 +1,60 @@
+{
+ "id": "PLgaTRTylCbZB934gTs93Mjv5NVZ3zXX-i",
+ "title": "سلسلة محاضرات البرنامج التوجيهي للمعتكفين",
+ "subject": "general",
+ "kind": "course",
+ "lang": "ar",
+ "scholarId": null,
+ "scholarIds": [
+  "خالد-المصلح",
+  "سعد-الخثلان",
+  "سامي-الصقير",
+  "طلال-ابوالنور"
+ ],
+ "year": 1439,
+ "source": "youtube",
+ "channelId": "UC3QAoXf9GN9xeQYhk-AZbTg",
+ "playlistId": "PLgaTRTylCbZB934gTs93Mjv5NVZ3zXX-i",
+ "url": "https://www.youtube.com/playlist?list=PLgaTRTylCbZB934gTs93Mjv5NVZ3zXX-i",
+ "thumbnail": "https://i.ytimg.com/vi/bCIaCc05hWU/maxresdefault.jpg",
+ "lessonCount": 4,
+ "duration": 12930,
+ "lessons": [
+  {
+   "n": 1,
+   "title": "استقبال العشر الأواخر",
+   "lang": "ar",
+   "scholarId": "خالد-المصلح",
+   "videoId": "bCIaCc05hWU",
+   "duration": 3458,
+   "hijriDate": "1439-09-19"
+  },
+  {
+   "n": 2,
+   "title": "نوازل الاعتكاف - الأربعاء 21 9 1439ه",
+   "lang": "ar",
+   "scholarId": "سعد-الخثلان",
+   "videoId": "sDaueU_A7sE",
+   "duration": 1782,
+   "hijriDate": null
+  },
+  {
+   "n": 3,
+   "title": "أغنى الشركاء",
+   "lang": "ar",
+   "scholarId": "سامي-الصقير",
+   "videoId": "or23siNdoFk",
+   "duration": 1853,
+   "hijriDate": "1439-09-22"
+  },
+  {
+   "n": 4,
+   "title": "والذين يؤتون ما آتوا وقلوبهم وجلة",
+   "lang": "ar",
+   "scholarId": "طلال-ابوالنور",
+   "videoId": "G_Jcj0O9xrs",
+   "duration": 5837,
+   "hijriDate": "1439-09-21"
+  }
+ ]
+}

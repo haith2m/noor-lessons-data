@@ -1,0 +1,60 @@
+{
+ "id": "PLriFofF1xij4XBpsUspSjX8YG7W3E8Q6G",
+ "title": "سلسلة محاضرات السنة في الحج والزيارة من رحاب المسجد النبوي",
+ "subject": "fiqh",
+ "kind": "course",
+ "lang": "ar",
+ "scholarId": null,
+ "scholarIds": [
+  "عبدالرزاق-البدر",
+  "خالد-المهنا",
+  "عبدالباقي-مبارك",
+  "عبدالاله-الملا"
+ ],
+ "year": null,
+ "source": "youtube",
+ "channelId": "UC0XNCc-DU8J5_ksR-eufPaw",
+ "playlistId": "PLriFofF1xij4XBpsUspSjX8YG7W3E8Q6G",
+ "url": "https://www.youtube.com/playlist?list=PLriFofF1xij4XBpsUspSjX8YG7W3E8Q6G",
+ "thumbnail": "https://i.ytimg.com/vi/4z4RX_vT9Cw/maxresdefault.jpg",
+ "lessonCount": 4,
+ "duration": 12734,
+ "lessons": [
+  {
+   "n": 1,
+   "title": "كيف نحقق الاقتداء بالنبي ﷺ",
+   "lang": "ar",
+   "scholarId": "عبدالرزاق-البدر",
+   "videoId": "4z4RX_vT9Cw",
+   "duration": 2266,
+   "hijriDate": null
+  },
+  {
+   "n": 2,
+   "title": "تعظيم السنة وأثره على الزائر للمسجد النبوي",
+   "lang": "ar",
+   "scholarId": "خالد-المهنا",
+   "videoId": "UO67c2BXOls",
+   "duration": 3046,
+   "hijriDate": null
+  },
+  {
+   "n": 3,
+   "title": "الأحاديث الصحيحة في فضل زيارة",
+   "lang": "ar",
+   "scholarId": "عبدالباقي-مبارك",
+   "videoId": "QU_6zRZuW8k",
+   "duration": 3816,
+   "hijriDate": null
+  },
+  {
+   "n": 4,
+   "title": "السنة النبوية وأثرها في سلوك",
+   "lang": "ar",
+   "scholarId": "عبدالاله-الملا",
+   "videoId": "ADhEG0DrN7k",
+   "duration": 3606,
+   "hijriDate": null
+  }
+ ]
+}

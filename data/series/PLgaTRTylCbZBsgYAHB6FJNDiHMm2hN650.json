@@ -1,0 +1,57 @@
+{
+ "id": "PLgaTRTylCbZBsgYAHB6FJNDiHMm2hN650",
+ "title": "نظم الورقات المسمى سلم الوصول إلى الضروري من علم الأصول",
+ "subject": "usul",
+ "kind": "series",
+ "lang": "ar",
+ "scholarId": "عبدالمحسن-الزامل",
+ "scholarIds": [
+  "عبدالمحسن-الزامل"
+ ],
+ "year": 1441,
+ "source": "youtube",
+ "channelId": "UC3QAoXf9GN9xeQYhk-AZbTg",
+ "playlistId": "PLgaTRTylCbZBsgYAHB6FJNDiHMm2hN650",
+ "url": "https://www.youtube.com/playlist?list=PLgaTRTylCbZBsgYAHB6FJNDiHMm2hN650",
+ "thumbnail": "https://i.ytimg.com/vi/tHwgBBdYlTE/hqdefault.jpg",
+ "lessonCount": 4,
+ "duration": 21245,
+ "lessons": [
+  {
+   "n": 1,
+   "title": "الدرس 1",
+   "lang": "ar",
+   "scholarId": "عبدالمحسن-الزامل",
+   "videoId": "tHwgBBdYlTE",
+   "duration": 7070,
+   "hijriDate": "1441-01-14"
+  },
+  {
+   "n": 2,
+   "title": "الدرس 2",
+   "lang": "ar",
+   "scholarId": "عبدالمحسن-الزامل",
+   "videoId": "lr2fsZSGLDE",
+   "duration": 3682,
+   "hijriDate": "1441-01-14"
+  },
+  {
+   "n": 3,
+   "title": "الدرس 3",
+   "lang": "ar",
+   "scholarId": "عبدالمحسن-الزامل",
+   "videoId": "tJRv7CWe5ME",
+   "duration": 3453,
+   "hijriDate": "1441-01-14"
+  },
+  {
+   "n": 4,
+   "title": "الدرس 4",
+   "lang": "ar",
+   "scholarId": "عبدالمحسن-الزامل",
+   "videoId": "IWoRucWjPXw",
+   "duration": 7040,
+   "hijriDate": "1441-01-15"
+  }
+ ]
+}

@@ -1,0 +1,242 @@
+{
+ "id": "PLriFofF1xij4sms94XP4LN0qU1eoATga9",
+ "title": "الدورة العلمية الافتراضية",
+ "subject": "fiqh",
+ "kind": "course",
+ "lang": "ar",
+ "scholarId": null,
+ "scholarIds": [
+  "عبدالسلام-الشويعر",
+  "عبدالرزاق-البدر",
+  "مسعود-المحمدي",
+  "احمد-السديس",
+  "عبداللطيف-الشاماني",
+  "سليمان-الغصن"
+ ],
+ "year": 1442,
+ "source": "youtube",
+ "channelId": "UC0XNCc-DU8J5_ksR-eufPaw",
+ "playlistId": "PLriFofF1xij4sms94XP4LN0qU1eoATga9",
+ "url": "https://www.youtube.com/playlist?list=PLriFofF1xij4sms94XP4LN0qU1eoATga9",
+ "thumbnail": "https://i.ytimg.com/vi/dVwuzB8t6Es/maxresdefault.jpg",
+ "lessonCount": 24,
+ "duration": 94647,
+ "lessons": [
+  {
+   "n": 1,
+   "title": "كتاب زاد المستقنع (الطهارة)",
+   "lang": "ar",
+   "scholarId": "عبدالسلام-الشويعر",
+   "videoId": "dVwuzB8t6Es",
+   "duration": 7892,
+   "hijriDate": null
+  },
+  {
+   "n": 2,
+   "title": "كتاب زاد المستقنع (الطهارة)",
+   "lang": "ar",
+   "scholarId": "عبدالسلام-الشويعر",
+   "videoId": "uJ1xf-PKhCU",
+   "duration": 7696,
+   "hijriDate": null
+  },
+  {
+   "n": 3,
+   "title": "كتاب لمعة الاعتقاد",
+   "lang": "ar",
+   "scholarId": "عبدالرزاق-البدر",
+   "videoId": "LzWY1ot80ck",
+   "duration": 3894,
+   "hijriDate": null
+  },
+  {
+   "n": 4,
+   "title": "كتاب زاد المستقنع (الطهارة)",
+   "lang": "ar",
+   "scholarId": "عبدالسلام-الشويعر",
+   "videoId": "Ja9iHyYXocw",
+   "duration": 7905,
+   "hijriDate": null
+  },
+  {
+   "n": 5,
+   "title": "كتاب لمعة الاعتقاد",
+   "lang": "ar",
+   "scholarId": "عبدالرزاق-البدر",
+   "videoId": "vmgRS-eKeoA",
+   "duration": 3590,
+   "hijriDate": null
+  },
+  {
+   "n": 6,
+   "title": "كتاب زاد المستقنع (الطهارة)",
+   "lang": "ar",
+   "scholarId": "عبدالسلام-الشويعر",
+   "videoId": "I-N6jsp4kS0",
+   "duration": 7943,
+   "hijriDate": null
+  },
+  {
+   "n": 7,
+   "title": "كتاب لمعة الاعتقاد",
+   "lang": "ar",
+   "scholarId": "عبدالرزاق-البدر",
+   "videoId": "jnnvomWyU2s",
+   "duration": 3327,
+   "hijriDate": null
+  },
+  {
+   "n": 8,
+   "title": "كتاب زاد المستقنع (الصلاة)",
+   "lang": "ar",
+   "scholarId": "مسعود-المحمدي",
+   "videoId": "navt0j28nwc",
+   "duration": 2365,
+   "hijriDate": null
+  },
+  {
+   "n": 9,
+   "title": "كتاب زاد المستقنع (الصلاة)",
+   "lang": "ar",
+   "scholarId": "مسعود-المحمدي",
+   "videoId": "XdNWmHpu1qQ",
+   "duration": 2072,
+   "hijriDate": null
+  },
+  {
+   "n": 10,
+   "title": "منظومة الزمزمي في أصول التفسير",
+   "lang": "ar",
+   "scholarId": "احمد-السديس",
+   "videoId": "h02eHi7Z340",
+   "duration": 2005,
+   "hijriDate": null
+  },
+  {
+   "n": 11,
+   "title": "كتاب زاد المستقنع (الصلاة)",
+   "lang": "ar",
+   "scholarId": "مسعود-المحمدي",
+   "videoId": "ZplkRwXpoRk",
+   "duration": 2161,
+   "hijriDate": null
+  },
+  {
+   "n": 12,
+   "title": "منظومة الزمزمي في أصول التفسير",
+   "lang": "ar",
+   "scholarId": "احمد-السديس",
+   "videoId": "1VHzjuR8b3E",
+   "duration": 2246,
+   "hijriDate": null
+  },
+  {
+   "n": 13,
+   "title": "كتاب زاد المستقنع (الصلاة)",
+   "lang": "ar",
+   "scholarId": "مسعود-المحمدي",
+   "videoId": "akhwzDjHH38",
+   "duration": 1620,
+   "hijriDate": null
+  },
+  {
+   "n": 14,
+   "title": "منظومة الزمزمي في أصول التفسير",
+   "lang": "ar",
+   "scholarId": "احمد-السديس",
+   "videoId": "Awk2BYigSAg",
+   "duration": 2257,
+   "hijriDate": null
+  },
+  {
+   "n": 15,
+   "title": "منظومة الزمزمي في أصول التفسير",
+   "lang": "ar",
+   "scholarId": "احمد-السديس",
+   "videoId": "t9bKIwKbZNQ",
+   "duration": 2325,
+   "hijriDate": null
+  },
+  {
+   "n": 16,
+   "title": "كتاب الورقات",
+   "lang": "ar",
+   "scholarId": "عبداللطيف-الشاماني",
+   "videoId": "oolrRjZTfho",
+   "duration": 4435,
+   "hijriDate": null
+  },
+  {
+   "n": 17,
+   "title": "كتاب شرح السنة للمزني",
+   "lang": "ar",
+   "scholarId": "سليمان-الغصن",
+   "videoId": "rwWm4rF2GQ4",
+   "duration": 4527,
+   "hijriDate": null
+  },
+  {
+   "n": 18,
+   "title": "كتاب زاد المستقنع (الصلاة)",
+   "lang": "ar",
+   "scholarId": "مسعود-المحمدي",
+   "videoId": "I8WahPcu5y8",
+   "duration": 1980,
+   "hijriDate": null
+  },
+  {
+   "n": 19,
+   "title": "كتاب شرح السنة للمزني",
+   "lang": "ar",
+   "scholarId": "سليمان-الغصن",
+   "videoId": "cI8Q7Gi_MDE",
+   "duration": 3505,
+   "hijriDate": null
+  },
+  {
+   "n": 20,
+   "title": "كتاب الورقات",
+   "lang": "ar",
+   "scholarId": "عبداللطيف-الشاماني",
+   "videoId": "gpvYaFW9B_8",
+   "duration": 2039,
+   "hijriDate": null
+  },
+  {
+   "n": 21,
+   "title": "كتاب الورقات",
+   "lang": "ar",
+   "scholarId": "عبداللطيف-الشاماني",
+   "videoId": "QjKHl4PO_Kk",
+   "duration": 4654,
+   "hijriDate": null
+  },
+  {
+   "n": 22,
+   "title": "كتاب شرح السنة للمزني",
+   "lang": "ar",
+   "scholarId": "سليمان-الغصن",
+   "videoId": "M7_HrkP5w_0",
+   "duration": 3737,
+   "hijriDate": null
+  },
+  {
+   "n": 23,
+   "title": "كتاب الورقات",
+   "lang": "ar",
+   "scholarId": "عبداللطيف-الشاماني",
+   "videoId": "len-I68shs8",
+   "duration": 6359,
+   "hijriDate": null
+  },
+  {
+   "n": 24,
+   "title": "كتاب شرح السنة للمزني",
+   "lang": "ar",
+   "scholarId": "سليمان-الغصن",
+   "videoId": "5xt8N-h_uP8",
+   "duration": 4113,
+   "hijriDate": null
+  }
+ ]
+}

@@ -1,0 +1,93 @@
+{
+ "id": "PLgaTRTylCbZALdJIUIVUiAuzapeLNDtGV",
+ "title": "سلسلة دروس آيات وأحاديت الحج",
+ "subject": "tafsir",
+ "kind": "series",
+ "lang": "ar",
+ "scholarId": "عبدالرحمن-السديس",
+ "scholarIds": [
+  "عبدالرحمن-السديس"
+ ],
+ "year": 1437,
+ "source": "youtube",
+ "channelId": "UC3QAoXf9GN9xeQYhk-AZbTg",
+ "playlistId": "PLgaTRTylCbZALdJIUIVUiAuzapeLNDtGV",
+ "url": "https://www.youtube.com/playlist?list=PLgaTRTylCbZALdJIUIVUiAuzapeLNDtGV",
+ "thumbnail": "https://i.ytimg.com/vi/iatDHEYkKEY/maxresdefault.jpg",
+ "lessonCount": 8,
+ "duration": 30558,
+ "lessons": [
+  {
+   "n": 1,
+   "title": "تفسير آيات وأحاديث الحج - محاضرة",
+   "lang": "ar",
+   "scholarId": "عبدالرحمن-السديس",
+   "videoId": "MEDofopvzAc",
+   "duration": 4426,
+   "hijriDate": null
+  },
+  {
+   "n": 2,
+   "title": "تفسير آيات الحج",
+   "lang": "ar",
+   "scholarId": "عبدالرحمن-السديس",
+   "videoId": "iatDHEYkKEY",
+   "duration": 3799,
+   "hijriDate": "1437-11-13"
+  },
+  {
+   "n": 3,
+   "title": "الحج عبادة وتقديس",
+   "lang": "ar",
+   "scholarId": "عبدالرحمن-السديس",
+   "videoId": "Y2rrDNUrTIo",
+   "duration": 3948,
+   "hijriDate": "1437-12-05"
+  },
+  {
+   "n": 4,
+   "title": "شعار الحج رسالة سلام",
+   "lang": "ar",
+   "scholarId": "عبدالرحمن-السديس",
+   "videoId": "wGKn2lzyLPM",
+   "duration": 4212,
+   "hijriDate": "1438-12-02"
+  },
+  {
+   "n": 5,
+   "title": "آيات الحج من تفسير ابن سعدي",
+   "lang": "ar",
+   "scholarId": "عبدالرحمن-السديس",
+   "videoId": "dqiOViXOOo4",
+   "duration": 3162,
+   "hijriDate": "1439-11-11"
+  },
+  {
+   "n": 6,
+   "title": "تفسير آيات الحج وشرح أحاديث الحج",
+   "lang": "ar",
+   "scholarId": "عبدالرحمن-السديس",
+   "videoId": "29zdM2FcABw",
+   "duration": 3610,
+   "hijriDate": "1440-11-27"
+  },
+  {
+   "n": 7,
+   "title": "تفسير آيات الحج",
+   "lang": "ar",
+   "scholarId": "عبدالرحمن-السديس",
+   "videoId": "z7CMijJYle8",
+   "duration": 3536,
+   "hijriDate": "1442-11-24"
+  },
+  {
+   "n": 8,
+   "title": "الحج من تفسير السعدي وعمدة الأحكام وزاد المعاد",
+   "lang": "ar",
+   "scholarId": "عبدالرحمن-السديس",
+   "videoId": "AXXINItfI0A",
+   "duration": 3865,
+   "hijriDate": "1443-11-29"
+  }
+ ]
+}

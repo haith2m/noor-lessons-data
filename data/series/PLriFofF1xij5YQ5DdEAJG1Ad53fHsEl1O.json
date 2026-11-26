@@ -1,0 +1,102 @@
+{
+ "id": "PLriFofF1xij5YQ5DdEAJG1Ad53fHsEl1O",
+ "title": "سنن الترمذي",
+ "subject": "hadith",
+ "kind": "series",
+ "lang": "ar",
+ "scholarId": "محمد-الشنقيطي",
+ "scholarIds": [
+  "محمد-الشنقيطي"
+ ],
+ "year": null,
+ "source": "youtube",
+ "channelId": "UC0XNCc-DU8J5_ksR-eufPaw",
+ "playlistId": "PLriFofF1xij5YQ5DdEAJG1Ad53fHsEl1O",
+ "url": "https://www.youtube.com/playlist?list=PLriFofF1xij5YQ5DdEAJG1Ad53fHsEl1O",
+ "thumbnail": "https://i.ytimg.com/vi/f24_eoLidEw/maxresdefault.jpg",
+ "lessonCount": 9,
+ "duration": 32366,
+ "lessons": [
+  {
+   "n": 1,
+   "title": "الدرس 1",
+   "lang": "ar",
+   "scholarId": "محمد-الشنقيطي",
+   "videoId": "f24_eoLidEw",
+   "duration": 3541,
+   "hijriDate": null
+  },
+  {
+   "n": 2,
+   "title": "الدرس 2",
+   "lang": "ar",
+   "scholarId": "محمد-الشنقيطي",
+   "videoId": "7zTpajqWuhk",
+   "duration": 3490,
+   "hijriDate": null
+  },
+  {
+   "n": 3,
+   "title": "الدرس 3",
+   "lang": "ar",
+   "scholarId": "محمد-الشنقيطي",
+   "videoId": "lRfLuoSvmLA",
+   "duration": 3725,
+   "hijriDate": null
+  },
+  {
+   "n": 4,
+   "title": "الدرس 4",
+   "lang": "ar",
+   "scholarId": "محمد-الشنقيطي",
+   "videoId": "KyibRJ9paUs",
+   "duration": 3566,
+   "hijriDate": null
+  },
+  {
+   "n": 5,
+   "title": "الدرس 5",
+   "lang": "ar",
+   "scholarId": "محمد-الشنقيطي",
+   "videoId": "jV7JmB1ogkg",
+   "duration": 2915,
+   "hijriDate": null
+  },
+  {
+   "n": 6,
+   "title": "الدرس 6",
+   "lang": "ar",
+   "scholarId": "محمد-الشنقيطي",
+   "videoId": "5FUknMgtIY4",
+   "duration": 3742,
+   "hijriDate": null
+  },
+  {
+   "n": 7,
+   "title": "الدرس 7",
+   "lang": "ar",
+   "scholarId": "محمد-الشنقيطي",
+   "videoId": "xnDUrdUeses",
+   "duration": 3970,
+   "hijriDate": null
+  },
+  {
+   "n": 8,
+   "title": "الدرس 8",
+   "lang": "ar",
+   "scholarId": "محمد-الشنقيطي",
+   "videoId": "CZGbGC3xrlg",
+   "duration": 3776,
+   "hijriDate": null
+  },
+  {
+   "n": 9,
+   "title": "الدرس 9",
+   "lang": "ar",
+   "scholarId": "محمد-الشنقيطي",
+   "videoId": "UhC_4ZgT4c8",
+   "duration": 3641,
+   "hijriDate": null
+  }
+ ]
+}

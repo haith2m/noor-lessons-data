@@ -1,0 +1,57 @@
+{
+ "id": "PLgaTRTylCbZBQOymMoR1JQj6u93GaBolA",
+ "title": "الجامع في صفة الوضوء",
+ "subject": "fiqh",
+ "kind": "series",
+ "lang": "ar",
+ "scholarId": "عبدالرحمن-السند",
+ "scholarIds": [
+  "عبدالرحمن-السند"
+ ],
+ "year": 1445,
+ "source": "youtube",
+ "channelId": "UC3QAoXf9GN9xeQYhk-AZbTg",
+ "playlistId": "PLgaTRTylCbZBQOymMoR1JQj6u93GaBolA",
+ "url": "https://www.youtube.com/playlist?list=PLgaTRTylCbZBQOymMoR1JQj6u93GaBolA",
+ "thumbnail": "https://i.ytimg.com/vi/i-dMhcLEqPQ/maxresdefault.jpg",
+ "lessonCount": 4,
+ "duration": 16254,
+ "lessons": [
+  {
+   "n": 1,
+   "title": "الدرس 1",
+   "lang": "ar",
+   "scholarId": "عبدالرحمن-السند",
+   "videoId": "m_v5x4sl8xY",
+   "duration": 4243,
+   "hijriDate": "1445-05-05"
+  },
+  {
+   "n": 2,
+   "title": "الدرس 2",
+   "lang": "ar",
+   "scholarId": "عبدالرحمن-السند",
+   "videoId": "VrhjuZHl4Qo",
+   "duration": 3898,
+   "hijriDate": "1445-05-06"
+  },
+  {
+   "n": 3,
+   "title": "الدرس 3",
+   "lang": "ar",
+   "scholarId": "عبدالرحمن-السند",
+   "videoId": "x2tJtiWOSOs",
+   "duration": 3971,
+   "hijriDate": "1445-05-07"
+  },
+  {
+   "n": 4,
+   "title": "الدرس 4",
+   "lang": "ar",
+   "scholarId": "عبدالرحمن-السند",
+   "videoId": "i-dMhcLEqPQ",
+   "duration": 4142,
+   "hijriDate": "1445-05-08"
+  }
+ ]
+}

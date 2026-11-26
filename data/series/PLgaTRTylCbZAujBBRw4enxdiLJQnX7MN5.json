@@ -1,0 +1,84 @@
+{
+ "id": "PLgaTRTylCbZAujBBRw4enxdiLJQnX7MN5",
+ "title": "منهج السالكين - كتاب الصلاة",
+ "subject": "fiqh",
+ "kind": "series",
+ "lang": "ar",
+ "scholarId": "عبدالسلام-الشويعر",
+ "scholarIds": [
+  "عبدالسلام-الشويعر"
+ ],
+ "year": null,
+ "source": "youtube",
+ "channelId": "UC3QAoXf9GN9xeQYhk-AZbTg",
+ "playlistId": "PLgaTRTylCbZAujBBRw4enxdiLJQnX7MN5",
+ "url": "https://www.youtube.com/playlist?list=PLgaTRTylCbZAujBBRw4enxdiLJQnX7MN5",
+ "thumbnail": "https://i.ytimg.com/vi/YDvIngEFLQs/maxresdefault.jpg",
+ "lessonCount": 7,
+ "duration": 18600,
+ "lessons": [
+  {
+   "n": 1,
+   "title": "الدرس 1",
+   "lang": "ar",
+   "scholarId": "عبدالسلام-الشويعر",
+   "videoId": "YDvIngEFLQs",
+   "duration": 2124,
+   "hijriDate": null
+  },
+  {
+   "n": 2,
+   "title": "الدرس 2",
+   "lang": "ar",
+   "scholarId": "عبدالسلام-الشويعر",
+   "videoId": "ksstOA7tBRQ",
+   "duration": 2934,
+   "hijriDate": null
+  },
+  {
+   "n": 3,
+   "title": "الدرس 3",
+   "lang": "ar",
+   "scholarId": "عبدالسلام-الشويعر",
+   "videoId": "i0_c4bJ9Kn8",
+   "duration": 2876,
+   "hijriDate": null
+  },
+  {
+   "n": 4,
+   "title": "الدرس 4",
+   "lang": "ar",
+   "scholarId": "عبدالسلام-الشويعر",
+   "videoId": "dy-125HcUis",
+   "duration": 3005,
+   "hijriDate": null
+  },
+  {
+   "n": 5,
+   "title": "الدرس 5",
+   "lang": "ar",
+   "scholarId": "عبدالسلام-الشويعر",
+   "videoId": "nqV92ztN4PY",
+   "duration": 2634,
+   "hijriDate": null
+  },
+  {
+   "n": 6,
+   "title": "الدرس 6",
+   "lang": "ar",
+   "scholarId": "عبدالسلام-الشويعر",
+   "videoId": "3p2qkCHgnVk",
+   "duration": 2520,
+   "hijriDate": null
+  },
+  {
+   "n": 7,
+   "title": "الدرس 7",
+   "lang": "ar",
+   "scholarId": "عبدالسلام-الشويعر",
+   "videoId": "asLPK8n_By4",
+   "duration": 2507,
+   "hijriDate": null
+  }
+ ]
+}

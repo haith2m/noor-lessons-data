@@ -1,0 +1,48 @@
+{
+ "id": "PLriFofF1xij7tjhNGG9yUiOlKfdeEEPrA",
+ "title": "رسالة بعض الفوائد من سورة الفاتحة للشيخ محمد بن عبدالوهاب",
+ "subject": "tafsir",
+ "kind": "series",
+ "lang": "ar",
+ "scholarId": "علي-التويجري",
+ "scholarIds": [
+  "علي-التويجري"
+ ],
+ "year": null,
+ "source": "youtube",
+ "channelId": "UC0XNCc-DU8J5_ksR-eufPaw",
+ "playlistId": "PLriFofF1xij7tjhNGG9yUiOlKfdeEEPrA",
+ "url": "https://www.youtube.com/playlist?list=PLriFofF1xij7tjhNGG9yUiOlKfdeEEPrA",
+ "thumbnail": "https://i.ytimg.com/vi/m_TjvQ3Mo_Q/maxresdefault.jpg",
+ "lessonCount": 3,
+ "duration": 5625,
+ "lessons": [
+  {
+   "n": 1,
+   "title": "الدرس 1",
+   "lang": "ar",
+   "scholarId": "علي-التويجري",
+   "videoId": "m_TjvQ3Mo_Q",
+   "duration": 1924,
+   "hijriDate": null
+  },
+  {
+   "n": 2,
+   "title": "الدرس 2",
+   "lang": "ar",
+   "scholarId": "علي-التويجري",
+   "videoId": "Ugptj8pIgNU",
+   "duration": 1864,
+   "hijriDate": null
+  },
+  {
+   "n": 3,
+   "title": "رسالة فوائد من سورة الفاتحة",
+   "lang": "ar",
+   "scholarId": "علي-التويجري",
+   "videoId": "G6GNI1SatQ4",
+   "duration": 1837,
+   "hijriDate": null
+  }
+ ]
+}

@@ -1,0 +1,48 @@
+{
+ "id": "PLriFofF1xij5QsC0pCOglll1TWCJkxNZf-2",
+ "title": "مناسك الحج والعمرة",
+ "subject": "fiqh",
+ "kind": "series",
+ "lang": "ar",
+ "scholarId": "مسعود-المحمدي",
+ "scholarIds": [
+  "مسعود-المحمدي"
+ ],
+ "year": null,
+ "source": "youtube",
+ "channelId": "UC0XNCc-DU8J5_ksR-eufPaw",
+ "playlistId": "PLriFofF1xij5QsC0pCOglll1TWCJkxNZf",
+ "url": "https://www.youtube.com/playlist?list=PLriFofF1xij5QsC0pCOglll1TWCJkxNZf",
+ "thumbnail": "https://i.ytimg.com/vi/8xCU4qvtGdE/maxresdefault.jpg",
+ "lessonCount": 3,
+ "duration": 11163,
+ "lessons": [
+  {
+   "n": 1,
+   "title": "الدرس 1",
+   "lang": "ar",
+   "scholarId": "مسعود-المحمدي",
+   "videoId": "sr7q8xI6paM",
+   "duration": 4119,
+   "hijriDate": null
+  },
+  {
+   "n": 2,
+   "title": "الدرس 2",
+   "lang": "ar",
+   "scholarId": "مسعود-المحمدي",
+   "videoId": "9g7FPuSp55c",
+   "duration": 3537,
+   "hijriDate": null
+  },
+  {
+   "n": 3,
+   "title": "الدرس 3",
+   "lang": "ar",
+   "scholarId": "مسعود-المحمدي",
+   "videoId": "JQOVk8ZjwwE",
+   "duration": 3507,
+   "hijriDate": null
+  }
+ ]
+}

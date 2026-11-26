@@ -1,0 +1,48 @@
+{
+ "id": "PLHdtGYbvBxAA",
+ "title": "الأربعين النووية مع زيادة ابن رجب",
+ "subject": "hadith",
+ "kind": "series",
+ "lang": "ar",
+ "scholarId": "عبدالسلام-السحيمي",
+ "scholarIds": [
+  "عبدالسلام-السحيمي"
+ ],
+ "year": null,
+ "source": "youtube",
+ "channelId": "UC0XNCc-DU8J5_ksR-eufPaw",
+ "playlistId": "PLHdtGYbvBxAA",
+ "url": "https://www.youtube.com/playlist?list=PLHdtGYbvBxAA",
+ "thumbnail": "https://i.ytimg.com/vi/8La0HKIWN9U/maxresdefault.jpg",
+ "lessonCount": 3,
+ "duration": 21572,
+ "lessons": [
+  {
+   "n": 1,
+   "title": "الدرس 1",
+   "lang": "ar",
+   "scholarId": "عبدالسلام-السحيمي",
+   "videoId": "8La0HKIWN9U",
+   "duration": 7514,
+   "hijriDate": null
+  },
+  {
+   "n": 2,
+   "title": "الدرس 2",
+   "lang": "ar",
+   "scholarId": "عبدالسلام-السحيمي",
+   "videoId": "Fb54uA-TmVM",
+   "duration": 6796,
+   "hijriDate": null
+  },
+  {
+   "n": 3,
+   "title": "الدرس 3",
+   "lang": "ar",
+   "scholarId": "عبدالسلام-السحيمي",
+   "videoId": "G1epWJ8d8tQ",
+   "duration": 7262,
+   "hijriDate": null
+  }
+ ]
+}

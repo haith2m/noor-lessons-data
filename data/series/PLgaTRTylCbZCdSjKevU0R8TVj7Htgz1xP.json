@@ -1,0 +1,39 @@
+{
+ "id": "PLgaTRTylCbZCdSjKevU0R8TVj7Htgz1xP",
+ "title": "الدماء المشروعة في الحج",
+ "subject": "fiqh",
+ "kind": "series",
+ "lang": "ar",
+ "scholarId": "حسن-بخاري",
+ "scholarIds": [
+  "حسن-بخاري"
+ ],
+ "year": null,
+ "source": "youtube",
+ "channelId": "UC3QAoXf9GN9xeQYhk-AZbTg",
+ "playlistId": "PLgaTRTylCbZCdSjKevU0R8TVj7Htgz1xP",
+ "url": "https://www.youtube.com/playlist?list=PLgaTRTylCbZCdSjKevU0R8TVj7Htgz1xP",
+ "thumbnail": "https://i.ytimg.com/vi/JGK987Zvp4o/sddefault.jpg",
+ "lessonCount": 2,
+ "duration": 6789,
+ "lessons": [
+  {
+   "n": 1,
+   "title": "الدرس 1",
+   "lang": "ar",
+   "scholarId": "حسن-بخاري",
+   "videoId": "JGK987Zvp4o",
+   "duration": 3290,
+   "hijriDate": null
+  },
+  {
+   "n": 2,
+   "title": "الدرس 2",
+   "lang": "ar",
+   "scholarId": "حسن-بخاري",
+   "videoId": "xObf3wM1Ysc",
+   "duration": 3499,
+   "hijriDate": null
+  }
+ ]
+}

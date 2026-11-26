@@ -1,0 +1,66 @@
+{
+ "id": "PLriFofF1xij5iH-kDYwIz3bioOiXsUQoa",
+ "title": "رسالة فوائد التقوى من القرآن الكريم لابن عثيمين",
+ "subject": "tafsir",
+ "kind": "series",
+ "lang": "ar",
+ "scholarId": "عبدالرزاق-البدر",
+ "scholarIds": [
+  "عبدالرزاق-البدر"
+ ],
+ "year": null,
+ "source": "youtube",
+ "channelId": "UC0XNCc-DU8J5_ksR-eufPaw",
+ "playlistId": "PLriFofF1xij5iH-kDYwIz3bioOiXsUQoa",
+ "url": "https://www.youtube.com/playlist?list=PLriFofF1xij5iH-kDYwIz3bioOiXsUQoa",
+ "thumbnail": "https://i.ytimg.com/vi/MTozJRhqVDE/maxresdefault.jpg",
+ "lessonCount": 5,
+ "duration": 13678,
+ "lessons": [
+  {
+   "n": 1,
+   "title": "الدرس 1",
+   "lang": "ar",
+   "scholarId": "عبدالرزاق-البدر",
+   "videoId": "MTozJRhqVDE",
+   "duration": 1938,
+   "hijriDate": null
+  },
+  {
+   "n": 2,
+   "title": "الدرس 2",
+   "lang": "ar",
+   "scholarId": "عبدالرزاق-البدر",
+   "videoId": "w9Rs-s2AkgQ",
+   "duration": 3219,
+   "hijriDate": null
+  },
+  {
+   "n": 3,
+   "title": "الدرس 3",
+   "lang": "ar",
+   "scholarId": "عبدالرزاق-البدر",
+   "videoId": "r-aKazXISuQ",
+   "duration": 2996,
+   "hijriDate": null
+  },
+  {
+   "n": 4,
+   "title": "الدرس 4",
+   "lang": "ar",
+   "scholarId": "عبدالرزاق-البدر",
+   "videoId": "hNaQ1Dc8uAA",
+   "duration": 2379,
+   "hijriDate": null
+  },
+  {
+   "n": 5,
+   "title": "الدرس 5",
+   "lang": "ar",
+   "scholarId": "عبدالرزاق-البدر",
+   "videoId": "2Ip7WA_bGHg",
+   "duration": 3146,
+   "hijriDate": null
+  }
+ ]
+}

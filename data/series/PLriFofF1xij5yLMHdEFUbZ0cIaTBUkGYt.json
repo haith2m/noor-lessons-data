@@ -1,0 +1,30 @@
+{
+ "id": "PLriFofF1xij5yLMHdEFUbZ0cIaTBUkGYt",
+ "title": "الأيام العلمية",
+ "subject": "hadith",
+ "kind": "series",
+ "lang": "ar",
+ "scholarId": "علي-التويجري",
+ "scholarIds": [
+  "علي-التويجري"
+ ],
+ "year": null,
+ "source": "youtube",
+ "channelId": "UC0XNCc-DU8J5_ksR-eufPaw",
+ "playlistId": "PLriFofF1xij5yLMHdEFUbZ0cIaTBUkGYt",
+ "url": "https://www.youtube.com/playlist?list=PLriFofF1xij5yLMHdEFUbZ0cIaTBUkGYt",
+ "thumbnail": "https://i.ytimg.com/vi/nNGb_kbZhkE/maxresdefault.jpg",
+ "lessonCount": 1,
+ "duration": 1843,
+ "lessons": [
+  {
+   "n": 1,
+   "title": "كتاب بلوغ المرام (الصيام)",
+   "lang": "ar",
+   "scholarId": "علي-التويجري",
+   "videoId": "nNGb_kbZhkE",
+   "duration": 1843,
+   "hijriDate": null
+  }
+ ]
+}

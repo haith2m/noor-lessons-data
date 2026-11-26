@@ -1,0 +1,57 @@
+{
+ "id": "PLriFofF1xij6755iGS29pNBug-r_AkuFT-4",
+ "title": "رسالة عقيدة الرازيين",
+ "subject": "aqeedah",
+ "kind": "series",
+ "lang": "ar",
+ "scholarId": "سليمان-الرحيلي",
+ "scholarIds": [
+  "سليمان-الرحيلي"
+ ],
+ "year": null,
+ "source": "youtube",
+ "channelId": "UC0XNCc-DU8J5_ksR-eufPaw",
+ "playlistId": "PLriFofF1xij6755iGS29pNBug-r_AkuFT",
+ "url": "https://www.youtube.com/playlist?list=PLriFofF1xij6755iGS29pNBug-r_AkuFT",
+ "thumbnail": "https://i.ytimg.com/vi/EeRhyUmIDbg/maxresdefault.jpg",
+ "lessonCount": 4,
+ "duration": 21216,
+ "lessons": [
+  {
+   "n": 1,
+   "title": "الدرس 1",
+   "lang": "ar",
+   "scholarId": "سليمان-الرحيلي",
+   "videoId": "shZ3ZaKdGoU",
+   "duration": 6126,
+   "hijriDate": null
+  },
+  {
+   "n": 2,
+   "title": "الدرس 2",
+   "lang": "ar",
+   "scholarId": "سليمان-الرحيلي",
+   "videoId": "bFuvZJfIVN4",
+   "duration": 4515,
+   "hijriDate": null
+  },
+  {
+   "n": 3,
+   "title": "الدرس 3",
+   "lang": "ar",
+   "scholarId": "سليمان-الرحيلي",
+   "videoId": "74eR2LquPm0",
+   "duration": 6250,
+   "hijriDate": null
+  },
+  {
+   "n": 4,
+   "title": "الدرس 4",
+   "lang": "ar",
+   "scholarId": "سليمان-الرحيلي",
+   "videoId": "cgVgJqulHu4",
+   "duration": 4325,
+   "hijriDate": null
+  }
+ ]
+}

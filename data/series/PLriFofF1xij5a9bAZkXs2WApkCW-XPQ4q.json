@@ -1,0 +1,39 @@
+{
+ "id": "PLriFofF1xij5a9bAZkXs2WApkCW-XPQ4q",
+ "title": "تفسير آيات الصيام",
+ "subject": "tafsir",
+ "kind": "series",
+ "lang": "ar",
+ "scholarId": "بدر-البدر",
+ "scholarIds": [
+  "بدر-البدر"
+ ],
+ "year": null,
+ "source": "youtube",
+ "channelId": "UC0XNCc-DU8J5_ksR-eufPaw",
+ "playlistId": "PLriFofF1xij5a9bAZkXs2WApkCW-XPQ4q",
+ "url": "https://www.youtube.com/playlist?list=PLriFofF1xij5a9bAZkXs2WApkCW-XPQ4q",
+ "thumbnail": "https://i.ytimg.com/vi/OrNwK2Xne1Q/maxresdefault.jpg",
+ "lessonCount": 2,
+ "duration": 4744,
+ "lessons": [
+  {
+   "n": 1,
+   "title": "الآية 1",
+   "lang": "ar",
+   "scholarId": "بدر-البدر",
+   "videoId": "OrNwK2Xne1Q",
+   "duration": 2167,
+   "hijriDate": null
+  },
+  {
+   "n": 2,
+   "title": "الآية 2",
+   "lang": "ar",
+   "scholarId": "بدر-البدر",
+   "videoId": "ROyGkMkqi_4",
+   "duration": 2577,
+   "hijriDate": null
+  }
+ ]
+}

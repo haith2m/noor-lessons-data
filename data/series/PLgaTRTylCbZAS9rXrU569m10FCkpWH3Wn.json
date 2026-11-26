@@ -1,0 +1,69 @@
+{
+ "id": "PLgaTRTylCbZAS9rXrU569m10FCkpWH3Wn",
+ "title": "الدورة العلمية الثالثة عن بعد",
+ "subject": "fiqh",
+ "kind": "course",
+ "lang": "ar",
+ "scholarId": null,
+ "scholarIds": [
+  "طلال-ابوالنور",
+  "غازي-العتيبي",
+  "حسن-بخاري",
+  "عبدالله-الغطيمل"
+ ],
+ "year": 1442,
+ "source": "youtube",
+ "channelId": "UC3QAoXf9GN9xeQYhk-AZbTg",
+ "playlistId": "PLgaTRTylCbZAS9rXrU569m10FCkpWH3Wn",
+ "url": "https://www.youtube.com/playlist?list=PLgaTRTylCbZAS9rXrU569m10FCkpWH3Wn",
+ "thumbnail": "https://i.ytimg.com/vi/uCewqndJGcs/maxresdefault.jpg",
+ "lessonCount": 5,
+ "duration": 15672,
+ "lessons": [
+  {
+   "n": 1,
+   "title": "الوحدة والاجتماع",
+   "lang": "ar",
+   "scholarId": "طلال-ابوالنور",
+   "videoId": "uCewqndJGcs",
+   "duration": 3674,
+   "hijriDate": "1442-05-27"
+  },
+  {
+   "n": 2,
+   "title": "خلاصة كتاب العبودية لابن تيمية",
+   "lang": "ar",
+   "scholarId": "غازي-العتيبي",
+   "videoId": "tuL4ia5gdoM",
+   "duration": 3039,
+   "hijriDate": "1442-05-28"
+  },
+  {
+   "n": 3,
+   "title": "المسجد الحرام فضائل وأحكام (1 من 2)",
+   "lang": "ar",
+   "scholarId": "حسن-بخاري",
+   "videoId": "d3g8vcw17Vo",
+   "duration": 3586,
+   "hijriDate": "1442-05-28"
+  },
+  {
+   "n": 4,
+   "title": "المسجد الحرام فضائل وأحكام (2 من 2)",
+   "lang": "ar",
+   "scholarId": "حسن-بخاري",
+   "videoId": "LU_JoFvmFhw",
+   "duration": 3475,
+   "hijriDate": "1442-05-29"
+  },
+  {
+   "n": 5,
+   "title": "الوسائل المفيدة للحياة السعيدة للسعدي",
+   "lang": "ar",
+   "scholarId": "عبدالله-الغطيمل",
+   "videoId": "HfZwIFNJgAc",
+   "duration": 1898,
+   "hijriDate": "1442-06-01"
+  }
+ ]
+}

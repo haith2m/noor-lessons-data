@@ -1,0 +1,57 @@
+{
+ "id": "PLriFofF1xij7gMNFi3192dXEHNdxUzNhP-1",
+ "title": "رسالة نور الاقتباس لابن رجب",
+ "subject": "general",
+ "kind": "series",
+ "lang": "ar",
+ "scholarId": "بدر-البدر",
+ "scholarIds": [
+  "بدر-البدر"
+ ],
+ "year": null,
+ "source": "youtube",
+ "channelId": "UC0XNCc-DU8J5_ksR-eufPaw",
+ "playlistId": "PLriFofF1xij7gMNFi3192dXEHNdxUzNhP",
+ "url": "https://www.youtube.com/playlist?list=PLriFofF1xij7gMNFi3192dXEHNdxUzNhP",
+ "thumbnail": "https://i.ytimg.com/vi/A7urDeuJDwA/maxresdefault.jpg",
+ "lessonCount": 4,
+ "duration": 12938,
+ "lessons": [
+  {
+   "n": 1,
+   "title": "الدرس 1",
+   "lang": "ar",
+   "scholarId": "بدر-البدر",
+   "videoId": "A7urDeuJDwA",
+   "duration": 3356,
+   "hijriDate": null
+  },
+  {
+   "n": 2,
+   "title": "الدرس 2",
+   "lang": "ar",
+   "scholarId": "بدر-البدر",
+   "videoId": "eNZOnKSH4cg",
+   "duration": 3206,
+   "hijriDate": null
+  },
+  {
+   "n": 3,
+   "title": "الدرس 3",
+   "lang": "ar",
+   "scholarId": "بدر-البدر",
+   "videoId": "7iPHBQZS-Xw",
+   "duration": 3377,
+   "hijriDate": null
+  },
+  {
+   "n": 4,
+   "title": "الدرس 4",
+   "lang": "ar",
+   "scholarId": "بدر-البدر",
+   "videoId": "Z0FBtbhP1oY",
+   "duration": 2999,
+   "hijriDate": null
+  }
+ ]
+}

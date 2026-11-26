@@ -1,0 +1,48 @@
+{
+ "id": "PLriFofF1xij6t_KIovddnldlkFkzNcn23-1",
+ "title": "يامحمد أخبرني",
+ "subject": "general",
+ "kind": "series",
+ "lang": "ar",
+ "scholarId": "محمد-اليوبي",
+ "scholarIds": [
+  "محمد-اليوبي"
+ ],
+ "year": null,
+ "source": "youtube",
+ "channelId": "UC0XNCc-DU8J5_ksR-eufPaw",
+ "playlistId": "PLriFofF1xij6t_KIovddnldlkFkzNcn23",
+ "url": "https://www.youtube.com/playlist?list=PLriFofF1xij6t_KIovddnldlkFkzNcn23",
+ "thumbnail": "https://i.ytimg.com/vi/dmmGlevgNNA/maxresdefault.jpg",
+ "lessonCount": 3,
+ "duration": 8770,
+ "lessons": [
+  {
+   "n": 1,
+   "title": "الدرس 1",
+   "lang": "ar",
+   "scholarId": "محمد-اليوبي",
+   "videoId": "dmmGlevgNNA",
+   "duration": 3035,
+   "hijriDate": null
+  },
+  {
+   "n": 2,
+   "title": "الدرس 2",
+   "lang": "ar",
+   "scholarId": "محمد-اليوبي",
+   "videoId": "phEMagX3mzE",
+   "duration": 2031,
+   "hijriDate": null
+  },
+  {
+   "n": 3,
+   "title": "الدرس 3",
+   "lang": "ar",
+   "scholarId": "محمد-اليوبي",
+   "videoId": "TVcNkf7vyUw",
+   "duration": 3704,
+   "hijriDate": null
+  }
+ ]
+}

@@ -1,0 +1,110 @@
+{
+ "id": "PLriFofF1xij6OVyUEb-WrM8sc_DaPbcSq",
+ "title": "الدورة التوجيهية الافتراضية (تعزيز الأمن الفكري والتحذير من الأفكار الضالة)",
+ "subject": "general",
+ "kind": "course",
+ "lang": "ar",
+ "scholarId": null,
+ "scholarIds": [
+  "عبدالرحمن-السند",
+  "صالح-السحيمي",
+  "عبدالسلام-السليمان",
+  "عبدالسلام-السحيمي",
+  "عبدالسلام-الشويعر",
+  "سليمان-الرحيلي",
+  "جبريل-البصيلي",
+  "عبدالله-التركي",
+  "عبدالله-المطلق"
+ ],
+ "year": 1442,
+ "source": "youtube",
+ "channelId": "UC0XNCc-DU8J5_ksR-eufPaw",
+ "playlistId": "PLriFofF1xij6OVyUEb-WrM8sc_DaPbcSq",
+ "url": "https://www.youtube.com/playlist?list=PLriFofF1xij6OVyUEb-WrM8sc_DaPbcSq",
+ "thumbnail": "https://i.ytimg.com/vi/IO36Fu9lECE/maxresdefault.jpg",
+ "lessonCount": 9,
+ "duration": 21784,
+ "lessons": [
+  {
+   "n": 1,
+   "title": "أهمية مواجهة الأفكار الضالة",
+   "lang": "ar",
+   "scholarId": "عبدالرحمن-السند",
+   "videoId": "IO36Fu9lECE",
+   "duration": 2216,
+   "hijriDate": null
+  },
+  {
+   "n": 2,
+   "title": "مكانة المملكة العربية السعودية",
+   "lang": "ar",
+   "scholarId": "صالح-السحيمي",
+   "videoId": "nolkYyryl10",
+   "duration": 3221,
+   "hijriDate": null
+  },
+  {
+   "n": 3,
+   "title": "أثر الشائعات على الأمن الفكري",
+   "lang": "ar",
+   "scholarId": "عبدالسلام-السليمان",
+   "videoId": "zCG_f6OT90A",
+   "duration": 2719,
+   "hijriDate": null
+  },
+  {
+   "n": 4,
+   "title": "حقيقة الأمن الفكري ومقوماته",
+   "lang": "ar",
+   "scholarId": "عبدالسلام-السحيمي",
+   "videoId": "Zew4ZnZ9uOU",
+   "duration": 2721,
+   "hijriDate": null
+  },
+  {
+   "n": 5,
+   "title": "دور الأسرة في تعزيز الأمن الفكري",
+   "lang": "ar",
+   "scholarId": "عبدالسلام-الشويعر",
+   "videoId": "uR_72EojvG0",
+   "duration": 2305,
+   "hijriDate": null
+  },
+  {
+   "n": 6,
+   "title": "دورالأمن الفكري على السمع والطاعة",
+   "lang": "ar",
+   "scholarId": "سليمان-الرحيلي",
+   "videoId": "1syejWfW8vg",
+   "duration": 3181,
+   "hijriDate": null
+  },
+  {
+   "n": 7,
+   "title": "أثرالوسطية والاعتدال في تحقيق الأمن الفكري",
+   "lang": "ar",
+   "scholarId": "جبريل-البصيلي",
+   "videoId": "f3ftcJb4ay4",
+   "duration": 1119,
+   "hijriDate": null
+  },
+  {
+   "n": 8,
+   "title": "الدرس 8",
+   "lang": "ar",
+   "scholarId": "عبدالله-التركي",
+   "videoId": "Pul-9KAepJA",
+   "duration": 1951,
+   "hijriDate": null
+  },
+  {
+   "n": 9,
+   "title": "توفير الحماية الفكرية للأفراد في",
+   "lang": "ar",
+   "scholarId": "عبدالله-المطلق",
+   "videoId": "MswY4shRYrE",
+   "duration": 2351,
+   "hijriDate": null
+  }
+ ]
+}

@@ -1,0 +1,89 @@
+{
+ "id": "PLriFofF1xij4f_493ua3p7n6lSc6LIINt",
+ "title": "الدورة العلمية في فقه الأسرة",
+ "subject": "fiqh",
+ "kind": "course",
+ "lang": "ar",
+ "scholarId": null,
+ "scholarIds": [
+  "بدر-البدر",
+  "عبداللطيف-الشاماني",
+  "سعود-الخلف",
+  "سليمان-الرحيلي",
+  "مسعود-المحمدي",
+  "انيس-طاهر"
+ ],
+ "year": 1444,
+ "source": "youtube",
+ "channelId": "UC0XNCc-DU8J5_ksR-eufPaw",
+ "playlistId": "PLriFofF1xij4f_493ua3p7n6lSc6LIINt",
+ "url": "https://www.youtube.com/playlist?list=PLriFofF1xij4f_493ua3p7n6lSc6LIINt",
+ "thumbnail": "https://i.ytimg.com/vi/CQ4f-Jl72T8/maxresdefault.jpg",
+ "lessonCount": 7,
+ "duration": 28592,
+ "lessons": [
+  {
+   "n": 1,
+   "title": "تفسير سورة الطلاق من تفسير السعدي",
+   "lang": "ar",
+   "scholarId": "بدر-البدر",
+   "videoId": "CQ4f-Jl72T8",
+   "duration": 4406,
+   "hijriDate": null
+  },
+  {
+   "n": 2,
+   "title": "توجيهات نبوية في الحياة الزوجية",
+   "lang": "ar",
+   "scholarId": "عبداللطيف-الشاماني",
+   "videoId": "fuScZMSKFBA",
+   "duration": 3971,
+   "hijriDate": null
+  },
+  {
+   "n": 3,
+   "title": "تفسير سورة الطلاق من تفسير السعدي",
+   "lang": "ar",
+   "scholarId": "بدر-البدر",
+   "videoId": "RHNNYf5cmbA",
+   "duration": 3791,
+   "hijriDate": null
+  },
+  {
+   "n": 4,
+   "title": "حقوق الآباء والأبناء في الإسلام",
+   "lang": "ar",
+   "scholarId": "سعود-الخلف",
+   "videoId": "ZzQQcdfrynI",
+   "duration": 3745,
+   "hijriDate": null
+  },
+  {
+   "n": 5,
+   "title": "أصول سعادة الأسرة",
+   "lang": "ar",
+   "scholarId": "سليمان-الرحيلي",
+   "videoId": "NowYlArc4V4",
+   "duration": 4660,
+   "hijriDate": null
+  },
+  {
+   "n": 6,
+   "title": "الحقوق الزوجية آداب وأحكام",
+   "lang": "ar",
+   "scholarId": "مسعود-المحمدي",
+   "videoId": "ZQwhb8juUFE",
+   "duration": 3741,
+   "hijriDate": null
+  },
+  {
+   "n": 7,
+   "title": "الحقوق الزوجية من بيوت أمهات المؤمنين أزواج رسولﷺ",
+   "lang": "ar",
+   "scholarId": "انيس-طاهر",
+   "videoId": "cc-KCVNO2sE",
+   "duration": 4278,
+   "hijriDate": null
+  }
+ ]
+}

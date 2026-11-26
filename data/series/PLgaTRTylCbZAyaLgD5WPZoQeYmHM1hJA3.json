@@ -1,0 +1,145 @@
+{
+ "id": "PLgaTRTylCbZAyaLgD5WPZoQeYmHM1hJA3",
+ "title": "دورة التأسيس الفقهي",
+ "subject": "fiqh",
+ "kind": "course",
+ "lang": "ar",
+ "scholarId": null,
+ "scholarIds": [
+  "سعد-الخثلان",
+  "عبدالاله-الملا",
+  "عبدالباقي-مبارك",
+  "عبدالرحمن-القرني",
+  "خالد-عروس",
+  "ياسر-الدوسري",
+  "غازي-العتيبي",
+  "صالح-الشيخ"
+ ],
+ "year": 1446,
+ "source": "youtube",
+ "channelId": "UC3QAoXf9GN9xeQYhk-AZbTg",
+ "playlistId": "PLgaTRTylCbZAyaLgD5WPZoQeYmHM1hJA3",
+ "url": "https://www.youtube.com/playlist?list=PLgaTRTylCbZAyaLgD5WPZoQeYmHM1hJA3",
+ "thumbnail": "https://i.ytimg.com/vi/WLMot5diErE/maxresdefault.jpg",
+ "lessonCount": 13,
+ "duration": 74173,
+ "lessons": [
+  {
+   "n": 1,
+   "title": "تأسيس الفقيه",
+   "lang": "ar",
+   "scholarId": "سعد-الخثلان",
+   "videoId": "WLMot5diErE",
+   "duration": 3260,
+   "hijriDate": "1446-07-08"
+  },
+  {
+   "n": 2,
+   "title": "مدخل الفقه الحنفي (1 من 2)",
+   "lang": "ar",
+   "scholarId": "عبدالاله-الملا",
+   "videoId": "HEGVj3M19_A",
+   "duration": 7085,
+   "hijriDate": "1446-07-14"
+  },
+  {
+   "n": 3,
+   "title": "مدخل الفقه الحنفي (2 من 2)",
+   "lang": "ar",
+   "scholarId": "عبدالاله-الملا",
+   "videoId": "Pv7Jtmu-lCM",
+   "duration": 7250,
+   "hijriDate": "1446-07-15"
+  },
+  {
+   "n": 4,
+   "title": "مدخل الفقه المالكي (1 من 2)",
+   "lang": "ar",
+   "scholarId": "عبدالباقي-مبارك",
+   "videoId": "toW9DjJ4mAE",
+   "duration": 4060,
+   "hijriDate": "1446-07-19"
+  },
+  {
+   "n": 5,
+   "title": "مدخل الفقه المالكي (2 من 2)",
+   "lang": "ar",
+   "scholarId": "عبدالباقي-مبارك",
+   "videoId": "PjOn-1DrE9k",
+   "duration": 5075,
+   "hijriDate": "1446-07-20"
+  },
+  {
+   "n": 6,
+   "title": "مدخل الفقه الشافعي (1 من 2)",
+   "lang": "ar",
+   "scholarId": "عبدالرحمن-القرني",
+   "videoId": "v2KQiALz4wU",
+   "duration": 6406,
+   "hijriDate": "1446-07-21"
+  },
+  {
+   "n": 7,
+   "title": "مدخل الفقه الشافعي (2 من 2)",
+   "lang": "ar",
+   "scholarId": "عبدالرحمن-القرني",
+   "videoId": "vyy8LdnCrBo",
+   "duration": 4561,
+   "hijriDate": "1446-07-22"
+  },
+  {
+   "n": 8,
+   "title": "مدخل الفقه الحنبلي (1 من 2)",
+   "lang": "ar",
+   "scholarId": "خالد-عروس",
+   "videoId": "8jcLiQA9pNQ",
+   "duration": 5740,
+   "hijriDate": "1446-07-25"
+  },
+  {
+   "n": 9,
+   "title": "مدخل الفقه الحنبلي (2 من 2)",
+   "lang": "ar",
+   "scholarId": "خالد-عروس",
+   "videoId": "OnAD-5R-Bpw",
+   "duration": 5150,
+   "hijriDate": "1446-07-26"
+  },
+  {
+   "n": 10,
+   "title": "مصادر الفقه (1 من 2)",
+   "lang": "ar",
+   "scholarId": "ياسر-الدوسري",
+   "videoId": "-lfMuWjrHqo",
+   "duration": 6209,
+   "hijriDate": "1446-07-28"
+  },
+  {
+   "n": 11,
+   "title": "مصادر الفقه (2 من 2)",
+   "lang": "ar",
+   "scholarId": "ياسر-الدوسري",
+   "videoId": "TrXRItpkkFg",
+   "duration": 5526,
+   "hijriDate": "1446-07-29"
+  },
+  {
+   "n": 12,
+   "title": "ضوابط الفتوى",
+   "lang": "ar",
+   "scholarId": "غازي-العتيبي",
+   "videoId": "h1VphHHpwlU",
+   "duration": 9040,
+   "hijriDate": "1446-07-30"
+  },
+  {
+   "n": 13,
+   "title": "تكوين الملكة الفقهية",
+   "lang": "ar",
+   "scholarId": "صالح-الشيخ",
+   "videoId": "jTp7PbOJBCo",
+   "duration": 4811,
+   "hijriDate": "1446-08-02"
+  }
+ ]
+}

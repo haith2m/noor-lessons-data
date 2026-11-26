@@ -1,0 +1,57 @@
+{
+ "id": "PLriFofF1xij6lANpyGcV39TB2J_t0cBEb",
+ "title": "رسالة ثلاثة الأصول",
+ "subject": "general",
+ "kind": "series",
+ "lang": "ar",
+ "scholarId": "سليمان-الغصن",
+ "scholarIds": [
+  "سليمان-الغصن"
+ ],
+ "year": null,
+ "source": "youtube",
+ "channelId": "UC0XNCc-DU8J5_ksR-eufPaw",
+ "playlistId": "PLriFofF1xij6lANpyGcV39TB2J_t0cBEb",
+ "url": "https://www.youtube.com/playlist?list=PLriFofF1xij6lANpyGcV39TB2J_t0cBEb",
+ "thumbnail": "https://i.ytimg.com/vi/iFj2tTnuZ3k/maxresdefault.jpg",
+ "lessonCount": 4,
+ "duration": 17605,
+ "lessons": [
+  {
+   "n": 1,
+   "title": "الدرس 1",
+   "lang": "ar",
+   "scholarId": "سليمان-الغصن",
+   "videoId": "NoP24O7pdNo",
+   "duration": 2462,
+   "hijriDate": null
+  },
+  {
+   "n": 2,
+   "title": "الدرس 2",
+   "lang": "ar",
+   "scholarId": "سليمان-الغصن",
+   "videoId": "0ChP3utA2RE",
+   "duration": 6135,
+   "hijriDate": null
+  },
+  {
+   "n": 3,
+   "title": "الدرس 3",
+   "lang": "ar",
+   "scholarId": "سليمان-الغصن",
+   "videoId": "iFj2tTnuZ3k",
+   "duration": 4535,
+   "hijriDate": null
+  },
+  {
+   "n": 4,
+   "title": "الدرس 4",
+   "lang": "ar",
+   "scholarId": "سليمان-الغصن",
+   "videoId": "OazLW3g-Gu8",
+   "duration": 4473,
+   "hijriDate": null
+  }
+ ]
+}

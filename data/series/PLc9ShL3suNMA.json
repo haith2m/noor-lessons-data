@@ -1,0 +1,66 @@
+{
+ "id": "PLc9ShL3suNMA",
+ "title": "الزكاة من عمدة الأحكام",
+ "subject": "fiqh",
+ "kind": "series",
+ "lang": "ar",
+ "scholarId": "صالح-حميد",
+ "scholarIds": [
+  "صالح-حميد"
+ ],
+ "year": 1448,
+ "source": "youtube",
+ "channelId": "UC3QAoXf9GN9xeQYhk-AZbTg",
+ "playlistId": "PLc9ShL3suNMA",
+ "url": "https://www.youtube.com/playlist?list=PLc9ShL3suNMA",
+ "thumbnail": "https://i.ytimg.com/vi/EDB6VQQcuhM/maxresdefault.jpg",
+ "lessonCount": 5,
+ "duration": 13676,
+ "lessons": [
+  {
+   "n": 1,
+   "title": "الدرس 1",
+   "lang": "ar",
+   "scholarId": "صالح-حميد",
+   "videoId": "oqnBUsy1Z2o",
+   "duration": 2597,
+   "hijriDate": "1448-02-12"
+  },
+  {
+   "n": 2,
+   "title": "الدرس 2",
+   "lang": "ar",
+   "scholarId": "صالح-حميد",
+   "videoId": "ODu6HRBbJVg",
+   "duration": 3314,
+   "hijriDate": "1448-02-13"
+  },
+  {
+   "n": 3,
+   "title": "الدرس 3",
+   "lang": "ar",
+   "scholarId": "صالح-حميد",
+   "videoId": "1RIzKRm9a0w",
+   "duration": 2347,
+   "hijriDate": "1448-02-15"
+  },
+  {
+   "n": 4,
+   "title": "الدرس 4",
+   "lang": "ar",
+   "scholarId": "صالح-حميد",
+   "videoId": "4tgzbIAwjno",
+   "duration": 3106,
+   "hijriDate": "1448-02-16"
+  },
+  {
+   "n": 5,
+   "title": "الدرس 5",
+   "lang": "ar",
+   "scholarId": "صالح-حميد",
+   "videoId": "EDB6VQQcuhM",
+   "duration": 2312,
+   "hijriDate": "1448-02-18"
+  }
+ ]
+}

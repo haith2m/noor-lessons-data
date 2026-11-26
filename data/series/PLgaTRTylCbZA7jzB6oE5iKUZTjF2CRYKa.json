@@ -1,0 +1,30 @@
+{
+ "id": "PLgaTRTylCbZA7jzB6oE5iKUZTjF2CRYKa",
+ "title": "دورة التأسيس الفقهي",
+ "subject": "fiqh",
+ "kind": "series",
+ "lang": "ar",
+ "scholarId": "سعد-الخثلان",
+ "scholarIds": [
+  "سعد-الخثلان"
+ ],
+ "year": 1446,
+ "source": "youtube",
+ "channelId": "UC3QAoXf9GN9xeQYhk-AZbTg",
+ "playlistId": "PLgaTRTylCbZA7jzB6oE5iKUZTjF2CRYKa",
+ "url": "https://www.youtube.com/playlist?list=PLgaTRTylCbZA7jzB6oE5iKUZTjF2CRYKa",
+ "thumbnail": "https://i.ytimg.com/vi/4WI-8jTK-iY/sddefault.jpg",
+ "lessonCount": 1,
+ "duration": 3139,
+ "lessons": [
+  {
+   "n": 1,
+   "title": "تأسيس الفقيه",
+   "lang": "ar",
+   "scholarId": "سعد-الخثلان",
+   "videoId": "4WI-8jTK-iY",
+   "duration": 3139,
+   "hijriDate": "1446-07-08"
+  }
+ ]
+}

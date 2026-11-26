@@ -1,0 +1,99 @@
+{
+ "id": "PLQabX7t93Vr0",
+ "title": "دورة الثوابت الشرعية في حماية الأوطان والمقدسات",
+ "subject": "general",
+ "kind": "course",
+ "lang": "ar",
+ "scholarId": null,
+ "scholarIds": [
+  "حسن-بخاري",
+  "سليمان-الغصن",
+  "سليمان-التويجري",
+  "خالد-عروس",
+  "علي-العلياني",
+  "غازي-العتيبي",
+  "عبدالرحمن-القرني"
+ ],
+ "year": 1448,
+ "source": "youtube",
+ "channelId": "UC3QAoXf9GN9xeQYhk-AZbTg",
+ "playlistId": "PLQabX7t93Vr0",
+ "url": "https://www.youtube.com/playlist?list=PLQabX7t93Vr0",
+ "thumbnail": "https://i.ytimg.com/vi/PgFF-BZG0JU/maxresdefault.jpg",
+ "lessonCount": 8,
+ "duration": 25807,
+ "lessons": [
+  {
+   "n": 1,
+   "title": "الحرمان الشريفان في عقيدة المسلمين ومكانتهما",
+   "lang": "ar",
+   "scholarId": "حسن-بخاري",
+   "videoId": "qyXeOTujUTk",
+   "duration": 2306,
+   "hijriDate": "1448-05-20"
+  },
+  {
+   "n": 2,
+   "title": "تبشير الجنود المرابطين على الحدود",
+   "lang": "ar",
+   "scholarId": "سليمان-الغصن",
+   "videoId": "jU0Z3bT1Smo",
+   "duration": 3264,
+   "hijriDate": "1448-05-23"
+  },
+  {
+   "n": 3,
+   "title": "خطر جماعة الحوثي وبيان فساد منهجهم",
+   "lang": "ar",
+   "scholarId": "سليمان-الغصن",
+   "videoId": "fEQ91qsuKFo",
+   "duration": 3123,
+   "hijriDate": "1448-05-23"
+  },
+  {
+   "n": 4,
+   "title": "أصول أهل السنة والجماعة في الطاعة ولزوم الجماعة",
+   "lang": "ar",
+   "scholarId": "سليمان-التويجري",
+   "videoId": "F9zdlsm4acQ",
+   "duration": 3867,
+   "hijriDate": "1448-05-27"
+  },
+  {
+   "n": 5,
+   "title": "الدفاع عن الأوطان في الشريعة الإسلامية",
+   "lang": "ar",
+   "scholarId": "خالد-عروس",
+   "videoId": "PgFF-BZG0JU",
+   "duration": 2737,
+   "hijriDate": "1448-05-27"
+  },
+  {
+   "n": 6,
+   "title": "مكانة الصحابةرضي الله عنهم",
+   "lang": "ar",
+   "scholarId": "علي-العلياني",
+   "videoId": "XnSuwMQ7_gI",
+   "duration": 3246,
+   "hijriDate": "1448-05-30"
+  },
+  {
+   "n": 7,
+   "title": "منهج التلقي عند أهل السنة والجماعة",
+   "lang": "ar",
+   "scholarId": "غازي-العتيبي",
+   "videoId": "dVTu8X0l8Tg",
+   "duration": 4262,
+   "hijriDate": "1448-05-30"
+  },
+  {
+   "n": 8,
+   "title": "المملكة العربية السعودية وحماية الحرمين",
+   "lang": "ar",
+   "scholarId": "عبدالرحمن-القرني",
+   "videoId": "QLlmC04_a94",
+   "duration": 3002,
+   "hijriDate": "1448-06-01"
+  }
+ ]
+}

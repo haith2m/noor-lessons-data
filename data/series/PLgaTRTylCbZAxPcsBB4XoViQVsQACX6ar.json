@@ -1,0 +1,69 @@
+{
+ "id": "PLgaTRTylCbZAxPcsBB4XoViQVsQACX6ar",
+ "title": "الدورة الفكرية التأصيلية في الحج",
+ "subject": "fiqh",
+ "kind": "course",
+ "lang": "ar",
+ "scholarId": null,
+ "scholarIds": [
+  "علي-العلياني",
+  "يوسف-الوابل",
+  "عبدالرحمن-القرني",
+  "سليمان-التويجري"
+ ],
+ "year": 1447,
+ "source": "youtube",
+ "channelId": "UC3QAoXf9GN9xeQYhk-AZbTg",
+ "playlistId": "PLgaTRTylCbZAxPcsBB4XoViQVsQACX6ar",
+ "url": "https://www.youtube.com/playlist?list=PLgaTRTylCbZAxPcsBB4XoViQVsQACX6ar",
+ "thumbnail": "https://i.ytimg.com/vi/hj9xxfXO_Lw/maxresdefault.jpg",
+ "lessonCount": 5,
+ "duration": 12021,
+ "lessons": [
+  {
+   "n": 1,
+   "title": "المحجة البيضاء",
+   "lang": "ar",
+   "scholarId": "علي-العلياني",
+   "videoId": "femvUdGDSfA",
+   "duration": 1317,
+   "hijriDate": "1447-11-18"
+  },
+  {
+   "n": 2,
+   "title": "الوسطية في المناسك (1 من 2)",
+   "lang": "ar",
+   "scholarId": "يوسف-الوابل",
+   "videoId": "7DoT-c89EI0",
+   "duration": 2302,
+   "hijriDate": "1447-11-25"
+  },
+  {
+   "n": 3,
+   "title": "الوسطية في المناسك (2 من 2)",
+   "lang": "ar",
+   "scholarId": "يوسف-الوابل",
+   "videoId": "QefjhUKx3_w",
+   "duration": 1410,
+   "hijriDate": "1447-11-25"
+  },
+  {
+   "n": 4,
+   "title": "مقصد الاجتماع في الحج",
+   "lang": "ar",
+   "scholarId": "عبدالرحمن-القرني",
+   "videoId": "ivRr9pzkFHs",
+   "duration": 3450,
+   "hijriDate": "1447-11-25"
+  },
+  {
+   "n": 5,
+   "title": "أمثالَ هؤلاءِ فَارْمُوا",
+   "lang": "ar",
+   "scholarId": "سليمان-التويجري",
+   "videoId": "hj9xxfXO_Lw",
+   "duration": 3542,
+   "hijriDate": "1447-11-30"
+  }
+ ]
+}

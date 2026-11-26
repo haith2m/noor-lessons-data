@@ -1,0 +1,129 @@
+{
+ "id": "PLgaTRTylCbZBWeiMiiIHFtzb-8OUSehqM",
+ "title": "سلسلة محاضرات رمضان مسائل وأحكام",
+ "subject": "fiqh",
+ "kind": "course",
+ "lang": "ar",
+ "scholarId": null,
+ "scholarIds": [
+  "علي-العلياني",
+  "خالد-عروس",
+  "سامي-الصقير",
+  "شرف-الشريف",
+  "عبدالرحمن-السديس",
+  "سعد-الشثري",
+  "طلال-ابوالنور",
+  "سليمان-التويجري",
+  "حسن-بخاري",
+  "وصي-عباس"
+ ],
+ "year": 1439,
+ "source": "youtube",
+ "channelId": "UC3QAoXf9GN9xeQYhk-AZbTg",
+ "playlistId": "PLgaTRTylCbZBWeiMiiIHFtzb-8OUSehqM",
+ "url": "https://www.youtube.com/playlist?list=PLgaTRTylCbZBWeiMiiIHFtzb-8OUSehqM",
+ "thumbnail": "https://i.ytimg.com/vi/7sEePxcmKcs/sddefault.jpg",
+ "lessonCount": 11,
+ "duration": 38355,
+ "lessons": [
+  {
+   "n": 1,
+   "title": "أذلك خير أم جنة الخلد",
+   "lang": "ar",
+   "scholarId": "علي-العلياني",
+   "videoId": "dxnvYSRGzII",
+   "duration": 3661,
+   "hijriDate": "1439-08-21"
+  },
+  {
+   "n": 2,
+   "title": "مقاصد الصيام",
+   "lang": "ar",
+   "scholarId": "خالد-عروس",
+   "videoId": "lQnoSps6Mlw",
+   "duration": 1566,
+   "hijriDate": "1439-08-23"
+  },
+  {
+   "n": 3,
+   "title": "كتب عليكم الصيام",
+   "lang": "ar",
+   "scholarId": "سامي-الصقير",
+   "videoId": "z0s4XNmwkeA",
+   "duration": 3559,
+   "hijriDate": "1439-08-25"
+  },
+  {
+   "n": 4,
+   "title": "جاء رمضان",
+   "lang": "ar",
+   "scholarId": "شرف-الشريف",
+   "videoId": "aW6QiyAhN7E",
+   "duration": 4092,
+   "hijriDate": "1439-08-26"
+  },
+  {
+   "n": 5,
+   "title": "تفسير آيات الصيام",
+   "lang": "ar",
+   "scholarId": "عبدالرحمن-السديس",
+   "videoId": "x_R5ARpiy1o",
+   "duration": 4035,
+   "hijriDate": "1439-08-27"
+  },
+  {
+   "n": 6,
+   "title": "واعبدوا الله ولا تشركوا به شيئا",
+   "lang": "ar",
+   "scholarId": "سعد-الشثري",
+   "videoId": "hZuJsJ64qGY",
+   "duration": 2997,
+   "hijriDate": "1439-08-28"
+  },
+  {
+   "n": 7,
+   "title": "أفلا يتوبون إلى الله",
+   "lang": "ar",
+   "scholarId": "طلال-ابوالنور",
+   "videoId": "7sEePxcmKcs",
+   "duration": 5708,
+   "hijriDate": "1439-09-01"
+  },
+  {
+   "n": 8,
+   "title": "هل هن كاشفات ضره",
+   "lang": "ar",
+   "scholarId": "سليمان-التويجري",
+   "videoId": "KOwavPmYUB8",
+   "duration": 2399,
+   "hijriDate": "1439-09-03"
+  },
+  {
+   "n": 9,
+   "title": "فيدارسه القرآن",
+   "lang": "ar",
+   "scholarId": "حسن-بخاري",
+   "videoId": "QJxow2AHw0Y",
+   "duration": 3224,
+   "hijriDate": "1439-09-05"
+  },
+  {
+   "n": 10,
+   "title": "ولاتدع من دون الله مالاينفعك ولايضرك",
+   "lang": "ar",
+   "scholarId": "وصي-عباس",
+   "videoId": "37oqVwA5wE4",
+   "duration": 3574,
+   "hijriDate": "1439-09-07"
+  },
+  {
+   "n": 11,
+   "title": "هكذا طاف النبي ﷺ",
+   "lang": "ar",
+   "scholarId": "حسن-بخاري",
+   "videoId": "YNF_mphnU7w",
+   "duration": 3540,
+   "hijriDate": "1439-09-19"
+  }
+ ]
+}

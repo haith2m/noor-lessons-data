@@ -1,0 +1,57 @@
+{
+ "id": "PLriFofF1xij5GvBi971l1Z_RSmhEgYQrL",
+ "title": "رسالة الدرة الفاخرة",
+ "subject": "general",
+ "kind": "series",
+ "lang": "ar",
+ "scholarId": "سليمان-الرحيلي",
+ "scholarIds": [
+  "سليمان-الرحيلي"
+ ],
+ "year": null,
+ "source": "youtube",
+ "channelId": "UC0XNCc-DU8J5_ksR-eufPaw",
+ "playlistId": "PLriFofF1xij5GvBi971l1Z_RSmhEgYQrL",
+ "url": "https://www.youtube.com/playlist?list=PLriFofF1xij5GvBi971l1Z_RSmhEgYQrL",
+ "thumbnail": "https://i.ytimg.com/vi/Lpx-ZVihm2w/maxresdefault.jpg",
+ "lessonCount": 4,
+ "duration": 18008,
+ "lessons": [
+  {
+   "n": 1,
+   "title": "الدرس 1",
+   "lang": "ar",
+   "scholarId": "سليمان-الرحيلي",
+   "videoId": "Lpx-ZVihm2w",
+   "duration": 3497,
+   "hijriDate": null
+  },
+  {
+   "n": 2,
+   "title": "الدرس 2",
+   "lang": "ar",
+   "scholarId": "سليمان-الرحيلي",
+   "videoId": "C1zbfvZiC58",
+   "duration": 4631,
+   "hijriDate": null
+  },
+  {
+   "n": 3,
+   "title": "الدرس 3",
+   "lang": "ar",
+   "scholarId": "سليمان-الرحيلي",
+   "videoId": "C_-CJ5x9gdc",
+   "duration": 5070,
+   "hijriDate": null
+  },
+  {
+   "n": 4,
+   "title": "الدرس 4",
+   "lang": "ar",
+   "scholarId": "سليمان-الرحيلي",
+   "videoId": "HTeE92Xi0q0",
+   "duration": 4810,
+   "hijriDate": null
+  }
+ ]
+}

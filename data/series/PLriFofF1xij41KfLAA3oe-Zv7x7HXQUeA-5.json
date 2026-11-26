@@ -1,0 +1,39 @@
+{
+ "id": "PLriFofF1xij41KfLAA3oe-Zv7x7HXQUeA-5",
+ "title": "تفسير آيات الحج في سورتي البقرة والحج",
+ "subject": "tafsir",
+ "kind": "series",
+ "lang": "ar",
+ "scholarId": "عبداللطيف-الشاماني",
+ "scholarIds": [
+  "عبداللطيف-الشاماني"
+ ],
+ "year": null,
+ "source": "youtube",
+ "channelId": "UC0XNCc-DU8J5_ksR-eufPaw",
+ "playlistId": "PLriFofF1xij41KfLAA3oe-Zv7x7HXQUeA",
+ "url": "https://www.youtube.com/playlist?list=PLriFofF1xij41KfLAA3oe-Zv7x7HXQUeA",
+ "thumbnail": "https://i.ytimg.com/vi/nx17v4L-k_k/maxresdefault.jpg",
+ "lessonCount": 2,
+ "duration": 7391,
+ "lessons": [
+  {
+   "n": 1,
+   "title": "الدرس 1",
+   "lang": "ar",
+   "scholarId": "عبداللطيف-الشاماني",
+   "videoId": "WTre0bsoEYg",
+   "duration": 4150,
+   "hijriDate": null
+  },
+  {
+   "n": 2,
+   "title": "الدرس 2",
+   "lang": "ar",
+   "scholarId": "عبداللطيف-الشاماني",
+   "videoId": "kg6dOYvEM8c",
+   "duration": 3241,
+   "hijriDate": null
+  }
+ ]
+}

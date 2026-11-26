@@ -1,0 +1,329 @@
+{
+ "id": "PLLl-NNFnTlEA",
+ "title": "الدورة العلمية الصيفية",
+ "subject": "fiqh",
+ "kind": "course",
+ "lang": "ar",
+ "scholarId": null,
+ "scholarIds": [
+  "عبدالله-المطلق",
+  "عبدالباقي-مبارك",
+  "سعد-الشثري",
+  "سامي-الصقير",
+  "سلمان-الدخيل",
+  "عبدالاله-الملا",
+  "عبدالرحمن-السديس",
+  "عبدالسلام-الشويعر",
+  "سليمان-الغصن",
+  "محمد-اليوبي",
+  "صالح-الشيخ",
+  "سعد-الخثلان"
+ ],
+ "year": 1448,
+ "source": "youtube",
+ "channelId": "UC0XNCc-DU8J5_ksR-eufPaw",
+ "playlistId": "PLLl-NNFnTlEA",
+ "url": "https://www.youtube.com/playlist?list=PLLl-NNFnTlEA",
+ "thumbnail": "https://i.ytimg.com/vi/kyx5cwfzcjk/maxresdefault.jpg",
+ "lessonCount": 33,
+ "duration": 131649,
+ "lessons": [
+  {
+   "n": 1,
+   "title": "كتاب فقه السنة الميسر",
+   "lang": "ar",
+   "scholarId": "عبدالله-المطلق",
+   "videoId": "kyx5cwfzcjk",
+   "duration": 4291,
+   "hijriDate": null
+  },
+  {
+   "n": 2,
+   "title": "الفروق والتقاسيم الفقهية",
+   "lang": "ar",
+   "scholarId": "عبدالباقي-مبارك",
+   "videoId": "RHxC8jC9ucY",
+   "duration": 4034,
+   "hijriDate": null
+  },
+  {
+   "n": 3,
+   "title": "صناعة الاستدلال الفقهية",
+   "lang": "ar",
+   "scholarId": "سعد-الشثري",
+   "videoId": "yWnkmU3F-Kk",
+   "duration": 3368,
+   "hijriDate": null
+  },
+  {
+   "n": 4,
+   "title": "كتاب فقه السنة الميسر",
+   "lang": "ar",
+   "scholarId": "عبدالله-المطلق",
+   "videoId": "rdsvhEyR3xE",
+   "duration": 3876,
+   "hijriDate": null
+  },
+  {
+   "n": 5,
+   "title": "مقدمة في القواعد الفقهية",
+   "lang": "ar",
+   "scholarId": "سامي-الصقير",
+   "videoId": "lihlKy4bnj0",
+   "duration": 3445,
+   "hijriDate": null
+  },
+  {
+   "n": 6,
+   "title": "كتاب فقه السنة الميسر",
+   "lang": "ar",
+   "scholarId": "عبدالله-المطلق",
+   "videoId": "Cg0AcH_d_tE",
+   "duration": 4245,
+   "hijriDate": null
+  },
+  {
+   "n": 7,
+   "title": "مصادر التلقي والاستدلال",
+   "lang": "ar",
+   "scholarId": "سلمان-الدخيل",
+   "videoId": "xsF7N_UKag4",
+   "duration": 4047,
+   "hijriDate": null
+  },
+  {
+   "n": 8,
+   "title": "معالم في تاريخ الفقه",
+   "lang": "ar",
+   "scholarId": "عبدالاله-الملا",
+   "videoId": "_kXUNQ6IC8M",
+   "duration": 4398,
+   "hijriDate": null
+  },
+  {
+   "n": 9,
+   "title": "كتاب فقه السنة الميسر",
+   "lang": "ar",
+   "scholarId": "عبدالله-المطلق",
+   "videoId": "p8PZ00Jei9w",
+   "duration": 2937,
+   "hijriDate": null
+  },
+  {
+   "n": 10,
+   "title": "كتاب التوحيد - كتاب زاد المعاد",
+   "lang": "ar",
+   "scholarId": "عبدالرحمن-السديس",
+   "videoId": "xo9j44Vsa9I",
+   "duration": 4531,
+   "hijriDate": null
+  },
+  {
+   "n": 11,
+   "title": "كتاب فقه السنة الميسر",
+   "lang": "ar",
+   "scholarId": "عبدالله-المطلق",
+   "videoId": "Yout0eczhM0",
+   "duration": 4125,
+   "hijriDate": null
+  },
+  {
+   "n": 12,
+   "title": "اكتساب الملكة الفقهية",
+   "lang": "ar",
+   "scholarId": "عبدالسلام-الشويعر",
+   "videoId": "nxT_2lUrCPE",
+   "duration": 3191,
+   "hijriDate": null
+  },
+  {
+   "n": 13,
+   "title": "رسالة مقدمة أبي زيد القيرواني",
+   "lang": "ar",
+   "scholarId": "سليمان-الغصن",
+   "videoId": "mg6hjTmzBAs",
+   "duration": 4304,
+   "hijriDate": null
+  },
+  {
+   "n": 14,
+   "title": "رسالة مقدمة أبي زيد القيرواني",
+   "lang": "ar",
+   "scholarId": "سليمان-الغصن",
+   "videoId": "Oeos4xgA7rY",
+   "duration": 3862,
+   "hijriDate": null
+  },
+  {
+   "n": 15,
+   "title": "كتاب فقه السنة الميسر",
+   "lang": "ar",
+   "scholarId": "عبدالله-المطلق",
+   "videoId": "4G3ICFvS9ZM",
+   "duration": 4041,
+   "hijriDate": null
+  },
+  {
+   "n": 16,
+   "title": "كتاب فقه السنة الميسر",
+   "lang": "ar",
+   "scholarId": "عبدالله-المطلق",
+   "videoId": "78G_DWjzG-4",
+   "duration": 2934,
+   "hijriDate": null
+  },
+  {
+   "n": 17,
+   "title": "رسالة مقدمة أبي زيد القيرواني",
+   "lang": "ar",
+   "scholarId": "سليمان-الغصن",
+   "videoId": "uNIdwDF8npM",
+   "duration": 3678,
+   "hijriDate": null
+  },
+  {
+   "n": 18,
+   "title": "رسالة مقدمة أبي زيد القيرواني",
+   "lang": "ar",
+   "scholarId": "سليمان-الغصن",
+   "videoId": "7DHugs59LXw",
+   "duration": 4432,
+   "hijriDate": null
+  },
+  {
+   "n": 19,
+   "title": "كتاب فقه السنة الميسر",
+   "lang": "ar",
+   "scholarId": "عبدالله-المطلق",
+   "videoId": "HRyCx1QRSYs",
+   "duration": 3949,
+   "hijriDate": null
+  },
+  {
+   "n": 20,
+   "title": "منظومة القواعد الفقهية",
+   "lang": "ar",
+   "scholarId": "محمد-اليوبي",
+   "videoId": "Xw8LYunLsOM",
+   "duration": 4445,
+   "hijriDate": null
+  },
+  {
+   "n": 21,
+   "title": "تكملة تفسير سورة يس",
+   "lang": "ar",
+   "scholarId": "صالح-الشيخ",
+   "videoId": "m1E_ibWJUC4",
+   "duration": 7670,
+   "hijriDate": null
+  },
+  {
+   "n": 22,
+   "title": "منظومة القواعد الفقهية",
+   "lang": "ar",
+   "scholarId": "محمد-اليوبي",
+   "videoId": "PEbLSg3OtvY",
+   "duration": 3765,
+   "hijriDate": null
+  },
+  {
+   "n": 23,
+   "title": "منظومة القواعد الفقهية",
+   "lang": "ar",
+   "scholarId": "محمد-اليوبي",
+   "videoId": "ox52FqBHjPk",
+   "duration": 2737,
+   "hijriDate": null
+  },
+  {
+   "n": 24,
+   "title": "كتاب فروع الفقه",
+   "lang": "ar",
+   "scholarId": "سعد-الخثلان",
+   "videoId": "WR2Js_6KUUc",
+   "duration": 4534,
+   "hijriDate": null
+  },
+  {
+   "n": 25,
+   "title": "منظومة القواعد الفقهية",
+   "lang": "ar",
+   "scholarId": "محمد-اليوبي",
+   "videoId": "sQBfrErXhUU",
+   "duration": 2652,
+   "hijriDate": null
+  },
+  {
+   "n": 26,
+   "title": "كتاب فروع الفقه",
+   "lang": "ar",
+   "scholarId": "سعد-الخثلان",
+   "videoId": "-uwr0AGSf6c",
+   "duration": 4397,
+   "hijriDate": null
+  },
+  {
+   "n": 27,
+   "title": "منظومة القواعد الفقهية",
+   "lang": "ar",
+   "scholarId": "محمد-اليوبي",
+   "videoId": "1ef0fXz8fRA",
+   "duration": 2896,
+   "hijriDate": null
+  },
+  {
+   "n": 28,
+   "title": "كتاب فروع الفقه",
+   "lang": "ar",
+   "scholarId": "سعد-الخثلان",
+   "videoId": "l47g5sXLDGI",
+   "duration": 4568,
+   "hijriDate": null
+  },
+  {
+   "n": 29,
+   "title": "كتاب فروع الفقه",
+   "lang": "ar",
+   "scholarId": "سعد-الخثلان",
+   "videoId": "4-_BUEf_nHk",
+   "duration": 5674,
+   "hijriDate": null
+  },
+  {
+   "n": 30,
+   "title": "كتاب فروع الفقه",
+   "lang": "ar",
+   "scholarId": "سعد-الخثلان",
+   "videoId": "kzHTCsLPoi8",
+   "duration": 3744,
+   "hijriDate": null
+  },
+  {
+   "n": 31,
+   "title": "منظومة القواعد الفقهية",
+   "lang": "ar",
+   "scholarId": "محمد-اليوبي",
+   "videoId": "TmhpbSImqPM",
+   "duration": 3603,
+   "hijriDate": null
+  },
+  {
+   "n": 32,
+   "title": "منظومة القواعد الفقهية",
+   "lang": "ar",
+   "scholarId": "محمد-اليوبي",
+   "videoId": "FgBR6p8pbJ0",
+   "duration": 2978,
+   "hijriDate": null
+  },
+  {
+   "n": 33,
+   "title": "كتاب فروع الفقه",
+   "lang": "ar",
+   "scholarId": "سعد-الخثلان",
+   "videoId": "D-NxGL6C314",
+   "duration": 4298,
+   "hijriDate": null
+  }
+ ]
+}

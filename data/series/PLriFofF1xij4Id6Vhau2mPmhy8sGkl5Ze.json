@@ -1,0 +1,48 @@
+{
+ "id": "PLriFofF1xij4Id6Vhau2mPmhy8sGkl5Ze",
+ "title": "منسك ابن بلبان",
+ "subject": "fiqh",
+ "kind": "series",
+ "lang": "ar",
+ "scholarId": "عبدالسلام-الشويعر",
+ "scholarIds": [
+  "عبدالسلام-الشويعر"
+ ],
+ "year": null,
+ "source": "youtube",
+ "channelId": "UC0XNCc-DU8J5_ksR-eufPaw",
+ "playlistId": "PLriFofF1xij4Id6Vhau2mPmhy8sGkl5Ze",
+ "url": "https://www.youtube.com/playlist?list=PLriFofF1xij4Id6Vhau2mPmhy8sGkl5Ze",
+ "thumbnail": "https://i.ytimg.com/vi/1sg5jcQOW_k/maxresdefault.jpg",
+ "lessonCount": 3,
+ "duration": 13460,
+ "lessons": [
+  {
+   "n": 1,
+   "title": "الدرس 1",
+   "lang": "ar",
+   "scholarId": "عبدالسلام-الشويعر",
+   "videoId": "1sg5jcQOW_k",
+   "duration": 4271,
+   "hijriDate": null
+  },
+  {
+   "n": 2,
+   "title": "الدرس 2",
+   "lang": "ar",
+   "scholarId": "عبدالسلام-الشويعر",
+   "videoId": "ADBy7pbdTd0",
+   "duration": 4568,
+   "hijriDate": null
+  },
+  {
+   "n": 3,
+   "title": "الدرس 3",
+   "lang": "ar",
+   "scholarId": "عبدالسلام-الشويعر",
+   "videoId": "Citd8iP8Muw",
+   "duration": 4621,
+   "hijriDate": null
+  }
+ ]
+}

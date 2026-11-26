@@ -1,0 +1,48 @@
+{
+ "id": "PLriFofF1xij6jORjbSigmw17FOpalK9bs",
+ "title": "مناسك الحج والعمرة لشيخ الإسلام ابن تيمية",
+ "subject": "fiqh",
+ "kind": "series",
+ "lang": "ar",
+ "scholarId": "عبدالله-الزاحم",
+ "scholarIds": [
+  "عبدالله-الزاحم"
+ ],
+ "year": null,
+ "source": "youtube",
+ "channelId": "UC0XNCc-DU8J5_ksR-eufPaw",
+ "playlistId": "PLriFofF1xij6jORjbSigmw17FOpalK9bs",
+ "url": "https://www.youtube.com/playlist?list=PLriFofF1xij6jORjbSigmw17FOpalK9bs",
+ "thumbnail": "https://i.ytimg.com/vi/T5xj9u_r7x0/maxresdefault.jpg",
+ "lessonCount": 3,
+ "duration": 13217,
+ "lessons": [
+  {
+   "n": 1,
+   "title": "الدرس 1",
+   "lang": "ar",
+   "scholarId": "عبدالله-الزاحم",
+   "videoId": "T5xj9u_r7x0",
+   "duration": 3776,
+   "hijriDate": null
+  },
+  {
+   "n": 2,
+   "title": "الدرس 2",
+   "lang": "ar",
+   "scholarId": "عبدالله-الزاحم",
+   "videoId": "jKrw-m7fG6c",
+   "duration": 3932,
+   "hijriDate": null
+  },
+  {
+   "n": 3,
+   "title": "الدرس 3",
+   "lang": "ar",
+   "scholarId": "عبدالله-الزاحم",
+   "videoId": "4ZKfvF_qJTo",
+   "duration": 5509,
+   "hijriDate": null
+  }
+ ]
+}

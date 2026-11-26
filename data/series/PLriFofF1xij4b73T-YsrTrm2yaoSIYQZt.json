@@ -1,0 +1,57 @@
+{
+ "id": "PLriFofF1xij4b73T-YsrTrm2yaoSIYQZt",
+ "title": "سنن ابي داود",
+ "subject": "hadith",
+ "kind": "series",
+ "lang": "ar",
+ "scholarId": "علي-التويجري",
+ "scholarIds": [
+  "علي-التويجري"
+ ],
+ "year": null,
+ "source": "youtube",
+ "channelId": "UC0XNCc-DU8J5_ksR-eufPaw",
+ "playlistId": "PLriFofF1xij4b73T-YsrTrm2yaoSIYQZt",
+ "url": "https://www.youtube.com/playlist?list=PLriFofF1xij4b73T-YsrTrm2yaoSIYQZt",
+ "thumbnail": "https://i.ytimg.com/vi/6_pNKrBdT7c/maxresdefault.jpg",
+ "lessonCount": 4,
+ "duration": 11761,
+ "lessons": [
+  {
+   "n": 1,
+   "title": "الدرس 1",
+   "lang": "ar",
+   "scholarId": "علي-التويجري",
+   "videoId": "6_pNKrBdT7c",
+   "duration": 2634,
+   "hijriDate": null
+  },
+  {
+   "n": 2,
+   "title": "الدرس 2",
+   "lang": "ar",
+   "scholarId": "علي-التويجري",
+   "videoId": "wPevcVcfQLI",
+   "duration": 2776,
+   "hijriDate": null
+  },
+  {
+   "n": 3,
+   "title": "الدرس 3",
+   "lang": "ar",
+   "scholarId": "علي-التويجري",
+   "videoId": "EQhyPm4WcHQ",
+   "duration": 3252,
+   "hijriDate": null
+  },
+  {
+   "n": 4,
+   "title": "الدرس 4",
+   "lang": "ar",
+   "scholarId": "علي-التويجري",
+   "videoId": "ppuMgNrvSfw",
+   "duration": 3099,
+   "hijriDate": null
+  }
+ ]
+}

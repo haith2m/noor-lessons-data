@@ -1,0 +1,76 @@
+{
+ "id": "PLriFofF1xij4LuynU4BjvDAmlT9jphp43",
+ "title": "الدورة العلمية لموسم الحج (السلسلة الفقهية)",
+ "subject": "fiqh",
+ "kind": "course",
+ "lang": "ar",
+ "scholarId": null,
+ "scholarIds": [
+  "عبدالله-الزاحم",
+  "عبدالسلام-الشويعر"
+ ],
+ "year": 1443,
+ "source": "youtube",
+ "channelId": "UC0XNCc-DU8J5_ksR-eufPaw",
+ "playlistId": "PLriFofF1xij4LuynU4BjvDAmlT9jphp43",
+ "url": "https://www.youtube.com/playlist?list=PLriFofF1xij4LuynU4BjvDAmlT9jphp43",
+ "thumbnail": "https://i.ytimg.com/vi/UKpJG29R-9c/maxresdefault.jpg",
+ "lessonCount": 6,
+ "duration": 20815,
+ "lessons": [
+  {
+   "n": 1,
+   "title": "كتاب عمدة الفقه (الحج)",
+   "lang": "ar",
+   "scholarId": "عبدالله-الزاحم",
+   "videoId": "UKpJG29R-9c",
+   "duration": 3620,
+   "hijriDate": null
+  },
+  {
+   "n": 2,
+   "title": "كتاب عمدة الفقه (الحج)",
+   "lang": "ar",
+   "scholarId": "عبدالله-الزاحم",
+   "videoId": "09_IBwmqv0I",
+   "duration": 3709,
+   "hijriDate": null
+  },
+  {
+   "n": 3,
+   "title": "كتاب عمدة الفقه (الحج)",
+   "lang": "ar",
+   "scholarId": "عبدالله-الزاحم",
+   "videoId": "Z82E1Ef1e0Q",
+   "duration": 4952,
+   "hijriDate": null
+  },
+  {
+   "n": 4,
+   "title": "كتاب عمدة الفقه (الحج)",
+   "lang": "ar",
+   "scholarId": "عبدالله-الزاحم",
+   "videoId": "dbEtkbOiPK8",
+   "duration": 1804,
+   "hijriDate": null
+  },
+  {
+   "n": 5,
+   "title": "كتاب عمدة الفقه (الحج)",
+   "lang": "ar",
+   "scholarId": "عبدالسلام-الشويعر",
+   "videoId": "6P64K1zifYA",
+   "duration": 3684,
+   "hijriDate": null
+  },
+  {
+   "n": 6,
+   "title": "كتاب عمدة الفقه (الحج)",
+   "lang": "ar",
+   "scholarId": "عبدالسلام-الشويعر",
+   "videoId": "3NDIJvgvfao",
+   "duration": 3046,
+   "hijriDate": null
+  }
+ ]
+}

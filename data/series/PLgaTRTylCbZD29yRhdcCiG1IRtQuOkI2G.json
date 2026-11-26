@@ -1,0 +1,70 @@
+{
+ "id": "PLgaTRTylCbZD29yRhdcCiG1IRtQuOkI2G",
+ "title": "سلسة محاضرات البيعة",
+ "subject": "general",
+ "kind": "course",
+ "lang": "ar",
+ "scholarId": null,
+ "scholarIds": [
+  "سعد-الشثري",
+  "علي-العلياني",
+  "حمزه-الفعر",
+  "عبدالله-الغطيمل",
+  "شرف-الشريف"
+ ],
+ "year": 1441,
+ "source": "youtube",
+ "channelId": "UC3QAoXf9GN9xeQYhk-AZbTg",
+ "playlistId": "PLgaTRTylCbZD29yRhdcCiG1IRtQuOkI2G",
+ "url": "https://www.youtube.com/playlist?list=PLgaTRTylCbZD29yRhdcCiG1IRtQuOkI2G",
+ "thumbnail": "https://i.ytimg.com/vi/3pI63rONvRM/hqdefault.jpg",
+ "lessonCount": 5,
+ "duration": 4516,
+ "lessons": [
+  {
+   "n": 1,
+   "title": "البيعة الشرعية",
+   "lang": "ar",
+   "scholarId": "سعد-الشثري",
+   "videoId": "Mq7g27e7DRk",
+   "duration": 169,
+   "hijriDate": null
+  },
+  {
+   "n": 2,
+   "title": "وجوب طاعة ولي الأمر",
+   "lang": "ar",
+   "scholarId": "علي-العلياني",
+   "videoId": "yU-euFz5hsI",
+   "duration": 395,
+   "hijriDate": null
+  },
+  {
+   "n": 3,
+   "title": "الاجتماع على كلمة الإمام",
+   "lang": "ar",
+   "scholarId": "حمزه-الفعر",
+   "videoId": "SjVQ_mzzYR4",
+   "duration": 461,
+   "hijriDate": null
+  },
+  {
+   "n": 4,
+   "title": "تحقيق مقاصد الشريعة من خلال تنظيم شؤون الأمة",
+   "lang": "ar",
+   "scholarId": "عبدالله-الغطيمل",
+   "videoId": "3pI63rONvRM",
+   "duration": 1438,
+   "hijriDate": "1441-04-05"
+  },
+  {
+   "n": 5,
+   "title": "البيعة في الكتاب والسنة",
+   "lang": "ar",
+   "scholarId": "شرف-الشريف",
+   "videoId": "SXjQ6no5lRI",
+   "duration": 2053,
+   "hijriDate": "1442-04-10"
+  }
+ ]
+}

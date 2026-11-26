@@ -1,0 +1,57 @@
+{
+ "id": "PLriFofF1xij6disZtW0iRkJbLWhkm6z4-",
+ "title": "التوضيح والبيان لشجرة الإيمان للشيخ السعدي",
+ "subject": "aqeedah",
+ "kind": "series",
+ "lang": "ar",
+ "scholarId": "سليمان-الغصن",
+ "scholarIds": [
+  "سليمان-الغصن"
+ ],
+ "year": null,
+ "source": "youtube",
+ "channelId": "UC0XNCc-DU8J5_ksR-eufPaw",
+ "playlistId": "PLriFofF1xij6disZtW0iRkJbLWhkm6z4-",
+ "url": "https://www.youtube.com/playlist?list=PLriFofF1xij6disZtW0iRkJbLWhkm6z4-",
+ "thumbnail": "https://i.ytimg.com/vi/V584InbWulQ/maxresdefault.jpg",
+ "lessonCount": 4,
+ "duration": 20720,
+ "lessons": [
+  {
+   "n": 1,
+   "title": "الدرس 1",
+   "lang": "ar",
+   "scholarId": "سليمان-الغصن",
+   "videoId": "jesYst2fYqs",
+   "duration": 3677,
+   "hijriDate": null
+  },
+  {
+   "n": 2,
+   "title": "الدرس 2",
+   "lang": "ar",
+   "scholarId": "سليمان-الغصن",
+   "videoId": "V584InbWulQ",
+   "duration": 6557,
+   "hijriDate": null
+  },
+  {
+   "n": 3,
+   "title": "الدرس 3",
+   "lang": "ar",
+   "scholarId": "سليمان-الغصن",
+   "videoId": "y-j9ml6SFWg",
+   "duration": 4460,
+   "hijriDate": null
+  },
+  {
+   "n": 4,
+   "title": "الدرس 4",
+   "lang": "ar",
+   "scholarId": "سليمان-الغصن",
+   "videoId": "jrJljb8R58Q",
+   "duration": 6026,
+   "hijriDate": null
+  }
+ ]
+}

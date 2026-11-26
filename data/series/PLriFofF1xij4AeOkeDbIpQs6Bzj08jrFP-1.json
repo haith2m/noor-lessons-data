@@ -1,0 +1,66 @@
+{
+ "id": "PLriFofF1xij4AeOkeDbIpQs6Bzj08jrFP-1",
+ "title": "رسالة الوصية الصغرى",
+ "subject": "adab",
+ "kind": "series",
+ "lang": "ar",
+ "scholarId": "عبدالسلام-السحيمي",
+ "scholarIds": [
+  "عبدالسلام-السحيمي"
+ ],
+ "year": null,
+ "source": "youtube",
+ "channelId": "UC0XNCc-DU8J5_ksR-eufPaw",
+ "playlistId": "PLriFofF1xij4AeOkeDbIpQs6Bzj08jrFP",
+ "url": "https://www.youtube.com/playlist?list=PLriFofF1xij4AeOkeDbIpQs6Bzj08jrFP",
+ "thumbnail": "https://i.ytimg.com/vi/D4LTbxeHCqs/maxresdefault.jpg",
+ "lessonCount": 5,
+ "duration": 13991,
+ "lessons": [
+  {
+   "n": 1,
+   "title": "الدرس 1",
+   "lang": "ar",
+   "scholarId": "عبدالسلام-السحيمي",
+   "videoId": "D4LTbxeHCqs",
+   "duration": 2522,
+   "hijriDate": null
+  },
+  {
+   "n": 2,
+   "title": "الدرس 2",
+   "lang": "ar",
+   "scholarId": "عبدالسلام-السحيمي",
+   "videoId": "XMVw-14wPUI",
+   "duration": 2611,
+   "hijriDate": null
+  },
+  {
+   "n": 3,
+   "title": "الدرس 3",
+   "lang": "ar",
+   "scholarId": "عبدالسلام-السحيمي",
+   "videoId": "D8sYfR56PkU",
+   "duration": 2762,
+   "hijriDate": null
+  },
+  {
+   "n": 4,
+   "title": "الدرس 4",
+   "lang": "ar",
+   "scholarId": "عبدالسلام-السحيمي",
+   "videoId": "BhJvJhAO9W0",
+   "duration": 3048,
+   "hijriDate": null
+  },
+  {
+   "n": 5,
+   "title": "الدرس 5",
+   "lang": "ar",
+   "scholarId": "عبدالسلام-السحيمي",
+   "videoId": "CMdBkyMNVi4",
+   "duration": 3048,
+   "hijriDate": null
+  }
+ ]
+}

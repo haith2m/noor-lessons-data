@@ -1,0 +1,80 @@
+{
+ "id": "PLriFofF1xij5ohVRKVm8KA2psoMVAxN-K",
+ "title": "الدورة العلمية في بيان عقيدة ومنهج السلف الصالح رحمهم الله",
+ "subject": "aqeedah",
+ "kind": "course",
+ "lang": "ar",
+ "scholarId": null,
+ "scholarIds": [
+  "صالح-السحيمي",
+  "مسعود-المحمدي",
+  "عبدالسلام-السحيمي",
+  "سليمان-الرحيلي",
+  "بدر-البدر",
+  "عبدالرزاق-البدر"
+ ],
+ "year": 1446,
+ "source": "youtube",
+ "channelId": "UC0XNCc-DU8J5_ksR-eufPaw",
+ "playlistId": "PLriFofF1xij5ohVRKVm8KA2psoMVAxN-K",
+ "url": "https://www.youtube.com/playlist?list=PLriFofF1xij5ohVRKVm8KA2psoMVAxN-K",
+ "thumbnail": "https://i.ytimg.com/vi/V1T_dSsxoFI/maxresdefault.jpg",
+ "lessonCount": 6,
+ "duration": 22535,
+ "lessons": [
+  {
+   "n": 1,
+   "title": "أهمية عقيدة ومنهج السلف الصالح ومفهومها",
+   "lang": "ar",
+   "scholarId": "صالح-السحيمي",
+   "videoId": "V1T_dSsxoFI",
+   "duration": 2105,
+   "hijriDate": null
+  },
+  {
+   "n": 2,
+   "title": "منهج السلف الصالح في تعزيز الوسطية",
+   "lang": "ar",
+   "scholarId": "مسعود-المحمدي",
+   "videoId": "vFXcHaamnGg",
+   "duration": 4375,
+   "hijriDate": null
+  },
+  {
+   "n": 3,
+   "title": "جهود المملكة...في تعزيز منهج السلف الصالح",
+   "lang": "ar",
+   "scholarId": "عبدالسلام-السحيمي",
+   "videoId": "Ag3PNw7Ad34",
+   "duration": 4385,
+   "hijriDate": null
+  },
+  {
+   "n": 4,
+   "title": "منهج السلف الصالح وعوامل تحقيقه",
+   "lang": "ar",
+   "scholarId": "سليمان-الرحيلي",
+   "videoId": "0XtzjbuAXpI",
+   "duration": 4630,
+   "hijriDate": null
+  },
+  {
+   "n": 5,
+   "title": "منهج السلف الصالح في بيان مصادر التلقي",
+   "lang": "ar",
+   "scholarId": "بدر-البدر",
+   "videoId": "xZBNgv9VdVM",
+   "duration": 4209,
+   "hijriDate": null
+  },
+  {
+   "n": 6,
+   "title": "عقيدة السلف الصالح في الألوهية",
+   "lang": "ar",
+   "scholarId": "عبدالرزاق-البدر",
+   "videoId": "mKJ9c1A6aN0",
+   "duration": 2831,
+   "hijriDate": null
+  }
+ ]
+}

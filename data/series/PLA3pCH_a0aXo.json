@@ -1,0 +1,149 @@
+{
+ "id": "PLA3pCH_a0aXo",
+ "title": "برنامج ميراث (2) - روائع دروس كبار العلماء الراحلين",
+ "subject": "general",
+ "kind": "course",
+ "lang": "ar",
+ "scholarId": null,
+ "scholarIds": [
+  "عبدالله-حميد",
+  "عبدالعزيز-باز",
+  "محمد-عثيمين",
+  "عبدالعزيز-الشيخ",
+  "صالح-اللحيدان",
+  "عبدالله-الغديان",
+  "محمد-السبيل",
+  "عبدالله-البسام",
+  "يحيي-المدرس",
+  "محمد-العجلان",
+  "عبدالرحمن-العجلان",
+  "شرف-الشريف"
+ ],
+ "year": null,
+ "source": "youtube",
+ "channelId": "UC3QAoXf9GN9xeQYhk-AZbTg",
+ "playlistId": "PLA3pCH_a0aXo",
+ "url": "https://www.youtube.com/playlist?list=PLA3pCH_a0aXo",
+ "thumbnail": "https://i.ytimg.com/vi/0KPENJwRDEY/maxresdefault.jpg",
+ "lessonCount": 13,
+ "duration": 17745,
+ "lessons": [
+  {
+   "n": 1,
+   "title": "شرح حديث جبريل",
+   "lang": "ar",
+   "scholarId": "عبدالله-حميد",
+   "videoId": "lq2ZpD7rOOI",
+   "duration": 1642,
+   "hijriDate": null
+  },
+  {
+   "n": 2,
+   "title": "خطر الابتداع",
+   "lang": "ar",
+   "scholarId": "عبدالعزيز-باز",
+   "videoId": "aLjsZHhQ5bI",
+   "duration": 1245,
+   "hijriDate": null
+  },
+  {
+   "n": 3,
+   "title": "فضائل الأعمال",
+   "lang": "ar",
+   "scholarId": "محمد-عثيمين",
+   "videoId": "owJsyYsfKac",
+   "duration": 1609,
+   "hijriDate": null
+  },
+  {
+   "n": 4,
+   "title": "سبعة يظلهم الله تحت ظل عرشه",
+   "lang": "ar",
+   "scholarId": "عبدالعزيز-الشيخ",
+   "videoId": "mGLxZ6Yt_aU",
+   "duration": 1364,
+   "hijriDate": null
+  },
+  {
+   "n": 5,
+   "title": "إنما الأعمال بالنية",
+   "lang": "ar",
+   "scholarId": "صالح-اللحيدان",
+   "videoId": "H173EoL0G-w",
+   "duration": 993,
+   "hijriDate": null
+  },
+  {
+   "n": 6,
+   "title": "اغتنم خمسأ قبل خمس",
+   "lang": "ar",
+   "scholarId": "عبدالله-الغديان",
+   "videoId": "K4zWi_q1Hmw",
+   "duration": 895,
+   "hijriDate": null
+  },
+  {
+   "n": 7,
+   "title": "حسن الخلق",
+   "lang": "ar",
+   "scholarId": "محمد-السبيل",
+   "videoId": "-MDdB5eEOdg",
+   "duration": 1374,
+   "hijriDate": null
+  },
+  {
+   "n": 8,
+   "title": "صفات المؤمنين",
+   "lang": "ar",
+   "scholarId": "عبدالله-البسام",
+   "videoId": "9ldTGS77m2s",
+   "duration": 2038,
+   "hijriDate": null
+  },
+  {
+   "n": 9,
+   "title": "وعلى اللَّهِ فَتوكَّلوا إِن كُنتم مُّؤْمِنِين",
+   "lang": "ar",
+   "scholarId": "يحيي-المدرس",
+   "videoId": "jdlY2__oAg8",
+   "duration": 1290,
+   "hijriDate": null
+  },
+  {
+   "n": 10,
+   "title": "بدء الوحي",
+   "lang": "ar",
+   "scholarId": "محمد-العجلان",
+   "videoId": "qr5pmFpyYT0",
+   "duration": 1097,
+   "hijriDate": null
+  },
+  {
+   "n": 11,
+   "title": "لا يقبل الله صلاة احدكم إذا أحدث حتى يتوضأ",
+   "lang": "ar",
+   "scholarId": "عبدالرحمن-العجلان",
+   "videoId": "LtqCuoEdkxE",
+   "duration": 1318,
+   "hijriDate": null
+  },
+  {
+   "n": 12,
+   "title": "لا يقبل الله صلاة احدكم إذا أحدث حتى يتوضأ",
+   "lang": "ar",
+   "scholarId": "عبدالرحمن-العجلان",
+   "videoId": "0KPENJwRDEY",
+   "duration": 1318,
+   "hijriDate": null
+  },
+  {
+   "n": 13,
+   "title": "فَوَلِّ وَجْهَكَ شَطْرَ الْمَسْجِدِ الْحَرَامِ",
+   "lang": "ar",
+   "scholarId": "شرف-الشريف",
+   "videoId": "qjk3dUI37uk",
+   "duration": 1562,
+   "hijriDate": null
+  }
+ ]
+}

@@ -1,0 +1,57 @@
+{
+ "id": "PLgaTRTylCbZBstSru-rfASv8I6WbyCiar",
+ "title": "لقاء مفتوح عن خصائص مكة ورمضان والاعتصام بالكتاب والسنة",
+ "subject": "fiqh",
+ "kind": "series",
+ "lang": "ar",
+ "scholarId": "عبدالله-التركي",
+ "scholarIds": [
+  "عبدالله-التركي"
+ ],
+ "year": 1444,
+ "source": "youtube",
+ "channelId": "UC3QAoXf9GN9xeQYhk-AZbTg",
+ "playlistId": "PLgaTRTylCbZBstSru-rfASv8I6WbyCiar",
+ "url": "https://www.youtube.com/playlist?list=PLgaTRTylCbZBstSru-rfASv8I6WbyCiar",
+ "thumbnail": "https://i.ytimg.com/vi/khq64KfIC9M/maxresdefault.jpg",
+ "lessonCount": 4,
+ "duration": 6896,
+ "lessons": [
+  {
+   "n": 1,
+   "title": "خصائص البلد الحرام",
+   "lang": "ar",
+   "scholarId": "عبدالله-التركي",
+   "videoId": "khq64KfIC9M",
+   "duration": 1631,
+   "hijriDate": "1444-09-07"
+  },
+  {
+   "n": 2,
+   "title": "فضائل شهر رمضان",
+   "lang": "ar",
+   "scholarId": "عبدالله-التركي",
+   "videoId": "qC_jks1ZfKw",
+   "duration": 2093,
+   "hijriDate": "1444-09-08"
+  },
+  {
+   "n": 3,
+   "title": "أحاديث مختارة في الصيام",
+   "lang": "ar",
+   "scholarId": "عبدالله-التركي",
+   "videoId": "SVmC5LgAQag",
+   "duration": 1589,
+   "hijriDate": "1444-09-09"
+  },
+  {
+   "n": 4,
+   "title": "الدرس 4",
+   "lang": "ar",
+   "scholarId": "عبدالله-التركي",
+   "videoId": "6aIz_uF1B-g",
+   "duration": 1583,
+   "hijriDate": "1444-09-10"
+  }
+ ]
+}

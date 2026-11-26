@@ -1,0 +1,57 @@
+{
+ "id": "PLgaTRTylCbZAa2So4bnblMzxBaJbrKMSY",
+ "title": "الصيام من معالم السنن شرح سنن أبي داود",
+ "subject": "hadith",
+ "kind": "series",
+ "lang": "ar",
+ "scholarId": "اسامه-خياط",
+ "scholarIds": [
+  "اسامه-خياط"
+ ],
+ "year": 1440,
+ "source": "youtube",
+ "channelId": "UC3QAoXf9GN9xeQYhk-AZbTg",
+ "playlistId": "PLgaTRTylCbZAa2So4bnblMzxBaJbrKMSY",
+ "url": "https://www.youtube.com/playlist?list=PLgaTRTylCbZAa2So4bnblMzxBaJbrKMSY",
+ "thumbnail": "https://i.ytimg.com/vi/Onzs4tVmxCg/hqdefault.jpg",
+ "lessonCount": 4,
+ "duration": 14730,
+ "lessons": [
+  {
+   "n": 1,
+   "title": "الدرس 1",
+   "lang": "ar",
+   "scholarId": "اسامه-خياط",
+   "videoId": "Onzs4tVmxCg",
+   "duration": 3902,
+   "hijriDate": "1440-08-05"
+  },
+  {
+   "n": 2,
+   "title": "الدرس 2",
+   "lang": "ar",
+   "scholarId": "اسامه-خياط",
+   "videoId": "2xtYhufaHYw",
+   "duration": 3597,
+   "hijriDate": "1440-08-12"
+  },
+  {
+   "n": 3,
+   "title": "الدرس 3",
+   "lang": "ar",
+   "scholarId": "اسامه-خياط",
+   "videoId": "npWC3sTXnrk",
+   "duration": 3598,
+   "hijriDate": "1440-08-19"
+  },
+  {
+   "n": 4,
+   "title": "الدرس 4",
+   "lang": "ar",
+   "scholarId": "اسامه-خياط",
+   "videoId": "9f1-_U6pC08",
+   "duration": 3633,
+   "hijriDate": "1440-08-26"
+  }
+ ]
+}

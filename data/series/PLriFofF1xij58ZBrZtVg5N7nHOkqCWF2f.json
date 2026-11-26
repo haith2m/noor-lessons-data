@@ -1,0 +1,57 @@
+{
+ "id": "PLriFofF1xij58ZBrZtVg5N7nHOkqCWF2f",
+ "title": "الدروس العامة",
+ "subject": "tafsir",
+ "kind": "series",
+ "lang": "ar",
+ "scholarId": "عبداللطيف-الشاماني",
+ "scholarIds": [
+  "عبداللطيف-الشاماني"
+ ],
+ "year": null,
+ "source": "youtube",
+ "channelId": "UC0XNCc-DU8J5_ksR-eufPaw",
+ "playlistId": "PLriFofF1xij58ZBrZtVg5N7nHOkqCWF2f",
+ "url": "https://www.youtube.com/playlist?list=PLriFofF1xij58ZBrZtVg5N7nHOkqCWF2f",
+ "thumbnail": "https://i.ytimg.com/vi/jVEfHuKzX1M/maxresdefault.jpg",
+ "lessonCount": 4,
+ "duration": 12847,
+ "lessons": [
+  {
+   "n": 1,
+   "title": "دروس من سورة الفاتحة",
+   "lang": "ar",
+   "scholarId": "عبداللطيف-الشاماني",
+   "videoId": "jVEfHuKzX1M",
+   "duration": 3356,
+   "hijriDate": null
+  },
+  {
+   "n": 2,
+   "title": "تفسير آية الكرسي",
+   "lang": "ar",
+   "scholarId": "عبداللطيف-الشاماني",
+   "videoId": "Uw2qlb4nx3A",
+   "duration": 3681,
+   "hijriDate": null
+  },
+  {
+   "n": 3,
+   "title": "توجيهات عامة",
+   "lang": "ar",
+   "scholarId": "عبداللطيف-الشاماني",
+   "videoId": "R9D_4EUlLIo",
+   "duration": 2604,
+   "hijriDate": null
+  },
+  {
+   "n": 4,
+   "title": "توجيهات في جانب الاعتقاد",
+   "lang": "ar",
+   "scholarId": "عبداللطيف-الشاماني",
+   "videoId": "dp6Qq5PPhEU",
+   "duration": 3206,
+   "hijriDate": null
+  }
+ ]
+}

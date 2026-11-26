@@ -1,0 +1,48 @@
+{
+ "id": "PLriFofF1xij48VXsKdRGsxlFCkLnaEX75",
+ "title": "منظومة اللامية",
+ "subject": "general",
+ "kind": "series",
+ "lang": "ar",
+ "scholarId": "علي-التويجري",
+ "scholarIds": [
+  "علي-التويجري"
+ ],
+ "year": null,
+ "source": "youtube",
+ "channelId": "UC0XNCc-DU8J5_ksR-eufPaw",
+ "playlistId": "PLriFofF1xij48VXsKdRGsxlFCkLnaEX75",
+ "url": "https://www.youtube.com/playlist?list=PLriFofF1xij48VXsKdRGsxlFCkLnaEX75",
+ "thumbnail": "https://i.ytimg.com/vi/e_03xoGJxxw/maxresdefault.jpg",
+ "lessonCount": 3,
+ "duration": 12613,
+ "lessons": [
+  {
+   "n": 1,
+   "title": "الدرس 1",
+   "lang": "ar",
+   "scholarId": "علي-التويجري",
+   "videoId": "e_03xoGJxxw",
+   "duration": 4090,
+   "hijriDate": null
+  },
+  {
+   "n": 2,
+   "title": "الدرس 2",
+   "lang": "ar",
+   "scholarId": "علي-التويجري",
+   "videoId": "QWiPmX5BAIc",
+   "duration": 4143,
+   "hijriDate": null
+  },
+  {
+   "n": 3,
+   "title": "الدرس 3",
+   "lang": "ar",
+   "scholarId": "علي-التويجري",
+   "videoId": "C9cKDf7zMbc",
+   "duration": 4380,
+   "hijriDate": null
+  }
+ ]
+}

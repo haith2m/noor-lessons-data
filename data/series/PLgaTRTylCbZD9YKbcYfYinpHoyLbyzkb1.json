@@ -1,0 +1,48 @@
+{
+ "id": "PLgaTRTylCbZD9YKbcYfYinpHoyLbyzkb1",
+ "title": "مدخل إلى الآداب الشرعية",
+ "subject": "adab",
+ "kind": "series",
+ "lang": "ar",
+ "scholarId": "حسن-بخاري",
+ "scholarIds": [
+  "حسن-بخاري"
+ ],
+ "year": null,
+ "source": "youtube",
+ "channelId": "UC3QAoXf9GN9xeQYhk-AZbTg",
+ "playlistId": "PLgaTRTylCbZD9YKbcYfYinpHoyLbyzkb1",
+ "url": "https://www.youtube.com/playlist?list=PLgaTRTylCbZD9YKbcYfYinpHoyLbyzkb1",
+ "thumbnail": "https://i.ytimg.com/vi/tIGdo2GjHZw/maxresdefault.jpg",
+ "lessonCount": 3,
+ "duration": 10494,
+ "lessons": [
+  {
+   "n": 1,
+   "title": "الدرس 1",
+   "lang": "ar",
+   "scholarId": "حسن-بخاري",
+   "videoId": "tIGdo2GjHZw",
+   "duration": 3128,
+   "hijriDate": null
+  },
+  {
+   "n": 2,
+   "title": "الدرس 2",
+   "lang": "ar",
+   "scholarId": "حسن-بخاري",
+   "videoId": "L0KNZ8idw7U",
+   "duration": 3943,
+   "hijriDate": null
+  },
+  {
+   "n": 3,
+   "title": "الدرس 3",
+   "lang": "ar",
+   "scholarId": "حسن-بخاري",
+   "videoId": "2lRy4rlOBHU",
+   "duration": 3423,
+   "hijriDate": null
+  }
+ ]
+}

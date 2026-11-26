@@ -1,0 +1,50 @@
+{
+ "id": "PLgaTRTylCbZC1a8wKweXcwZsSOOOlnnIi",
+ "title": "المحاضرات العلمية لتعليم الحجاج العقيدة والمناسك",
+ "subject": "fiqh",
+ "kind": "course",
+ "lang": "ar",
+ "scholarId": null,
+ "scholarIds": [
+  "عبدالعزيز-الشيخ",
+  "سامي-الصقير",
+  "صالح-الفوزان"
+ ],
+ "year": 1443,
+ "source": "youtube",
+ "channelId": "UC3QAoXf9GN9xeQYhk-AZbTg",
+ "playlistId": "PLgaTRTylCbZC1a8wKweXcwZsSOOOlnnIi",
+ "url": "https://www.youtube.com/playlist?list=PLgaTRTylCbZC1a8wKweXcwZsSOOOlnnIi",
+ "thumbnail": "https://i.ytimg.com/vi/AiKZsmr_HPY/maxresdefault.jpg",
+ "lessonCount": 3,
+ "duration": 5166,
+ "lessons": [
+  {
+   "n": 1,
+   "title": "وما خلقت الجن والإنس إلا ليعبدون",
+   "lang": "ar",
+   "scholarId": "عبدالعزيز-الشيخ",
+   "videoId": "AiKZsmr_HPY",
+   "duration": 1831,
+   "hijriDate": "1443-12-02"
+  },
+  {
+   "n": 2,
+   "title": "فقه أحكام الحج",
+   "lang": "ar",
+   "scholarId": "سامي-الصقير",
+   "videoId": "qzt8lPSh2b4",
+   "duration": 1383,
+   "hijriDate": "1443-12-03"
+  },
+  {
+   "n": 3,
+   "title": "الدرس 3",
+   "lang": "ar",
+   "scholarId": "صالح-الفوزان",
+   "videoId": "7rZeQ1m_lxY",
+   "duration": 1952,
+   "hijriDate": "1443-12-05"
+  }
+ ]
+}

@@ -1,0 +1,57 @@
+{
+ "id": "PLriFofF1xij7BXvg7y4tGYSEpxfI6Rtpk",
+ "title": "الأدب المفرد",
+ "subject": "hadith",
+ "kind": "series",
+ "lang": "ar",
+ "scholarId": "انيس-طاهر",
+ "scholarIds": [
+  "انيس-طاهر"
+ ],
+ "year": null,
+ "source": "youtube",
+ "channelId": "UC0XNCc-DU8J5_ksR-eufPaw",
+ "playlistId": "PLriFofF1xij7BXvg7y4tGYSEpxfI6Rtpk",
+ "url": "https://www.youtube.com/playlist?list=PLriFofF1xij7BXvg7y4tGYSEpxfI6Rtpk",
+ "thumbnail": "https://i.ytimg.com/vi/5qS6tMu60uY/maxresdefault.jpg",
+ "lessonCount": 4,
+ "duration": 15447,
+ "lessons": [
+  {
+   "n": 1,
+   "title": "الدرس 1",
+   "lang": "ar",
+   "scholarId": "انيس-طاهر",
+   "videoId": "5qS6tMu60uY",
+   "duration": 3797,
+   "hijriDate": null
+  },
+  {
+   "n": 2,
+   "title": "الدرس 2",
+   "lang": "ar",
+   "scholarId": "انيس-طاهر",
+   "videoId": "PAl-wqND40I",
+   "duration": 3543,
+   "hijriDate": null
+  },
+  {
+   "n": 3,
+   "title": "الدرس 3",
+   "lang": "ar",
+   "scholarId": "انيس-طاهر",
+   "videoId": "z9kSuGncTxk",
+   "duration": 4021,
+   "hijriDate": null
+  },
+  {
+   "n": 4,
+   "title": "الدرس 4",
+   "lang": "ar",
+   "scholarId": "انيس-طاهر",
+   "videoId": "7iqFSgu0OXw",
+   "duration": 4086,
+   "hijriDate": null
+  }
+ ]
+}

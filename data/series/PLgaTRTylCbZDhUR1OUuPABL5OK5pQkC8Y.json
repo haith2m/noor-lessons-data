@@ -1,0 +1,154 @@
+{
+ "id": "PLgaTRTylCbZDhUR1OUuPABL5OK5pQkC8Y",
+ "title": "دورة ديباجة المتعلم",
+ "subject": "adab",
+ "kind": "course",
+ "lang": "ar",
+ "scholarId": null,
+ "scholarIds": [
+  "عبدالرحمن-السديس",
+  "عبدالسلام-السليمان",
+  "شرف-الشريف",
+  "يوسف-الوابل",
+  "عبدالرحمن-القرني",
+  "طلال-ابوالنور",
+  "سعد-الشثري",
+  "عبدالمحسن-الزامل"
+ ],
+ "year": 1444,
+ "source": "youtube",
+ "channelId": "UC3QAoXf9GN9xeQYhk-AZbTg",
+ "playlistId": "PLgaTRTylCbZDhUR1OUuPABL5OK5pQkC8Y",
+ "url": "https://www.youtube.com/playlist?list=PLgaTRTylCbZDhUR1OUuPABL5OK5pQkC8Y",
+ "thumbnail": "https://i.ytimg.com/vi/A1EtA-KZTL0/maxresdefault.jpg",
+ "lessonCount": 14,
+ "duration": 52474,
+ "lessons": [
+  {
+   "n": 1,
+   "title": "كلمة افتتاح دورة ديباجة المتعلم",
+   "lang": "ar",
+   "scholarId": "عبدالرحمن-السديس",
+   "videoId": "A1EtA-KZTL0",
+   "duration": 651,
+   "hijriDate": "1444-05-03"
+  },
+  {
+   "n": 2,
+   "title": "كلمة الإخلاص وتحقيق معناها",
+   "lang": "ar",
+   "scholarId": "عبدالسلام-السليمان",
+   "videoId": "KBeZpO27dC0",
+   "duration": 4422,
+   "hijriDate": "1444-05-03"
+  },
+  {
+   "n": 3,
+   "title": "المصادر الأصلية لتلقي العقيدة الصحيحة",
+   "lang": "ar",
+   "scholarId": "شرف-الشريف",
+   "videoId": "ViYaMPOLE7E",
+   "duration": 3456,
+   "hijriDate": "1444-05-03"
+  },
+  {
+   "n": 4,
+   "title": "كلمة الإخلاص وتحقيق معناها",
+   "lang": "ar",
+   "scholarId": "عبدالسلام-السليمان",
+   "videoId": "2wFrfmwrU7A",
+   "duration": 6197,
+   "hijriDate": "1444-05-04"
+  },
+  {
+   "n": 5,
+   "title": "المصادر الأصلية لتلقي العقيدة الصحيحة",
+   "lang": "ar",
+   "scholarId": "شرف-الشريف",
+   "videoId": "qY4RghZ2Rac",
+   "duration": 3199,
+   "hijriDate": "1444-05-04"
+  },
+  {
+   "n": 6,
+   "title": "أهل السنة والجماعة وقواعدهم في الوصول إلى العقيدة الصحيحة",
+   "lang": "ar",
+   "scholarId": "يوسف-الوابل",
+   "videoId": "dHPs7husv8Q",
+   "duration": 5051,
+   "hijriDate": null
+  },
+  {
+   "n": 7,
+   "title": "التعريف بكتب أحاديث الأحكام",
+   "lang": "ar",
+   "scholarId": "عبدالرحمن-القرني",
+   "videoId": "yPxv9mJYeJk",
+   "duration": 3129,
+   "hijriDate": "1444-05-05"
+  },
+  {
+   "n": 8,
+   "title": "تأريخ المواقف والاتجاهات العقدية المخالفة",
+   "lang": "ar",
+   "scholarId": "يوسف-الوابل",
+   "videoId": "_KloZmeS6zc",
+   "duration": 4816,
+   "hijriDate": "1444-05-04"
+  },
+  {
+   "n": 9,
+   "title": "كتب أحاديث الأحكام",
+   "lang": "ar",
+   "scholarId": "عبدالرحمن-القرني",
+   "videoId": "0e-S-QKxnow",
+   "duration": 2514,
+   "hijriDate": "1444-05-06"
+  },
+  {
+   "n": 10,
+   "title": "علوم الحديث والسنة",
+   "lang": "ar",
+   "scholarId": "طلال-ابوالنور",
+   "videoId": "wfpcF8sS0sc",
+   "duration": 4929,
+   "hijriDate": "1444-05-05"
+  },
+  {
+   "n": 11,
+   "title": "خطة منهجية مختصرة لدراسة علوم الحديث",
+   "lang": "ar",
+   "scholarId": "سعد-الشثري",
+   "videoId": "xnIdQCE5K5A",
+   "duration": 2076,
+   "hijriDate": null
+  },
+  {
+   "n": 12,
+   "title": "علوم الحديث والسنة",
+   "lang": "ar",
+   "scholarId": "طلال-ابوالنور",
+   "videoId": "-h8_WQa0eoQ",
+   "duration": 4783,
+   "hijriDate": "1444-05-06"
+  },
+  {
+   "n": 13,
+   "title": "منهج المحدثين في الحكم على الأحاديث",
+   "lang": "ar",
+   "scholarId": "عبدالمحسن-الزامل",
+   "videoId": "RVPvPjFs25E",
+   "duration": 3540,
+   "hijriDate": null
+  },
+  {
+   "n": 14,
+   "title": "منهج المحدثين في الحكم على الأحاديث",
+   "lang": "ar",
+   "scholarId": "عبدالمحسن-الزامل",
+   "videoId": "R02cMieQKSQ",
+   "duration": 3711,
+   "hijriDate": null
+  }
+ ]
+}

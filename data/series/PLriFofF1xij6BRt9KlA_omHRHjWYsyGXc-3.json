@@ -1,0 +1,39 @@
+{
+ "id": "PLriFofF1xij6BRt9KlA_omHRHjWYsyGXc-3",
+ "title": "أخصر المختصرات (الصيام)",
+ "subject": "fiqh",
+ "kind": "series",
+ "lang": "ar",
+ "scholarId": "سلمان-الدخيل",
+ "scholarIds": [
+  "سلمان-الدخيل"
+ ],
+ "year": null,
+ "source": "youtube",
+ "channelId": "UC0XNCc-DU8J5_ksR-eufPaw",
+ "playlistId": "PLriFofF1xij6BRt9KlA_omHRHjWYsyGXc",
+ "url": "https://www.youtube.com/playlist?list=PLriFofF1xij6BRt9KlA_omHRHjWYsyGXc",
+ "thumbnail": "https://i.ytimg.com/vi/Wcj5EV9oGqo/maxresdefault.jpg",
+ "lessonCount": 2,
+ "duration": 9782,
+ "lessons": [
+  {
+   "n": 1,
+   "title": "الدرس 1",
+   "lang": "ar",
+   "scholarId": "سلمان-الدخيل",
+   "videoId": "a5loxIeyPzI",
+   "duration": 6081,
+   "hijriDate": null
+  },
+  {
+   "n": 2,
+   "title": "الدرس 2",
+   "lang": "ar",
+   "scholarId": "سلمان-الدخيل",
+   "videoId": "Fj1X7lGIgcs",
+   "duration": 3701,
+   "hijriDate": null
+  }
+ ]
+}

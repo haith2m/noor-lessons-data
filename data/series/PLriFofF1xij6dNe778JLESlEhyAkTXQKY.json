@@ -1,0 +1,75 @@
+{
+ "id": "PLriFofF1xij6dNe778JLESlEhyAkTXQKY",
+ "title": "صحيح البخاري (الفتن)",
+ "subject": "hadith",
+ "kind": "series",
+ "lang": "ar",
+ "scholarId": "سليمان-الغصن",
+ "scholarIds": [
+  "سليمان-الغصن"
+ ],
+ "year": null,
+ "source": "youtube",
+ "channelId": "UC0XNCc-DU8J5_ksR-eufPaw",
+ "playlistId": "PLriFofF1xij6dNe778JLESlEhyAkTXQKY",
+ "url": "https://www.youtube.com/playlist?list=PLriFofF1xij6dNe778JLESlEhyAkTXQKY",
+ "thumbnail": "https://i.ytimg.com/vi/LJf37eOz_UE/maxresdefault.jpg",
+ "lessonCount": 6,
+ "duration": 24574,
+ "lessons": [
+  {
+   "n": 1,
+   "title": "الدرس 1",
+   "lang": "ar",
+   "scholarId": "سليمان-الغصن",
+   "videoId": "LJf37eOz_UE",
+   "duration": 4347,
+   "hijriDate": null
+  },
+  {
+   "n": 2,
+   "title": "الدرس 2",
+   "lang": "ar",
+   "scholarId": "سليمان-الغصن",
+   "videoId": "ih3Ww-qWFgA",
+   "duration": 4700,
+   "hijriDate": null
+  },
+  {
+   "n": 3,
+   "title": "الدرس 3",
+   "lang": "ar",
+   "scholarId": "سليمان-الغصن",
+   "videoId": "1iRWWkew18I",
+   "duration": 3546,
+   "hijriDate": null
+  },
+  {
+   "n": 4,
+   "title": "الدرس 4",
+   "lang": "ar",
+   "scholarId": "سليمان-الغصن",
+   "videoId": "JFYx3BEa5bo",
+   "duration": 4546,
+   "hijriDate": null
+  },
+  {
+   "n": 5,
+   "title": "الدرس 5",
+   "lang": "ar",
+   "scholarId": "سليمان-الغصن",
+   "videoId": "U_gGZqIuaOE",
+   "duration": 3341,
+   "hijriDate": null
+  },
+  {
+   "n": 6,
+   "title": "الدرس 6",
+   "lang": "ar",
+   "scholarId": "سليمان-الغصن",
+   "videoId": "lJNbwkAiBSY",
+   "duration": 4094,
+   "hijriDate": null
+  }
+ ]
+}

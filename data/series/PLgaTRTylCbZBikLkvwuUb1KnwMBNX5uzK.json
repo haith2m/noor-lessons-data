@@ -1,0 +1,66 @@
+{
+ "id": "PLgaTRTylCbZBikLkvwuUb1KnwMBNX5uzK",
+ "title": "منهج السالكين - كتاب الأطعمة والجنايات والحدود والقضاء",
+ "subject": "fiqh",
+ "kind": "series",
+ "lang": "ar",
+ "scholarId": "عبدالسلام-الشويعر",
+ "scholarIds": [
+  "عبدالسلام-الشويعر"
+ ],
+ "year": null,
+ "source": "youtube",
+ "channelId": "UC3QAoXf9GN9xeQYhk-AZbTg",
+ "playlistId": "PLgaTRTylCbZBikLkvwuUb1KnwMBNX5uzK",
+ "url": "https://www.youtube.com/playlist?list=PLgaTRTylCbZBikLkvwuUb1KnwMBNX5uzK",
+ "thumbnail": "https://i.ytimg.com/vi/z3EvYlPE2FE/maxresdefault.jpg",
+ "lessonCount": 5,
+ "duration": 11272,
+ "lessons": [
+  {
+   "n": 1,
+   "title": "الدرس 1",
+   "lang": "ar",
+   "scholarId": "عبدالسلام-الشويعر",
+   "videoId": "z3EvYlPE2FE",
+   "duration": 2113,
+   "hijriDate": null
+  },
+  {
+   "n": 2,
+   "title": "الدرس 2",
+   "lang": "ar",
+   "scholarId": "عبدالسلام-الشويعر",
+   "videoId": "a2CydclZn1Y",
+   "duration": 2357,
+   "hijriDate": null
+  },
+  {
+   "n": 3,
+   "title": "الدرس 3",
+   "lang": "ar",
+   "scholarId": "عبدالسلام-الشويعر",
+   "videoId": "QNb0WL52pos",
+   "duration": 2091,
+   "hijriDate": null
+  },
+  {
+   "n": 4,
+   "title": "الدرس 4",
+   "lang": "ar",
+   "scholarId": "عبدالسلام-الشويعر",
+   "videoId": "wK91qu-T3KA",
+   "duration": 2006,
+   "hijriDate": null
+  },
+  {
+   "n": 5,
+   "title": "الدرس 5",
+   "lang": "ar",
+   "scholarId": "عبدالسلام-الشويعر",
+   "videoId": "zRJvXjQ5AZQ",
+   "duration": 2705,
+   "hijriDate": null
+  }
+ ]
+}

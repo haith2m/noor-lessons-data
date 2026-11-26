@@ -1,0 +1,123 @@
+{
+ "id": "PLriFofF1xij6lWzJwaFERTqbngPGJgSu5",
+ "title": "الدورة العلمية (3)",
+ "subject": "aqeedah",
+ "kind": "course",
+ "lang": "ar",
+ "scholarId": null,
+ "scholarIds": [
+  "بدر-البدر",
+  "انيس-طاهر",
+  "عبدالرزاق-البدر",
+  "علي-ابابطين"
+ ],
+ "year": 1444,
+ "source": "youtube",
+ "channelId": "UC0XNCc-DU8J5_ksR-eufPaw",
+ "playlistId": "PLriFofF1xij6lWzJwaFERTqbngPGJgSu5",
+ "url": "https://www.youtube.com/playlist?list=PLriFofF1xij6lWzJwaFERTqbngPGJgSu5",
+ "thumbnail": "https://i.ytimg.com/vi/TVBt_PXsy4o/maxresdefault.jpg",
+ "lessonCount": 11,
+ "duration": 45914,
+ "lessons": [
+  {
+   "n": 1,
+   "title": "بواعث الخلاص من الذنوب",
+   "lang": "ar",
+   "scholarId": "بدر-البدر",
+   "videoId": "jfAs_xqNPPQ",
+   "duration": 4173,
+   "hijriDate": null
+  },
+  {
+   "n": 2,
+   "title": "بواعث الخلاص من الذنوب",
+   "lang": "ar",
+   "scholarId": "بدر-البدر",
+   "videoId": "COQR5iO70VY",
+   "duration": 4290,
+   "hijriDate": null
+  },
+  {
+   "n": 3,
+   "title": "منظومة البيقونية",
+   "lang": "ar",
+   "scholarId": "انيس-طاهر",
+   "videoId": "TVBt_PXsy4o",
+   "duration": 4075,
+   "hijriDate": null
+  },
+  {
+   "n": 4,
+   "title": "منظومة البيقونية",
+   "lang": "ar",
+   "scholarId": "انيس-طاهر",
+   "videoId": "U7y8p5a858w",
+   "duration": 3833,
+   "hijriDate": null
+  },
+  {
+   "n": 5,
+   "title": "رسالة القواعد الأربع",
+   "lang": "ar",
+   "scholarId": "عبدالرزاق-البدر",
+   "videoId": "8WuN9JWL654",
+   "duration": 3555,
+   "hijriDate": null
+  },
+  {
+   "n": 6,
+   "title": "رسالة القواعد الأربع",
+   "lang": "ar",
+   "scholarId": "عبدالرزاق-البدر",
+   "videoId": "AEaS-TMIzCM",
+   "duration": 3658,
+   "hijriDate": null
+  },
+  {
+   "n": 7,
+   "title": "رسالة القواعد الأربع",
+   "lang": "ar",
+   "scholarId": "عبدالرزاق-البدر",
+   "videoId": "Q1Jagm_9ZKM",
+   "duration": 3673,
+   "hijriDate": null
+  },
+  {
+   "n": 8,
+   "title": "رسالة القواعد الأربع",
+   "lang": "ar",
+   "scholarId": "عبدالرزاق-البدر",
+   "videoId": "YUNBvjGvxoE",
+   "duration": 3413,
+   "hijriDate": null
+  },
+  {
+   "n": 9,
+   "title": "كتاب سنن الترمذي (العلم)",
+   "lang": "ar",
+   "scholarId": "علي-ابابطين",
+   "videoId": "WJTVbOz0mvo",
+   "duration": 5150,
+   "hijriDate": null
+  },
+  {
+   "n": 10,
+   "title": "كتاب سنن الترمذي (العلم)",
+   "lang": "ar",
+   "scholarId": "علي-ابابطين",
+   "videoId": "hT76lVYRlXc",
+   "duration": 4975,
+   "hijriDate": null
+  },
+  {
+   "n": 11,
+   "title": "كتاب سنن الترمذي (العلم)",
+   "lang": "ar",
+   "scholarId": "علي-ابابطين",
+   "videoId": "TN4_8ZDccms",
+   "duration": 5119,
+   "hijriDate": null
+  }
+ ]
+}

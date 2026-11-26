@@ -1,0 +1,255 @@
+{
+ "id": "PLriFofF1xij5BfpBjvW2mgX0Dm7gNUPYG",
+ "title": "برنامج مهمات الدين",
+ "subject": "aqeedah",
+ "kind": "course",
+ "lang": "ar",
+ "scholarId": null,
+ "scholarIds": [
+  "عبدالرزاق-البدر",
+  "علي-ابابطين",
+  "سليمان-الرحيلي",
+  "علي-التويجري",
+  "عبدالله-الزاحم",
+  "سعود-الخلف",
+  "عبدالسلام-الشويعر",
+  "صالح-المغامسي",
+  "سامي-الصقير",
+  "حسين-الشيخ"
+ ],
+ "year": 1447,
+ "source": "youtube",
+ "channelId": "UC0XNCc-DU8J5_ksR-eufPaw",
+ "playlistId": "PLriFofF1xij5BfpBjvW2mgX0Dm7gNUPYG",
+ "url": "https://www.youtube.com/playlist?list=PLriFofF1xij5BfpBjvW2mgX0Dm7gNUPYG",
+ "thumbnail": "https://i.ytimg.com/vi/WUFMtiTWgcE/maxresdefault.jpg",
+ "lessonCount": 25,
+ "duration": 82283,
+ "lessons": [
+  {
+   "n": 1,
+   "title": "كتاب سؤال وجواب في أهم المهمات",
+   "lang": "ar",
+   "scholarId": "عبدالرزاق-البدر",
+   "videoId": "ShL7nw_6Mhg",
+   "duration": 3694,
+   "hijriDate": null
+  },
+  {
+   "n": 2,
+   "title": "أحكام الزكاة",
+   "lang": "ar",
+   "scholarId": "علي-ابابطين",
+   "videoId": "WUFMtiTWgcE",
+   "duration": 3754,
+   "hijriDate": null
+  },
+  {
+   "n": 3,
+   "title": "أركان الإسلام",
+   "lang": "ar",
+   "scholarId": "سليمان-الرحيلي",
+   "videoId": "rZZmeuPrWAk",
+   "duration": 4890,
+   "hijriDate": null
+  },
+  {
+   "n": 4,
+   "title": "كتاب سؤال وجواب في أهم المهمات",
+   "lang": "ar",
+   "scholarId": "عبدالرزاق-البدر",
+   "videoId": "wv8k7rmJXcQ",
+   "duration": 2925,
+   "hijriDate": null
+  },
+  {
+   "n": 5,
+   "title": "الإيمان بالقضاء والقدر",
+   "lang": "ar",
+   "scholarId": "علي-التويجري",
+   "videoId": "g3_h0UFmkzU",
+   "duration": 3704,
+   "hijriDate": null
+  },
+  {
+   "n": 6,
+   "title": "الإيمان بالقضاء والقدر",
+   "lang": "ar",
+   "scholarId": "علي-التويجري",
+   "videoId": "jxSj90RdPM0",
+   "duration": 3770,
+   "hijriDate": null
+  },
+  {
+   "n": 7,
+   "title": "كتاب سؤال وجواب في أهم المهمات",
+   "lang": "ar",
+   "scholarId": "عبدالرزاق-البدر",
+   "videoId": "RMV4WP6kFqg",
+   "duration": 3545,
+   "hijriDate": null
+  },
+  {
+   "n": 8,
+   "title": "كتاب الدروس المهمة لعامة الأمة",
+   "lang": "ar",
+   "scholarId": "عبدالله-الزاحم",
+   "videoId": "48KF3Ry-Ugc",
+   "duration": 3645,
+   "hijriDate": null
+  },
+  {
+   "n": 9,
+   "title": "الإحسان",
+   "lang": "ar",
+   "scholarId": "سعود-الخلف",
+   "videoId": "Mwq4D4sNzQw",
+   "duration": 3978,
+   "hijriDate": null
+  },
+  {
+   "n": 10,
+   "title": "كتاب الدروس المهمة لعامة الأمة",
+   "lang": "ar",
+   "scholarId": "عبدالله-الزاحم",
+   "videoId": "OZVuvPPzzb0",
+   "duration": 3721,
+   "hijriDate": null
+  },
+  {
+   "n": 11,
+   "title": "كتاب سؤال وجواب في أهم المهمات",
+   "lang": "ar",
+   "scholarId": "عبدالرزاق-البدر",
+   "videoId": "ftVoGTVNXoM",
+   "duration": 3846,
+   "hijriDate": null
+  },
+  {
+   "n": 12,
+   "title": "أحكام الطهارة والصلاة",
+   "lang": "ar",
+   "scholarId": "عبدالسلام-الشويعر",
+   "videoId": "PbQf4OlCJBM",
+   "duration": 3433,
+   "hijriDate": null
+  },
+  {
+   "n": 13,
+   "title": "كتاب سؤال وجواب في أهم المهمات",
+   "lang": "ar",
+   "scholarId": "عبدالرزاق-البدر",
+   "videoId": "Xf58ZPs7d4A",
+   "duration": 3611,
+   "hijriDate": null
+  },
+  {
+   "n": 14,
+   "title": "الإيمان بالله والملائكة",
+   "lang": "ar",
+   "scholarId": "صالح-المغامسي",
+   "videoId": "PuKLOlkn3oI",
+   "duration": 2306,
+   "hijriDate": null
+  },
+  {
+   "n": 15,
+   "title": "الإيمان بالكتب والرسل",
+   "lang": "ar",
+   "scholarId": "صالح-المغامسي",
+   "videoId": "rlbll5ixLJA",
+   "duration": 3120,
+   "hijriDate": null
+  },
+  {
+   "n": 16,
+   "title": "أحكام الطهارة والصلاة",
+   "lang": "ar",
+   "scholarId": "عبدالسلام-الشويعر",
+   "videoId": "0wuKa6ZkUhg",
+   "duration": 3274,
+   "hijriDate": null
+  },
+  {
+   "n": 17,
+   "title": "كتاب الدروس المهمة لعامة الأمة",
+   "lang": "ar",
+   "scholarId": "سامي-الصقير",
+   "videoId": "GEu-JzbNocE",
+   "duration": 4185,
+   "hijriDate": null
+  },
+  {
+   "n": 18,
+   "title": "تحقيق الشهادتين",
+   "lang": "ar",
+   "scholarId": "حسين-الشيخ",
+   "videoId": "aJB7yOsiNcg",
+   "duration": 2126,
+   "hijriDate": null
+  },
+  {
+   "n": 19,
+   "title": "كتاب الدروس المهمة لعامة الأمة",
+   "lang": "ar",
+   "scholarId": "سامي-الصقير",
+   "videoId": "3DZgjjjs7Ak",
+   "duration": 3761,
+   "hijriDate": null
+  },
+  {
+   "n": 20,
+   "title": "كتاب سؤال وجواب في أهم المهمات",
+   "lang": "ar",
+   "scholarId": "عبدالرزاق-البدر",
+   "videoId": "yY5yCYpfz2c",
+   "duration": 3746,
+   "hijriDate": null
+  },
+  {
+   "n": 21,
+   "title": "كتاب سؤال وجواب في أهم المهمات",
+   "lang": "ar",
+   "scholarId": "عبدالرزاق-البدر",
+   "videoId": "rK-PXzOlWII",
+   "duration": 3510,
+   "hijriDate": null
+  },
+  {
+   "n": 22,
+   "title": "تحقيق الشهادتين",
+   "lang": "ar",
+   "scholarId": "حسين-الشيخ",
+   "videoId": "1w8CQBhRCGY",
+   "duration": 1634,
+   "hijriDate": null
+  },
+  {
+   "n": 23,
+   "title": "كتاب سؤال وجواب في أهم المهمات",
+   "lang": "ar",
+   "scholarId": "عبدالرزاق-البدر",
+   "videoId": "yGFkzKabL6c",
+   "duration": 3606,
+   "hijriDate": null
+  },
+  {
+   "n": 24,
+   "title": "تحقيق الشهادتين",
+   "lang": "ar",
+   "scholarId": "حسين-الشيخ",
+   "videoId": "5VWuS-ecUbE",
+   "duration": 1164,
+   "hijriDate": null
+  },
+  {
+   "n": 25,
+   "title": "تحقيق الشهادتين",
+   "lang": "ar",
+   "scholarId": "حسين-الشيخ",
+   "videoId": "qNELL2HMeqo",
+   "duration": 1335,
+   "hijriDate": null
+  }
+ ]
+}

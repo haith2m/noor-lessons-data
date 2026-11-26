@@ -1,0 +1,39 @@
+{
+ "id": "PLriFofF1xij5F8UMKZUMjR1DHbCETSxSX-3",
+ "title": "أحكام الاعتكاف",
+ "subject": "fiqh",
+ "kind": "series",
+ "lang": "ar",
+ "scholarId": "علي-ابابطين",
+ "scholarIds": [
+  "علي-ابابطين"
+ ],
+ "year": null,
+ "source": "youtube",
+ "channelId": "UC0XNCc-DU8J5_ksR-eufPaw",
+ "playlistId": "PLriFofF1xij5F8UMKZUMjR1DHbCETSxSX",
+ "url": "https://www.youtube.com/playlist?list=PLriFofF1xij5F8UMKZUMjR1DHbCETSxSX",
+ "thumbnail": "https://i.ytimg.com/vi/2frdmfT9yy8/maxresdefault.jpg",
+ "lessonCount": 2,
+ "duration": 5052,
+ "lessons": [
+  {
+   "n": 1,
+   "title": "الدرس 1",
+   "lang": "ar",
+   "scholarId": "علي-ابابطين",
+   "videoId": "08chqP2pjOg",
+   "duration": 2656,
+   "hijriDate": null
+  },
+  {
+   "n": 2,
+   "title": "الدرس 2",
+   "lang": "ar",
+   "scholarId": "علي-ابابطين",
+   "videoId": "l0Dn76FIcDc",
+   "duration": 2396,
+   "hijriDate": null
+  }
+ ]
+}

@@ -1,0 +1,39 @@
+{
+ "id": "PLriFofF1xij5KQ3CwnYihxO3Pn6q66H5x-1",
+ "title": "رسالة مقاصد الحج",
+ "subject": "fiqh",
+ "kind": "series",
+ "lang": "ar",
+ "scholarId": "عبدالرزاق-البدر",
+ "scholarIds": [
+  "عبدالرزاق-البدر"
+ ],
+ "year": null,
+ "source": "youtube",
+ "channelId": "UC0XNCc-DU8J5_ksR-eufPaw",
+ "playlistId": "PLriFofF1xij5KQ3CwnYihxO3Pn6q66H5x",
+ "url": "https://www.youtube.com/playlist?list=PLriFofF1xij5KQ3CwnYihxO3Pn6q66H5x",
+ "thumbnail": "https://i.ytimg.com/vi/LcisdpHSnv8/maxresdefault.jpg",
+ "lessonCount": 2,
+ "duration": 6851,
+ "lessons": [
+  {
+   "n": 1,
+   "title": "الدرس 1",
+   "lang": "ar",
+   "scholarId": "عبدالرزاق-البدر",
+   "videoId": "CAHxNWxmWC0",
+   "duration": 3412,
+   "hijriDate": null
+  },
+  {
+   "n": 2,
+   "title": "الدرس 2",
+   "lang": "ar",
+   "scholarId": "عبدالرزاق-البدر",
+   "videoId": "yKO9X0N0xIo",
+   "duration": 3439,
+   "hijriDate": null
+  }
+ ]
+}

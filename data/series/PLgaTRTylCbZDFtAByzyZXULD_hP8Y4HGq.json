@@ -1,0 +1,80 @@
+{
+ "id": "PLgaTRTylCbZDFtAByzyZXULD_hP8Y4HGq",
+ "title": "الدورة العلمية (التوحيد في الحج)",
+ "subject": "aqeedah",
+ "kind": "course",
+ "lang": "ar",
+ "scholarId": null,
+ "scholarIds": [
+  "صالح-حميد",
+  "سليمان-التويجري",
+  "عبدالسلام-السليمان",
+  "صالح-الفوزان",
+  "يوسف-سعيد",
+  "عبدالرحمن-السديس"
+ ],
+ "year": 1445,
+ "source": "youtube",
+ "channelId": "UC3QAoXf9GN9xeQYhk-AZbTg",
+ "playlistId": "PLgaTRTylCbZDFtAByzyZXULD_hP8Y4HGq",
+ "url": "https://www.youtube.com/playlist?list=PLgaTRTylCbZDFtAByzyZXULD_hP8Y4HGq",
+ "thumbnail": "https://i.ytimg.com/vi/ES1DotNkAeY/maxresdefault.jpg",
+ "lessonCount": 6,
+ "duration": 18488,
+ "lessons": [
+  {
+   "n": 1,
+   "title": "الدرس 1",
+   "lang": "ar",
+   "scholarId": "صالح-حميد",
+   "videoId": "ES1DotNkAeY",
+   "duration": 2677,
+   "hijriDate": "1445-12-02"
+  },
+  {
+   "n": 2,
+   "title": "الحج ومقاصده العقديه",
+   "lang": "ar",
+   "scholarId": "سليمان-التويجري",
+   "videoId": "JZS-LjyWltk",
+   "duration": 3745,
+   "hijriDate": "1445-12-03"
+  },
+  {
+   "n": 3,
+   "title": "الحج ومظاهر العبودية",
+   "lang": "ar",
+   "scholarId": "عبدالسلام-السليمان",
+   "videoId": "whHyM4bLzGY",
+   "duration": 4013,
+   "hijriDate": "1445-12-06"
+  },
+  {
+   "n": 4,
+   "title": "وصايا لحجاج بيت الله",
+   "lang": "ar",
+   "scholarId": "صالح-الفوزان",
+   "videoId": "bf0RvScRRTc",
+   "duration": 1957,
+   "hijriDate": "1445-12-07"
+  },
+  {
+   "n": 5,
+   "title": "عقيدة المسلم",
+   "lang": "ar",
+   "scholarId": "يوسف-سعيد",
+   "videoId": "e2cMfp3jwbM",
+   "duration": 2149,
+   "hijriDate": "1445-12-07"
+  },
+  {
+   "n": 6,
+   "title": "الحج من تفسير السعدي وعمدة الأحكام وزاد المعاد",
+   "lang": "ar",
+   "scholarId": "عبدالرحمن-السديس",
+   "videoId": "gxl65Mu0-i8",
+   "duration": 3947,
+   "hijriDate": "1445-12-08"
+  }
+ ]
+}

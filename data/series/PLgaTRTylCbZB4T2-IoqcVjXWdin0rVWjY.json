@@ -1,0 +1,66 @@
+{
+ "id": "PLgaTRTylCbZB4T2-IoqcVjXWdin0rVWjY",
+ "title": "شرح كتاب تسهيل حساب الفرائض",
+ "subject": "fiqh",
+ "kind": "series",
+ "lang": "ar",
+ "scholarId": "سعد-الخثلان",
+ "scholarIds": [
+  "سعد-الخثلان"
+ ],
+ "year": null,
+ "source": "youtube",
+ "channelId": "UC3QAoXf9GN9xeQYhk-AZbTg",
+ "playlistId": "PLgaTRTylCbZB4T2-IoqcVjXWdin0rVWjY",
+ "url": "https://www.youtube.com/playlist?list=PLgaTRTylCbZB4T2-IoqcVjXWdin0rVWjY",
+ "thumbnail": "https://i.ytimg.com/vi/KK_db1uQkA8/sddefault.jpg",
+ "lessonCount": 5,
+ "duration": 26510,
+ "lessons": [
+  {
+   "n": 1,
+   "title": "الدرس 1",
+   "lang": "ar",
+   "scholarId": "سعد-الخثلان",
+   "videoId": "ylVgd8Qtf6M",
+   "duration": 5044,
+   "hijriDate": null
+  },
+  {
+   "n": 2,
+   "title": "الدرس 2",
+   "lang": "ar",
+   "scholarId": "سعد-الخثلان",
+   "videoId": "53FX2P-1zKw",
+   "duration": 5212,
+   "hijriDate": null
+  },
+  {
+   "n": 3,
+   "title": "الدرس 3",
+   "lang": "ar",
+   "scholarId": "سعد-الخثلان",
+   "videoId": "u1sirN8fH2U",
+   "duration": 5895,
+   "hijriDate": null
+  },
+  {
+   "n": 4,
+   "title": "الدرس 4",
+   "lang": "ar",
+   "scholarId": "سعد-الخثلان",
+   "videoId": "12IK8Ei4d80",
+   "duration": 5928,
+   "hijriDate": null
+  },
+  {
+   "n": 5,
+   "title": "الدرس 5",
+   "lang": "ar",
+   "scholarId": "سعد-الخثلان",
+   "videoId": "KK_db1uQkA8",
+   "duration": 4431,
+   "hijriDate": null
+  }
+ ]
+}

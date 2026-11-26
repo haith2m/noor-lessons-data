@@ -1,0 +1,39 @@
+{
+ "id": "PLriFofF1xij7sNdB4S3BoQQG67ZJoX066",
+ "title": "رسالة التلبية معان وهدايات",
+ "subject": "tafsir",
+ "kind": "series",
+ "lang": "ar",
+ "scholarId": "عبدالرزاق-البدر",
+ "scholarIds": [
+  "عبدالرزاق-البدر"
+ ],
+ "year": null,
+ "source": "youtube",
+ "channelId": "UC0XNCc-DU8J5_ksR-eufPaw",
+ "playlistId": "PLriFofF1xij7sNdB4S3BoQQG67ZJoX066",
+ "url": "https://www.youtube.com/playlist?list=PLriFofF1xij7sNdB4S3BoQQG67ZJoX066",
+ "thumbnail": "https://i.ytimg.com/vi/RmtYQAanP9A/maxresdefault.jpg",
+ "lessonCount": 2,
+ "duration": 7147,
+ "lessons": [
+  {
+   "n": 1,
+   "title": "الدرس 1",
+   "lang": "ar",
+   "scholarId": "عبدالرزاق-البدر",
+   "videoId": "RmtYQAanP9A",
+   "duration": 3505,
+   "hijriDate": null
+  },
+  {
+   "n": 2,
+   "title": "الدرس 2",
+   "lang": "ar",
+   "scholarId": "عبدالرزاق-البدر",
+   "videoId": "rHCVw0I6_wE",
+   "duration": 3642,
+   "hijriDate": null
+  }
+ ]
+}

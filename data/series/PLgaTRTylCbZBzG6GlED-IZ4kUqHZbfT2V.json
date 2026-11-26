@@ -1,0 +1,75 @@
+{
+ "id": "PLgaTRTylCbZBzG6GlED-IZ4kUqHZbfT2V",
+ "title": "تفسير سورة إبراهيم",
+ "subject": "tafsir",
+ "kind": "series",
+ "lang": "ar",
+ "scholarId": "سعد-الشثري",
+ "scholarIds": [
+  "سعد-الشثري"
+ ],
+ "year": 1444,
+ "source": "youtube",
+ "channelId": "UC3QAoXf9GN9xeQYhk-AZbTg",
+ "playlistId": "PLgaTRTylCbZBzG6GlED-IZ4kUqHZbfT2V",
+ "url": "https://www.youtube.com/playlist?list=PLgaTRTylCbZBzG6GlED-IZ4kUqHZbfT2V",
+ "thumbnail": "https://i.ytimg.com/vi/wp-xDKUDWZ0/maxresdefault.jpg",
+ "lessonCount": 6,
+ "duration": 16397,
+ "lessons": [
+  {
+   "n": 1,
+   "title": "الدرس 1",
+   "lang": "ar",
+   "scholarId": "سعد-الشثري",
+   "videoId": "76T1EgMl8Oc",
+   "duration": 3173,
+   "hijriDate": "1444-09-07"
+  },
+  {
+   "n": 2,
+   "title": "الدرس 2",
+   "lang": "ar",
+   "scholarId": "سعد-الشثري",
+   "videoId": "JWHetzpthxY",
+   "duration": 2339,
+   "hijriDate": "1444-09-08"
+  },
+  {
+   "n": 3,
+   "title": "الدرس 3",
+   "lang": "ar",
+   "scholarId": "سعد-الشثري",
+   "videoId": "GmG3TxWvK6Y",
+   "duration": 2669,
+   "hijriDate": "1444-09-09"
+  },
+  {
+   "n": 4,
+   "title": "الدرس 4",
+   "lang": "ar",
+   "scholarId": "سعد-الشثري",
+   "videoId": "JjwWWW3sUy8",
+   "duration": 3070,
+   "hijriDate": "1444-09-10"
+  },
+  {
+   "n": 5,
+   "title": "الدرس 5",
+   "lang": "ar",
+   "scholarId": "سعد-الشثري",
+   "videoId": "SuANB6LiCnU",
+   "duration": 2804,
+   "hijriDate": "1444-09-11"
+  },
+  {
+   "n": 6,
+   "title": "الدرس 6",
+   "lang": "ar",
+   "scholarId": "سعد-الشثري",
+   "videoId": "wp-xDKUDWZ0",
+   "duration": 2342,
+   "hijriDate": "1444-09-12"
+  }
+ ]
+}

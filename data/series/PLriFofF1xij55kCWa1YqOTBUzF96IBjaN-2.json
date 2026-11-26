@@ -1,0 +1,30 @@
+{
+ "id": "PLriFofF1xij55kCWa1YqOTBUzF96IBjaN-2",
+ "title": "الدروس العامة",
+ "subject": "tafsir",
+ "kind": "series",
+ "lang": "ar",
+ "scholarId": "طلال-ابوالنور",
+ "scholarIds": [
+  "طلال-ابوالنور"
+ ],
+ "year": null,
+ "source": "youtube",
+ "channelId": "UC0XNCc-DU8J5_ksR-eufPaw",
+ "playlistId": "PLriFofF1xij55kCWa1YqOTBUzF96IBjaN",
+ "url": "https://www.youtube.com/playlist?list=PLriFofF1xij55kCWa1YqOTBUzF96IBjaN",
+ "thumbnail": "https://i.ytimg.com/vi/uKbseSKo0-g/maxresdefault.jpg",
+ "lessonCount": 1,
+ "duration": 3391,
+ "lessons": [
+  {
+   "n": 1,
+   "title": "تفسير سورة طه",
+   "lang": "ar",
+   "scholarId": "طلال-ابوالنور",
+   "videoId": "uKbseSKo0-g",
+   "duration": 3391,
+   "hijriDate": null
+  }
+ ]
+}

@@ -1,0 +1,39 @@
+{
+ "id": "PLriFofF1xij7up0cT10sdZp8r_N04yn_7-1",
+ "title": "البشارة في رمضان",
+ "subject": "general",
+ "kind": "series",
+ "lang": "ar",
+ "scholarId": "ابراهيم-التركي",
+ "scholarIds": [
+  "ابراهيم-التركي"
+ ],
+ "year": null,
+ "source": "youtube",
+ "channelId": "UC0XNCc-DU8J5_ksR-eufPaw",
+ "playlistId": "PLriFofF1xij7up0cT10sdZp8r_N04yn_7",
+ "url": "https://www.youtube.com/playlist?list=PLriFofF1xij7up0cT10sdZp8r_N04yn_7",
+ "thumbnail": "https://i.ytimg.com/vi/POrZJK7z2BI/maxresdefault.jpg",
+ "lessonCount": 2,
+ "duration": 1813,
+ "lessons": [
+  {
+   "n": 1,
+   "title": "الدرس 1",
+   "lang": "ar",
+   "scholarId": "ابراهيم-التركي",
+   "videoId": "POrZJK7z2BI",
+   "duration": 642,
+   "hijriDate": null
+  },
+  {
+   "n": 2,
+   "title": "الدرس 2",
+   "lang": "ar",
+   "scholarId": "ابراهيم-التركي",
+   "videoId": "S4EVn9-HiT0",
+   "duration": 1171,
+   "hijriDate": null
+  }
+ ]
+}

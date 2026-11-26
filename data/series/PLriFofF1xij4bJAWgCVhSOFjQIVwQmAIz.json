@@ -1,0 +1,57 @@
+{
+ "id": "PLriFofF1xij4bJAWgCVhSOFjQIVwQmAIz",
+ "title": "شرح الأرجوزة الميئية في ذكر حال أشرف البرية",
+ "subject": "seerah",
+ "kind": "series",
+ "lang": "ar",
+ "scholarId": "عبداللطيف-الشاماني",
+ "scholarIds": [
+  "عبداللطيف-الشاماني"
+ ],
+ "year": null,
+ "source": "youtube",
+ "channelId": "UC0XNCc-DU8J5_ksR-eufPaw",
+ "playlistId": "PLriFofF1xij4bJAWgCVhSOFjQIVwQmAIz",
+ "url": "https://www.youtube.com/playlist?list=PLriFofF1xij4bJAWgCVhSOFjQIVwQmAIz",
+ "thumbnail": "https://i.ytimg.com/vi/OFk5LGpZkgk/maxresdefault.jpg",
+ "lessonCount": 4,
+ "duration": 13143,
+ "lessons": [
+  {
+   "n": 1,
+   "title": "الدرس 1",
+   "lang": "ar",
+   "scholarId": "عبداللطيف-الشاماني",
+   "videoId": "OFk5LGpZkgk",
+   "duration": 3005,
+   "hijriDate": null
+  },
+  {
+   "n": 2,
+   "title": "الدرس 2",
+   "lang": "ar",
+   "scholarId": "عبداللطيف-الشاماني",
+   "videoId": "jYAtXLVh1m0",
+   "duration": 3281,
+   "hijriDate": null
+  },
+  {
+   "n": 3,
+   "title": "الدرس 3",
+   "lang": "ar",
+   "scholarId": "عبداللطيف-الشاماني",
+   "videoId": "lj-7Z6AV5AA",
+   "duration": 3617,
+   "hijriDate": null
+  },
+  {
+   "n": 4,
+   "title": "الدرس 4",
+   "lang": "ar",
+   "scholarId": "عبداللطيف-الشاماني",
+   "videoId": "TNF-_noIQX8",
+   "duration": 3240,
+   "hijriDate": null
+  }
+ ]
+}

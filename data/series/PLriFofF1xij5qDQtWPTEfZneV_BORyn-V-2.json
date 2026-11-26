@@ -1,0 +1,48 @@
+{
+ "id": "PLriFofF1xij5qDQtWPTEfZneV_BORyn-V-2",
+ "title": "الدرة المختصرة في محاسن الإسلام",
+ "subject": "aqeedah",
+ "kind": "series",
+ "lang": "ar",
+ "scholarId": "بدر-البدر",
+ "scholarIds": [
+  "بدر-البدر"
+ ],
+ "year": null,
+ "source": "youtube",
+ "channelId": "UC0XNCc-DU8J5_ksR-eufPaw",
+ "playlistId": "PLriFofF1xij5qDQtWPTEfZneV_BORyn-V",
+ "url": "https://www.youtube.com/playlist?list=PLriFofF1xij5qDQtWPTEfZneV_BORyn-V",
+ "thumbnail": "https://i.ytimg.com/vi/P-ne0oGFYmk/maxresdefault.jpg",
+ "lessonCount": 3,
+ "duration": 12874,
+ "lessons": [
+  {
+   "n": 1,
+   "title": "الدرس 1",
+   "lang": "ar",
+   "scholarId": "بدر-البدر",
+   "videoId": "X1ecNeudu5Y",
+   "duration": 4596,
+   "hijriDate": null
+  },
+  {
+   "n": 2,
+   "title": "الدرس 2",
+   "lang": "ar",
+   "scholarId": "بدر-البدر",
+   "videoId": "_gQKMvrkXR4",
+   "duration": 4285,
+   "hijriDate": null
+  },
+  {
+   "n": 3,
+   "title": "الدرس 3",
+   "lang": "ar",
+   "scholarId": "بدر-البدر",
+   "videoId": "qLxFbQAdLiI",
+   "duration": 3993,
+   "hijriDate": null
+  }
+ ]
+}

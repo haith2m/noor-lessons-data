@@ -1,0 +1,130 @@
+{
+ "id": "PLgaTRTylCbZD1F8HCOMmAHxwWwGEwa6_Q",
+ "title": "برنامج ميراث حج",
+ "subject": "general",
+ "kind": "course",
+ "lang": "ar",
+ "scholarId": null,
+ "scholarIds": [
+  "عبدالله-حميد",
+  "عبدالعزيز-باز",
+  "محمد-عثيمين",
+  "عبدالعزيز-الشيخ",
+  "صالح-اللحيدان",
+  "عبدالله-الغديان",
+  "محمد-السبيل",
+  "عبدالله-البسام",
+  "يحيي-المدرس",
+  "محمد-العجلان",
+  "شرف-الشريف"
+ ],
+ "year": 1447,
+ "source": "youtube",
+ "channelId": "UC3QAoXf9GN9xeQYhk-AZbTg",
+ "playlistId": "PLgaTRTylCbZD1F8HCOMmAHxwWwGEwa6_Q",
+ "url": "https://www.youtube.com/playlist?list=PLgaTRTylCbZD1F8HCOMmAHxwWwGEwa6_Q",
+ "thumbnail": "https://i.ytimg.com/vi/t7ZhLmKfzZg/maxresdefault.jpg",
+ "lessonCount": 11,
+ "duration": 20137,
+ "lessons": [
+  {
+   "n": 1,
+   "title": "خصائص مكة",
+   "lang": "ar",
+   "scholarId": "عبدالله-حميد",
+   "videoId": "frD6velcy0Y",
+   "duration": 556,
+   "hijriDate": null
+  },
+  {
+   "n": 2,
+   "title": "العبودية لله تعالى",
+   "lang": "ar",
+   "scholarId": "عبدالعزيز-باز",
+   "videoId": "eQkq1bAGagU",
+   "duration": 1626,
+   "hijriDate": null
+  },
+  {
+   "n": 3,
+   "title": "لبيك اللهم لبيك",
+   "lang": "ar",
+   "scholarId": "محمد-عثيمين",
+   "videoId": "OkqvJvRv2cs",
+   "duration": 1991,
+   "hijriDate": null
+  },
+  {
+   "n": 4,
+   "title": "وما خلقت الجن والإنس إلا ليعبدون",
+   "lang": "ar",
+   "scholarId": "عبدالعزيز-الشيخ",
+   "videoId": "foZAXq2xwdI",
+   "duration": 1828,
+   "hijriDate": null
+  },
+  {
+   "n": 5,
+   "title": "حج بيت الله الحرام",
+   "lang": "ar",
+   "scholarId": "صالح-اللحيدان",
+   "videoId": "X5LsYjc8YpE",
+   "duration": 1201,
+   "hijriDate": null
+  },
+  {
+   "n": 6,
+   "title": "احفظ الله يحفظك",
+   "lang": "ar",
+   "scholarId": "عبدالله-الغديان",
+   "videoId": "6dr_1IgrI9Q",
+   "duration": 1880,
+   "hijriDate": null
+  },
+  {
+   "n": 7,
+   "title": "الحج المبرور",
+   "lang": "ar",
+   "scholarId": "محمد-السبيل",
+   "videoId": "10kNpkqdLG8",
+   "duration": 2440,
+   "hijriDate": null
+  },
+  {
+   "n": 8,
+   "title": "وتوبوا إلى الله جميعا",
+   "lang": "ar",
+   "scholarId": "عبدالله-البسام",
+   "videoId": "KMoOUdSaJZE",
+   "duration": 1609,
+   "hijriDate": null
+  },
+  {
+   "n": 9,
+   "title": "فضل التوحيد",
+   "lang": "ar",
+   "scholarId": "يحيي-المدرس",
+   "videoId": "pA4ZMm30pGA",
+   "duration": 2029,
+   "hijriDate": null
+  },
+  {
+   "n": 10,
+   "title": "نسك النبي صلى الله عليه وسلم",
+   "lang": "ar",
+   "scholarId": "محمد-العجلان",
+   "videoId": "Stv-hDJx5aw",
+   "duration": 2382,
+   "hijriDate": null
+  },
+  {
+   "n": 11,
+   "title": "معنى الشهادتين",
+   "lang": "ar",
+   "scholarId": "شرف-الشريف",
+   "videoId": "t7ZhLmKfzZg",
+   "duration": 2595,
+   "hijriDate": null
+  }
+ ]
+}

@@ -1,0 +1,70 @@
+{
+ "id": "PLTYnox4-yXVo",
+ "title": "السيرة النبوية (أهل السنة والجماعة ، أهل محبة واتباع)",
+ "subject": "aqeedah",
+ "kind": "course",
+ "lang": "ar",
+ "scholarId": null,
+ "scholarIds": [
+  "يوسف-سعيد",
+  "سامي-الصقير",
+  "سعد-الشثري",
+  "عبدالرحمن-السديس",
+  "جبريل-البصيلي"
+ ],
+ "year": 1448,
+ "source": "youtube",
+ "channelId": "UC3QAoXf9GN9xeQYhk-AZbTg",
+ "playlistId": "PLTYnox4-yXVo",
+ "url": "https://www.youtube.com/playlist?list=PLTYnox4-yXVo",
+ "thumbnail": "https://i.ytimg.com/vi/2-o5hmQtgQw/maxresdefault.jpg",
+ "lessonCount": 5,
+ "duration": 19564,
+ "lessons": [
+  {
+   "n": 1,
+   "title": "الدروس العقدية المستفادة من أحداث السيرة النبوية",
+   "lang": "ar",
+   "scholarId": "يوسف-سعيد",
+   "videoId": "kPr4HgInfQ0",
+   "duration": 3816,
+   "hijriDate": "1448-02-30"
+  },
+  {
+   "n": 2,
+   "title": "المقاصد الشرعية من دراسة السيرة النبوية",
+   "lang": "ar",
+   "scholarId": "سامي-الصقير",
+   "videoId": "Cj_SBUDZVko",
+   "duration": 3729,
+   "hijriDate": "1448-03-01"
+  },
+  {
+   "n": 3,
+   "title": "الاتباع ... معنى شهادة أن محمد رسول الله ﷺ",
+   "lang": "ar",
+   "scholarId": "سعد-الشثري",
+   "videoId": "blIagZMOC50",
+   "duration": 3636,
+   "hijriDate": "1448-03-04"
+  },
+  {
+   "n": 4,
+   "title": "الحقيقة الشرعية لمحبة النبي ﷺ",
+   "lang": "ar",
+   "scholarId": "عبدالرحمن-السديس",
+   "videoId": "2-o5hmQtgQw",
+   "duration": 3641,
+   "hijriDate": "1448-03-05"
+  },
+  {
+   "n": 5,
+   "title": "منهج السلف في دراسة السيرة وضوابط الاستنباط منها",
+   "lang": "ar",
+   "scholarId": "جبريل-البصيلي",
+   "videoId": "FR9LkDdvPBU",
+   "duration": 4742,
+   "hijriDate": "1448-03-07"
+  }
+ ]
+}

@@ -1,0 +1,66 @@
+{
+ "id": "PLriFofF1xij5JI5wuOXK6toZ-OhLteKhm",
+ "title": "ثلاثة الأصول للإمام محمد بن عبدالوهاب",
+ "subject": "general",
+ "kind": "series",
+ "lang": "ar",
+ "scholarId": "عبدالمحسن-القاسم",
+ "scholarIds": [
+  "عبدالمحسن-القاسم"
+ ],
+ "year": null,
+ "source": "youtube",
+ "channelId": "UC0XNCc-DU8J5_ksR-eufPaw",
+ "playlistId": "PLriFofF1xij5JI5wuOXK6toZ-OhLteKhm",
+ "url": "https://www.youtube.com/playlist?list=PLriFofF1xij5JI5wuOXK6toZ-OhLteKhm",
+ "thumbnail": "https://i.ytimg.com/vi/ff8q-3YfwLU/maxresdefault.jpg",
+ "lessonCount": 5,
+ "duration": 12938,
+ "lessons": [
+  {
+   "n": 1,
+   "title": "الدرس 1",
+   "lang": "ar",
+   "scholarId": "عبدالمحسن-القاسم",
+   "videoId": "ff8q-3YfwLU",
+   "duration": 3219,
+   "hijriDate": null
+  },
+  {
+   "n": 2,
+   "title": "الدرس 2",
+   "lang": "ar",
+   "scholarId": "عبدالمحسن-القاسم",
+   "videoId": "aQSSGgkF8oc",
+   "duration": 3181,
+   "hijriDate": null
+  },
+  {
+   "n": 3,
+   "title": "الدرس 3",
+   "lang": "ar",
+   "scholarId": "عبدالمحسن-القاسم",
+   "videoId": "-b1x2j2iVXg",
+   "duration": 1990,
+   "hijriDate": null
+  },
+  {
+   "n": 4,
+   "title": "الدرس 4",
+   "lang": "ar",
+   "scholarId": "عبدالمحسن-القاسم",
+   "videoId": "Am4BxcvRhfI",
+   "duration": 1899,
+   "hijriDate": null
+  },
+  {
+   "n": 5,
+   "title": "الدرس 5",
+   "lang": "ar",
+   "scholarId": "عبدالمحسن-القاسم",
+   "videoId": "Dxz26KZG_7A",
+   "duration": 2649,
+   "hijriDate": null
+  }
+ ]
+}

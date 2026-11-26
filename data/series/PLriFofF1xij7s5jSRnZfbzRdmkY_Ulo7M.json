@@ -1,0 +1,75 @@
+{
+ "id": "PLriFofF1xij7s5jSRnZfbzRdmkY_Ulo7M",
+ "title": "بلوغ المرام",
+ "subject": "hadith",
+ "kind": "series",
+ "lang": "ar",
+ "scholarId": "صالح-الحديثي",
+ "scholarIds": [
+  "صالح-الحديثي"
+ ],
+ "year": null,
+ "source": "youtube",
+ "channelId": "UC0XNCc-DU8J5_ksR-eufPaw",
+ "playlistId": "PLriFofF1xij7s5jSRnZfbzRdmkY_Ulo7M",
+ "url": "https://www.youtube.com/playlist?list=PLriFofF1xij7s5jSRnZfbzRdmkY_Ulo7M",
+ "thumbnail": "https://i.ytimg.com/vi/0PIm8CxjhJQ/maxresdefault.jpg",
+ "lessonCount": 6,
+ "duration": 9558,
+ "lessons": [
+  {
+   "n": 1,
+   "title": "الدرس 1",
+   "lang": "ar",
+   "scholarId": "صالح-الحديثي",
+   "videoId": "0PIm8CxjhJQ",
+   "duration": 1576,
+   "hijriDate": null
+  },
+  {
+   "n": 2,
+   "title": "الدرس 2",
+   "lang": "ar",
+   "scholarId": "صالح-الحديثي",
+   "videoId": "5lZQa20zXoQ",
+   "duration": 1670,
+   "hijriDate": null
+  },
+  {
+   "n": 3,
+   "title": "الدرس 3",
+   "lang": "ar",
+   "scholarId": "صالح-الحديثي",
+   "videoId": "gfkZe2wgClU",
+   "duration": 1389,
+   "hijriDate": null
+  },
+  {
+   "n": 4,
+   "title": "الدرس 4",
+   "lang": "ar",
+   "scholarId": "صالح-الحديثي",
+   "videoId": "9_W_YZu-K-k",
+   "duration": 1725,
+   "hijriDate": null
+  },
+  {
+   "n": 5,
+   "title": "الدرس 5",
+   "lang": "ar",
+   "scholarId": "صالح-الحديثي",
+   "videoId": "vKlKZrOPkH4",
+   "duration": 1729,
+   "hijriDate": null
+  },
+  {
+   "n": 6,
+   "title": "الدرس 6",
+   "lang": "ar",
+   "scholarId": "صالح-الحديثي",
+   "videoId": "zQjWPmIoBfY",
+   "duration": 1469,
+   "hijriDate": null
+  }
+ ]
+}

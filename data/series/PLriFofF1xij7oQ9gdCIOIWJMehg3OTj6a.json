@@ -1,0 +1,84 @@
+{
+ "id": "PLriFofF1xij7oQ9gdCIOIWJMehg3OTj6a",
+ "title": "أصول السنة",
+ "subject": "aqeedah",
+ "kind": "series",
+ "lang": "ar",
+ "scholarId": "سليمان-الغصن",
+ "scholarIds": [
+  "سليمان-الغصن"
+ ],
+ "year": null,
+ "source": "youtube",
+ "channelId": "UC0XNCc-DU8J5_ksR-eufPaw",
+ "playlistId": "PLriFofF1xij7oQ9gdCIOIWJMehg3OTj6a",
+ "url": "https://www.youtube.com/playlist?list=PLriFofF1xij7oQ9gdCIOIWJMehg3OTj6a",
+ "thumbnail": "https://i.ytimg.com/vi/qyUvpdMuSAk/maxresdefault.jpg",
+ "lessonCount": 7,
+ "duration": 27549,
+ "lessons": [
+  {
+   "n": 1,
+   "title": "الدرس 1",
+   "lang": "ar",
+   "scholarId": "سليمان-الغصن",
+   "videoId": "qyUvpdMuSAk",
+   "duration": 4271,
+   "hijriDate": null
+  },
+  {
+   "n": 2,
+   "title": "الدرس 2",
+   "lang": "ar",
+   "scholarId": "سليمان-الغصن",
+   "videoId": "WRrJC1lHCoE",
+   "duration": 3772,
+   "hijriDate": null
+  },
+  {
+   "n": 3,
+   "title": "الدرس 3",
+   "lang": "ar",
+   "scholarId": "سليمان-الغصن",
+   "videoId": "QgmNesVnAbk",
+   "duration": 3521,
+   "hijriDate": null
+  },
+  {
+   "n": 4,
+   "title": "الدرس 4",
+   "lang": "ar",
+   "scholarId": "سليمان-الغصن",
+   "videoId": "vC_A4Wn9vpo",
+   "duration": 4260,
+   "hijriDate": null
+  },
+  {
+   "n": 5,
+   "title": "الدرس 5",
+   "lang": "ar",
+   "scholarId": "سليمان-الغصن",
+   "videoId": "RGQ5AoGAzpc",
+   "duration": 3822,
+   "hijriDate": null
+  },
+  {
+   "n": 6,
+   "title": "الدرس 6",
+   "lang": "ar",
+   "scholarId": "سليمان-الغصن",
+   "videoId": "bMqkdkX738s",
+   "duration": 4123,
+   "hijriDate": null
+  },
+  {
+   "n": 7,
+   "title": "الدرس 7",
+   "lang": "ar",
+   "scholarId": "سليمان-الغصن",
+   "videoId": "I7kUZVaBa7c",
+   "duration": 3780,
+   "hijriDate": null
+  }
+ ]
+}

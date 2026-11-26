@@ -1,0 +1,70 @@
+{
+ "id": "PLgaTRTylCbZAnlykfz6dXq4iiZjKN1eyf",
+ "title": "سلسلة محاضرات (كيف نكون قدوة)",
+ "subject": "adab",
+ "kind": "course",
+ "lang": "ar",
+ "scholarId": null,
+ "scholarIds": [
+  "سعد-الشثري",
+  "صالح-حميد",
+  "عبدالرحمن-السديس",
+  "خالد-المصلح",
+  "عبدالرحمن-السند"
+ ],
+ "year": 1439,
+ "source": "youtube",
+ "channelId": "UC3QAoXf9GN9xeQYhk-AZbTg",
+ "playlistId": "PLgaTRTylCbZAnlykfz6dXq4iiZjKN1eyf",
+ "url": "https://www.youtube.com/playlist?list=PLgaTRTylCbZAnlykfz6dXq4iiZjKN1eyf",
+ "thumbnail": "https://i.ytimg.com/vi/d7MKk8A7AXI/maxresdefault.jpg",
+ "lessonCount": 5,
+ "duration": 16944,
+ "lessons": [
+  {
+   "n": 1,
+   "title": "لقد كان لكم في رسول الله أسوة حسنة",
+   "lang": "ar",
+   "scholarId": "سعد-الشثري",
+   "videoId": "shVQO0EnDjU",
+   "duration": 2948,
+   "hijriDate": null
+  },
+  {
+   "n": 2,
+   "title": "فبهداهم اقتده",
+   "lang": "ar",
+   "scholarId": "صالح-حميد",
+   "videoId": "4VybWeYWElo",
+   "duration": 4093,
+   "hijriDate": null
+  },
+  {
+   "n": 3,
+   "title": "إني جاعلك للناس إماما",
+   "lang": "ar",
+   "scholarId": "عبدالرحمن-السديس",
+   "videoId": "AnMSDHJNVXk",
+   "duration": 3679,
+   "hijriDate": null
+  },
+  {
+   "n": 4,
+   "title": "فاعبده وتوكل عليه",
+   "lang": "ar",
+   "scholarId": "خالد-المصلح",
+   "videoId": "d7MKk8A7AXI",
+   "duration": 3744,
+   "hijriDate": "1439-04-04"
+  },
+  {
+   "n": 5,
+   "title": "فبهداهم اقتده",
+   "lang": "ar",
+   "scholarId": "عبدالرحمن-السند",
+   "videoId": "nmpg2FTV_Ns",
+   "duration": 2480,
+   "hijriDate": "1439-06-09"
+  }
+ ]
+}

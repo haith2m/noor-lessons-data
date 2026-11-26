@@ -1,0 +1,57 @@
+{
+ "id": "PLgaTRTylCbZDDGwZ1fumfsSuFAMGXFqju",
+ "title": "تفسير سورة الحجر",
+ "subject": "tafsir",
+ "kind": "series",
+ "lang": "ar",
+ "scholarId": "سعد-الشثري",
+ "scholarIds": [
+  "سعد-الشثري"
+ ],
+ "year": 1444,
+ "source": "youtube",
+ "channelId": "UC3QAoXf9GN9xeQYhk-AZbTg",
+ "playlistId": "PLgaTRTylCbZDDGwZ1fumfsSuFAMGXFqju",
+ "url": "https://www.youtube.com/playlist?list=PLgaTRTylCbZDDGwZ1fumfsSuFAMGXFqju",
+ "thumbnail": "https://i.ytimg.com/vi/WX8GN3ABlMg/maxresdefault.jpg",
+ "lessonCount": 4,
+ "duration": 12150,
+ "lessons": [
+  {
+   "n": 1,
+   "title": "الدرس 1",
+   "lang": "ar",
+   "scholarId": "سعد-الشثري",
+   "videoId": "WX8GN3ABlMg",
+   "duration": 2148,
+   "hijriDate": "1444-09-01"
+  },
+  {
+   "n": 2,
+   "title": "الدرس 2",
+   "lang": "ar",
+   "scholarId": "سعد-الشثري",
+   "videoId": "kPgFC_WoF18",
+   "duration": 3728,
+   "hijriDate": "1444-09-04"
+  },
+  {
+   "n": 3,
+   "title": "الدرس 3",
+   "lang": "ar",
+   "scholarId": "سعد-الشثري",
+   "videoId": "AOK5B1sa9nU",
+   "duration": 2935,
+   "hijriDate": "1444-09-05"
+  },
+  {
+   "n": 4,
+   "title": "الدرس 4",
+   "lang": "ar",
+   "scholarId": "سعد-الشثري",
+   "videoId": "lmpMzV7OAwQ",
+   "duration": 3339,
+   "hijriDate": "1444-09-06"
+  }
+ ]
+}

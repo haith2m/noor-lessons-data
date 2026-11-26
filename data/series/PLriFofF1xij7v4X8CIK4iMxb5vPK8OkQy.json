@@ -1,0 +1,417 @@
+{
+ "id": "PLriFofF1xij7v4X8CIK4iMxb5vPK8OkQy",
+ "title": "سلسلة محاضرات من المسجد النبوي",
+ "subject": "general",
+ "kind": "course",
+ "lang": "ar",
+ "scholarId": null,
+ "scholarIds": [
+  "عبدالرزاق-البدر",
+  "طلال-ابوالنور",
+  "سليمان-الرحيلي",
+  "حسن-بخاري",
+  "سعود-الخلف",
+  "صالح-السحيمي",
+  "عبداللطيف-الشاماني",
+  "عبدالله-الشنقيطي",
+  "سامي-الصقير",
+  "سليمان-الغصن",
+  "علي-التويجري",
+  "انيس-طاهر",
+  "سلمان-الدخيل",
+  "بدر-البدر",
+  "علي-ابابطين",
+  "مسعود-المحمدي",
+  "عبدالعزيز-العبيد",
+  "احمد-السديس",
+  "عبدالسلام-السحيمي"
+ ],
+ "year": 1443,
+ "source": "youtube",
+ "channelId": "UC0XNCc-DU8J5_ksR-eufPaw",
+ "playlistId": "PLriFofF1xij7v4X8CIK4iMxb5vPK8OkQy",
+ "url": "https://www.youtube.com/playlist?list=PLriFofF1xij7v4X8CIK4iMxb5vPK8OkQy",
+ "thumbnail": "https://i.ytimg.com/vi/ck4hK_zyC4s/maxresdefault.jpg",
+ "lessonCount": 42,
+ "duration": 133883,
+ "lessons": [
+  {
+   "n": 1,
+   "title": "يوم عاشوراء",
+   "lang": "ar",
+   "scholarId": "عبدالرزاق-البدر",
+   "videoId": "ck4hK_zyC4s",
+   "duration": 2187,
+   "hijriDate": null
+  },
+  {
+   "n": 2,
+   "title": "أبو بكر الصديق رضي الله عنه",
+   "lang": "ar",
+   "scholarId": "طلال-ابوالنور",
+   "videoId": "3jvTc6uXypA",
+   "duration": 5025,
+   "hijriDate": null
+  },
+  {
+   "n": 3,
+   "title": "عمر بن الخطاب رضي الله عنه",
+   "lang": "ar",
+   "scholarId": "سليمان-الرحيلي",
+   "videoId": "JRbsOsAHVl0",
+   "duration": 4760,
+   "hijriDate": null
+  },
+  {
+   "n": 4,
+   "title": "عثمان بن عفان رضي الله عنه",
+   "lang": "ar",
+   "scholarId": "حسن-بخاري",
+   "videoId": "2vyFVLtmZng",
+   "duration": 4351,
+   "hijriDate": null
+  },
+  {
+   "n": 5,
+   "title": "علي بن ابي طالب رضي الله عنه",
+   "lang": "ar",
+   "scholarId": "سعود-الخلف",
+   "videoId": "F8tPfFpVw5o",
+   "duration": 4693,
+   "hijriDate": null
+  },
+  {
+   "n": 6,
+   "title": "﴿واعبدو الله ولا تشركو به شيئا﴾",
+   "lang": "ar",
+   "scholarId": "صالح-السحيمي",
+   "videoId": "PS4LbPS4PAY",
+   "duration": 3267,
+   "hijriDate": null
+  },
+  {
+   "n": 7,
+   "title": "الباقيات الصالحات",
+   "lang": "ar",
+   "scholarId": "سليمان-الرحيلي",
+   "videoId": "DDBpQiatKoE",
+   "duration": 4319,
+   "hijriDate": null
+  },
+  {
+   "n": 8,
+   "title": "أثر الطاعة على المسلم",
+   "lang": "ar",
+   "scholarId": "عبداللطيف-الشاماني",
+   "videoId": "I-7ON6eIUVg",
+   "duration": 2399,
+   "hijriDate": null
+  },
+  {
+   "n": 9,
+   "title": "﴿فاستقم كما أمرت﴾",
+   "lang": "ar",
+   "scholarId": "عبدالله-الشنقيطي",
+   "videoId": "nroAwhJNDsE",
+   "duration": 2989,
+   "hijriDate": null
+  },
+  {
+   "n": 10,
+   "title": "صلوا كما رأيتموني أصلي",
+   "lang": "ar",
+   "scholarId": "سامي-الصقير",
+   "videoId": "Sf94VfPgpCs",
+   "duration": 1816,
+   "hijriDate": null
+  },
+  {
+   "n": 11,
+   "title": "﴿وماتوفيقي إلا بالله عليه...﴾",
+   "lang": "ar",
+   "scholarId": "سليمان-الغصن",
+   "videoId": "_YUjmWBPBFo",
+   "duration": 3060,
+   "hijriDate": null
+  },
+  {
+   "n": 12,
+   "title": "الخصال الست في أول سورة المؤمنون",
+   "lang": "ar",
+   "scholarId": "علي-التويجري",
+   "videoId": "8Bp4oZwZtWI",
+   "duration": 3319,
+   "hijriDate": null
+  },
+  {
+   "n": 13,
+   "title": "حاسبوا أنفسكم قبل أن تحاسبوا",
+   "lang": "ar",
+   "scholarId": "انيس-طاهر",
+   "videoId": "ODvRhxAKcxI",
+   "duration": 1851,
+   "hijriDate": null
+  },
+  {
+   "n": 14,
+   "title": "أهمية تربية الأبناء على التوحيد",
+   "lang": "ar",
+   "scholarId": "سلمان-الدخيل",
+   "videoId": "nK7TFeKVABk",
+   "duration": 1975,
+   "hijriDate": null
+  },
+  {
+   "n": 15,
+   "title": "﴿أمن يجيب المضطر إذا دعاه...﴾",
+   "lang": "ar",
+   "scholarId": "بدر-البدر",
+   "videoId": "3TbJITpoCeI",
+   "duration": 2529,
+   "hijriDate": null
+  },
+  {
+   "n": 16,
+   "title": "﴿إنما يوفى الصابرون أجرهم...﴾",
+   "lang": "ar",
+   "scholarId": "سلمان-الدخيل",
+   "videoId": "tpDnw4W-Yn0",
+   "duration": 1518,
+   "hijriDate": null
+  },
+  {
+   "n": 17,
+   "title": "احفظ الله يحفظك",
+   "lang": "ar",
+   "scholarId": "عبداللطيف-الشاماني",
+   "videoId": "a7-AOr5bUQE",
+   "duration": 2622,
+   "hijriDate": null
+  },
+  {
+   "n": 18,
+   "title": "﴿الذين ءامنوا ولم يلبسوا...﴾",
+   "lang": "ar",
+   "scholarId": "سليمان-الرحيلي",
+   "videoId": "yBgBc1kvex4",
+   "duration": 2718,
+   "hijriDate": null
+  },
+  {
+   "n": 19,
+   "title": "تأملات في سورة التكوير",
+   "lang": "ar",
+   "scholarId": "عبدالله-الشنقيطي",
+   "videoId": "JuC4XLb3lQE",
+   "duration": 2652,
+   "hijriDate": null
+  },
+  {
+   "n": 20,
+   "title": "﴿لقد كان لكم في رسول الله...﴾",
+   "lang": "ar",
+   "scholarId": "علي-ابابطين",
+   "videoId": "FkyPMAspjVw",
+   "duration": 4202,
+   "hijriDate": null
+  },
+  {
+   "n": 21,
+   "title": "استقبال شهر رمضان",
+   "lang": "ar",
+   "scholarId": "سامي-الصقير",
+   "videoId": "sABlL8Czx1A",
+   "duration": 3263,
+   "hijriDate": null
+  },
+  {
+   "n": 22,
+   "title": "﴿إن في خلق السماوات ....﴾",
+   "lang": "ar",
+   "scholarId": "علي-التويجري",
+   "videoId": "8yX5zCykJ4g",
+   "duration": 2963,
+   "hijriDate": null
+  },
+  {
+   "n": 23,
+   "title": "المنهج الشرعي في التعامل",
+   "lang": "ar",
+   "scholarId": "عبدالرزاق-البدر",
+   "videoId": "DxeFNLh1hx4",
+   "duration": 3050,
+   "hijriDate": null
+  },
+  {
+   "n": 24,
+   "title": "أسباب انشراح الصدر",
+   "lang": "ar",
+   "scholarId": "عبداللطيف-الشاماني",
+   "videoId": "M3UUtnbQRoQ",
+   "duration": 3747,
+   "hijriDate": null
+  },
+  {
+   "n": 25,
+   "title": "فضل عشر ذي الحجة وما يشرع فيها",
+   "lang": "ar",
+   "scholarId": "عبداللطيف-الشاماني",
+   "videoId": "OUbJjRJY9SM",
+   "duration": 2926,
+   "hijriDate": null
+  },
+  {
+   "n": 26,
+   "title": "تعظيم قدر الصلاة",
+   "lang": "ar",
+   "scholarId": "عبداللطيف-الشاماني",
+   "videoId": "2XwBP3-iGgE",
+   "duration": 2757,
+   "hijriDate": null
+  },
+  {
+   "n": 27,
+   "title": "هكذا حج النبي صلى الله عليه وسلم",
+   "lang": "ar",
+   "scholarId": "سليمان-الرحيلي",
+   "videoId": "vNLPySg42SE",
+   "duration": 4640,
+   "hijriDate": null
+  },
+  {
+   "n": 28,
+   "title": "فضل عرفة والأضحى",
+   "lang": "ar",
+   "scholarId": "سليمان-الرحيلي",
+   "videoId": "q5ejooujU58",
+   "duration": 4824,
+   "hijriDate": null
+  },
+  {
+   "n": 29,
+   "title": "فضل التوبة والاستغفار",
+   "lang": "ar",
+   "scholarId": "مسعود-المحمدي",
+   "videoId": "0MHmQ7sXKIo",
+   "duration": 3629,
+   "hijriDate": null
+  },
+  {
+   "n": 30,
+   "title": "﴿وأن هذا صراطي مستقيما...﴾",
+   "lang": "ar",
+   "scholarId": "عبدالله-الشنقيطي",
+   "videoId": "wCYPwQ0zYkI",
+   "duration": 3279,
+   "hijriDate": null
+  },
+  {
+   "n": 31,
+   "title": "وماذا بعد الحج",
+   "lang": "ar",
+   "scholarId": "سليمان-الرحيلي",
+   "videoId": "cUtLfW9RA8c",
+   "duration": 4411,
+   "hijriDate": null
+  },
+  {
+   "n": 32,
+   "title": "أسباب زيادة الإيمان",
+   "lang": "ar",
+   "scholarId": "سليمان-الغصن",
+   "videoId": "_GqyuRSnj-0",
+   "duration": 2814,
+   "hijriDate": null
+  },
+  {
+   "n": 33,
+   "title": "إن لله ملائكة يطوفون",
+   "lang": "ar",
+   "scholarId": "عبدالرزاق-البدر",
+   "videoId": "ZHdU5JMw2gw",
+   "duration": 2892,
+   "hijriDate": null
+  },
+  {
+   "n": 34,
+   "title": "﴿وعباد الرحمن الذين...﴾",
+   "lang": "ar",
+   "scholarId": "عبدالعزيز-العبيد",
+   "videoId": "e84OaWQH0j4",
+   "duration": 1574,
+   "hijriDate": null
+  },
+  {
+   "n": 35,
+   "title": "مكانة التوحيد في حياة المسلم",
+   "lang": "ar",
+   "scholarId": "عبداللطيف-الشاماني",
+   "videoId": "zCEhoM9EnKY",
+   "duration": 3442,
+   "hijriDate": null
+  },
+  {
+   "n": 36,
+   "title": "﴿وإن تعدوا نعمة الله...﴾",
+   "lang": "ar",
+   "scholarId": "احمد-السديس",
+   "videoId": "cmMLYb3bNTg",
+   "duration": 3399,
+   "hijriDate": null
+  },
+  {
+   "n": 37,
+   "title": "التقوى وحسن الخلق",
+   "lang": "ar",
+   "scholarId": "بدر-البدر",
+   "videoId": "E6iKVu52oXo",
+   "duration": 2741,
+   "hijriDate": null
+  },
+  {
+   "n": 38,
+   "title": "موجبات النجاة يوم القيامة وأسبابها",
+   "lang": "ar",
+   "scholarId": "عبداللطيف-الشاماني",
+   "videoId": "nWkcdtZcizA",
+   "duration": 3257,
+   "hijriDate": null
+  },
+  {
+   "n": 39,
+   "title": "﴿ذلك ومن يعظم حرمات الله...﴾",
+   "lang": "ar",
+   "scholarId": "عبدالسلام-السحيمي",
+   "videoId": "a6n0Nb18Tew",
+   "duration": 3038,
+   "hijriDate": null
+  },
+  {
+   "n": 40,
+   "title": "المداومة على الأعمال الصالحة",
+   "lang": "ar",
+   "scholarId": "عبداللطيف-الشاماني",
+   "videoId": "MoERHtzIGQw",
+   "duration": 2735,
+   "hijriDate": null
+  },
+  {
+   "n": 41,
+   "title": "﴿أمن يجِيب المضطر إِذا دعاه﴾",
+   "lang": "ar",
+   "scholarId": "سعود-الخلف",
+   "videoId": "pbD09haKGWE",
+   "duration": 3825,
+   "hijriDate": null
+  },
+  {
+   "n": 42,
+   "title": "فضل التوحيد وخطر الشرك",
+   "lang": "ar",
+   "scholarId": "صالح-السحيمي",
+   "videoId": "YtzTwhv3t5o",
+   "duration": 2425,
+   "hijriDate": null
+  }
+ ]
+}

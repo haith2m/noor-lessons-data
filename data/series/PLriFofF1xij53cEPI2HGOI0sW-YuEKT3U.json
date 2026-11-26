@@ -1,0 +1,116 @@
+{
+ "id": "PLriFofF1xij53cEPI2HGOI0sW-YuEKT3U",
+ "title": "الدورة العلمية في فقه أحكام الحج والعمرة",
+ "subject": "fiqh",
+ "kind": "course",
+ "lang": "ar",
+ "scholarId": null,
+ "scholarIds": [
+  "سعود-الخلف",
+  "عبدالعزيز-الصاعدي",
+  "بدر-البدر",
+  "عبداللطيف-الشاماني",
+  "علي-التويجري",
+  "علي-ابابطين"
+ ],
+ "year": 1445,
+ "source": "youtube",
+ "channelId": "UC0XNCc-DU8J5_ksR-eufPaw",
+ "playlistId": "PLriFofF1xij53cEPI2HGOI0sW-YuEKT3U",
+ "url": "https://www.youtube.com/playlist?list=PLriFofF1xij53cEPI2HGOI0sW-YuEKT3U",
+ "thumbnail": "https://i.ytimg.com/vi/QH-TJMVGXCM/maxresdefault.jpg",
+ "lessonCount": 10,
+ "duration": 39744,
+ "lessons": [
+  {
+   "n": 1,
+   "title": "آداب الحاج والمعتمر",
+   "lang": "ar",
+   "scholarId": "سعود-الخلف",
+   "videoId": "QH-TJMVGXCM",
+   "duration": 3861,
+   "hijriDate": null
+  },
+  {
+   "n": 2,
+   "title": "أنواع الأنساك الثلاثة في الحج وأركان",
+   "lang": "ar",
+   "scholarId": "عبدالعزيز-الصاعدي",
+   "videoId": "a1W5ulVC4Hw",
+   "duration": 3213,
+   "hijriDate": null
+  },
+  {
+   "n": 3,
+   "title": "التنبيه على أخطاء شائعة في الحج والعمرة",
+   "lang": "ar",
+   "scholarId": "بدر-البدر",
+   "videoId": "ToFMliEgJ8c",
+   "duration": 4951,
+   "hijriDate": null
+  },
+  {
+   "n": 4,
+   "title": "أنواع الأنساك الثلاثة في الحج وأركان",
+   "lang": "ar",
+   "scholarId": "عبدالعزيز-الصاعدي",
+   "videoId": "QNeG2Xdp62M",
+   "duration": 3877,
+   "hijriDate": null
+  },
+  {
+   "n": 5,
+   "title": "الدروة العلمية - محظورات الإحرام",
+   "lang": "ar",
+   "scholarId": "عبداللطيف-الشاماني",
+   "videoId": "L-2-QWtfQUY",
+   "duration": 3266,
+   "hijriDate": null
+  },
+  {
+   "n": 6,
+   "title": "صفة الحج والعمرة",
+   "lang": "ar",
+   "scholarId": "علي-التويجري",
+   "videoId": "ZxnNUb5HnSE",
+   "duration": 4362,
+   "hijriDate": null
+  },
+  {
+   "n": 7,
+   "title": "صفة الحج والعمرة",
+   "lang": "ar",
+   "scholarId": "علي-التويجري",
+   "videoId": "8jYBh2Fnr88",
+   "duration": 4426,
+   "hijriDate": null
+  },
+  {
+   "n": 8,
+   "title": "صفة الحج والعمرة",
+   "lang": "ar",
+   "scholarId": "علي-التويجري",
+   "videoId": "Js810kqY6do",
+   "duration": 4511,
+   "hijriDate": null
+  },
+  {
+   "n": 9,
+   "title": "صفة الحج",
+   "lang": "ar",
+   "scholarId": "علي-ابابطين",
+   "videoId": "PPr4mj2ckDM",
+   "duration": 2871,
+   "hijriDate": null
+  },
+  {
+   "n": 10,
+   "title": "صفة الحج",
+   "lang": "ar",
+   "scholarId": "علي-ابابطين",
+   "videoId": "-TWbUIm23AY",
+   "duration": 4406,
+   "hijriDate": null
+  }
+ ]
+}

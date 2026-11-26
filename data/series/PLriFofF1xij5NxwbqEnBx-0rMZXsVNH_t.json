@@ -1,0 +1,48 @@
+{
+ "id": "PLriFofF1xij5NxwbqEnBx-0rMZXsVNH_t",
+ "title": "الأيام العلمية",
+ "subject": "aqeedah",
+ "kind": "series",
+ "lang": "ar",
+ "scholarId": "سليمان-الغصن",
+ "scholarIds": [
+  "سليمان-الغصن"
+ ],
+ "year": null,
+ "source": "youtube",
+ "channelId": "UC0XNCc-DU8J5_ksR-eufPaw",
+ "playlistId": "PLriFofF1xij5NxwbqEnBx-0rMZXsVNH_t",
+ "url": "https://www.youtube.com/playlist?list=PLriFofF1xij5NxwbqEnBx-0rMZXsVNH_t",
+ "thumbnail": "https://i.ytimg.com/vi/sjvh45vuXmc/maxresdefault.jpg",
+ "lessonCount": 3,
+ "duration": 11461,
+ "lessons": [
+  {
+   "n": 1,
+   "title": "مفهوم البدعة والنهي عنها",
+   "lang": "ar",
+   "scholarId": "سليمان-الغصن",
+   "videoId": "sjvh45vuXmc",
+   "duration": 3501,
+   "hijriDate": null
+  },
+  {
+   "n": 2,
+   "title": "أنواع البدعة وأحكامها",
+   "lang": "ar",
+   "scholarId": "سليمان-الغصن",
+   "videoId": "BPg92pQj4h0",
+   "duration": 4282,
+   "hijriDate": null
+  },
+  {
+   "n": 3,
+   "title": "الرد على شبهات المبتدعة",
+   "lang": "ar",
+   "scholarId": "سليمان-الغصن",
+   "videoId": "nqHvmQy1NeE",
+   "duration": 3678,
+   "hijriDate": null
+  }
+ ]
+}

@@ -1,0 +1,30 @@
+{
+ "id": "PLriFofF1xij4-_kVBAFa5jDjZY4RTNVZj",
+ "title": "نيل الأوطار",
+ "subject": "hadith",
+ "kind": "series",
+ "lang": "ar",
+ "scholarId": "علي-الحذيفي",
+ "scholarIds": [
+  "علي-الحذيفي"
+ ],
+ "year": null,
+ "source": "youtube",
+ "channelId": "UC0XNCc-DU8J5_ksR-eufPaw",
+ "playlistId": "PLriFofF1xij4-_kVBAFa5jDjZY4RTNVZj",
+ "url": "https://www.youtube.com/playlist?list=PLriFofF1xij4-_kVBAFa5jDjZY4RTNVZj",
+ "thumbnail": "https://i.ytimg.com/vi/fP1GGPVPM6s/maxresdefault.jpg",
+ "lessonCount": 1,
+ "duration": 3113,
+ "lessons": [
+  {
+   "n": 1,
+   "title": "الدرس 1",
+   "lang": "ar",
+   "scholarId": "علي-الحذيفي",
+   "videoId": "fP1GGPVPM6s",
+   "duration": 3113,
+   "hijriDate": null
+  }
+ ]
+}

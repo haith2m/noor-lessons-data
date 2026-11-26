@@ -1,0 +1,110 @@
+{
+ "id": "PLriFofF1xij4GL_kYWcyjiQcau8pGbb6A",
+ "title": "مبادرة ﴿ لِيَشْهَدُوا مَنَافِعَ لَهُمْ ﴾",
+ "subject": "fiqh",
+ "kind": "course",
+ "lang": "ar",
+ "scholarId": null,
+ "scholarIds": [
+  "سليمان-الغصن",
+  "صالح-السحيمي",
+  "محمد-اليوبي",
+  "صالح-العبود",
+  "سلمان-الدخيل",
+  "عمر-فلاته",
+  "عبداللطيف-الشاماني",
+  "سليمان-الرحيلي",
+  "سعود-الخلف"
+ ],
+ "year": null,
+ "source": "youtube",
+ "channelId": "UC0XNCc-DU8J5_ksR-eufPaw",
+ "playlistId": "PLriFofF1xij4GL_kYWcyjiQcau8pGbb6A",
+ "url": "https://www.youtube.com/playlist?list=PLriFofF1xij4GL_kYWcyjiQcau8pGbb6A",
+ "thumbnail": "https://i.ytimg.com/vi/yeL_8uv4Z8w/maxresdefault.jpg",
+ "lessonCount": 9,
+ "duration": 24814,
+ "lessons": [
+  {
+   "n": 1,
+   "title": "الحج المبرور",
+   "lang": "ar",
+   "scholarId": "سليمان-الغصن",
+   "videoId": "yeL_8uv4Z8w",
+   "duration": 2486,
+   "hijriDate": null
+  },
+  {
+   "n": 2,
+   "title": "﴿وَلَيَالٍ عَشْرٍ﴾",
+   "lang": "ar",
+   "scholarId": "صالح-السحيمي",
+   "videoId": "OpYH8NkxQxw",
+   "duration": 1679,
+   "hijriDate": null
+  },
+  {
+   "n": 3,
+   "title": "مقاصد الحج",
+   "lang": "ar",
+   "scholarId": "محمد-اليوبي",
+   "videoId": "3pEPSTA9MbE",
+   "duration": 2113,
+   "hijriDate": null
+  },
+  {
+   "n": 4,
+   "title": "الدعاء هو العبادة",
+   "lang": "ar",
+   "scholarId": "صالح-العبود",
+   "videoId": "-BuR4eRjVOM",
+   "duration": 2505,
+   "hijriDate": null
+  },
+  {
+   "n": 5,
+   "title": "يوم عرفة",
+   "lang": "ar",
+   "scholarId": "سلمان-الدخيل",
+   "videoId": "2aUgUwloURc",
+   "duration": 2045,
+   "hijriDate": null
+  },
+  {
+   "n": 6,
+   "title": "الذكر في آيام العشر",
+   "lang": "ar",
+   "scholarId": "عمر-فلاته",
+   "videoId": "yWN7OmSmVDk",
+   "duration": 3019,
+   "hijriDate": null
+  },
+  {
+   "n": 7,
+   "title": "حجة الوداع دروس وعبر",
+   "lang": "ar",
+   "scholarId": "عبداللطيف-الشاماني",
+   "videoId": "KIJMoa3gr7A",
+   "duration": 4151,
+   "hijriDate": null
+  },
+  {
+   "n": 8,
+   "title": "﴿اليوم أكملت لكم...﴾",
+   "lang": "ar",
+   "scholarId": "سليمان-الرحيلي",
+   "videoId": "3i18OjE50_s",
+   "duration": 3940,
+   "hijriDate": null
+  },
+  {
+   "n": 9,
+   "title": "أحكام الأضحية",
+   "lang": "ar",
+   "scholarId": "سعود-الخلف",
+   "videoId": "38Rdkh-Q1ko",
+   "duration": 2876,
+   "hijriDate": null
+  }
+ ]
+}

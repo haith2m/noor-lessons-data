@@ -1,0 +1,39 @@
+{
+ "id": "PLriFofF1xij5XcC71PmEwuEphr-093ONL",
+ "title": "السلسبيل في معرفة الدليل",
+ "subject": "fiqh",
+ "kind": "series",
+ "lang": "ar",
+ "scholarId": "فيحان-المطيري",
+ "scholarIds": [
+  "فيحان-المطيري"
+ ],
+ "year": null,
+ "source": "youtube",
+ "channelId": "UC0XNCc-DU8J5_ksR-eufPaw",
+ "playlistId": "PLriFofF1xij5XcC71PmEwuEphr-093ONL",
+ "url": "https://www.youtube.com/playlist?list=PLriFofF1xij5XcC71PmEwuEphr-093ONL",
+ "thumbnail": "https://i.ytimg.com/vi/MQWut_j5DxA/maxresdefault.jpg",
+ "lessonCount": 2,
+ "duration": 4589,
+ "lessons": [
+  {
+   "n": 1,
+   "title": "الدرس 1",
+   "lang": "ar",
+   "scholarId": "فيحان-المطيري",
+   "videoId": "MQWut_j5DxA",
+   "duration": 2223,
+   "hijriDate": null
+  },
+  {
+   "n": 2,
+   "title": "الدرس 2",
+   "lang": "ar",
+   "scholarId": "فيحان-المطيري",
+   "videoId": "lRLTtGBApow",
+   "duration": 2366,
+   "hijriDate": null
+  }
+ ]
+}

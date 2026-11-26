@@ -1,0 +1,75 @@
+{
+ "id": "PLgaTRTylCbZD0meJpwBudGFHLw0K_HAG2",
+ "title": "تفسير سورة الرعد",
+ "subject": "tafsir",
+ "kind": "series",
+ "lang": "ar",
+ "scholarId": "سعد-الشثري",
+ "scholarIds": [
+  "سعد-الشثري"
+ ],
+ "year": 1444,
+ "source": "youtube",
+ "channelId": "UC3QAoXf9GN9xeQYhk-AZbTg",
+ "playlistId": "PLgaTRTylCbZD0meJpwBudGFHLw0K_HAG2",
+ "url": "https://www.youtube.com/playlist?list=PLgaTRTylCbZD0meJpwBudGFHLw0K_HAG2",
+ "thumbnail": "https://i.ytimg.com/vi/l9sj2YlV9AU/maxresdefault.jpg",
+ "lessonCount": 6,
+ "duration": 17906,
+ "lessons": [
+  {
+   "n": 1,
+   "title": "الدرس 1",
+   "lang": "ar",
+   "scholarId": "سعد-الشثري",
+   "videoId": "Angfl_6K80U",
+   "duration": 2790,
+   "hijriDate": "1444-09-14"
+  },
+  {
+   "n": 2,
+   "title": "الدرس 2",
+   "lang": "ar",
+   "scholarId": "سعد-الشثري",
+   "videoId": "P1hzbQaQdc8",
+   "duration": 3600,
+   "hijriDate": "1444-09-15"
+  },
+  {
+   "n": 3,
+   "title": "الدرس 3",
+   "lang": "ar",
+   "scholarId": "سعد-الشثري",
+   "videoId": "fbA3DyUmoww",
+   "duration": 3179,
+   "hijriDate": "1444-09-16"
+  },
+  {
+   "n": 4,
+   "title": "الدرس 4",
+   "lang": "ar",
+   "scholarId": "سعد-الشثري",
+   "videoId": "KT-a9vm22yo",
+   "duration": 1754,
+   "hijriDate": "1444-09-17"
+  },
+  {
+   "n": 5,
+   "title": "الدرس 5",
+   "lang": "ar",
+   "scholarId": "سعد-الشثري",
+   "videoId": "BD7p0hcDPxI",
+   "duration": 3639,
+   "hijriDate": "1444-09-18"
+  },
+  {
+   "n": 6,
+   "title": "الدرس 6",
+   "lang": "ar",
+   "scholarId": "سعد-الشثري",
+   "videoId": "l9sj2YlV9AU",
+   "duration": 2944,
+   "hijriDate": "1444-09-19"
+  }
+ ]
+}

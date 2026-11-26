@@ -1,0 +1,48 @@
+{
+ "id": "PLriFofF1xij6T9-Ad8kj7_f9nRslj1Px--1",
+ "title": "الشرح الممتع على زاد المستقنع",
+ "subject": "fiqh",
+ "kind": "series",
+ "lang": "ar",
+ "scholarId": "شرف-الشريف",
+ "scholarIds": [
+  "شرف-الشريف"
+ ],
+ "year": null,
+ "source": "youtube",
+ "channelId": "UC0XNCc-DU8J5_ksR-eufPaw",
+ "playlistId": "PLriFofF1xij6T9-Ad8kj7_f9nRslj1Px-",
+ "url": "https://www.youtube.com/playlist?list=PLriFofF1xij6T9-Ad8kj7_f9nRslj1Px-",
+ "thumbnail": "https://i.ytimg.com/vi/ENSbqau1cNE/maxresdefault.jpg",
+ "lessonCount": 3,
+ "duration": 12289,
+ "lessons": [
+  {
+   "n": 1,
+   "title": "الدرس 1",
+   "lang": "ar",
+   "scholarId": "شرف-الشريف",
+   "videoId": "vQmW_7SuuVA",
+   "duration": 4293,
+   "hijriDate": null
+  },
+  {
+   "n": 2,
+   "title": "الدرس 2",
+   "lang": "ar",
+   "scholarId": "شرف-الشريف",
+   "videoId": "ENSbqau1cNE",
+   "duration": 3959,
+   "hijriDate": null
+  },
+  {
+   "n": 3,
+   "title": "الدرس 3",
+   "lang": "ar",
+   "scholarId": "شرف-الشريف",
+   "videoId": "LuUeIBesoio",
+   "duration": 4037,
+   "hijriDate": null
+  }
+ ]
+}

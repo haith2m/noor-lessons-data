@@ -1,0 +1,39 @@
+{
+ "id": "PLriFofF1xij5Hlf4FoKJYUjSU2m_EbMY7",
+ "title": "رسالة وظائف رمضان للشيخ عبدالرحمن بن قاسم",
+ "subject": "general",
+ "kind": "series",
+ "lang": "ar",
+ "scholarId": "علي-ابابطين",
+ "scholarIds": [
+  "علي-ابابطين"
+ ],
+ "year": null,
+ "source": "youtube",
+ "channelId": "UC0XNCc-DU8J5_ksR-eufPaw",
+ "playlistId": "PLriFofF1xij5Hlf4FoKJYUjSU2m_EbMY7",
+ "url": "https://www.youtube.com/playlist?list=PLriFofF1xij5Hlf4FoKJYUjSU2m_EbMY7",
+ "thumbnail": "https://i.ytimg.com/vi/9-7V4McowIE/maxresdefault.jpg",
+ "lessonCount": 2,
+ "duration": 7059,
+ "lessons": [
+  {
+   "n": 1,
+   "title": "الدرس 1",
+   "lang": "ar",
+   "scholarId": "علي-ابابطين",
+   "videoId": "O1BiVkkaNmw",
+   "duration": 3977,
+   "hijriDate": null
+  },
+  {
+   "n": 2,
+   "title": "الدرس 2",
+   "lang": "ar",
+   "scholarId": "علي-ابابطين",
+   "videoId": "9-7V4McowIE",
+   "duration": 3082,
+   "hijriDate": null
+  }
+ ]
+}

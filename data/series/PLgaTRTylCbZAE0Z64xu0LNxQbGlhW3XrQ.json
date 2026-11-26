@@ -1,0 +1,100 @@
+{
+ "id": "PLgaTRTylCbZAE0Z64xu0LNxQbGlhW3XrQ",
+ "title": "سلسلة محاضرات (ليشهدوا منافع لهم)",
+ "subject": "general",
+ "kind": "course",
+ "lang": "ar",
+ "scholarId": null,
+ "scholarIds": [
+  "احمد-المزروع",
+  "سعد-الخثلان",
+  "حمزه-الفعر",
+  "عبدالرحمن-القرني",
+  "سليمان-التويجري",
+  "يوسف-الوابل",
+  "خالد-عروس",
+  "طلال-ابوالنور"
+ ],
+ "year": 1443,
+ "source": "youtube",
+ "channelId": "UC3QAoXf9GN9xeQYhk-AZbTg",
+ "playlistId": "PLgaTRTylCbZAE0Z64xu0LNxQbGlhW3XrQ",
+ "url": "https://www.youtube.com/playlist?list=PLgaTRTylCbZAE0Z64xu0LNxQbGlhW3XrQ",
+ "thumbnail": "https://i.ytimg.com/vi/RmwJ62CqcAs/maxresdefault.jpg",
+ "lessonCount": 8,
+ "duration": 22677,
+ "lessons": [
+  {
+   "n": 1,
+   "title": "ولله على الناس حج البيت من استطاع إليه سبيلا",
+   "lang": "ar",
+   "scholarId": "احمد-المزروع",
+   "videoId": "xhUcpUlLnUU",
+   "duration": 2373,
+   "hijriDate": "1443-11-21"
+  },
+  {
+   "n": 2,
+   "title": "فقه النوازل في الحج",
+   "lang": "ar",
+   "scholarId": "سعد-الخثلان",
+   "videoId": "AqO4H55rVcM",
+   "duration": 1615,
+   "hijriDate": "1443-11-24"
+  },
+  {
+   "n": 3,
+   "title": "وأذن في الناس بالحج",
+   "lang": "ar",
+   "scholarId": "حمزه-الفعر",
+   "videoId": "xuiNkaOhrF8",
+   "duration": 3129,
+   "hijriDate": "1443-11-19"
+  },
+  {
+   "n": 4,
+   "title": "مقاصد الحج",
+   "lang": "ar",
+   "scholarId": "عبدالرحمن-القرني",
+   "videoId": "RmwJ62CqcAs",
+   "duration": 1772,
+   "hijriDate": "1443-11-20"
+  },
+  {
+   "n": 5,
+   "title": "قل إن صلاتي ونسكي ومحياي ومماتي لله رب العالمين",
+   "lang": "ar",
+   "scholarId": "سليمان-التويجري",
+   "videoId": "4OvMsW192Og",
+   "duration": 3689,
+   "hijriDate": null
+  },
+  {
+   "n": 6,
+   "title": "وماخلقت الجن والإنس إلا ليعبدون",
+   "lang": "ar",
+   "scholarId": "يوسف-الوابل",
+   "videoId": "IGEtXq6eo8A",
+   "duration": 3901,
+   "hijriDate": null
+  },
+  {
+   "n": 7,
+   "title": "خذوا عني مناسككم",
+   "lang": "ar",
+   "scholarId": "خالد-عروس",
+   "videoId": "_jaKwEITRRo",
+   "duration": 2766,
+   "hijriDate": "1443-11-27"
+  },
+  {
+   "n": 8,
+   "title": "خصائص البيت الحرام",
+   "lang": "ar",
+   "scholarId": "طلال-ابوالنور",
+   "videoId": "J30tUinkX-Y",
+   "duration": 3432,
+   "hijriDate": "1443-11-28"
+  }
+ ]
+}

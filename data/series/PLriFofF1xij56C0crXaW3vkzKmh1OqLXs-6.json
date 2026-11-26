@@ -1,0 +1,48 @@
+{
+ "id": "PLriFofF1xij56C0crXaW3vkzKmh1OqLXs-6",
+ "title": "أحاديث الحج",
+ "subject": "fiqh",
+ "kind": "series",
+ "lang": "ar",
+ "scholarId": "سلمان-الدخيل",
+ "scholarIds": [
+  "سلمان-الدخيل"
+ ],
+ "year": null,
+ "source": "youtube",
+ "channelId": "UC0XNCc-DU8J5_ksR-eufPaw",
+ "playlistId": "PLriFofF1xij56C0crXaW3vkzKmh1OqLXs",
+ "url": "https://www.youtube.com/playlist?list=PLriFofF1xij56C0crXaW3vkzKmh1OqLXs",
+ "thumbnail": "https://i.ytimg.com/vi/yxS01hTIm1g/maxresdefault.jpg",
+ "lessonCount": 3,
+ "duration": 14226,
+ "lessons": [
+  {
+   "n": 1,
+   "title": "الدرس 1",
+   "lang": "ar",
+   "scholarId": "سلمان-الدخيل",
+   "videoId": "b1fTfLwA9-A",
+   "duration": 3090,
+   "hijriDate": null
+  },
+  {
+   "n": 2,
+   "title": "الدرس 2",
+   "lang": "ar",
+   "scholarId": "سلمان-الدخيل",
+   "videoId": "Zgsynw6bGew",
+   "duration": 3604,
+   "hijriDate": null
+  },
+  {
+   "n": 3,
+   "title": "الدرس 3",
+   "lang": "ar",
+   "scholarId": "سلمان-الدخيل",
+   "videoId": "fnXgmNo1VaM",
+   "duration": 7532,
+   "hijriDate": null
+  }
+ ]
+}

@@ -1,0 +1,141 @@
+{
+ "id": "PLriFofF1xij5Cqw7hRhvCq0JzQiYLPZqN",
+ "title": "الدورة العلمية (4)",
+ "subject": "fiqh",
+ "kind": "course",
+ "lang": "ar",
+ "scholarId": null,
+ "scholarIds": [
+  "مسعود-المحمدي",
+  "عبدالله-الشنقيطي",
+  "عبدالعزيز-العبيد",
+  "عبدالسلام-السحيمي"
+ ],
+ "year": 1444,
+ "source": "youtube",
+ "channelId": "UC0XNCc-DU8J5_ksR-eufPaw",
+ "playlistId": "PLriFofF1xij5Cqw7hRhvCq0JzQiYLPZqN",
+ "url": "https://www.youtube.com/playlist?list=PLriFofF1xij5Cqw7hRhvCq0JzQiYLPZqN",
+ "thumbnail": "https://i.ytimg.com/vi/6nm4qqjxEI0/maxresdefault.jpg",
+ "lessonCount": 13,
+ "duration": 48740,
+ "lessons": [
+  {
+   "n": 1,
+   "title": "رسالة الأصول الثلاثة",
+   "lang": "ar",
+   "scholarId": "مسعود-المحمدي",
+   "videoId": "6nm4qqjxEI0",
+   "duration": 4041,
+   "hijriDate": null
+  },
+  {
+   "n": 2,
+   "title": "تفسير آيات الحج من سورة الحج",
+   "lang": "ar",
+   "scholarId": "عبدالله-الشنقيطي",
+   "videoId": "1KSkauKhuoQ",
+   "duration": 2581,
+   "hijriDate": null
+  },
+  {
+   "n": 3,
+   "title": "تفسير آيات الحج من سورة الحج",
+   "lang": "ar",
+   "scholarId": "عبدالله-الشنقيطي",
+   "videoId": "Z1iPtQSI2Vo",
+   "duration": 2738,
+   "hijriDate": null
+  },
+  {
+   "n": 4,
+   "title": "رسالة الأصول الثلاثة",
+   "lang": "ar",
+   "scholarId": "مسعود-المحمدي",
+   "videoId": "aG113ZoVvSQ",
+   "duration": 3819,
+   "hijriDate": null
+  },
+  {
+   "n": 5,
+   "title": "رسالة الأصول الثلاثة",
+   "lang": "ar",
+   "scholarId": "مسعود-المحمدي",
+   "videoId": "OPwi7Sl_6Yw",
+   "duration": 3804,
+   "hijriDate": null
+  },
+  {
+   "n": 6,
+   "title": "تأملات في آيات الحج من سورة البقرة",
+   "lang": "ar",
+   "scholarId": "عبدالعزيز-العبيد",
+   "videoId": "HQM3ve6613E",
+   "duration": 3976,
+   "hijriDate": null
+  },
+  {
+   "n": 7,
+   "title": "رسالة الأصول الثلاثة",
+   "lang": "ar",
+   "scholarId": "مسعود-المحمدي",
+   "videoId": "ldxmwI0vloQ",
+   "duration": 4114,
+   "hijriDate": null
+  },
+  {
+   "n": 8,
+   "title": "كتاب شرح العبادات الخمس (الحج)",
+   "lang": "ar",
+   "scholarId": "عبدالسلام-السحيمي",
+   "videoId": "5Rzh512k9hM",
+   "duration": 4346,
+   "hijriDate": null
+  },
+  {
+   "n": 9,
+   "title": "كتاب شرح العبادات الخمس (الحج)",
+   "lang": "ar",
+   "scholarId": "عبدالسلام-السحيمي",
+   "videoId": "jgq3XYdxjWo",
+   "duration": 3936,
+   "hijriDate": null
+  },
+  {
+   "n": 10,
+   "title": "كتاب شرح العبادات الخمس (الحج)",
+   "lang": "ar",
+   "scholarId": "عبدالسلام-السحيمي",
+   "videoId": "4God7fR4jzg",
+   "duration": 4071,
+   "hijriDate": null
+  },
+  {
+   "n": 11,
+   "title": "كتاب شرح العبادات الخمس (الحج)",
+   "lang": "ar",
+   "scholarId": "عبدالسلام-السحيمي",
+   "videoId": "Hdtnz4PpfR8",
+   "duration": 4098,
+   "hijriDate": null
+  },
+  {
+   "n": 12,
+   "title": "كتاب شرح العبادات الخمس (الحج)",
+   "lang": "ar",
+   "scholarId": "عبدالسلام-السحيمي",
+   "videoId": "JSSp0fHnWxM",
+   "duration": 3156,
+   "hijriDate": null
+  },
+  {
+   "n": 13,
+   "title": "كتاب شرح العبادات الخمس (الحج)",
+   "lang": "ar",
+   "scholarId": "عبدالسلام-السحيمي",
+   "videoId": "FqPicxzHkOI",
+   "duration": 4060,
+   "hijriDate": null
+  }
+ ]
+}

@@ -1,0 +1,39 @@
+{
+ "id": "PLriFofF1xij5P2Fvve1pdiUxdnmFy2NqI-3",
+ "title": "الدروس العامة",
+ "subject": "general",
+ "kind": "series",
+ "lang": "ar",
+ "scholarId": "حسين-الشيخ",
+ "scholarIds": [
+  "حسين-الشيخ"
+ ],
+ "year": null,
+ "source": "youtube",
+ "channelId": "UC0XNCc-DU8J5_ksR-eufPaw",
+ "playlistId": "PLriFofF1xij5P2Fvve1pdiUxdnmFy2NqI",
+ "url": "https://www.youtube.com/playlist?list=PLriFofF1xij5P2Fvve1pdiUxdnmFy2NqI",
+ "thumbnail": "https://i.ytimg.com/vi/zwDilZPIfsM/maxresdefault.jpg",
+ "lessonCount": 2,
+ "duration": 6417,
+ "lessons": [
+  {
+   "n": 1,
+   "title": "عبادة الله عز وجل",
+   "lang": "ar",
+   "scholarId": "حسين-الشيخ",
+   "videoId": "zwDilZPIfsM",
+   "duration": 3255,
+   "hijriDate": null
+  },
+  {
+   "n": 2,
+   "title": "لا إله إلا الله فضلها وشروطها",
+   "lang": "ar",
+   "scholarId": "حسين-الشيخ",
+   "videoId": "Fri--eVOa0w",
+   "duration": 3162,
+   "hijriDate": null
+  }
+ ]
+}

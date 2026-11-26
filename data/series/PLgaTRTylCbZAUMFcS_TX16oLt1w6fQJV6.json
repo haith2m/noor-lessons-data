@@ -1,0 +1,66 @@
+{
+ "id": "PLgaTRTylCbZAUMFcS_TX16oLt1w6fQJV6",
+ "title": "الإيمان لأبي عبيد القاسم",
+ "subject": "aqeedah",
+ "kind": "series",
+ "lang": "ar",
+ "scholarId": "عبدالله-القرني",
+ "scholarIds": [
+  "عبدالله-القرني"
+ ],
+ "year": null,
+ "source": "youtube",
+ "channelId": "UC3QAoXf9GN9xeQYhk-AZbTg",
+ "playlistId": "PLgaTRTylCbZAUMFcS_TX16oLt1w6fQJV6",
+ "url": "https://www.youtube.com/playlist?list=PLgaTRTylCbZAUMFcS_TX16oLt1w6fQJV6",
+ "thumbnail": "https://i.ytimg.com/vi/ViGIfJLhE6E/hqdefault.jpg",
+ "lessonCount": 5,
+ "duration": 17327,
+ "lessons": [
+  {
+   "n": 1,
+   "title": "الدرس 1",
+   "lang": "ar",
+   "scholarId": "عبدالله-القرني",
+   "videoId": "ViGIfJLhE6E",
+   "duration": 3819,
+   "hijriDate": null
+  },
+  {
+   "n": 2,
+   "title": "الدرس 2",
+   "lang": "ar",
+   "scholarId": "عبدالله-القرني",
+   "videoId": "k5dhKxfS3eg",
+   "duration": 4255,
+   "hijriDate": null
+  },
+  {
+   "n": 3,
+   "title": "الدرس 3",
+   "lang": "ar",
+   "scholarId": "عبدالله-القرني",
+   "videoId": "RynCHlfis9k",
+   "duration": 1970,
+   "hijriDate": null
+  },
+  {
+   "n": 4,
+   "title": "الدرس 4",
+   "lang": "ar",
+   "scholarId": "عبدالله-القرني",
+   "videoId": "8hdd5Gd7d64",
+   "duration": 2567,
+   "hijriDate": null
+  },
+  {
+   "n": 5,
+   "title": "الدرس 5",
+   "lang": "ar",
+   "scholarId": "عبدالله-القرني",
+   "videoId": "yEfCjKqkmQM",
+   "duration": 4716,
+   "hijriDate": null
+  }
+ ]
+}

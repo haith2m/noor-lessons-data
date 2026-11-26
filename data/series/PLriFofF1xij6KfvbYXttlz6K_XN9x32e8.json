@@ -1,0 +1,667 @@
+{
+ "id": "PLriFofF1xij6KfvbYXttlz6K_XN9x32e8",
+ "title": "سلسلة محاضرات من المسجد النبوي",
+ "subject": "general",
+ "kind": "course",
+ "lang": "ar",
+ "scholarId": null,
+ "scholarIds": [
+  "سامي-الصقير",
+  "عبداللطيف-الشاماني",
+  "عبدالرزاق-البدر",
+  "مسعود-المحمدي",
+  "عبدالله-الشنقيطي",
+  "سليمان-الرحيلي",
+  "انيس-طاهر",
+  "بدر-البدر",
+  "احمد-السديس",
+  "سعود-الخلف",
+  "عبدالسلام-السحيمي",
+  "عبدالعزيز-العبيد",
+  "عبدالله-الزاحم",
+  "فيحان-المطيري",
+  "صالح-السحيمي",
+  "محمد-اليوبي",
+  "علي-ابابطين"
+ ],
+ "year": 1444,
+ "source": "youtube",
+ "channelId": "UC0XNCc-DU8J5_ksR-eufPaw",
+ "playlistId": "PLriFofF1xij6KfvbYXttlz6K_XN9x32e8",
+ "url": "https://www.youtube.com/playlist?list=PLriFofF1xij6KfvbYXttlz6K_XN9x32e8",
+ "thumbnail": "https://i.ytimg.com/vi/qoBU_YWHFnQ/maxresdefault.jpg",
+ "lessonCount": 70,
+ "duration": 233778,
+ "lessons": [
+  {
+   "n": 1,
+   "title": "فضل شهر الله المحرم",
+   "lang": "ar",
+   "scholarId": "سامي-الصقير",
+   "videoId": "qoBU_YWHFnQ",
+   "duration": 1403,
+   "hijriDate": null
+  },
+  {
+   "n": 2,
+   "title": "عاشوراء فضائل وأحكام",
+   "lang": "ar",
+   "scholarId": "عبداللطيف-الشاماني",
+   "videoId": "_s6Vf9T8gGQ",
+   "duration": 2321,
+   "hijriDate": null
+  },
+  {
+   "n": 3,
+   "title": "الدعاء فضله وآدابه",
+   "lang": "ar",
+   "scholarId": "عبداللطيف-الشاماني",
+   "videoId": "2Y8hK1QbKfQ",
+   "duration": 3245,
+   "hijriDate": null
+  },
+  {
+   "n": 4,
+   "title": "وسائل الثبات على الدين",
+   "lang": "ar",
+   "scholarId": "عبداللطيف-الشاماني",
+   "videoId": "BVDQiwxWhpY",
+   "duration": 3986,
+   "hijriDate": null
+  },
+  {
+   "n": 5,
+   "title": "الإيمان هداياته وثمراته",
+   "lang": "ar",
+   "scholarId": "عبداللطيف-الشاماني",
+   "videoId": "zpUZkz2OcfQ",
+   "duration": 3361,
+   "hijriDate": null
+  },
+  {
+   "n": 6,
+   "title": "جوامع الخير",
+   "lang": "ar",
+   "scholarId": "سامي-الصقير",
+   "videoId": "MxkVI4FVSgU",
+   "duration": 3686,
+   "hijriDate": null
+  },
+  {
+   "n": 7,
+   "title": "محبة النبي ﷺ",
+   "lang": "ar",
+   "scholarId": "سامي-الصقير",
+   "videoId": "0566wv0qmao",
+   "duration": 3005,
+   "hijriDate": null
+  },
+  {
+   "n": 8,
+   "title": "العلم فضائله وثماره",
+   "lang": "ar",
+   "scholarId": "عبدالرزاق-البدر",
+   "videoId": "Yl7OjiVqzEQ",
+   "duration": 3828,
+   "hijriDate": null
+  },
+  {
+   "n": 9,
+   "title": "حق المسلم على المسلم",
+   "lang": "ar",
+   "scholarId": "عبداللطيف-الشاماني",
+   "videoId": "wd5rPUligLs",
+   "duration": 1865,
+   "hijriDate": null
+  },
+  {
+   "n": 10,
+   "title": "تنبيهات على بعض الأخطاء في الطهارة والصلاة",
+   "lang": "ar",
+   "scholarId": "سامي-الصقير",
+   "videoId": "TEuojqem2Lg",
+   "duration": 4131,
+   "hijriDate": null
+  },
+  {
+   "n": 11,
+   "title": "﴿قد أفلح من زكىٰها﴾",
+   "lang": "ar",
+   "scholarId": "مسعود-المحمدي",
+   "videoId": "AV0-bOtAEnI",
+   "duration": 3912,
+   "hijriDate": null
+  },
+  {
+   "n": 12,
+   "title": "﴿يَٰٓأيهاالذين ءامنوا توبوا...﴾",
+   "lang": "ar",
+   "scholarId": "عبدالله-الشنقيطي",
+   "videoId": "I0joY5tTkMU",
+   "duration": 2766,
+   "hijriDate": null
+  },
+  {
+   "n": 13,
+   "title": "المسارعة إلى الخيرات",
+   "lang": "ar",
+   "scholarId": "سليمان-الرحيلي",
+   "videoId": "UcRbnYKwMGM",
+   "duration": 3625,
+   "hijriDate": null
+  },
+  {
+   "n": 14,
+   "title": "حفظ الجوارح",
+   "lang": "ar",
+   "scholarId": "انيس-طاهر",
+   "videoId": "xKuvgCp-ZB8",
+   "duration": 4026,
+   "hijriDate": null
+  },
+  {
+   "n": 15,
+   "title": "﴿وَبِٱلۡوَٰلِدَيۡنِ إِحۡسَٰنًا﴾",
+   "lang": "ar",
+   "scholarId": "بدر-البدر",
+   "videoId": "Ta5etwQERlU",
+   "duration": 4396,
+   "hijriDate": null
+  },
+  {
+   "n": 16,
+   "title": "﴿وإنه لتنزيل رب العَٰلمين﴾",
+   "lang": "ar",
+   "scholarId": "احمد-السديس",
+   "videoId": "m0Ntl5652Rc",
+   "duration": 2839,
+   "hijriDate": null
+  },
+  {
+   "n": 17,
+   "title": "أسباب النجاة من الفتن",
+   "lang": "ar",
+   "scholarId": "سعود-الخلف",
+   "videoId": "QfqwbxZlcsU",
+   "duration": 3652,
+   "hijriDate": null
+  },
+  {
+   "n": 18,
+   "title": "الصبر فضله وثماره",
+   "lang": "ar",
+   "scholarId": "عبدالسلام-السحيمي",
+   "videoId": "5NEuz1NumFE",
+   "duration": 4099,
+   "hijriDate": null
+  },
+  {
+   "n": 19,
+   "title": "من وصايا لقمان الحكيم",
+   "lang": "ar",
+   "scholarId": "عبداللطيف-الشاماني",
+   "videoId": "H5vezCA9EGQ",
+   "duration": 3941,
+   "hijriDate": null
+  },
+  {
+   "n": 20,
+   "title": "العبادات بين الاتباع والابتداع",
+   "lang": "ar",
+   "scholarId": "عبداللطيف-الشاماني",
+   "videoId": "kcFoyxubZrE",
+   "duration": 3596,
+   "hijriDate": null
+  },
+  {
+   "n": 21,
+   "title": "من هدايات سورة الفاتحة",
+   "lang": "ar",
+   "scholarId": "عبدالعزيز-العبيد",
+   "videoId": "3ewe3KtPj4Y",
+   "duration": 1591,
+   "hijriDate": null
+  },
+  {
+   "n": 22,
+   "title": "﴿من سيرة النبي ﷺ مع أهله وأولاده﴾",
+   "lang": "ar",
+   "scholarId": "مسعود-المحمدي",
+   "videoId": "nF3LdrS4Krk",
+   "duration": 4310,
+   "hijriDate": null
+  },
+  {
+   "n": 23,
+   "title": "مظاهر ضعف الإيمان وأسباب زيادته",
+   "lang": "ar",
+   "scholarId": "بدر-البدر",
+   "videoId": "tmGRvV51qqo",
+   "duration": 4020,
+   "hijriDate": null
+  },
+  {
+   "n": 24,
+   "title": "الشتاء أحكام وآداب",
+   "lang": "ar",
+   "scholarId": "سامي-الصقير",
+   "videoId": "Sq2ajRSEAjE",
+   "duration": 2636,
+   "hijriDate": null
+  },
+  {
+   "n": 25,
+   "title": "آداب زيارة المسجد النبوي",
+   "lang": "ar",
+   "scholarId": "عبداللطيف-الشاماني",
+   "videoId": "rvleyLCM_Yk",
+   "duration": 3181,
+   "hijriDate": null
+  },
+  {
+   "n": 26,
+   "title": "أسباب انشراح الصدر وعلاج الهم والحزن",
+   "lang": "ar",
+   "scholarId": "بدر-البدر",
+   "videoId": "IRU6NFU6cZg",
+   "duration": 4330,
+   "hijriDate": null
+  },
+  {
+   "n": 27,
+   "title": "تعظيم السنة",
+   "lang": "ar",
+   "scholarId": "عبداللطيف-الشاماني",
+   "videoId": "l8Ko6oZxxBs",
+   "duration": 3546,
+   "hijriDate": null
+  },
+  {
+   "n": 28,
+   "title": "الإسراء والمعراج",
+   "lang": "ar",
+   "scholarId": "مسعود-المحمدي",
+   "videoId": "Byu3nwalbX4",
+   "duration": 3882,
+   "hijriDate": null
+  },
+  {
+   "n": 29,
+   "title": "ثمرات طاعة الرسول ﷺ",
+   "lang": "ar",
+   "scholarId": "مسعود-المحمدي",
+   "videoId": "QQu2M1dHOOQ",
+   "duration": 4008,
+   "hijriDate": null
+  },
+  {
+   "n": 30,
+   "title": "عليكم بسنتي",
+   "lang": "ar",
+   "scholarId": "عبدالله-الزاحم",
+   "videoId": "x4O3Bvb-frY",
+   "duration": 4371,
+   "hijriDate": null
+  },
+  {
+   "n": 31,
+   "title": "أنواع العبادات في المسجد النبوي",
+   "lang": "ar",
+   "scholarId": "عبدالعزيز-العبيد",
+   "videoId": "u4ADt_TM89A",
+   "duration": 1556,
+   "hijriDate": null
+  },
+  {
+   "n": 32,
+   "title": "الهداية",
+   "lang": "ar",
+   "scholarId": "انيس-طاهر",
+   "videoId": "pMH_LHzBsBs",
+   "duration": 3504,
+   "hijriDate": null
+  },
+  {
+   "n": 33,
+   "title": "استقبال رمضان ومايشرع فيه من الأعمال",
+   "lang": "ar",
+   "scholarId": "سامي-الصقير",
+   "videoId": "Ouc8VZjOCho",
+   "duration": 3966,
+   "hijriDate": null
+  },
+  {
+   "n": 34,
+   "title": "من أحكام الصيام والقيام",
+   "lang": "ar",
+   "scholarId": "سامي-الصقير",
+   "videoId": "8gwwE3dVohs",
+   "duration": 4076,
+   "hijriDate": null
+  },
+  {
+   "n": 35,
+   "title": "رمضان والمسابقة في الخيرات",
+   "lang": "ar",
+   "scholarId": "مسعود-المحمدي",
+   "videoId": "cmDjEFimP-o",
+   "duration": 3972,
+   "hijriDate": null
+  },
+  {
+   "n": 36,
+   "title": "استقبال شهر رمضان",
+   "lang": "ar",
+   "scholarId": "عبدالله-الزاحم",
+   "videoId": "M4wb8k-_fgQ",
+   "duration": 3568,
+   "hijriDate": null
+  },
+  {
+   "n": 37,
+   "title": "وأقبل شهر الخير",
+   "lang": "ar",
+   "scholarId": "عبداللطيف-الشاماني",
+   "videoId": "u2NHzRFdGAE",
+   "duration": 2001,
+   "hijriDate": null
+  },
+  {
+   "n": 38,
+   "title": "كيف نستقبل رمضان",
+   "lang": "ar",
+   "scholarId": "عبدالرزاق-البدر",
+   "videoId": "Uw5vCqhkLuo",
+   "duration": 3593,
+   "hijriDate": null
+  },
+  {
+   "n": 39,
+   "title": "أثر شهر رمضان في زيادة الإيمان",
+   "lang": "ar",
+   "scholarId": "انيس-طاهر",
+   "videoId": "1365dig33IA",
+   "duration": 4436,
+   "hijriDate": null
+  },
+  {
+   "n": 40,
+   "title": "استقبال شهر الخير",
+   "lang": "ar",
+   "scholarId": "عبدالعزيز-العبيد",
+   "videoId": "DuKwXMHHGao",
+   "duration": 4071,
+   "hijriDate": null
+  },
+  {
+   "n": 41,
+   "title": "معالم التوحيد في رمضان",
+   "lang": "ar",
+   "scholarId": "مسعود-المحمدي",
+   "videoId": "kgCjW0QsILI",
+   "duration": 1768,
+   "hijriDate": null
+  },
+  {
+   "n": 42,
+   "title": "معالم التوحيد في الصيام",
+   "lang": "ar",
+   "scholarId": "عبداللطيف-الشاماني",
+   "videoId": "qkadiEaKlFI",
+   "duration": 3160,
+   "hijriDate": null
+  },
+  {
+   "n": 43,
+   "title": "أحكام ختام الشهر ويوم العيد",
+   "lang": "ar",
+   "scholarId": "سليمان-الرحيلي",
+   "videoId": "u3q3QR6UVHI",
+   "duration": 4156,
+   "hijriDate": null
+  },
+  {
+   "n": 44,
+   "title": "أصول الإيمان",
+   "lang": "ar",
+   "scholarId": "عبدالرزاق-البدر",
+   "videoId": "6F8SVlkoGo8",
+   "duration": 3529,
+   "hijriDate": null
+  },
+  {
+   "n": 45,
+   "title": "الذكر في الأيام العشر",
+   "lang": "ar",
+   "scholarId": "عبدالعزيز-العبيد",
+   "videoId": "W4tA0iNUx-k",
+   "duration": 3440,
+   "hijriDate": null
+  },
+  {
+   "n": 46,
+   "title": "﴿فاعلم أنه لا إِله إِلا االله﴾",
+   "lang": "ar",
+   "scholarId": "عبدالله-الشنقيطي",
+   "videoId": "3gI-Uz1ehCk",
+   "duration": 2746,
+   "hijriDate": null
+  },
+  {
+   "n": 47,
+   "title": "الحج المبرور",
+   "lang": "ar",
+   "scholarId": "انيس-طاهر",
+   "videoId": "8g_RaaMSNo4",
+   "duration": 3784,
+   "hijriDate": null
+  },
+  {
+   "n": 48,
+   "title": "الوسطية في أحكام الحج",
+   "lang": "ar",
+   "scholarId": "مسعود-المحمدي",
+   "videoId": "4p7NqvevDvI",
+   "duration": 3799,
+   "hijriDate": null
+  },
+  {
+   "n": 49,
+   "title": "فضل عشر ذي الحجة وما يشرع فيها من أعمال",
+   "lang": "ar",
+   "scholarId": "فيحان-المطيري",
+   "videoId": "0RNGDnnVCoU",
+   "duration": 2889,
+   "hijriDate": null
+  },
+  {
+   "n": 50,
+   "title": "هكذا حج النبي صلى الله عليه وسلم",
+   "lang": "ar",
+   "scholarId": "صالح-السحيمي",
+   "videoId": "izkesX5EYU4",
+   "duration": 901,
+   "hijriDate": null
+  },
+  {
+   "n": 51,
+   "title": "مقاصد الحج",
+   "lang": "ar",
+   "scholarId": "عبداللطيف-الشاماني",
+   "videoId": "oq8kMd43aGw",
+   "duration": 3490,
+   "hijriDate": null
+  },
+  {
+   "n": 52,
+   "title": "الخصال الستة في أول سورة المؤمنون",
+   "lang": "ar",
+   "scholarId": "بدر-البدر",
+   "videoId": "p7WBjglJgGk",
+   "duration": 4016,
+   "hijriDate": null
+  },
+  {
+   "n": 53,
+   "title": "يوم عرفة",
+   "lang": "ar",
+   "scholarId": "سعود-الخلف",
+   "videoId": "usYFDSsqLvc",
+   "duration": 2889,
+   "hijriDate": null
+  },
+  {
+   "n": 54,
+   "title": "حجة الوداع دروس وعبر",
+   "lang": "ar",
+   "scholarId": "مسعود-المحمدي",
+   "videoId": "CB2emI1P7uM",
+   "duration": 3404,
+   "hijriDate": null
+  },
+  {
+   "n": 55,
+   "title": "أحكام الأضحية",
+   "lang": "ar",
+   "scholarId": "محمد-اليوبي",
+   "videoId": "6we6kpAK33Y",
+   "duration": 2121,
+   "hijriDate": null
+  },
+  {
+   "n": 56,
+   "title": "فضل يوم عرفة",
+   "lang": "ar",
+   "scholarId": "عبدالله-الزاحم",
+   "videoId": "hSt6t53IrkU",
+   "duration": 2824,
+   "hijriDate": null
+  },
+  {
+   "n": 57,
+   "title": "أيام العيد أيام أكل وشرب وذكر لله",
+   "lang": "ar",
+   "scholarId": "انيس-طاهر",
+   "videoId": "DSqRfPKuz3c",
+   "duration": 4132,
+   "hijriDate": null
+  },
+  {
+   "n": 58,
+   "title": "وصايا مهمة",
+   "lang": "ar",
+   "scholarId": "انيس-طاهر",
+   "videoId": "lSefzv7TYnE",
+   "duration": 3605,
+   "hijriDate": null
+  },
+  {
+   "n": 59,
+   "title": "التقوى وحسن الخلق",
+   "lang": "ar",
+   "scholarId": "سعود-الخلف",
+   "videoId": "0vQ-GFAgACI",
+   "duration": 3470,
+   "hijriDate": null
+  },
+  {
+   "n": 60,
+   "title": "فضل التوحيد وخطر الشرك",
+   "lang": "ar",
+   "scholarId": "صالح-السحيمي",
+   "videoId": "IXp8z0JqgWE",
+   "duration": 1650,
+   "hijriDate": null
+  },
+  {
+   "n": 61,
+   "title": "وماذا بعد الحج",
+   "lang": "ar",
+   "scholarId": "عبدالرزاق-البدر",
+   "videoId": "CBQhUdvTvHI",
+   "duration": 3258,
+   "hijriDate": null
+  },
+  {
+   "n": 62,
+   "title": "الرجاء الصادق - حقيقته وعلاماته",
+   "lang": "ar",
+   "scholarId": "بدر-البدر",
+   "videoId": "138RE-Aa5sQ",
+   "duration": 3376,
+   "hijriDate": null
+  },
+  {
+   "n": 63,
+   "title": "﴿وَعِبَادُ الرَّحْمَنِ ...﴾",
+   "lang": "ar",
+   "scholarId": "عبدالله-الشنقيطي",
+   "videoId": "Vmiwd67h-h8",
+   "duration": 2436,
+   "hijriDate": null
+  },
+  {
+   "n": 64,
+   "title": "أسباب زيادة الإيمان",
+   "lang": "ar",
+   "scholarId": "علي-ابابطين",
+   "videoId": "JiPC-GV4EWk",
+   "duration": 3810,
+   "hijriDate": null
+  },
+  {
+   "n": 65,
+   "title": "﴿وَعِبَادُ الرَّحْمَنِ ...﴾",
+   "lang": "ar",
+   "scholarId": "عبدالله-الشنقيطي",
+   "videoId": "XyagAX_eFsQ",
+   "duration": 2676,
+   "hijriDate": null
+  },
+  {
+   "n": 66,
+   "title": "﴿فاسألوا أهل الذكرِ...﴾",
+   "lang": "ar",
+   "scholarId": "سليمان-الرحيلي",
+   "videoId": "3apJ9JrpyCA",
+   "duration": 4321,
+   "hijriDate": null
+  },
+  {
+   "n": 67,
+   "title": "فضل التوبة والاستغفار",
+   "lang": "ar",
+   "scholarId": "مسعود-المحمدي",
+   "videoId": "0E6mYxZAIf0",
+   "duration": 4136,
+   "hijriDate": null
+  },
+  {
+   "n": 68,
+   "title": "أحكام و آداب زيارة المسجد النبوي",
+   "lang": "ar",
+   "scholarId": "مسعود-المحمدي",
+   "videoId": "0HKuFUUr144",
+   "duration": 3585,
+   "hijriDate": null
+  },
+  {
+   "n": 69,
+   "title": "الآثار التربوية للحج",
+   "lang": "ar",
+   "scholarId": "عبدالعزيز-العبيد",
+   "videoId": "I_gLXU7mC10",
+   "duration": 3135,
+   "hijriDate": null
+  },
+  {
+   "n": 70,
+   "title": "﴿وَعِبَادُ الرَّحْمَنِ ...﴾",
+   "lang": "ar",
+   "scholarId": "عبدالله-الشنقيطي",
+   "videoId": "cxKDq6kUmmo",
+   "duration": 2971,
+   "hijriDate": null
+  }
+ ]
+}

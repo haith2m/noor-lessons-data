@@ -1,0 +1,90 @@
+{
+ "id": "PLgaTRTylCbZDtsLajmo2Fsyi9MJ414KvR",
+ "title": "السلسلة الأولى من محاضرات رمضان مسائل وأحكام",
+ "subject": "fiqh",
+ "kind": "course",
+ "lang": "ar",
+ "scholarId": null,
+ "scholarIds": [
+  "عبدالرحمن-السديس",
+  "علي-العلياني",
+  "احمد-المزروع",
+  "شرف-الشريف",
+  "طلال-ابوالنور",
+  "يوسف-الوابل",
+  "حسن-بخاري"
+ ],
+ "year": 1443,
+ "source": "youtube",
+ "channelId": "UC3QAoXf9GN9xeQYhk-AZbTg",
+ "playlistId": "PLgaTRTylCbZDtsLajmo2Fsyi9MJ414KvR",
+ "url": "https://www.youtube.com/playlist?list=PLgaTRTylCbZDtsLajmo2Fsyi9MJ414KvR",
+ "thumbnail": "https://i.ytimg.com/vi/Hs5Nt4F-Jes/maxresdefault.jpg",
+ "lessonCount": 7,
+ "duration": 19956,
+ "lessons": [
+  {
+   "n": 1,
+   "title": "آيات الصيام من تفسير السعدي وكتاب الصيام من زاد المعاد",
+   "lang": "ar",
+   "scholarId": "عبدالرحمن-السديس",
+   "videoId": "V7oJ0WNwVQQ",
+   "duration": 3579,
+   "hijriDate": "1443-08-20"
+  },
+  {
+   "n": 2,
+   "title": "أحكام الصيام وفضائله",
+   "lang": "ar",
+   "scholarId": "علي-العلياني",
+   "videoId": "h_rEl0y0y-0",
+   "duration": 1552,
+   "hijriDate": "1443-08-20"
+  },
+  {
+   "n": 3,
+   "title": "وأقبل شهر الصوم",
+   "lang": "ar",
+   "scholarId": "احمد-المزروع",
+   "videoId": "Hs5Nt4F-Jes",
+   "duration": 2394,
+   "hijriDate": "1443-08-23"
+  },
+  {
+   "n": 4,
+   "title": "يا أيها الذين ءامنوا كتب عليكم الصيام",
+   "lang": "ar",
+   "scholarId": "شرف-الشريف",
+   "videoId": "6wMLZQd1iDw",
+   "duration": 3751,
+   "hijriDate": "1443-08-24"
+  },
+  {
+   "n": 5,
+   "title": "شهر رمضان الذي أنزل فيه القرآن",
+   "lang": "ar",
+   "scholarId": "طلال-ابوالنور",
+   "videoId": "mDc-38UW1-U",
+   "duration": 3525,
+   "hijriDate": "1443-08-26"
+  },
+  {
+   "n": 6,
+   "title": "إلا الصوم فإنه لي وأنا أجزي به",
+   "lang": "ar",
+   "scholarId": "يوسف-الوابل",
+   "videoId": "dTF25gCay4o",
+   "duration": 3750,
+   "hijriDate": "1443-08-27"
+  },
+  {
+   "n": 7,
+   "title": "العشر الأواخر وأحكام العيد",
+   "lang": "ar",
+   "scholarId": "حسن-بخاري",
+   "videoId": "eyt46jdoKdU",
+   "duration": 1405,
+   "hijriDate": "1444-09-25"
+  }
+ ]
+}

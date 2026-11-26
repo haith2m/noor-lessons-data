@@ -1,0 +1,57 @@
+{
+ "id": "PLriFofF1xij4nyxa2DWu5ahd8TFoGw_Ro-1",
+ "title": "فصول في الصيام والتراويح",
+ "subject": "tilawat",
+ "kind": "series",
+ "lang": "ar",
+ "scholarId": "عبداللطيف-الشاماني",
+ "scholarIds": [
+  "عبداللطيف-الشاماني"
+ ],
+ "year": null,
+ "source": "youtube",
+ "channelId": "UC0XNCc-DU8J5_ksR-eufPaw",
+ "playlistId": "PLriFofF1xij4nyxa2DWu5ahd8TFoGw_Ro",
+ "url": "https://www.youtube.com/playlist?list=PLriFofF1xij4nyxa2DWu5ahd8TFoGw_Ro",
+ "thumbnail": "https://i.ytimg.com/vi/s755Gz41YwY/maxresdefault.jpg",
+ "lessonCount": 4,
+ "duration": 13443,
+ "lessons": [
+  {
+   "n": 1,
+   "title": "الدرس 1",
+   "lang": "ar",
+   "scholarId": "عبداللطيف-الشاماني",
+   "videoId": "LEMh0hrB3yc",
+   "duration": 3861,
+   "hijriDate": null
+  },
+  {
+   "n": 2,
+   "title": "الدرس 2",
+   "lang": "ar",
+   "scholarId": "عبداللطيف-الشاماني",
+   "videoId": "EGgzmQvsqkY",
+   "duration": 3043,
+   "hijriDate": null
+  },
+  {
+   "n": 3,
+   "title": "الدرس 3",
+   "lang": "ar",
+   "scholarId": "عبداللطيف-الشاماني",
+   "videoId": "0ONq6wX9VJw",
+   "duration": 3290,
+   "hijriDate": null
+  },
+  {
+   "n": 4,
+   "title": "الدرس 4",
+   "lang": "ar",
+   "scholarId": "عبداللطيف-الشاماني",
+   "videoId": "s755Gz41YwY",
+   "duration": 3249,
+   "hijriDate": null
+  }
+ ]
+}

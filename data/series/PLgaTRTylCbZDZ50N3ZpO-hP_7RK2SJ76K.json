@@ -1,0 +1,46 @@
+{
+ "id": "PLgaTRTylCbZDZ50N3ZpO-hP_7RK2SJ76K",
+ "title": "سلسلة همسات للموظفين",
+ "subject": "adab",
+ "kind": "clips",
+ "lang": "ar",
+ "scholarId": null,
+ "scholarIds": [],
+ "year": 1440,
+ "source": "youtube",
+ "channelId": "UC3QAoXf9GN9xeQYhk-AZbTg",
+ "playlistId": "PLgaTRTylCbZDZ50N3ZpO-hP_7RK2SJ76K",
+ "url": "https://www.youtube.com/playlist?list=PLgaTRTylCbZDZ50N3ZpO-hP_7RK2SJ76K",
+ "thumbnail": "https://i.ytimg.com/vi/_T2J1C3SIpY/maxresdefault.jpg",
+ "lessonCount": 3,
+ "duration": 419,
+ "lessons": [
+  {
+   "n": 1,
+   "title": "شهر جمادى الأولى 1440ه",
+   "lang": "ar",
+   "scholarId": null,
+   "videoId": "_T2J1C3SIpY",
+   "duration": 161,
+   "hijriDate": null
+  },
+  {
+   "n": 2,
+   "title": "شهر جمادى الآخرة 1440ه",
+   "lang": "ar",
+   "scholarId": null,
+   "videoId": "v7QgNygVkOc",
+   "duration": 155,
+   "hijriDate": null
+  },
+  {
+   "n": 3,
+   "title": "شهر رجب 1440ه",
+   "lang": "ar",
+   "scholarId": null,
+   "videoId": "8vNp-tu8peU",
+   "duration": 103,
+   "hijriDate": null
+  }
+ ]
+}

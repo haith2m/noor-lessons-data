@@ -1,0 +1,149 @@
+{
+ "id": "PLgaTRTylCbZDhNp27yTW5zXNBNqgJ8XWu",
+ "title": "دورة علوم القرآن",
+ "subject": "tafsir",
+ "kind": "course",
+ "lang": "ar",
+ "scholarId": null,
+ "scholarIds": [
+  "سعد-الشثري",
+  "امين-ادريس",
+  "فيصل-غزاوي"
+ ],
+ "year": 1439,
+ "source": "youtube",
+ "channelId": "UC3QAoXf9GN9xeQYhk-AZbTg",
+ "playlistId": "PLgaTRTylCbZDhNp27yTW5zXNBNqgJ8XWu",
+ "url": "https://www.youtube.com/playlist?list=PLgaTRTylCbZDhNp27yTW5zXNBNqgJ8XWu",
+ "thumbnail": "https://i.ytimg.com/vi/sYUDAJbNxws/maxresdefault.jpg",
+ "lessonCount": 14,
+ "duration": 53464,
+ "lessons": [
+  {
+   "n": 1,
+   "title": "مقدمة تفسير المحرّر الوجيز",
+   "lang": "ar",
+   "scholarId": "سعد-الشثري",
+   "videoId": "JcxvgEYL69g",
+   "duration": 4053,
+   "hijriDate": "1439-08-05"
+  },
+  {
+   "n": 2,
+   "title": "مقدمة تفسير المحرّر الوجيز",
+   "lang": "ar",
+   "scholarId": "سعد-الشثري",
+   "videoId": "sYUDAJbNxws",
+   "duration": 2967,
+   "hijriDate": "1439-08-05"
+  },
+  {
+   "n": 3,
+   "title": "الرعاية لتجويد القراءة وتحقيق لفظ التلاوة - للعلامة مكي",
+   "lang": "ar",
+   "scholarId": "امين-ادريس",
+   "videoId": "9yeK3BS5qG8",
+   "duration": 4180,
+   "hijriDate": "1439-08-05"
+  },
+  {
+   "n": 4,
+   "title": "مقدمة تفسير المحرّر الوجيز",
+   "lang": "ar",
+   "scholarId": "سعد-الشثري",
+   "videoId": "509VWFAH0n0",
+   "duration": 4278,
+   "hijriDate": "1439-08-06"
+  },
+  {
+   "n": 5,
+   "title": "مقدمة تفسير المحرّر الوجيز",
+   "lang": "ar",
+   "scholarId": "سعد-الشثري",
+   "videoId": "qG4rk7N3tOw",
+   "duration": 3866,
+   "hijriDate": "1439-08-06"
+  },
+  {
+   "n": 6,
+   "title": "الرعاية لتجويد القراءة وتحقيق لفظ التلاوة - للعلامة مكي",
+   "lang": "ar",
+   "scholarId": "امين-ادريس",
+   "videoId": "rtZkEkcBhIo",
+   "duration": 3243,
+   "hijriDate": "1439-08-06"
+  },
+  {
+   "n": 7,
+   "title": "مقدمة تفسير المحرّر الوجيز",
+   "lang": "ar",
+   "scholarId": "سعد-الشثري",
+   "videoId": "40M47yDZSL4",
+   "duration": 5585,
+   "hijriDate": "1439-08-07"
+  },
+  {
+   "n": 8,
+   "title": "مقدمة تفسير المحرّر الوجيز",
+   "lang": "ar",
+   "scholarId": "سعد-الشثري",
+   "videoId": "5x_XmNfFc0g",
+   "duration": 2873,
+   "hijriDate": "1439-08-07"
+  },
+  {
+   "n": 9,
+   "title": "الرعاية لتجويد القراءة وتحقيق لفظ التلاوة - للعلامة مكي",
+   "lang": "ar",
+   "scholarId": "امين-ادريس",
+   "videoId": "3n2vn1OUgpk",
+   "duration": 3583,
+   "hijriDate": "1439-08-07"
+  },
+  {
+   "n": 10,
+   "title": "معاني اللغات من كتاب التسهيل",
+   "lang": "ar",
+   "scholarId": "فيصل-غزاوي",
+   "videoId": "Y0Dsc4O1-r0",
+   "duration": 4718,
+   "hijriDate": "1439-08-08"
+  },
+  {
+   "n": 11,
+   "title": "الرعاية لتجويد القراءة وتحقيق لفظ التلاوة - للعلامة مكي",
+   "lang": "ar",
+   "scholarId": "امين-ادريس",
+   "videoId": "pUpSu1zUfMQ",
+   "duration": 3283,
+   "hijriDate": "1439-08-08"
+  },
+  {
+   "n": 12,
+   "title": "معاني اللغات من كتاب التسهيل",
+   "lang": "ar",
+   "scholarId": "فيصل-غزاوي",
+   "videoId": "6OITenhiCek",
+   "duration": 4892,
+   "hijriDate": "1439-08-09"
+  },
+  {
+   "n": 13,
+   "title": "معاني اللغات من كتاب التسهيل",
+   "lang": "ar",
+   "scholarId": "فيصل-غزاوي",
+   "videoId": "k45qDVWX4PM",
+   "duration": 2063,
+   "hijriDate": "1439-08-09"
+  },
+  {
+   "n": 14,
+   "title": "الرعاية لتجويد القراءة وتحقيق لفظ التلاوة - للعلامة مكي",
+   "lang": "ar",
+   "scholarId": "امين-ادريس",
+   "videoId": "QN2KxgylSrY",
+   "duration": 3880,
+   "hijriDate": "1439-08-09"
+  }
+ ]
+}

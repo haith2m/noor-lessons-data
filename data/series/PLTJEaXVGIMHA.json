@@ -1,0 +1,93 @@
+{
+ "id": "PLTJEaXVGIMHA",
+ "title": "شرح متن الصرف الصغير",
+ "subject": "arabic",
+ "kind": "series",
+ "lang": "ar",
+ "scholarId": "سليمان-العيوني",
+ "scholarIds": [
+  "سليمان-العيوني"
+ ],
+ "year": 1448,
+ "source": "youtube",
+ "channelId": "UC3QAoXf9GN9xeQYhk-AZbTg",
+ "playlistId": "PLTJEaXVGIMHA",
+ "url": "https://www.youtube.com/playlist?list=PLTJEaXVGIMHA",
+ "thumbnail": "https://i.ytimg.com/vi/TXOqi8ZNTpU/maxresdefault.jpg",
+ "lessonCount": 8,
+ "duration": 46264,
+ "lessons": [
+  {
+   "n": 1,
+   "title": "الدرس 1",
+   "lang": "ar",
+   "scholarId": "سليمان-العيوني",
+   "videoId": "TXOqi8ZNTpU",
+   "duration": 9294,
+   "hijriDate": "1448-02-07"
+  },
+  {
+   "n": 2,
+   "title": "الدرس 2",
+   "lang": "ar",
+   "scholarId": "سليمان-العيوني",
+   "videoId": "JTvv_RxIIyg",
+   "duration": 3491,
+   "hijriDate": "1448-02-07"
+  },
+  {
+   "n": 3,
+   "title": "الدرس 3",
+   "lang": "ar",
+   "scholarId": "سليمان-العيوني",
+   "videoId": "AXH6B91kmH8",
+   "duration": 4942,
+   "hijriDate": "1448-02-07"
+  },
+  {
+   "n": 4,
+   "title": "الدرس 4",
+   "lang": "ar",
+   "scholarId": "سليمان-العيوني",
+   "videoId": "0JY0BHQ9K6Y",
+   "duration": 10088,
+   "hijriDate": "1448-02-08"
+  },
+  {
+   "n": 5,
+   "title": "الدرس 5",
+   "lang": "ar",
+   "scholarId": "سليمان-العيوني",
+   "videoId": "AeoOZGyoPu8",
+   "duration": 3669,
+   "hijriDate": "1448-02-08"
+  },
+  {
+   "n": 6,
+   "title": "الدرس 6",
+   "lang": "ar",
+   "scholarId": "سليمان-العيوني",
+   "videoId": "C4lSa_tJPEs",
+   "duration": 3404,
+   "hijriDate": "1448-02-08"
+  },
+  {
+   "n": 7,
+   "title": "الدرس 7",
+   "lang": "ar",
+   "scholarId": "سليمان-العيوني",
+   "videoId": "wkM23nsMn8o",
+   "duration": 7402,
+   "hijriDate": "1448-02-09"
+  },
+  {
+   "n": 8,
+   "title": "الدرس 8",
+   "lang": "ar",
+   "scholarId": "سليمان-العيوني",
+   "videoId": "druGYl4qJJo",
+   "duration": 3974,
+   "hijriDate": "1448-02-09"
+  }
+ ]
+}

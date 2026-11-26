@@ -1,0 +1,75 @@
+{
+ "id": "PLriFofF1xij5K3CtvhoVY2cDddyuTKyIF",
+ "title": "الدروس العلمية",
+ "subject": "fiqh",
+ "kind": "series",
+ "lang": "ar",
+ "scholarId": "عبدالسلام-الشويعر",
+ "scholarIds": [
+  "عبدالسلام-الشويعر"
+ ],
+ "year": null,
+ "source": "youtube",
+ "channelId": "UC0XNCc-DU8J5_ksR-eufPaw",
+ "playlistId": "PLriFofF1xij5K3CtvhoVY2cDddyuTKyIF",
+ "url": "https://www.youtube.com/playlist?list=PLriFofF1xij5K3CtvhoVY2cDddyuTKyIF",
+ "thumbnail": "https://i.ytimg.com/vi/CUDILhfYUYo/maxresdefault.jpg",
+ "lessonCount": 6,
+ "duration": 16088,
+ "lessons": [
+  {
+   "n": 1,
+   "title": "فضل العشر الأواخر",
+   "lang": "ar",
+   "scholarId": "عبدالسلام-الشويعر",
+   "videoId": "CUDILhfYUYo",
+   "duration": 1666,
+   "hijriDate": null
+  },
+  {
+   "n": 2,
+   "title": "أحكام الاعتكاف",
+   "lang": "ar",
+   "scholarId": "عبدالسلام-الشويعر",
+   "videoId": "vR5l18aQVwE",
+   "duration": 2387,
+   "hijriDate": null
+  },
+  {
+   "n": 3,
+   "title": "فضل ليلة القدر",
+   "lang": "ar",
+   "scholarId": "عبدالسلام-الشويعر",
+   "videoId": "VdOKC-Eu7rY",
+   "duration": 2708,
+   "hijriDate": null
+  },
+  {
+   "n": 4,
+   "title": "زكاة المال",
+   "lang": "ar",
+   "scholarId": "عبدالسلام-الشويعر",
+   "videoId": "rTINMKEALMQ",
+   "duration": 2837,
+   "hijriDate": null
+  },
+  {
+   "n": 5,
+   "title": "إخراج الزكاة وصرفها",
+   "lang": "ar",
+   "scholarId": "عبدالسلام-الشويعر",
+   "videoId": "VfSAIb9VgJw",
+   "duration": 3345,
+   "hijriDate": null
+  },
+  {
+   "n": 6,
+   "title": "أحكام زكاة الفطر والعيد",
+   "lang": "ar",
+   "scholarId": "عبدالسلام-الشويعر",
+   "videoId": "CnhNEQMJ58U",
+   "duration": 3145,
+   "hijriDate": null
+  }
+ ]
+}

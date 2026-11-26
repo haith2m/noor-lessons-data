@@ -1,0 +1,48 @@
+{
+ "id": "PLriFofF1xij4GASVTzAVsf7THX6CTQoHt",
+ "title": "رسالة الوصية الصغرى",
+ "subject": "adab",
+ "kind": "series",
+ "lang": "ar",
+ "scholarId": "سليمان-الغصن",
+ "scholarIds": [
+  "سليمان-الغصن"
+ ],
+ "year": null,
+ "source": "youtube",
+ "channelId": "UC0XNCc-DU8J5_ksR-eufPaw",
+ "playlistId": "PLriFofF1xij4GASVTzAVsf7THX6CTQoHt",
+ "url": "https://www.youtube.com/playlist?list=PLriFofF1xij4GASVTzAVsf7THX6CTQoHt",
+ "thumbnail": "https://i.ytimg.com/vi/lOp1-MeNiVM/maxresdefault.jpg",
+ "lessonCount": 3,
+ "duration": 12828,
+ "lessons": [
+  {
+   "n": 1,
+   "title": "الدرس 1",
+   "lang": "ar",
+   "scholarId": "سليمان-الغصن",
+   "videoId": "50ssk6bb6CI",
+   "duration": 3733,
+   "hijriDate": null
+  },
+  {
+   "n": 2,
+   "title": "الدرس 2",
+   "lang": "ar",
+   "scholarId": "سليمان-الغصن",
+   "videoId": "lOp1-MeNiVM",
+   "duration": 3483,
+   "hijriDate": null
+  },
+  {
+   "n": 3,
+   "title": "الدرس 3",
+   "lang": "ar",
+   "scholarId": "سليمان-الغصن",
+   "videoId": "hqjap0vPV2k",
+   "duration": 5612,
+   "hijriDate": null
+  }
+ ]
+}

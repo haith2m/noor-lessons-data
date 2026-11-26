@@ -1,0 +1,66 @@
+{
+ "id": "PLgaTRTylCbZDjMMcTUbgadiOJa8hKPRmS",
+ "title": "دورة علوم اللغة العربية",
+ "subject": "arabic",
+ "kind": "series",
+ "lang": "ar",
+ "scholarId": "احمد-السديس",
+ "scholarIds": [
+  "احمد-السديس"
+ ],
+ "year": 1439,
+ "source": "youtube",
+ "channelId": "UC3QAoXf9GN9xeQYhk-AZbTg",
+ "playlistId": "PLgaTRTylCbZDjMMcTUbgadiOJa8hKPRmS",
+ "url": "https://www.youtube.com/playlist?list=PLgaTRTylCbZDjMMcTUbgadiOJa8hKPRmS",
+ "thumbnail": "https://i.ytimg.com/vi/dBO41KQCaMk/maxresdefault.jpg",
+ "lessonCount": 5,
+ "duration": 16075,
+ "lessons": [
+  {
+   "n": 1,
+   "title": "مقدمة في البلاغة وتطبيقاتها في البيان النبوي",
+   "lang": "ar",
+   "scholarId": "احمد-السديس",
+   "videoId": "Ylaq9EkT0v0",
+   "duration": 2633,
+   "hijriDate": "1439-03-07"
+  },
+  {
+   "n": 2,
+   "title": "مقدمة في البلاغة وتطبيقاتها في البيان النبوي",
+   "lang": "ar",
+   "scholarId": "احمد-السديس",
+   "videoId": "133RkDFuWMI",
+   "duration": 3631,
+   "hijriDate": "1439-03-08"
+  },
+  {
+   "n": 3,
+   "title": "مقدمة في البلاغة وتطبيقاتها في البيان النبوي",
+   "lang": "ar",
+   "scholarId": "احمد-السديس",
+   "videoId": "ZrG7Q5eltwM",
+   "duration": 3316,
+   "hijriDate": "1439-03-09"
+  },
+  {
+   "n": 4,
+   "title": "مقدمة في البلاغة وتطبيقاتها في البيان النبوي",
+   "lang": "ar",
+   "scholarId": "احمد-السديس",
+   "videoId": "c1sRWylAmHk",
+   "duration": 2755,
+   "hijriDate": "1439-03-10"
+  },
+  {
+   "n": 5,
+   "title": "مقدمة في البلاغة وتطبيقاتها في البيان النبوي",
+   "lang": "ar",
+   "scholarId": "احمد-السديس",
+   "videoId": "dBO41KQCaMk",
+   "duration": 3740,
+   "hijriDate": "1439-03-11"
+  }
+ ]
+}

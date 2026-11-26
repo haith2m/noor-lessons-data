@@ -1,0 +1,39 @@
+{
+ "id": "PLriFofF1xij5WZmh9CvS7YxFHvufLa4Wm",
+ "title": "رسالة القواعد الأربع",
+ "subject": "aqeedah",
+ "kind": "series",
+ "lang": "ar",
+ "scholarId": "سليمان-الغصن",
+ "scholarIds": [
+  "سليمان-الغصن"
+ ],
+ "year": null,
+ "source": "youtube",
+ "channelId": "UC0XNCc-DU8J5_ksR-eufPaw",
+ "playlistId": "PLriFofF1xij5WZmh9CvS7YxFHvufLa4Wm",
+ "url": "https://www.youtube.com/playlist?list=PLriFofF1xij5WZmh9CvS7YxFHvufLa4Wm",
+ "thumbnail": "https://i.ytimg.com/vi/q6dogMeT0m8/maxresdefault.jpg",
+ "lessonCount": 2,
+ "duration": 7707,
+ "lessons": [
+  {
+   "n": 1,
+   "title": "الدرس 1",
+   "lang": "ar",
+   "scholarId": "سليمان-الغصن",
+   "videoId": "q6dogMeT0m8",
+   "duration": 4251,
+   "hijriDate": null
+  },
+  {
+   "n": 2,
+   "title": "الدرس 2",
+   "lang": "ar",
+   "scholarId": "سليمان-الغصن",
+   "videoId": "_XGqOVNxJ1M",
+   "duration": 3456,
+   "hijriDate": null
+  }
+ ]
+}

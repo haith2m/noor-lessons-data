@@ -1,0 +1,39 @@
+{
+ "id": "PLgaTRTylCbZB-z5_e9GXYQnFBlsWiCL2G",
+ "title": "التعليق على آيات المناسك من تفسير السعدي",
+ "subject": "tafsir",
+ "kind": "series",
+ "lang": "ar",
+ "scholarId": "احمد-السديس",
+ "scholarIds": [
+  "احمد-السديس"
+ ],
+ "year": 1446,
+ "source": "youtube",
+ "channelId": "UC3QAoXf9GN9xeQYhk-AZbTg",
+ "playlistId": "PLgaTRTylCbZB-z5_e9GXYQnFBlsWiCL2G",
+ "url": "https://www.youtube.com/playlist?list=PLgaTRTylCbZB-z5_e9GXYQnFBlsWiCL2G",
+ "thumbnail": "https://i.ytimg.com/vi/oJjCYp9aQEs/maxresdefault.jpg",
+ "lessonCount": 2,
+ "duration": 7422,
+ "lessons": [
+  {
+   "n": 1,
+   "title": "الدرس 1",
+   "lang": "ar",
+   "scholarId": "احمد-السديس",
+   "videoId": "9MxQR4eTugk",
+   "duration": 4209,
+   "hijriDate": "1446-11-23"
+  },
+  {
+   "n": 2,
+   "title": "الدرس 2",
+   "lang": "ar",
+   "scholarId": "احمد-السديس",
+   "videoId": "oJjCYp9aQEs",
+   "duration": 3213,
+   "hijriDate": "1446-11-24"
+  }
+ ]
+}

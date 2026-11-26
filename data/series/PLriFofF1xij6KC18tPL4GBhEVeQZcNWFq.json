@@ -1,0 +1,39 @@
+{
+ "id": "PLriFofF1xij6KC18tPL4GBhEVeQZcNWFq",
+ "title": "فضل الإسلام",
+ "subject": "aqeedah",
+ "kind": "series",
+ "lang": "ar",
+ "scholarId": "سليمان-الغصن",
+ "scholarIds": [
+  "سليمان-الغصن"
+ ],
+ "year": null,
+ "source": "youtube",
+ "channelId": "UC0XNCc-DU8J5_ksR-eufPaw",
+ "playlistId": "PLriFofF1xij6KC18tPL4GBhEVeQZcNWFq",
+ "url": "https://www.youtube.com/playlist?list=PLriFofF1xij6KC18tPL4GBhEVeQZcNWFq",
+ "thumbnail": "https://i.ytimg.com/vi/_3nYCuGAtUk/maxresdefault.jpg",
+ "lessonCount": 2,
+ "duration": 10121,
+ "lessons": [
+  {
+   "n": 1,
+   "title": "الدرس 1",
+   "lang": "ar",
+   "scholarId": "سليمان-الغصن",
+   "videoId": "_3nYCuGAtUk",
+   "duration": 5851,
+   "hijriDate": null
+  },
+  {
+   "n": 2,
+   "title": "الدرس 2",
+   "lang": "ar",
+   "scholarId": "سليمان-الغصن",
+   "videoId": "lDWY5NmEDho",
+   "duration": 4270,
+   "hijriDate": null
+  }
+ ]
+}

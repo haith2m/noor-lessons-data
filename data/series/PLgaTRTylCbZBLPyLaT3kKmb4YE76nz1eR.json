@@ -1,0 +1,57 @@
+{
+ "id": "PLgaTRTylCbZBLPyLaT3kKmb4YE76nz1eR",
+ "title": "منهاج أهل السنة والجماعة في العقيدة والعمل",
+ "subject": "aqeedah",
+ "kind": "series",
+ "lang": "ar",
+ "scholarId": "علي-العلياني",
+ "scholarIds": [
+  "علي-العلياني"
+ ],
+ "year": 1441,
+ "source": "youtube",
+ "channelId": "UC3QAoXf9GN9xeQYhk-AZbTg",
+ "playlistId": "PLgaTRTylCbZBLPyLaT3kKmb4YE76nz1eR",
+ "url": "https://www.youtube.com/playlist?list=PLgaTRTylCbZBLPyLaT3kKmb4YE76nz1eR",
+ "thumbnail": "https://i.ytimg.com/vi/mHZRPDnJmgk/maxresdefault.jpg",
+ "lessonCount": 4,
+ "duration": 12198,
+ "lessons": [
+  {
+   "n": 1,
+   "title": "الدرس 1",
+   "lang": "ar",
+   "scholarId": "علي-العلياني",
+   "videoId": "mHZRPDnJmgk",
+   "duration": 3319,
+   "hijriDate": "1441-03-05"
+  },
+  {
+   "n": 2,
+   "title": "الدرس 2",
+   "lang": "ar",
+   "scholarId": "علي-العلياني",
+   "videoId": "26X7YUuIOWI",
+   "duration": 3332,
+   "hijriDate": "1441-03-06"
+  },
+  {
+   "n": 3,
+   "title": "الدرس 3",
+   "lang": "ar",
+   "scholarId": "علي-العلياني",
+   "videoId": "VP2SQyqwgBk",
+   "duration": 3122,
+   "hijriDate": "1441-03-07"
+  },
+  {
+   "n": 4,
+   "title": "الدرس 4",
+   "lang": "ar",
+   "scholarId": "علي-العلياني",
+   "videoId": "kgCcFfAeLdc",
+   "duration": 2425,
+   "hijriDate": "1441-03-08"
+  }
+ ]
+}

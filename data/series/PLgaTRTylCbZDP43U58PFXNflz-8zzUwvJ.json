@@ -1,0 +1,57 @@
+{
+ "id": "PLgaTRTylCbZDP43U58PFXNflz-8zzUwvJ",
+ "title": "الصوم حِكَم وأحكام",
+ "subject": "fiqh",
+ "kind": "series",
+ "lang": "ar",
+ "scholarId": "عبدالرحمن-السند",
+ "scholarIds": [
+  "عبدالرحمن-السند"
+ ],
+ "year": 1445,
+ "source": "youtube",
+ "channelId": "UC3QAoXf9GN9xeQYhk-AZbTg",
+ "playlistId": "PLgaTRTylCbZDP43U58PFXNflz-8zzUwvJ",
+ "url": "https://www.youtube.com/playlist?list=PLgaTRTylCbZDP43U58PFXNflz-8zzUwvJ",
+ "thumbnail": "https://i.ytimg.com/vi/lS_1pO8_dWA/maxresdefault.jpg",
+ "lessonCount": 4,
+ "duration": 14480,
+ "lessons": [
+  {
+   "n": 1,
+   "title": "الدرس 1",
+   "lang": "ar",
+   "scholarId": "عبدالرحمن-السند",
+   "videoId": "lS_1pO8_dWA",
+   "duration": 3448,
+   "hijriDate": "1445-09-15"
+  },
+  {
+   "n": 2,
+   "title": "الدرس 2",
+   "lang": "ar",
+   "scholarId": "عبدالرحمن-السند",
+   "videoId": "6K_O4-SLpcs",
+   "duration": 3697,
+   "hijriDate": "1445-09-16"
+  },
+  {
+   "n": 3,
+   "title": "الدرس 3",
+   "lang": "ar",
+   "scholarId": "عبدالرحمن-السند",
+   "videoId": "05CPJHzpzgM",
+   "duration": 3668,
+   "hijriDate": "1445-09-17"
+  },
+  {
+   "n": 4,
+   "title": "الدرس 4",
+   "lang": "ar",
+   "scholarId": "عبدالرحمن-السند",
+   "videoId": "u5s6YUruNYE",
+   "duration": 3667,
+   "hijriDate": "1445-09-18"
+  }
+ ]
+}

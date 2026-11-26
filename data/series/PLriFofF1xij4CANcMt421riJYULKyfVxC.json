@@ -1,0 +1,39 @@
+{
+ "id": "PLriFofF1xij4CANcMt421riJYULKyfVxC",
+ "title": "الصيام من كتاب اللؤلؤ والمرجان فيما اتفق عليه الشيخان",
+ "subject": "fiqh",
+ "kind": "series",
+ "lang": "ar",
+ "scholarId": "سليمان-الرحيلي",
+ "scholarIds": [
+  "سليمان-الرحيلي"
+ ],
+ "year": null,
+ "source": "youtube",
+ "channelId": "UC0XNCc-DU8J5_ksR-eufPaw",
+ "playlistId": "PLriFofF1xij4CANcMt421riJYULKyfVxC",
+ "url": "https://www.youtube.com/playlist?list=PLriFofF1xij4CANcMt421riJYULKyfVxC",
+ "thumbnail": "https://i.ytimg.com/vi/bXoushMlSwc/maxresdefault.jpg",
+ "lessonCount": 2,
+ "duration": 4756,
+ "lessons": [
+  {
+   "n": 1,
+   "title": "كتاب اللؤلؤ والمرجان...(الصيام)",
+   "lang": "ar",
+   "scholarId": "سليمان-الرحيلي",
+   "videoId": "bXoushMlSwc",
+   "duration": 1971,
+   "hijriDate": null
+  },
+  {
+   "n": 2,
+   "title": "كتاب اللؤلؤ والمرجان...(الصيام)",
+   "lang": "ar",
+   "scholarId": "سليمان-الرحيلي",
+   "videoId": "0YXc37-HCAE",
+   "duration": 2785,
+   "hijriDate": null
+  }
+ ]
+}

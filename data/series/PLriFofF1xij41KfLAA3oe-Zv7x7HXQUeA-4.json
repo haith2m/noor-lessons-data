@@ -1,0 +1,48 @@
+{
+ "id": "PLriFofF1xij41KfLAA3oe-Zv7x7HXQUeA-4",
+ "title": "رسالة الوصية الصغرى",
+ "subject": "adab",
+ "kind": "series",
+ "lang": "ar",
+ "scholarId": "عبداللطيف-الشاماني",
+ "scholarIds": [
+  "عبداللطيف-الشاماني"
+ ],
+ "year": null,
+ "source": "youtube",
+ "channelId": "UC0XNCc-DU8J5_ksR-eufPaw",
+ "playlistId": "PLriFofF1xij41KfLAA3oe-Zv7x7HXQUeA",
+ "url": "https://www.youtube.com/playlist?list=PLriFofF1xij41KfLAA3oe-Zv7x7HXQUeA",
+ "thumbnail": "https://i.ytimg.com/vi/nx17v4L-k_k/maxresdefault.jpg",
+ "lessonCount": 3,
+ "duration": 12088,
+ "lessons": [
+  {
+   "n": 1,
+   "title": "الدرس 1",
+   "lang": "ar",
+   "scholarId": "عبداللطيف-الشاماني",
+   "videoId": "e81z4RvYpCA",
+   "duration": 2931,
+   "hijriDate": null
+  },
+  {
+   "n": 2,
+   "title": "الدرس 2",
+   "lang": "ar",
+   "scholarId": "عبداللطيف-الشاماني",
+   "videoId": "0948rA6VE34",
+   "duration": 3087,
+   "hijriDate": null
+  },
+  {
+   "n": 3,
+   "title": "الدرس 3",
+   "lang": "ar",
+   "scholarId": "عبداللطيف-الشاماني",
+   "videoId": "DqGB3qvly5Y",
+   "duration": 6070,
+   "hijriDate": null
+  }
+ ]
+}

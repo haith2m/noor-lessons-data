@@ -1,0 +1,66 @@
+{
+ "id": "PLgaTRTylCbZA-Yr5eQPk9QH4j33fpcrsV",
+ "title": "منهج السالكين - كتاب الطهارة",
+ "subject": "fiqh",
+ "kind": "series",
+ "lang": "ar",
+ "scholarId": "عبدالسلام-الشويعر",
+ "scholarIds": [
+  "عبدالسلام-الشويعر"
+ ],
+ "year": null,
+ "source": "youtube",
+ "channelId": "UC3QAoXf9GN9xeQYhk-AZbTg",
+ "playlistId": "PLgaTRTylCbZA-Yr5eQPk9QH4j33fpcrsV",
+ "url": "https://www.youtube.com/playlist?list=PLgaTRTylCbZA-Yr5eQPk9QH4j33fpcrsV",
+ "thumbnail": "https://i.ytimg.com/vi/ZWymAS618Bk/maxresdefault.jpg",
+ "lessonCount": 5,
+ "duration": 13619,
+ "lessons": [
+  {
+   "n": 1,
+   "title": "الدرس 1",
+   "lang": "ar",
+   "scholarId": "عبدالسلام-الشويعر",
+   "videoId": "ZWymAS618Bk",
+   "duration": 2563,
+   "hijriDate": null
+  },
+  {
+   "n": 2,
+   "title": "الدرس 2",
+   "lang": "ar",
+   "scholarId": "عبدالسلام-الشويعر",
+   "videoId": "k8zivWzaBVU",
+   "duration": 2675,
+   "hijriDate": null
+  },
+  {
+   "n": 3,
+   "title": "الدرس 3",
+   "lang": "ar",
+   "scholarId": "عبدالسلام-الشويعر",
+   "videoId": "_oXzDjTiIp4",
+   "duration": 3222,
+   "hijriDate": null
+  },
+  {
+   "n": 4,
+   "title": "الدرس 4",
+   "lang": "ar",
+   "scholarId": "عبدالسلام-الشويعر",
+   "videoId": "2-JWFo00TqQ",
+   "duration": 2326,
+   "hijriDate": null
+  },
+  {
+   "n": 5,
+   "title": "الدرس 5",
+   "lang": "ar",
+   "scholarId": "عبدالسلام-الشويعر",
+   "videoId": "lAi2dsPb8Fw",
+   "duration": 2833,
+   "hijriDate": null
+  }
+ ]
+}

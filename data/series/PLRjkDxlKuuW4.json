@@ -1,0 +1,102 @@
+{
+ "id": "PLRjkDxlKuuW4",
+ "title": "شرح متن النحو الصغير",
+ "subject": "arabic",
+ "kind": "series",
+ "lang": "ar",
+ "scholarId": "سليمان-العيوني",
+ "scholarIds": [
+  "سليمان-العيوني"
+ ],
+ "year": 1448,
+ "source": "youtube",
+ "channelId": "UC3QAoXf9GN9xeQYhk-AZbTg",
+ "playlistId": "PLRjkDxlKuuW4",
+ "url": "https://www.youtube.com/playlist?list=PLRjkDxlKuuW4",
+ "thumbnail": "https://i.ytimg.com/vi/KK0ac4Si28A/maxresdefault.jpg",
+ "lessonCount": 9,
+ "duration": 49598,
+ "lessons": [
+  {
+   "n": 1,
+   "title": "الدرس 1",
+   "lang": "ar",
+   "scholarId": "سليمان-العيوني",
+   "videoId": "KK0ac4Si28A",
+   "duration": 10239,
+   "hijriDate": "1448-02-04"
+  },
+  {
+   "n": 2,
+   "title": "الدرس 2",
+   "lang": "ar",
+   "scholarId": "سليمان-العيوني",
+   "videoId": "drPBv9RTepM",
+   "duration": 3496,
+   "hijriDate": "1448-02-04"
+  },
+  {
+   "n": 3,
+   "title": "الدرس 3",
+   "lang": "ar",
+   "scholarId": "سليمان-العيوني",
+   "videoId": "lO9UDB1JNVE",
+   "duration": 4461,
+   "hijriDate": "1448-02-04"
+  },
+  {
+   "n": 4,
+   "title": "الدرس 4",
+   "lang": "ar",
+   "scholarId": "سليمان-العيوني",
+   "videoId": "TWWjY0EXw-M",
+   "duration": 9399,
+   "hijriDate": "1448-02-05"
+  },
+  {
+   "n": 5,
+   "title": "الدرس 5",
+   "lang": "ar",
+   "scholarId": "سليمان-العيوني",
+   "videoId": "qwB4XDjYA-c",
+   "duration": 3372,
+   "hijriDate": "1448-02-05"
+  },
+  {
+   "n": 6,
+   "title": "الدرس 6",
+   "lang": "ar",
+   "scholarId": "سليمان-العيوني",
+   "videoId": "OB4kmdwJs_g",
+   "duration": 4160,
+   "hijriDate": "1448-02-05"
+  },
+  {
+   "n": 7,
+   "title": "الدرس 7",
+   "lang": "ar",
+   "scholarId": "سليمان-العيوني",
+   "videoId": "wa5ha96twWQ",
+   "duration": 7891,
+   "hijriDate": "1448-02-06"
+  },
+  {
+   "n": 8,
+   "title": "الدرس 8",
+   "lang": "ar",
+   "scholarId": "سليمان-العيوني",
+   "videoId": "mtceol6EMYE",
+   "duration": 3457,
+   "hijriDate": "1448-02-06"
+  },
+  {
+   "n": 9,
+   "title": "الدرس 9",
+   "lang": "ar",
+   "scholarId": "سليمان-العيوني",
+   "videoId": "udHE-K9ktOI",
+   "duration": 3123,
+   "hijriDate": "1448-02-06"
+  }
+ ]
+}

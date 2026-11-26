@@ -1,0 +1,66 @@
+{
+ "id": "PLgaTRTylCbZBiZ33lVeyxcdVUUuOL4ddd",
+ "title": "شرح كتاب الأدب المفرد للإمام البخاري",
+ "subject": "hadith",
+ "kind": "series",
+ "lang": "ar",
+ "scholarId": "خالد-الغامدي",
+ "scholarIds": [
+  "خالد-الغامدي"
+ ],
+ "year": 1439,
+ "source": "youtube",
+ "channelId": "UC3QAoXf9GN9xeQYhk-AZbTg",
+ "playlistId": "PLgaTRTylCbZBiZ33lVeyxcdVUUuOL4ddd",
+ "url": "https://www.youtube.com/playlist?list=PLgaTRTylCbZBiZ33lVeyxcdVUUuOL4ddd",
+ "thumbnail": "https://i.ytimg.com/vi/Lw07rmh-TD0/maxresdefault.jpg",
+ "lessonCount": 5,
+ "duration": 19430,
+ "lessons": [
+  {
+   "n": 1,
+   "title": "الدرس 1",
+   "lang": "ar",
+   "scholarId": "خالد-الغامدي",
+   "videoId": "Lw07rmh-TD0",
+   "duration": 3930,
+   "hijriDate": "1439-05-19"
+  },
+  {
+   "n": 2,
+   "title": "الدرس 2",
+   "lang": "ar",
+   "scholarId": "خالد-الغامدي",
+   "videoId": "UET4AO8ufws",
+   "duration": 3505,
+   "hijriDate": "1439-08-21"
+  },
+  {
+   "n": 3,
+   "title": "الدرس 3",
+   "lang": "ar",
+   "scholarId": "خالد-الغامدي",
+   "videoId": "qDE_t3P_iTU",
+   "duration": 3984,
+   "hijriDate": "1439-11-03"
+  },
+  {
+   "n": 4,
+   "title": "الدرس 4",
+   "lang": "ar",
+   "scholarId": "خالد-الغامدي",
+   "videoId": "rQDQ_bn9vOY",
+   "duration": 3965,
+   "hijriDate": "1439-11-10"
+  },
+  {
+   "n": 5,
+   "title": "الدرس 5",
+   "lang": "ar",
+   "scholarId": "خالد-الغامدي",
+   "videoId": "xgaoDMZ2nw4",
+   "duration": 4046,
+   "hijriDate": "1439-11-17"
+  }
+ ]
+}

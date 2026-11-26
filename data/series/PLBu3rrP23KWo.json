@@ -1,0 +1,30 @@
+{
+ "id": "PLBu3rrP23KWo",
+ "title": "اللقاء العلمي",
+ "subject": "adab",
+ "kind": "series",
+ "lang": "ar",
+ "scholarId": "ياسر-الدوسري",
+ "scholarIds": [
+  "ياسر-الدوسري"
+ ],
+ "year": null,
+ "source": "youtube",
+ "channelId": "UC0XNCc-DU8J5_ksR-eufPaw",
+ "playlistId": "PLBu3rrP23KWo",
+ "url": "https://www.youtube.com/playlist?list=PLBu3rrP23KWo",
+ "thumbnail": "https://i.ytimg.com/vi/a3qsyzWpSw0/maxresdefault.jpg",
+ "lessonCount": 1,
+ "duration": 3803,
+ "lessons": [
+  {
+   "n": 1,
+   "title": "العلم النافع بين التحصيل والتزكية",
+   "lang": "ar",
+   "scholarId": "ياسر-الدوسري",
+   "videoId": "a3qsyzWpSw0",
+   "duration": 3803,
+   "hijriDate": null
+  }
+ ]
+}

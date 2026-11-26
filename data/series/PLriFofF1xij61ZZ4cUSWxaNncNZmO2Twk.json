@@ -1,0 +1,48 @@
+{
+ "id": "PLriFofF1xij61ZZ4cUSWxaNncNZmO2Twk",
+ "title": "رسالة أبي داود إلى أهل مكة في وصف سننه",
+ "subject": "general",
+ "kind": "series",
+ "lang": "ar",
+ "scholarId": "انيس-طاهر",
+ "scholarIds": [
+  "انيس-طاهر"
+ ],
+ "year": null,
+ "source": "youtube",
+ "channelId": "UC0XNCc-DU8J5_ksR-eufPaw",
+ "playlistId": "PLriFofF1xij61ZZ4cUSWxaNncNZmO2Twk",
+ "url": "https://www.youtube.com/playlist?list=PLriFofF1xij61ZZ4cUSWxaNncNZmO2Twk",
+ "thumbnail": "https://i.ytimg.com/vi/BGerqccApag/maxresdefault.jpg",
+ "lessonCount": 3,
+ "duration": 13448,
+ "lessons": [
+  {
+   "n": 1,
+   "title": "الدرس 1",
+   "lang": "ar",
+   "scholarId": "انيس-طاهر",
+   "videoId": "BGerqccApag",
+   "duration": 3561,
+   "hijriDate": null
+  },
+  {
+   "n": 2,
+   "title": "الدرس 2",
+   "lang": "ar",
+   "scholarId": "انيس-طاهر",
+   "videoId": "ePq_pnoadPU",
+   "duration": 5561,
+   "hijriDate": null
+  },
+  {
+   "n": 3,
+   "title": "الدرس 3",
+   "lang": "ar",
+   "scholarId": "انيس-طاهر",
+   "videoId": "OpK8ybpIg7g",
+   "duration": 4326,
+   "hijriDate": null
+  }
+ ]
+}

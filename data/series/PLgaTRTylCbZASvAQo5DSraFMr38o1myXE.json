@@ -1,0 +1,108 @@
+{
+ "id": "PLgaTRTylCbZASvAQo5DSraFMr38o1myXE",
+ "title": "سلسلة محاضرات اليوم الوطني",
+ "subject": "general",
+ "kind": "course",
+ "lang": "ar",
+ "scholarId": null,
+ "scholarIds": [
+  "عبدالرحمن-السديس",
+  "خالد-عروس",
+  "سعد-الشثري",
+  "طلال-ابوالنور",
+  "شرف-الشريف",
+  "سامي-الصقير",
+  "جبريل-البصيلي"
+ ],
+ "year": 1440,
+ "source": "youtube",
+ "channelId": "UC3QAoXf9GN9xeQYhk-AZbTg",
+ "playlistId": "PLgaTRTylCbZASvAQo5DSraFMr38o1myXE",
+ "url": "https://www.youtube.com/playlist?list=PLgaTRTylCbZASvAQo5DSraFMr38o1myXE",
+ "thumbnail": "https://i.ytimg.com/vi/L34bmrYs8mM/maxresdefault.jpg",
+ "lessonCount": 9,
+ "duration": 15639,
+ "lessons": [
+  {
+   "n": 1,
+   "title": "في ذكرى اليوم الوطني ال94 للمملكة العربية السعودية",
+   "lang": "ar",
+   "scholarId": "عبدالرحمن-السديس",
+   "videoId": "EXYOX-zQmqU",
+   "duration": 516,
+   "hijriDate": null
+  },
+  {
+   "n": 2,
+   "title": "مكانة الوطن في الإسلام",
+   "lang": "ar",
+   "scholarId": "خالد-عروس",
+   "videoId": "ptTGl0w7MLg",
+   "duration": 1679,
+   "hijriDate": "1440-01-22"
+  },
+  {
+   "n": 3,
+   "title": "اللحمة الوطنية حقوق وواجبات",
+   "lang": "ar",
+   "scholarId": "سعد-الشثري",
+   "videoId": "-kTR02Z_PfA",
+   "duration": 3821,
+   "hijriDate": "1440-03-27"
+  },
+  {
+   "n": 4,
+   "title": "المواطنة وأثرها في حفظ الأمن",
+   "lang": "ar",
+   "scholarId": "خالد-عروس",
+   "videoId": "EE94Bim3HGw",
+   "duration": 1311,
+   "hijriDate": "1442-02-06"
+  },
+  {
+   "n": 5,
+   "title": "رب اجعل هذا البلد آمنا",
+   "lang": "ar",
+   "scholarId": "طلال-ابوالنور",
+   "videoId": "2B0Q2dpP4oU",
+   "duration": 2093,
+   "hijriDate": "1443-02-14"
+  },
+  {
+   "n": 6,
+   "title": "نعمة الأمن وتطبيق الشريعة",
+   "lang": "ar",
+   "scholarId": "شرف-الشريف",
+   "videoId": "puHcF7fQSIU",
+   "duration": 3329,
+   "hijriDate": "1443-02-15"
+  },
+  {
+   "n": 7,
+   "title": "حقوق ولاة الأمر في ضوء الكتاب والسنة",
+   "lang": "ar",
+   "scholarId": "سامي-الصقير",
+   "videoId": "sv5_Ag4atT8",
+   "duration": 1054,
+   "hijriDate": "1443-02-15"
+  },
+  {
+   "n": 8,
+   "title": "المواطنة وأثرها في وحدة المجتمع",
+   "lang": "ar",
+   "scholarId": "جبريل-البصيلي",
+   "videoId": "L34bmrYs8mM",
+   "duration": 1353,
+   "hijriDate": "1443-02-16"
+  },
+  {
+   "n": 9,
+   "title": "الخصائص الشرعية للمملكة العربية السعودية",
+   "lang": "ar",
+   "scholarId": "سامي-الصقير",
+   "videoId": "gqIBrZ1vj-0",
+   "duration": 483,
+   "hijriDate": "1443-02-16"
+  }
+ ]
+}

@@ -1,0 +1,39 @@
+{
+ "id": "PLgaTRTylCbZAdQqX3o0Nd9F2YQssgQuB3",
+ "title": "منهج السلف الصالح في التلقي والاستدلال",
+ "subject": "aqeedah",
+ "kind": "series",
+ "lang": "ar",
+ "scholarId": "علي-العلياني",
+ "scholarIds": [
+  "علي-العلياني"
+ ],
+ "year": 1446,
+ "source": "youtube",
+ "channelId": "UC3QAoXf9GN9xeQYhk-AZbTg",
+ "playlistId": "PLgaTRTylCbZAdQqX3o0Nd9F2YQssgQuB3",
+ "url": "https://www.youtube.com/playlist?list=PLgaTRTylCbZAdQqX3o0Nd9F2YQssgQuB3",
+ "thumbnail": "https://i.ytimg.com/vi/aCweCFIeSGA/maxresdefault.jpg",
+ "lessonCount": 2,
+ "duration": 6031,
+ "lessons": [
+  {
+   "n": 1,
+   "title": "الدرس 1",
+   "lang": "ar",
+   "scholarId": "علي-العلياني",
+   "videoId": "A3cj_TqnUh8",
+   "duration": 2504,
+   "hijriDate": "1446-05-10"
+  },
+  {
+   "n": 2,
+   "title": "الدرس 2",
+   "lang": "ar",
+   "scholarId": "علي-العلياني",
+   "videoId": "aCweCFIeSGA",
+   "duration": 3527,
+   "hijriDate": "1446-05-17"
+  }
+ ]
+}

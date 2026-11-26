@@ -1,0 +1,939 @@
+{
+ "id": "PLriFofF1xij6EB1lqzN1Qd4dYd2TSd8C_",
+ "title": "سلسلة محاضرات من المسجد النبوي",
+ "subject": "general",
+ "kind": "course",
+ "lang": "ar",
+ "scholarId": null,
+ "scholarIds": [
+  "عبداللطيف-الشاماني",
+  "سليمان-الغصن",
+  "علي-ابابطين",
+  "انيس-طاهر",
+  "مسعود-المحمدي",
+  "بدر-البدر",
+  "سامي-الصقير",
+  "عبدالرزاق-البدر",
+  "عبدالله-الشنقيطي",
+  "سعود-الخلف",
+  "عبدالسلام-السحيمي",
+  "سليمان-الرحيلي",
+  "سلمان-الدخيل",
+  "صالح-السحيمي",
+  "عبدالعزيز-العبيد",
+  "يوسف-سعيد",
+  "عبدالله-التركي",
+  "ابراهيم-التركي",
+  "علي-التويجري"
+ ],
+ "year": 1445,
+ "source": "youtube",
+ "channelId": "UC0XNCc-DU8J5_ksR-eufPaw",
+ "playlistId": "PLriFofF1xij6EB1lqzN1Qd4dYd2TSd8C_",
+ "url": "https://www.youtube.com/playlist?list=PLriFofF1xij6EB1lqzN1Qd4dYd2TSd8C_",
+ "thumbnail": "https://i.ytimg.com/vi/s5E2_YKzTkw/maxresdefault.jpg",
+ "lessonCount": 100,
+ "duration": 356168,
+ "lessons": [
+  {
+   "n": 1,
+   "title": "فضائل يوم عاشوراء",
+   "lang": "ar",
+   "scholarId": "عبداللطيف-الشاماني",
+   "videoId": "s5E2_YKzTkw",
+   "duration": 2991,
+   "hijriDate": null
+  },
+  {
+   "n": 2,
+   "title": "الصلاة شروطها وأحكامها",
+   "lang": "ar",
+   "scholarId": "سليمان-الغصن",
+   "videoId": "LmEsTZo3JG4",
+   "duration": 3573,
+   "hijriDate": null
+  },
+  {
+   "n": 3,
+   "title": "صلة الرحم عبادة من أجل العبادات ومن أعظم",
+   "lang": "ar",
+   "scholarId": "علي-ابابطين",
+   "videoId": "Wgq1MOAX-x0",
+   "duration": 3152,
+   "hijriDate": null
+  },
+  {
+   "n": 4,
+   "title": "مواطن الإيمان والتوحيد من سيرة النبي ﷺ",
+   "lang": "ar",
+   "scholarId": "انيس-طاهر",
+   "videoId": "SPrUD-8Up5U",
+   "duration": 4094,
+   "hijriDate": null
+  },
+  {
+   "n": 5,
+   "title": "أسباب السعادة في الدارين",
+   "lang": "ar",
+   "scholarId": "عبداللطيف-الشاماني",
+   "videoId": "I2xe6p5nsms",
+   "duration": 2596,
+   "hijriDate": null
+  },
+  {
+   "n": 6,
+   "title": "الجنة ونعيمها",
+   "lang": "ar",
+   "scholarId": "مسعود-المحمدي",
+   "videoId": "v1p0BEdvr5A",
+   "duration": 4041,
+   "hijriDate": null
+  },
+  {
+   "n": 7,
+   "title": "ثمرات اجتماع الكلمة ووحدة الصف",
+   "lang": "ar",
+   "scholarId": "مسعود-المحمدي",
+   "videoId": "WIv-cmBvR7k",
+   "duration": 3871,
+   "hijriDate": null
+  },
+  {
+   "n": 8,
+   "title": "نداء الله نبيه الكريم في آي الذكر الحكيم",
+   "lang": "ar",
+   "scholarId": "بدر-البدر",
+   "videoId": "cyUgpFrKBrk",
+   "duration": 4361,
+   "hijriDate": null
+  },
+  {
+   "n": 9,
+   "title": "حقوق ولاة الأمر في ضوء الكتاب والسنة",
+   "lang": "ar",
+   "scholarId": "سامي-الصقير",
+   "videoId": "tgML_wAoYsw",
+   "duration": 2038,
+   "hijriDate": null
+  },
+  {
+   "n": 10,
+   "title": "حقوق الراعي على الرعية",
+   "lang": "ar",
+   "scholarId": "عبداللطيف-الشاماني",
+   "videoId": "cUleZVcLVVU",
+   "duration": 2711,
+   "hijriDate": null
+  },
+  {
+   "n": 11,
+   "title": "كلمة التوحيد : لا إله إلا الله حقيقتها",
+   "lang": "ar",
+   "scholarId": "بدر-البدر",
+   "videoId": "OEW_LrKEQkM",
+   "duration": 4501,
+   "hijriDate": null
+  },
+  {
+   "n": 12,
+   "title": "أصول وقواعد في تربية الأولاد",
+   "lang": "ar",
+   "scholarId": "عبدالرزاق-البدر",
+   "videoId": "2DGe9fCc9Mw",
+   "duration": 2383,
+   "hijriDate": null
+  },
+  {
+   "n": 13,
+   "title": "﴿ألا بِذكرِ اللَّه تطمئن...﴾",
+   "lang": "ar",
+   "scholarId": "عبدالله-الشنقيطي",
+   "videoId": "K51tN1dQj3s",
+   "duration": 2697,
+   "hijriDate": null
+  },
+  {
+   "n": 14,
+   "title": "مقاصد سورة الطلاق",
+   "lang": "ar",
+   "scholarId": "مسعود-المحمدي",
+   "videoId": "AkR8sQt9YUk",
+   "duration": 3786,
+   "hijriDate": null
+  },
+  {
+   "n": 15,
+   "title": "أصول وقواعد في تربية الأولاد",
+   "lang": "ar",
+   "scholarId": "عبدالرزاق-البدر",
+   "videoId": "RG_R-jeQ3PQ",
+   "duration": 2595,
+   "hijriDate": null
+  },
+  {
+   "n": 16,
+   "title": "آداب زيارة المسجد النبوي",
+   "lang": "ar",
+   "scholarId": "سعود-الخلف",
+   "videoId": "FqtV6IV86-0",
+   "duration": 4401,
+   "hijriDate": null
+  },
+  {
+   "n": 17,
+   "title": "معالم منهج أهل السنة والجماعة",
+   "lang": "ar",
+   "scholarId": "عبدالسلام-السحيمي",
+   "videoId": "zhJNnLporag",
+   "duration": 4621,
+   "hijriDate": null
+  },
+  {
+   "n": 18,
+   "title": "حق المسلم على المسلم",
+   "lang": "ar",
+   "scholarId": "مسعود-المحمدي",
+   "videoId": "1Vqf59B84xY",
+   "duration": 3686,
+   "hijriDate": null
+  },
+  {
+   "n": 19,
+   "title": "الحث على تربية الأبناء على الاستقامة",
+   "lang": "ar",
+   "scholarId": "عبداللطيف-الشاماني",
+   "videoId": "omB0yEcpg0g",
+   "duration": 2481,
+   "hijriDate": null
+  },
+  {
+   "n": 20,
+   "title": "سماحة الإسلام ووسطيته بين الأمم",
+   "lang": "ar",
+   "scholarId": "مسعود-المحمدي",
+   "videoId": "YPqDR2zsi8U",
+   "duration": 3511,
+   "hijriDate": null
+  },
+  {
+   "n": 21,
+   "title": "من مظاهر حقوق الإنسان في بلادنا",
+   "lang": "ar",
+   "scholarId": "سليمان-الرحيلي",
+   "videoId": "3RBKDOlio3Y",
+   "duration": 3695,
+   "hijriDate": null
+  },
+  {
+   "n": 22,
+   "title": "لنعلم أبناءنا التوحيد",
+   "lang": "ar",
+   "scholarId": "عبدالسلام-السحيمي",
+   "videoId": "VqUfu3JI2KU",
+   "duration": 4570,
+   "hijriDate": null
+  },
+  {
+   "n": 23,
+   "title": "الكلمة الطيبة وآثارها",
+   "lang": "ar",
+   "scholarId": "مسعود-المحمدي",
+   "videoId": "iCe0TcaU0xs",
+   "duration": 3905,
+   "hijriDate": null
+  },
+  {
+   "n": 24,
+   "title": "الاستقرار الأسري وأثره في صلاح",
+   "lang": "ar",
+   "scholarId": "عبداللطيف-الشاماني",
+   "videoId": "6NgBTn1z0EA",
+   "duration": 3378,
+   "hijriDate": null
+  },
+  {
+   "n": 25,
+   "title": "الاعتذار وأثره في سلامة القلوب",
+   "lang": "ar",
+   "scholarId": "انيس-طاهر",
+   "videoId": "qQGq7LwZoS8",
+   "duration": 3989,
+   "hijriDate": null
+  },
+  {
+   "n": 26,
+   "title": "وسائل في إذهاب الهم والحزن",
+   "lang": "ar",
+   "scholarId": "مسعود-المحمدي",
+   "videoId": "y_m4Enu_hHE",
+   "duration": 3851,
+   "hijriDate": null
+  },
+  {
+   "n": 27,
+   "title": "الشائعات خطرها وسبل الوقاية منها",
+   "lang": "ar",
+   "scholarId": "بدر-البدر",
+   "videoId": "J08cNBUovxw",
+   "duration": 4416,
+   "hijriDate": null
+  },
+  {
+   "n": 28,
+   "title": "صلاح المجتمع في ضوء سورة الحجرات",
+   "lang": "ar",
+   "scholarId": "عبدالله-الشنقيطي",
+   "videoId": "aQ-XHchpPB0",
+   "duration": 2525,
+   "hijriDate": null
+  },
+  {
+   "n": 29,
+   "title": "تحقيق محبة النبي محمد ﷺ",
+   "lang": "ar",
+   "scholarId": "سليمان-الغصن",
+   "videoId": "b3OMkAJk5zk",
+   "duration": 3750,
+   "hijriDate": null
+  },
+  {
+   "n": 30,
+   "title": "فوائد من حديث شُعب الإيمان",
+   "lang": "ar",
+   "scholarId": "عبدالرزاق-البدر",
+   "videoId": "C9d4vYH1BEU",
+   "duration": 2507,
+   "hijriDate": null
+  },
+  {
+   "n": 31,
+   "title": "جمع القرآن الكريم وحفظه",
+   "lang": "ar",
+   "scholarId": "سعود-الخلف",
+   "videoId": "-quPyh8OwPw",
+   "duration": 4056,
+   "hijriDate": null
+  },
+  {
+   "n": 32,
+   "title": "وقفات مع آيات",
+   "lang": "ar",
+   "scholarId": "سلمان-الدخيل",
+   "videoId": "uY3u_s6Ty5I",
+   "duration": 1785,
+   "hijriDate": null
+  },
+  {
+   "n": 33,
+   "title": "أثر الأذكار الشرعية في حياة المسلم",
+   "lang": "ar",
+   "scholarId": "عبداللطيف-الشاماني",
+   "videoId": "VIYuc5AxQ-g",
+   "duration": 3336,
+   "hijriDate": null
+  },
+  {
+   "n": 34,
+   "title": "الصدق فضله وأثره",
+   "lang": "ar",
+   "scholarId": "مسعود-المحمدي",
+   "videoId": "vEaH2uh6-HM",
+   "duration": 3806,
+   "hijriDate": null
+  },
+  {
+   "n": 35,
+   "title": "﴿يَوْمَ تُبْلَى السَّرَائِرُ﴾",
+   "lang": "ar",
+   "scholarId": "مسعود-المحمدي",
+   "videoId": "FsG5ZxDK3Uk",
+   "duration": 3541,
+   "hijriDate": null
+  },
+  {
+   "n": 36,
+   "title": "وجوب الاجتماع والتحذير من الفرقة والاختلاف",
+   "lang": "ar",
+   "scholarId": "بدر-البدر",
+   "videoId": "x-QIg5WL4tM",
+   "duration": 4160,
+   "hijriDate": null
+  },
+  {
+   "n": 37,
+   "title": "محبة النبي ﷺ وجوبها وحقيقتها وفضائلها",
+   "lang": "ar",
+   "scholarId": "بدر-البدر",
+   "videoId": "M-mwb3JL1ZU",
+   "duration": 4175,
+   "hijriDate": null
+  },
+  {
+   "n": 38,
+   "title": "وقفات مع حديث العرباض بن سارية",
+   "lang": "ar",
+   "scholarId": "عبدالسلام-السحيمي",
+   "videoId": "NeJ1gTvk_RQ",
+   "duration": 4252,
+   "hijriDate": null
+  },
+  {
+   "n": 39,
+   "title": "كلمة التوحيد",
+   "lang": "ar",
+   "scholarId": "عبدالرزاق-البدر",
+   "videoId": "6iyDqAmGz68",
+   "duration": 2259,
+   "hijriDate": null
+  },
+  {
+   "n": 40,
+   "title": "من سير أمهات المؤمنين رضي الله عنهن",
+   "lang": "ar",
+   "scholarId": "مسعود-المحمدي",
+   "videoId": "GDOMxBn3a98",
+   "duration": 3960,
+   "hijriDate": null
+  },
+  {
+   "n": 41,
+   "title": "من قصص النبي ﷺ في أسفاره",
+   "lang": "ar",
+   "scholarId": "مسعود-المحمدي",
+   "videoId": "6yGDuMNKGBg",
+   "duration": 4017,
+   "hijriDate": null
+  },
+  {
+   "n": 42,
+   "title": "وسطية أهل السنة والجماعة بين الفرق",
+   "lang": "ar",
+   "scholarId": "سعود-الخلف",
+   "videoId": "9gvogXn4nUM",
+   "duration": 4095,
+   "hijriDate": null
+  },
+  {
+   "n": 43,
+   "title": "أثر البدعة على العقيدة",
+   "lang": "ar",
+   "scholarId": "علي-ابابطين",
+   "videoId": "LBZWdoF5Qpw",
+   "duration": 4796,
+   "hijriDate": null
+  },
+  {
+   "n": 44,
+   "title": "حقوق الرسول ﷺ على أمته",
+   "lang": "ar",
+   "scholarId": "عبداللطيف-الشاماني",
+   "videoId": "mBd3xcAsW8A",
+   "duration": 3090,
+   "hijriDate": null
+  },
+  {
+   "n": 45,
+   "title": "الأحاديث الضعيفة والموضوعة وآثارها السيئة",
+   "lang": "ar",
+   "scholarId": "انيس-طاهر",
+   "videoId": "WUpCblFAq84",
+   "duration": 4181,
+   "hijriDate": null
+  },
+  {
+   "n": 46,
+   "title": "آداب زيارة المسجد النبوي",
+   "lang": "ar",
+   "scholarId": "مسعود-المحمدي",
+   "videoId": "Y_niJ8PqouY",
+   "duration": 3711,
+   "hijriDate": null
+  },
+  {
+   "n": 47,
+   "title": "﴿وَلاَتَقْفُ مَا لَيْسَ لَكَ به...﴾",
+   "lang": "ar",
+   "scholarId": "عبدالله-الشنقيطي",
+   "videoId": "OYxevAC4u2U",
+   "duration": 2150,
+   "hijriDate": null
+  },
+  {
+   "n": 48,
+   "title": "محاسن التوحيد وفضائله",
+   "lang": "ar",
+   "scholarId": "سعود-الخلف",
+   "videoId": "l9OWbRg11Ys",
+   "duration": 3912,
+   "hijriDate": null
+  },
+  {
+   "n": 49,
+   "title": "السحر حكمه وخطره",
+   "lang": "ar",
+   "scholarId": "مسعود-المحمدي",
+   "videoId": "C2LCrhDhS4s",
+   "duration": 3780,
+   "hijriDate": null
+  },
+  {
+   "n": 50,
+   "title": "محبة العبد ربه تعالى - وجوبها وأسبابها",
+   "lang": "ar",
+   "scholarId": "بدر-البدر",
+   "videoId": "SjufNqGDyjE",
+   "duration": 4360,
+   "hijriDate": null
+  },
+  {
+   "n": 51,
+   "title": "فضائل شعبان",
+   "lang": "ar",
+   "scholarId": "صالح-السحيمي",
+   "videoId": "u2GGMprJxNw",
+   "duration": 2478,
+   "hijriDate": null
+  },
+  {
+   "n": 52,
+   "title": "وجاء شهر الخير",
+   "lang": "ar",
+   "scholarId": "عبداللطيف-الشاماني",
+   "videoId": "BvJGsgRkLwM",
+   "duration": 2324,
+   "hijriDate": null
+  },
+  {
+   "n": 53,
+   "title": "رمضان والاجتهاد في العبادة",
+   "lang": "ar",
+   "scholarId": "مسعود-المحمدي",
+   "videoId": "OZDFhfmqZzs",
+   "duration": 3747,
+   "hijriDate": null
+  },
+  {
+   "n": 54,
+   "title": "الأثار الأدبية لصيام شهر رمضان و قيامه",
+   "lang": "ar",
+   "scholarId": "انيس-طاهر",
+   "videoId": "yv5WJeWYMdY",
+   "duration": 3880,
+   "hijriDate": null
+  },
+  {
+   "n": 55,
+   "title": "كيف نستقبل شهر رمضان",
+   "lang": "ar",
+   "scholarId": "عبدالعزيز-العبيد",
+   "videoId": "ZUoxEst60Ao",
+   "duration": 3518,
+   "hijriDate": null
+  },
+  {
+   "n": 56,
+   "title": "سماحة الإسلام ويسره",
+   "lang": "ar",
+   "scholarId": "عبداللطيف-الشاماني",
+   "videoId": "w0hMrH1TFgw",
+   "duration": 2766,
+   "hijriDate": null
+  },
+  {
+   "n": 57,
+   "title": "أحكام زيارة المسجد النبوي وآدابه",
+   "lang": "ar",
+   "scholarId": "عبداللطيف-الشاماني",
+   "videoId": "qBYh_SLQsZU",
+   "duration": 3358,
+   "hijriDate": null
+  },
+  {
+   "n": 58,
+   "title": "فضل العلم الشرعي ومكانة العلماء",
+   "lang": "ar",
+   "scholarId": "بدر-البدر",
+   "videoId": "5Rx9-06tDMw",
+   "duration": 4211,
+   "hijriDate": null
+  },
+  {
+   "n": 59,
+   "title": "حقوق ولاة أمر المسلمين في ضوء",
+   "lang": "ar",
+   "scholarId": "سليمان-الرحيلي",
+   "videoId": "xlcPxc_Ova8",
+   "duration": 4700,
+   "hijriDate": null
+  },
+  {
+   "n": 60,
+   "title": "ولله على النّاسِ حج",
+   "lang": "ar",
+   "scholarId": "يوسف-سعيد",
+   "videoId": "N7Uunlwi5Qc",
+   "duration": 1176,
+   "hijriDate": null
+  },
+  {
+   "n": 61,
+   "title": "منهج أهل السنة والجماعة",
+   "lang": "ar",
+   "scholarId": "عبدالله-التركي",
+   "videoId": "62UtMZ8Hkk8",
+   "duration": 1921,
+   "hijriDate": null
+  },
+  {
+   "n": 62,
+   "title": "المسلمون أمة وسط",
+   "lang": "ar",
+   "scholarId": "عبدالله-التركي",
+   "videoId": "4FTx8g6obbM",
+   "duration": 1901,
+   "hijriDate": null
+  },
+  {
+   "n": 63,
+   "title": "حق الله على العباد وحق العباد على الله",
+   "lang": "ar",
+   "scholarId": "مسعود-المحمدي",
+   "videoId": "XjI3OWK_mDA",
+   "duration": 4025,
+   "hijriDate": null
+  },
+  {
+   "n": 64,
+   "title": "طاعة رسول الله ﷺ فضلها وثمراتها",
+   "lang": "ar",
+   "scholarId": "مسعود-المحمدي",
+   "videoId": "dDvpGWqvYQ4",
+   "duration": 3893,
+   "hijriDate": null
+  },
+  {
+   "n": 65,
+   "title": "طاعة رسول الله ﷺ فضلها وثمراتها",
+   "lang": "ar",
+   "scholarId": "مسعود-المحمدي",
+   "videoId": "dRHiRDVLTJU",
+   "duration": 4091,
+   "hijriDate": null
+  },
+  {
+   "n": 66,
+   "title": "يوم تبلى السرائر",
+   "lang": "ar",
+   "scholarId": "مسعود-المحمدي",
+   "videoId": "MhhvU1w0TWE",
+   "duration": 3893,
+   "hijriDate": null
+  },
+  {
+   "n": 67,
+   "title": "أسباب انفراج الهم وذهاب الحَزن والحُزن",
+   "lang": "ar",
+   "scholarId": "مسعود-المحمدي",
+   "videoId": "tSE0KfGPga0",
+   "duration": 4402,
+   "hijriDate": null
+  },
+  {
+   "n": 68,
+   "title": "فضل التوبة والاستغفار",
+   "lang": "ar",
+   "scholarId": "مسعود-المحمدي",
+   "videoId": "em-Liqz9K_A",
+   "duration": 3910,
+   "hijriDate": null
+  },
+  {
+   "n": 69,
+   "title": "فضل كلمة التوحيد",
+   "lang": "ar",
+   "scholarId": "مسعود-المحمدي",
+   "videoId": "WOaFlR9gF8U",
+   "duration": 3879,
+   "hijriDate": null
+  },
+  {
+   "n": 70,
+   "title": "حق المسلم على المسلم",
+   "lang": "ar",
+   "scholarId": "مسعود-المحمدي",
+   "videoId": "_6abGGoerEs",
+   "duration": 4303,
+   "hijriDate": null
+  },
+  {
+   "n": 71,
+   "title": "فضل الهدي والأضحية",
+   "lang": "ar",
+   "scholarId": "ابراهيم-التركي",
+   "videoId": "bjd0nI5sgd0",
+   "duration": 3463,
+   "hijriDate": null
+  },
+  {
+   "n": 72,
+   "title": "فضائل الحج والعمرة",
+   "lang": "ar",
+   "scholarId": "ابراهيم-التركي",
+   "videoId": "wCKDbeNfR9c",
+   "duration": 3499,
+   "hijriDate": null
+  },
+  {
+   "n": 73,
+   "title": "فضائل المدينة",
+   "lang": "ar",
+   "scholarId": "مسعود-المحمدي",
+   "videoId": "eXUr6GGIhtk",
+   "duration": 4137,
+   "hijriDate": null
+  },
+  {
+   "n": 74,
+   "title": "محظورات الإحرام",
+   "lang": "ar",
+   "scholarId": "ابراهيم-التركي",
+   "videoId": "PHk4GNDuFvI",
+   "duration": 3035,
+   "hijriDate": null
+  },
+  {
+   "n": 75,
+   "title": "من الأخطاء في الحج وأحكام الفدية",
+   "lang": "ar",
+   "scholarId": "ابراهيم-التركي",
+   "videoId": "Kv6ScONlU20",
+   "duration": 3080,
+   "hijriDate": null
+  },
+  {
+   "n": 76,
+   "title": "أحكام وآداب زيارة المسجد النّبوي",
+   "lang": "ar",
+   "scholarId": "مسعود-المحمدي",
+   "videoId": "ukxnmCFQiRM",
+   "duration": 4286,
+   "hijriDate": null
+  },
+  {
+   "n": 77,
+   "title": "حكم الحج وأحكام الإحرام ومستحباته",
+   "lang": "ar",
+   "scholarId": "مسعود-المحمدي",
+   "videoId": "Hbtv-0TutYw",
+   "duration": 4179,
+   "hijriDate": null
+  },
+  {
+   "n": 78,
+   "title": "محظورات الإحرام وصفة الحج",
+   "lang": "ar",
+   "scholarId": "مسعود-المحمدي",
+   "videoId": "NwwFfJAzepI",
+   "duration": 3706,
+   "hijriDate": null
+  },
+  {
+   "n": 79,
+   "title": "تتمة صفة الحج",
+   "lang": "ar",
+   "scholarId": "مسعود-المحمدي",
+   "videoId": "ai7QA47NcZo",
+   "duration": 4267,
+   "hijriDate": null
+  },
+  {
+   "n": 80,
+   "title": "دروس من حجة الوداع",
+   "lang": "ar",
+   "scholarId": "مسعود-المحمدي",
+   "videoId": "ATvxZ-o2lE8",
+   "duration": 3576,
+   "hijriDate": null
+  },
+  {
+   "n": 81,
+   "title": "يسر أحكام الحج",
+   "lang": "ar",
+   "scholarId": "مسعود-المحمدي",
+   "videoId": "Oi1rRI_APKI",
+   "duration": 3713,
+   "hijriDate": null
+  },
+  {
+   "n": 82,
+   "title": "فضل عشر ذي الحجة وآداب يوم الجمعة",
+   "lang": "ar",
+   "scholarId": "ابراهيم-التركي",
+   "videoId": "TD9R4RDCDy8",
+   "duration": 2679,
+   "hijriDate": null
+  },
+  {
+   "n": 83,
+   "title": "شروط الحج وفضله",
+   "lang": "ar",
+   "scholarId": "ابراهيم-التركي",
+   "videoId": "rBuhOJbyOK4",
+   "duration": 2555,
+   "hijriDate": null
+  },
+  {
+   "n": 84,
+   "title": "فضل عرفة والأضحية",
+   "lang": "ar",
+   "scholarId": "ابراهيم-التركي",
+   "videoId": "BpuuyjK6rpU",
+   "duration": 3311,
+   "hijriDate": null
+  },
+  {
+   "n": 85,
+   "title": "زيارة القبور",
+   "lang": "ar",
+   "scholarId": "انيس-طاهر",
+   "videoId": "WTyU3SRf6aU",
+   "duration": 4424,
+   "hijriDate": null
+  },
+  {
+   "n": 86,
+   "title": "حقوق النبي ﷺ",
+   "lang": "ar",
+   "scholarId": "مسعود-المحمدي",
+   "videoId": "nf0_RcOvGns",
+   "duration": 3965,
+   "hijriDate": null
+  },
+  {
+   "n": 87,
+   "title": "الاستقامة - حقيقتها وثمرتها وأسباب الثبات",
+   "lang": "ar",
+   "scholarId": "بدر-البدر",
+   "videoId": "P_kQvv36P0M",
+   "duration": 3797,
+   "hijriDate": null
+  },
+  {
+   "n": 88,
+   "title": "ماذا بعد الحج ؟",
+   "lang": "ar",
+   "scholarId": "عبدالرزاق-البدر",
+   "videoId": "8sC4CUyedKk",
+   "duration": 3144,
+   "hijriDate": null
+  },
+  {
+   "n": 89,
+   "title": "مؤمنون يحبهم الله",
+   "lang": "ar",
+   "scholarId": "مسعود-المحمدي",
+   "videoId": "ppejtRK3yLc",
+   "duration": 3922,
+   "hijriDate": null
+  },
+  {
+   "n": 90,
+   "title": "الشفاعة",
+   "lang": "ar",
+   "scholarId": "مسعود-المحمدي",
+   "videoId": "ewQV0Wj41t8",
+   "duration": 3461,
+   "hijriDate": null
+  },
+  {
+   "n": 91,
+   "title": "خصائص النبي ﷺ",
+   "lang": "ar",
+   "scholarId": "مسعود-المحمدي",
+   "videoId": "0jhKGJYFtPY",
+   "duration": 3651,
+   "hijriDate": null
+  },
+  {
+   "n": 92,
+   "title": "﴿لقد كان لكم في رسول...﴾",
+   "lang": "ar",
+   "scholarId": "عبداللطيف-الشاماني",
+   "videoId": "17eD42jraHE",
+   "duration": 3130,
+   "hijriDate": null
+  },
+  {
+   "n": 93,
+   "title": "كلمات توجيهية عامة للحجاج",
+   "lang": "ar",
+   "scholarId": "ابراهيم-التركي",
+   "videoId": "Y6HOd5E83S0",
+   "duration": 3926,
+   "hijriDate": null
+  },
+  {
+   "n": 94,
+   "title": "وداع الحجاج ومحاسبة النفس",
+   "lang": "ar",
+   "scholarId": "ابراهيم-التركي",
+   "videoId": "3UPypXs4dBI",
+   "duration": 3013,
+   "hijriDate": null
+  },
+  {
+   "n": 95,
+   "title": "تفسير سورة الفاتحة وبعض أحكامها",
+   "lang": "ar",
+   "scholarId": "علي-التويجري",
+   "videoId": "6AJV9bXdnlw",
+   "duration": 3912,
+   "hijriDate": null
+  },
+  {
+   "n": 96,
+   "title": "من أخبار النبي ﷺ في تبسمه وضحكه",
+   "lang": "ar",
+   "scholarId": "مسعود-المحمدي",
+   "videoId": "wvipOJo14Bc",
+   "duration": 4001,
+   "hijriDate": null
+  },
+  {
+   "n": 97,
+   "title": "الثبات على منهاج السلف",
+   "lang": "ar",
+   "scholarId": "مسعود-المحمدي",
+   "videoId": "-5UqfKRIABU",
+   "duration": 3941,
+   "hijriDate": null
+  },
+  {
+   "n": 98,
+   "title": "ابتلاءات النبي ﷺ",
+   "lang": "ar",
+   "scholarId": "مسعود-المحمدي",
+   "videoId": "RuLIMjZ9ZQM",
+   "duration": 3764,
+   "hijriDate": null
+  },
+  {
+   "n": 99,
+   "title": "من أخبار السلف في عبادتهم",
+   "lang": "ar",
+   "scholarId": "مسعود-المحمدي",
+   "videoId": "rs8bVLUsIHw",
+   "duration": 3956,
+   "hijriDate": null
+  },
+  {
+   "n": 100,
+   "title": "تأملات في سورة ق",
+   "lang": "ar",
+   "scholarId": "مسعود-المحمدي",
+   "videoId": "I-Rjcu3Y6k4",
+   "duration": 4201,
+   "hijriDate": null
+  }
+ ]
+}

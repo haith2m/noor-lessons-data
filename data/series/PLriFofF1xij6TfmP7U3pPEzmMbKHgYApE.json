@@ -1,0 +1,77 @@
+{
+ "id": "PLriFofF1xij6TfmP7U3pPEzmMbKHgYApE",
+ "title": "الدورة العلمية لموسم الحج (السلسلة التفسيرية)",
+ "subject": "tafsir",
+ "kind": "course",
+ "lang": "ar",
+ "scholarId": null,
+ "scholarIds": [
+  "عبدالله-الشنقيطي",
+  "عبدالعزيز-العبيد",
+  "بدر-البدر"
+ ],
+ "year": 1443,
+ "source": "youtube",
+ "channelId": "UC0XNCc-DU8J5_ksR-eufPaw",
+ "playlistId": "PLriFofF1xij6TfmP7U3pPEzmMbKHgYApE",
+ "url": "https://www.youtube.com/playlist?list=PLriFofF1xij6TfmP7U3pPEzmMbKHgYApE",
+ "thumbnail": "https://i.ytimg.com/vi/GLHYZU5gpd4/maxresdefault.jpg",
+ "lessonCount": 6,
+ "duration": 14005,
+ "lessons": [
+  {
+   "n": 1,
+   "title": "تفسير آيات الحج من سورة البقرة (196- 199)",
+   "lang": "ar",
+   "scholarId": "عبدالله-الشنقيطي",
+   "videoId": "GLHYZU5gpd4",
+   "duration": 3263,
+   "hijriDate": null
+  },
+  {
+   "n": 2,
+   "title": "تفسير آيات الحج من سورة البقرة آية(200)",
+   "lang": "ar",
+   "scholarId": "عبدالعزيز-العبيد",
+   "videoId": "Uz57oit_WGA",
+   "duration": 1048,
+   "hijriDate": null
+  },
+  {
+   "n": 3,
+   "title": "تفسير آيات الحج",
+   "lang": "ar",
+   "scholarId": "عبدالله-الشنقيطي",
+   "videoId": "Z069gjIWqec",
+   "duration": 3184,
+   "hijriDate": null
+  },
+  {
+   "n": 4,
+   "title": "تفسير آيات الحج من سورة البقرة(201-203)",
+   "lang": "ar",
+   "scholarId": "عبدالعزيز-العبيد",
+   "videoId": "l9sxlTpgajI",
+   "duration": 1134,
+   "hijriDate": null
+  },
+  {
+   "n": 5,
+   "title": "تفسير آيات الحج من سورة البقرة (196- 199)",
+   "lang": "ar",
+   "scholarId": "عبدالله-الشنقيطي",
+   "videoId": "UFr3-w8B1M4",
+   "duration": 2959,
+   "hijriDate": null
+  },
+  {
+   "n": 6,
+   "title": "تفسير آيات الحج من سورة الحج (32-37)",
+   "lang": "ar",
+   "scholarId": "بدر-البدر",
+   "videoId": "i-Ia3O7_V9o",
+   "duration": 2417,
+   "hijriDate": null
+  }
+ ]
+}

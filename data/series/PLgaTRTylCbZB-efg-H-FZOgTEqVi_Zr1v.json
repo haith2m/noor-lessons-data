@@ -1,0 +1,66 @@
+{
+ "id": "PLgaTRTylCbZB-efg-H-FZOgTEqVi_Zr1v",
+ "title": "تعليق على جواب (الاقتصاد في الأعمال) لابن تيمية",
+ "subject": "adab",
+ "kind": "series",
+ "lang": "ar",
+ "scholarId": "غازي-العتيبي",
+ "scholarIds": [
+  "غازي-العتيبي"
+ ],
+ "year": 1442,
+ "source": "youtube",
+ "channelId": "UC3QAoXf9GN9xeQYhk-AZbTg",
+ "playlistId": "PLgaTRTylCbZB-efg-H-FZOgTEqVi_Zr1v",
+ "url": "https://www.youtube.com/playlist?list=PLgaTRTylCbZB-efg-H-FZOgTEqVi_Zr1v",
+ "thumbnail": "https://i.ytimg.com/vi/rH8jjAMpwqE/maxresdefault.jpg",
+ "lessonCount": 5,
+ "duration": 16462,
+ "lessons": [
+  {
+   "n": 1,
+   "title": "الدرس 1",
+   "lang": "ar",
+   "scholarId": "غازي-العتيبي",
+   "videoId": "rH8jjAMpwqE",
+   "duration": 3243,
+   "hijriDate": "1442-09-06"
+  },
+  {
+   "n": 2,
+   "title": "الدرس 2",
+   "lang": "ar",
+   "scholarId": "غازي-العتيبي",
+   "videoId": "4yL8qXofSOI",
+   "duration": 3590,
+   "hijriDate": "1442-09-13"
+  },
+  {
+   "n": 3,
+   "title": "الدرس 3",
+   "lang": "ar",
+   "scholarId": "غازي-العتيبي",
+   "videoId": "LlhCEouZ9sw",
+   "duration": 3263,
+   "hijriDate": "1442-11-14"
+  },
+  {
+   "n": 4,
+   "title": "الدرس 4",
+   "lang": "ar",
+   "scholarId": "غازي-العتيبي",
+   "videoId": "ZNd07W_q1sI",
+   "duration": 3603,
+   "hijriDate": "1442-11-21"
+  },
+  {
+   "n": 5,
+   "title": "الدرس 5",
+   "lang": "ar",
+   "scholarId": "غازي-العتيبي",
+   "videoId": "5CEaaxQ8aDg",
+   "duration": 2763,
+   "hijriDate": "1442-11-28"
+  }
+ ]
+}

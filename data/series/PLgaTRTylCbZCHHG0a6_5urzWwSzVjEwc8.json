@@ -1,0 +1,143 @@
+{
+ "id": "PLgaTRTylCbZCHHG0a6_5urzWwSzVjEwc8",
+ "title": "الدورة الصيفية التأصيلية الأولى",
+ "subject": "usul",
+ "kind": "course",
+ "lang": "ar",
+ "scholarId": null,
+ "scholarIds": [
+  "احمد-حميد",
+  "عبدالسلام-الشويعر",
+  "خالد-عروس",
+  "سليمان-الغصن",
+  "سعد-الشثري",
+  "عبدالرحمن-القرني"
+ ],
+ "year": 1447,
+ "source": "youtube",
+ "channelId": "UC3QAoXf9GN9xeQYhk-AZbTg",
+ "playlistId": "PLgaTRTylCbZCHHG0a6_5urzWwSzVjEwc8",
+ "url": "https://www.youtube.com/playlist?list=PLgaTRTylCbZCHHG0a6_5urzWwSzVjEwc8",
+ "thumbnail": "https://i.ytimg.com/vi/2OjmM3HvX_M/maxresdefault.jpg",
+ "lessonCount": 13,
+ "duration": 92268,
+ "lessons": [
+  {
+   "n": 1,
+   "title": "وَلَكِنْ كُونُوا رَبَّانِيِّينَ",
+   "lang": "ar",
+   "scholarId": "احمد-حميد",
+   "videoId": "knXQttuuDXg",
+   "duration": 2370,
+   "hijriDate": "1447-01-17"
+  },
+  {
+   "n": 2,
+   "title": "بداية العابد وكفاية الزاهد (1 من 5)",
+   "lang": "ar",
+   "scholarId": "عبدالسلام-الشويعر",
+   "videoId": "ECBElXjtS2U",
+   "duration": 13357,
+   "hijriDate": "1447-01-18"
+  },
+  {
+   "n": 3,
+   "title": "الأصول من علم الأصول01",
+   "lang": "ar",
+   "scholarId": "خالد-عروس",
+   "videoId": "Esz_z4VUcbE",
+   "duration": 7560,
+   "hijriDate": "1447-01-18"
+  },
+  {
+   "n": 4,
+   "title": "شرح العقيدة الواسطية01",
+   "lang": "ar",
+   "scholarId": "سليمان-الغصن",
+   "videoId": "zkPQnnq19kw",
+   "duration": 3869,
+   "hijriDate": "1447-01-18"
+  },
+  {
+   "n": 5,
+   "title": "شرح نخبة الفكر01",
+   "lang": "ar",
+   "scholarId": "سعد-الشثري",
+   "videoId": "uVWUNGlOTW0",
+   "duration": 2722,
+   "hijriDate": "1447-01-18"
+  },
+  {
+   "n": 6,
+   "title": "بداية العابد وكفاية الزاهد (2 من 5)",
+   "lang": "ar",
+   "scholarId": "عبدالسلام-الشويعر",
+   "videoId": "tG_M00Deybo",
+   "duration": 14603,
+   "hijriDate": "1447-01-19"
+  },
+  {
+   "n": 7,
+   "title": "الأصول من علم الأصول02",
+   "lang": "ar",
+   "scholarId": "خالد-عروس",
+   "videoId": "8SjqLbCLv5A",
+   "duration": 7667,
+   "hijriDate": "1447-01-19"
+  },
+  {
+   "n": 8,
+   "title": "شرح العقيدة الواسطية02",
+   "lang": "ar",
+   "scholarId": "سليمان-الغصن",
+   "videoId": "brTPou3RN5Q",
+   "duration": 3874,
+   "hijriDate": "1447-01-20"
+  },
+  {
+   "n": 9,
+   "title": "شرح نخبة الفكر02",
+   "lang": "ar",
+   "scholarId": "سعد-الشثري",
+   "videoId": "aiQmZu0JMaA",
+   "duration": 3851,
+   "hijriDate": "1447-01-19"
+  },
+  {
+   "n": 10,
+   "title": "بداية العابد وكفاية الزاهد (3 من 5)",
+   "lang": "ar",
+   "scholarId": "عبدالسلام-الشويعر",
+   "videoId": "ZBRNO17lO98",
+   "duration": 14667,
+   "hijriDate": "1447-01-20"
+  },
+  {
+   "n": 11,
+   "title": "الأصول من علم الأصول03",
+   "lang": "ar",
+   "scholarId": "عبدالرحمن-القرني",
+   "videoId": "q86aGMeDWks",
+   "duration": 10578,
+   "hijriDate": "1447-01-20"
+  },
+  {
+   "n": 12,
+   "title": "شرح العقيدة الواسطية03",
+   "lang": "ar",
+   "scholarId": "سليمان-الغصن",
+   "videoId": "jiaD69K-QrE",
+   "duration": 3835,
+   "hijriDate": "1447-01-20"
+  },
+  {
+   "n": 13,
+   "title": "شرح نخبة الفكر03",
+   "lang": "ar",
+   "scholarId": "سعد-الشثري",
+   "videoId": "2OjmM3HvX_M",
+   "duration": 3315,
+   "hijriDate": "1447-01-20"
+  }
+ ]
+}

@@ -1,0 +1,57 @@
+{
+ "id": "PLriFofF1xij4MRE_K1BsSCluAVwd7Iw0A",
+ "title": "الدروس العامة",
+ "subject": "aqeedah",
+ "kind": "series",
+ "lang": "ar",
+ "scholarId": "علي-الحذيفي",
+ "scholarIds": [
+  "علي-الحذيفي"
+ ],
+ "year": null,
+ "source": "youtube",
+ "channelId": "UC0XNCc-DU8J5_ksR-eufPaw",
+ "playlistId": "PLriFofF1xij4MRE_K1BsSCluAVwd7Iw0A",
+ "url": "https://www.youtube.com/playlist?list=PLriFofF1xij4MRE_K1BsSCluAVwd7Iw0A",
+ "thumbnail": "https://i.ytimg.com/vi/eRB6srukwRw/maxresdefault.jpg",
+ "lessonCount": 4,
+ "duration": 12565,
+ "lessons": [
+  {
+   "n": 1,
+   "title": "الإيمان بالقدر خيره وشرّه",
+   "lang": "ar",
+   "scholarId": "علي-الحذيفي",
+   "videoId": "eRB6srukwRw",
+   "duration": 3015,
+   "hijriDate": null
+  },
+  {
+   "n": 2,
+   "title": "الاستبشار بقدوم رمضان وتزود من الطاعات",
+   "lang": "ar",
+   "scholarId": "علي-الحذيفي",
+   "videoId": "G3nQe5IeUkY",
+   "duration": 2818,
+   "hijriDate": null
+  },
+  {
+   "n": 3,
+   "title": "الحث على المسارعة في الخيرات",
+   "lang": "ar",
+   "scholarId": "علي-الحذيفي",
+   "videoId": "RCyON8aJohg",
+   "duration": 3097,
+   "hijriDate": null
+  },
+  {
+   "n": 4,
+   "title": "محاسبة النفس واغتنام ماتبقى من الشهر",
+   "lang": "ar",
+   "scholarId": "علي-الحذيفي",
+   "videoId": "aeuh9rhlzsQ",
+   "duration": 3635,
+   "hijriDate": null
+  }
+ ]
+}

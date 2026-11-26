@@ -1,0 +1,60 @@
+{
+ "id": "PLgaTRTylCbZBTukFQyyPYjyvUfVvCBt9L",
+ "title": "ميراث - شهر رمضان ضمن دروس العلماء الراحلين",
+ "subject": "general",
+ "kind": "course",
+ "lang": "ar",
+ "scholarId": null,
+ "scholarIds": [
+  "عبدالعزيز-باز",
+  "عبدالله-البسام",
+  "محمد-عثيمين",
+  "عبدالله-الغديان"
+ ],
+ "year": null,
+ "source": "youtube",
+ "channelId": "UC3QAoXf9GN9xeQYhk-AZbTg",
+ "playlistId": "PLgaTRTylCbZBTukFQyyPYjyvUfVvCBt9L",
+ "url": "https://www.youtube.com/playlist?list=PLgaTRTylCbZBTukFQyyPYjyvUfVvCBt9L",
+ "thumbnail": "https://i.ytimg.com/vi/la3wyr-MIkA/maxresdefault.jpg",
+ "lessonCount": 4,
+ "duration": 6292,
+ "lessons": [
+  {
+   "n": 1,
+   "title": "الصيام فضائله وأحكامه",
+   "lang": "ar",
+   "scholarId": "عبدالعزيز-باز",
+   "videoId": "la3wyr-MIkA",
+   "duration": 1012,
+   "hijriDate": null
+  },
+  {
+   "n": 2,
+   "title": "فضل العشر الأواخر من رمضان",
+   "lang": "ar",
+   "scholarId": "عبدالله-البسام",
+   "videoId": "yxWMh3JflOk",
+   "duration": 2390,
+   "hijriDate": null
+  },
+  {
+   "n": 3,
+   "title": "ليلة القدر والأعمال المشروعة فيها",
+   "lang": "ar",
+   "scholarId": "محمد-عثيمين",
+   "videoId": "xC4gRtr6Ll4",
+   "duration": 1209,
+   "hijriDate": null
+  },
+  {
+   "n": 4,
+   "title": "الأحكام المتعلقة بالصيام",
+   "lang": "ar",
+   "scholarId": "عبدالله-الغديان",
+   "videoId": "iiXr6WLwm68",
+   "duration": 1681,
+   "hijriDate": null
+  }
+ ]
+}

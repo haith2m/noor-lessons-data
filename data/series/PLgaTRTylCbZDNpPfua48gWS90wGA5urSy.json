@@ -1,0 +1,48 @@
+{
+ "id": "PLgaTRTylCbZDNpPfua48gWS90wGA5urSy",
+ "title": "الخراج والفيء والإمارة",
+ "subject": "hadith",
+ "kind": "series",
+ "lang": "ar",
+ "scholarId": "حمزه-الفعر",
+ "scholarIds": [
+  "حمزه-الفعر"
+ ],
+ "year": null,
+ "source": "youtube",
+ "channelId": "UC3QAoXf9GN9xeQYhk-AZbTg",
+ "playlistId": "PLgaTRTylCbZDNpPfua48gWS90wGA5urSy",
+ "url": "https://www.youtube.com/playlist?list=PLgaTRTylCbZDNpPfua48gWS90wGA5urSy",
+ "thumbnail": "https://i.ytimg.com/vi/U8EhI3DTrYM/maxresdefault.jpg",
+ "lessonCount": 3,
+ "duration": 9616,
+ "lessons": [
+  {
+   "n": 1,
+   "title": "من سنن أبي داود",
+   "lang": "ar",
+   "scholarId": "حمزه-الفعر",
+   "videoId": "U8EhI3DTrYM",
+   "duration": 3137,
+   "hijriDate": null
+  },
+  {
+   "n": 2,
+   "title": "من سنن أبي داود",
+   "lang": "ar",
+   "scholarId": "حمزه-الفعر",
+   "videoId": "p3fZq5CHbe0",
+   "duration": 3639,
+   "hijriDate": null
+  },
+  {
+   "n": 3,
+   "title": "من سنن أبي داود",
+   "lang": "ar",
+   "scholarId": "حمزه-الفعر",
+   "videoId": "OY3Ez605URc",
+   "duration": 2840,
+   "hijriDate": null
+  }
+ ]
+}

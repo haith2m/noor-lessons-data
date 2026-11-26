@@ -1,0 +1,66 @@
+{
+ "id": "PLriFofF1xij7qegUJsbAwOFulUleCMeMN",
+ "title": "تيسير اللطيف المنان للشيخ السعدي",
+ "subject": "general",
+ "kind": "series",
+ "lang": "ar",
+ "scholarId": "بدر-البدر",
+ "scholarIds": [
+  "بدر-البدر"
+ ],
+ "year": null,
+ "source": "youtube",
+ "channelId": "UC0XNCc-DU8J5_ksR-eufPaw",
+ "playlistId": "PLriFofF1xij7qegUJsbAwOFulUleCMeMN",
+ "url": "https://www.youtube.com/playlist?list=PLriFofF1xij7qegUJsbAwOFulUleCMeMN",
+ "thumbnail": "https://i.ytimg.com/vi/WMGCD4Y2LLQ/maxresdefault.jpg",
+ "lessonCount": 5,
+ "duration": 13764,
+ "lessons": [
+  {
+   "n": 1,
+   "title": "الدرس 1",
+   "lang": "ar",
+   "scholarId": "بدر-البدر",
+   "videoId": "uT6w1ooF5ow",
+   "duration": 3198,
+   "hijriDate": null
+  },
+  {
+   "n": 2,
+   "title": "الدرس 2",
+   "lang": "ar",
+   "scholarId": "بدر-البدر",
+   "videoId": "tHoS6Qgbc6k",
+   "duration": 2582,
+   "hijriDate": null
+  },
+  {
+   "n": 3,
+   "title": "الدرس 3",
+   "lang": "ar",
+   "scholarId": "بدر-البدر",
+   "videoId": "dfJ6U845Sx8",
+   "duration": 2475,
+   "hijriDate": null
+  },
+  {
+   "n": 4,
+   "title": "الدرس 4",
+   "lang": "ar",
+   "scholarId": "بدر-البدر",
+   "videoId": "ni_unRZv8KY",
+   "duration": 2559,
+   "hijriDate": null
+  },
+  {
+   "n": 5,
+   "title": "الدرس 5",
+   "lang": "ar",
+   "scholarId": "بدر-البدر",
+   "videoId": "WMGCD4Y2LLQ",
+   "duration": 2950,
+   "hijriDate": null
+  }
+ ]
+}

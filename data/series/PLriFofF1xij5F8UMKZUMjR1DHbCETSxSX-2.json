@@ -1,0 +1,48 @@
+{
+ "id": "PLriFofF1xij5F8UMKZUMjR1DHbCETSxSX-2",
+ "title": "أحكام زيارة قبر النبي ﷺ",
+ "subject": "fiqh",
+ "kind": "series",
+ "lang": "ar",
+ "scholarId": "علي-ابابطين",
+ "scholarIds": [
+  "علي-ابابطين"
+ ],
+ "year": null,
+ "source": "youtube",
+ "channelId": "UC0XNCc-DU8J5_ksR-eufPaw",
+ "playlistId": "PLriFofF1xij5F8UMKZUMjR1DHbCETSxSX",
+ "url": "https://www.youtube.com/playlist?list=PLriFofF1xij5F8UMKZUMjR1DHbCETSxSX",
+ "thumbnail": "https://i.ytimg.com/vi/2frdmfT9yy8/maxresdefault.jpg",
+ "lessonCount": 3,
+ "duration": 11998,
+ "lessons": [
+  {
+   "n": 1,
+   "title": "الدرس 1",
+   "lang": "ar",
+   "scholarId": "علي-ابابطين",
+   "videoId": "OnpOoRlemEo",
+   "duration": 3911,
+   "hijriDate": null
+  },
+  {
+   "n": 2,
+   "title": "الدرس 2",
+   "lang": "ar",
+   "scholarId": "علي-ابابطين",
+   "videoId": "JLTfI2wR3HM",
+   "duration": 4371,
+   "hijriDate": null
+  },
+  {
+   "n": 3,
+   "title": "الدرس 3",
+   "lang": "ar",
+   "scholarId": "علي-ابابطين",
+   "videoId": "NigVtwKokyc",
+   "duration": 3716,
+   "hijriDate": null
+  }
+ ]
+}

@@ -1,0 +1,100 @@
+{
+ "id": "PLHCkuLQjTBIw",
+ "title": "الدورة العلمية الأولى في السيرة النبوية (السنة والسيرة محبة واتباع)",
+ "subject": "seerah",
+ "kind": "course",
+ "lang": "ar",
+ "scholarId": null,
+ "scholarIds": [
+  "عبدالله-الشنقيطي",
+  "عبدالرزاق-البدر",
+  "عبدالله-الزاحم",
+  "سليمان-الغصن",
+  "صالح-المغامسي",
+  "يوسف-الغفيص",
+  "سامي-الصقير",
+  "عبدالسلام-الشويعر"
+ ],
+ "year": 1448,
+ "source": "youtube",
+ "channelId": "UC0XNCc-DU8J5_ksR-eufPaw",
+ "playlistId": "PLHCkuLQjTBIw",
+ "url": "https://www.youtube.com/playlist?list=PLHCkuLQjTBIw",
+ "thumbnail": "https://i.ytimg.com/vi/3AiQv7ucco8/maxresdefault.jpg",
+ "lessonCount": 8,
+ "duration": 28994,
+ "lessons": [
+  {
+   "n": 1,
+   "title": "محبة الصحابة للنبي ﷺ مواقف",
+   "lang": "ar",
+   "scholarId": "عبدالله-الشنقيطي",
+   "videoId": "3AiQv7ucco8",
+   "duration": 2843,
+   "hijriDate": null
+  },
+  {
+   "n": 2,
+   "title": "علامات محبة النبي ﷺ",
+   "lang": "ar",
+   "scholarId": "عبدالرزاق-البدر",
+   "videoId": "hL8uShyChrw",
+   "duration": 4773,
+   "hijriDate": null
+  },
+  {
+   "n": 3,
+   "title": "عناية الصحابة رضي الله",
+   "lang": "ar",
+   "scholarId": "عبدالله-الزاحم",
+   "videoId": "BLNSWn_xxSA",
+   "duration": 4401,
+   "hijriDate": null
+  },
+  {
+   "n": 4,
+   "title": "حماية النبي ﷺ جناب التوحيد",
+   "lang": "ar",
+   "scholarId": "سليمان-الغصن",
+   "videoId": "581_dlguqlU",
+   "duration": 3785,
+   "hijriDate": null
+  },
+  {
+   "n": 5,
+   "title": "دروس وعبر من سيرة خير البشر",
+   "lang": "ar",
+   "scholarId": "صالح-المغامسي",
+   "videoId": "FPGArVXnsGc",
+   "duration": 2926,
+   "hijriDate": null
+  },
+  {
+   "n": 6,
+   "title": "القواعد الشرعية لمقام السنة النبوية",
+   "lang": "ar",
+   "scholarId": "يوسف-الغفيص",
+   "videoId": "fPHBjX2xJ1c",
+   "duration": 3463,
+   "hijriDate": null
+  },
+  {
+   "n": 7,
+   "title": "المقاصد الشرعية من دراسة السنة",
+   "lang": "ar",
+   "scholarId": "سامي-الصقير",
+   "videoId": "H0_i_QpVmf0",
+   "duration": 3678,
+   "hijriDate": null
+  },
+  {
+   "n": 8,
+   "title": "﴿لقد كان لكم في...﴾",
+   "lang": "ar",
+   "scholarId": "عبدالسلام-الشويعر",
+   "videoId": "m491eV4E3tM",
+   "duration": 3125,
+   "hijriDate": null
+  }
+ ]
+}

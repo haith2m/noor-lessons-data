@@ -1,0 +1,57 @@
+{
+ "id": "PLgaTRTylCbZB3498NDf00dUv-0-j-hYPK",
+ "title": "معاني الصيام",
+ "subject": "fiqh",
+ "kind": "series",
+ "lang": "ar",
+ "scholarId": "حسن-بخاري",
+ "scholarIds": [
+  "حسن-بخاري"
+ ],
+ "year": 1444,
+ "source": "youtube",
+ "channelId": "UC3QAoXf9GN9xeQYhk-AZbTg",
+ "playlistId": "PLgaTRTylCbZB3498NDf00dUv-0-j-hYPK",
+ "url": "https://www.youtube.com/playlist?list=PLgaTRTylCbZB3498NDf00dUv-0-j-hYPK",
+ "thumbnail": "https://i.ytimg.com/vi/0CbVlU0F-aI/maxresdefault.jpg",
+ "lessonCount": 4,
+ "duration": 9793,
+ "lessons": [
+  {
+   "n": 1,
+   "title": "آيات الصيام من سورة البقرة",
+   "lang": "ar",
+   "scholarId": "حسن-بخاري",
+   "videoId": "0CbVlU0F-aI",
+   "duration": 1963,
+   "hijriDate": "1444-09-05"
+  },
+  {
+   "n": 2,
+   "title": "(التقوى)",
+   "lang": "ar",
+   "scholarId": "حسن-بخاري",
+   "videoId": "fQyAdtctiiA",
+   "duration": 2334,
+   "hijriDate": "1444-09-12"
+  },
+  {
+   "n": 3,
+   "title": "(القرآن)",
+   "lang": "ar",
+   "scholarId": "حسن-بخاري",
+   "videoId": "Gz0GMw_48aQ",
+   "duration": 2298,
+   "hijriDate": "1444-09-19"
+  },
+  {
+   "n": 4,
+   "title": "(الدعاء)",
+   "lang": "ar",
+   "scholarId": "حسن-بخاري",
+   "videoId": "trSoG3YmylQ",
+   "duration": 3198,
+   "hijriDate": "1444-09-26"
+  }
+ ]
+}

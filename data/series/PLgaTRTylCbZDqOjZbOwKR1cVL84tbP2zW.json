@@ -1,0 +1,39 @@
+{
+ "id": "PLgaTRTylCbZDqOjZbOwKR1cVL84tbP2zW",
+ "title": "درس مترجم إلى 12 لغة 26-4-1446",
+ "subject": "general",
+ "kind": "series",
+ "lang": "ar",
+ "scholarId": "عبدالرحمن-السديس",
+ "scholarIds": [
+  "عبدالرحمن-السديس"
+ ],
+ "year": 1446,
+ "source": "youtube",
+ "channelId": "UC3QAoXf9GN9xeQYhk-AZbTg",
+ "playlistId": "PLgaTRTylCbZDqOjZbOwKR1cVL84tbP2zW",
+ "url": "https://www.youtube.com/playlist?list=PLgaTRTylCbZDqOjZbOwKR1cVL84tbP2zW",
+ "thumbnail": "https://i.ytimg.com/vi/yl9ytm6Xun8/maxresdefault.jpg",
+ "lessonCount": 2,
+ "duration": 8423,
+ "lessons": [
+  {
+   "n": 1,
+   "title": "تفسير السعدي - عمدة الأحكام",
+   "lang": "ar",
+   "scholarId": "عبدالرحمن-السديس",
+   "videoId": "x4LcszOnkww",
+   "duration": 3663,
+   "hijriDate": "1446-04-26"
+  },
+  {
+   "n": 2,
+   "title": "Tafsir as-Si’di & ‘Umdatul Ahkam",
+   "lang": "en",
+   "scholarId": "عبدالرحمن-السديس",
+   "videoId": "Ld-Z-dA1TDo",
+   "duration": 4760,
+   "hijriDate": null
+  }
+ ]
+}

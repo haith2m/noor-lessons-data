@@ -1,0 +1,39 @@
+{
+ "id": "PLgaTRTylCbZDJCvFQIe_vmq92oT1IBomS",
+ "title": "شرح حديث مراتب الدين",
+ "subject": "aqeedah",
+ "kind": "series",
+ "lang": "ar",
+ "scholarId": "حمزه-الفعر",
+ "scholarIds": [
+  "حمزه-الفعر"
+ ],
+ "year": 1446,
+ "source": "youtube",
+ "channelId": "UC3QAoXf9GN9xeQYhk-AZbTg",
+ "playlistId": "PLgaTRTylCbZDJCvFQIe_vmq92oT1IBomS",
+ "url": "https://www.youtube.com/playlist?list=PLgaTRTylCbZDJCvFQIe_vmq92oT1IBomS",
+ "thumbnail": "https://i.ytimg.com/vi/P2ComQCU6L0/maxresdefault.jpg",
+ "lessonCount": 2,
+ "duration": 6996,
+ "lessons": [
+  {
+   "n": 1,
+   "title": "الدرس 1",
+   "lang": "ar",
+   "scholarId": "حمزه-الفعر",
+   "videoId": "EWDeOO6r-L4",
+   "duration": 3407,
+   "hijriDate": "1446-12-22"
+  },
+  {
+   "n": 2,
+   "title": "الدرس 2",
+   "lang": "ar",
+   "scholarId": "حمزه-الفعر",
+   "videoId": "P2ComQCU6L0",
+   "duration": 3589,
+   "hijriDate": "1446-12-25"
+  }
+ ]
+}

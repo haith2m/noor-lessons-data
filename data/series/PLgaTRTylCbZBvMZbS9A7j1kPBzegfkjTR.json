@@ -1,0 +1,57 @@
+{
+ "id": "PLgaTRTylCbZBvMZbS9A7j1kPBzegfkjTR",
+ "title": "منسك العلامة عبدالله أبا بطين",
+ "subject": "fiqh",
+ "kind": "series",
+ "lang": "ar",
+ "scholarId": "عبدالمحسن-الزامل",
+ "scholarIds": [
+  "عبدالمحسن-الزامل"
+ ],
+ "year": null,
+ "source": "youtube",
+ "channelId": "UC3QAoXf9GN9xeQYhk-AZbTg",
+ "playlistId": "PLgaTRTylCbZBvMZbS9A7j1kPBzegfkjTR",
+ "url": "https://www.youtube.com/playlist?list=PLgaTRTylCbZBvMZbS9A7j1kPBzegfkjTR",
+ "thumbnail": "https://i.ytimg.com/vi/obNipI6vl5g/sddefault.jpg",
+ "lessonCount": 4,
+ "duration": 21397,
+ "lessons": [
+  {
+   "n": 1,
+   "title": "الدرس 1",
+   "lang": "ar",
+   "scholarId": "عبدالمحسن-الزامل",
+   "videoId": "H8XHTpBhgZU",
+   "duration": 7617,
+   "hijriDate": null
+  },
+  {
+   "n": 2,
+   "title": "الدرس 2",
+   "lang": "ar",
+   "scholarId": "عبدالمحسن-الزامل",
+   "videoId": "gSD7kF828vo",
+   "duration": 4364,
+   "hijriDate": null
+  },
+  {
+   "n": 3,
+   "title": "الدرس 3",
+   "lang": "ar",
+   "scholarId": "عبدالمحسن-الزامل",
+   "videoId": "obNipI6vl5g",
+   "duration": 4731,
+   "hijriDate": null
+  },
+  {
+   "n": 4,
+   "title": "الدرس 4",
+   "lang": "ar",
+   "scholarId": "عبدالمحسن-الزامل",
+   "videoId": "dh6exXfTJl8",
+   "duration": 4685,
+   "hijriDate": null
+  }
+ ]
+}

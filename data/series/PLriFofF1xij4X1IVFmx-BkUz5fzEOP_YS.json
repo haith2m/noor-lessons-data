@@ -1,0 +1,39 @@
+{
+ "id": "PLriFofF1xij4X1IVFmx-BkUz5fzEOP_YS",
+ "title": "القواعد الحسان المتعلقة بتفسير القرآن",
+ "subject": "tafsir",
+ "kind": "series",
+ "lang": "ar",
+ "scholarId": "عبدالعزيز-العبيد",
+ "scholarIds": [
+  "عبدالعزيز-العبيد"
+ ],
+ "year": null,
+ "source": "youtube",
+ "channelId": "UC0XNCc-DU8J5_ksR-eufPaw",
+ "playlistId": "PLriFofF1xij4X1IVFmx-BkUz5fzEOP_YS",
+ "url": "https://www.youtube.com/playlist?list=PLriFofF1xij4X1IVFmx-BkUz5fzEOP_YS",
+ "thumbnail": "https://i.ytimg.com/vi/nqaNEfGhKhg/maxresdefault.jpg",
+ "lessonCount": 2,
+ "duration": 7712,
+ "lessons": [
+  {
+   "n": 1,
+   "title": "الدرس 1",
+   "lang": "ar",
+   "scholarId": "عبدالعزيز-العبيد",
+   "videoId": "nqaNEfGhKhg",
+   "duration": 3856,
+   "hijriDate": null
+  },
+  {
+   "n": 2,
+   "title": "الدرس 2",
+   "lang": "ar",
+   "scholarId": "عبدالعزيز-العبيد",
+   "videoId": "jERqvpfA418",
+   "duration": 3856,
+   "hijriDate": null
+  }
+ ]
+}

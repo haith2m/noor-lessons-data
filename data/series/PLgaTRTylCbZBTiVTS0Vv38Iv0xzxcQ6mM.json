@@ -1,0 +1,309 @@
+{
+ "id": "PLgaTRTylCbZBTiVTS0Vv38Iv0xzxcQ6mM",
+ "title": "دروس مرئية",
+ "subject": "general",
+ "kind": "course",
+ "lang": "ar",
+ "scholarId": null,
+ "scholarIds": [
+  "سعد-الخثلان",
+  "عبدالرحمن-السديس",
+  "سعد-الشثري",
+  "فيصل-غزاوي",
+  "صالح-حميد",
+  "عبدالله-خنين",
+  "عبدالسلام-الشويعر",
+  "سليمان-التويجري",
+  "عبدالله-الطيار",
+  "علي-العلياني",
+  "حمزه-الفعر",
+  "سامي-الصقير",
+  "خالد-المصلح",
+  "خالد-المشيقح",
+  "عبدالرحمن-القرني",
+  "طلال-ابوالنور",
+  "علي-الحكمي",
+  "وصي-عباس",
+  "صالح-العصيمي"
+ ],
+ "year": 1437,
+ "source": "youtube",
+ "channelId": "UC3QAoXf9GN9xeQYhk-AZbTg",
+ "playlistId": "PLgaTRTylCbZBTiVTS0Vv38Iv0xzxcQ6mM",
+ "url": "https://www.youtube.com/playlist?list=PLgaTRTylCbZBTiVTS0Vv38Iv0xzxcQ6mM",
+ "thumbnail": "https://i.ytimg.com/vi/MeC-eFRbTpc/maxresdefault.jpg",
+ "lessonCount": 30,
+ "duration": 95876,
+ "lessons": [
+  {
+   "n": 1,
+   "title": "فتنةُ التكفيروآثارها",
+   "lang": "ar",
+   "scholarId": "سعد-الخثلان",
+   "videoId": "IvUyP2v6tz8",
+   "duration": 2178,
+   "hijriDate": null
+  },
+  {
+   "n": 2,
+   "title": "تفسير آيات الحج",
+   "lang": "ar",
+   "scholarId": "عبدالرحمن-السديس",
+   "videoId": "iatDHEYkKEY",
+   "duration": 3799,
+   "hijriDate": "1437-11-13"
+  },
+  {
+   "n": 3,
+   "title": "الحج عبادة وتقديس",
+   "lang": "ar",
+   "scholarId": "عبدالرحمن-السديس",
+   "videoId": "Y2rrDNUrTIo",
+   "duration": 3948,
+   "hijriDate": "1437-12-05"
+  },
+  {
+   "n": 4,
+   "title": "عقيدتنا في الحج",
+   "lang": "ar",
+   "scholarId": "سعد-الشثري",
+   "videoId": "MnBDExF2faY",
+   "duration": 3652,
+   "hijriDate": "1437-11-25"
+  },
+  {
+   "n": 5,
+   "title": "دروس من الحج",
+   "lang": "ar",
+   "scholarId": "فيصل-غزاوي",
+   "videoId": "cCrZ7mqEYw0",
+   "duration": 4383,
+   "hijriDate": "1437-11-27"
+  },
+  {
+   "n": 6,
+   "title": "مقاصد الحج - 3ذوالحجة1437ه",
+   "lang": "ar",
+   "scholarId": "صالح-حميد",
+   "videoId": "JphduxDFOYQ",
+   "duration": 3987,
+   "hijriDate": null
+  },
+  {
+   "n": 7,
+   "title": "توجيهات للحجاج",
+   "lang": "ar",
+   "scholarId": "عبدالله-خنين",
+   "videoId": "Eakeci0Z6UM",
+   "duration": 2607,
+   "hijriDate": null
+  },
+  {
+   "n": 8,
+   "title": "لقد كان لكم في رسول الله أسوة حسنة",
+   "lang": "ar",
+   "scholarId": "سعد-الشثري",
+   "videoId": "shVQO0EnDjU",
+   "duration": 2948,
+   "hijriDate": null
+  },
+  {
+   "n": 9,
+   "title": "فبهداهم اقتده",
+   "lang": "ar",
+   "scholarId": "صالح-حميد",
+   "videoId": "4VybWeYWElo",
+   "duration": 4093,
+   "hijriDate": null
+  },
+  {
+   "n": 10,
+   "title": "إني جاعلك للناس إماما",
+   "lang": "ar",
+   "scholarId": "عبدالرحمن-السديس",
+   "videoId": "AnMSDHJNVXk",
+   "duration": 3679,
+   "hijriDate": null
+  },
+  {
+   "n": 11,
+   "title": "آيات وأحاديث الصيام",
+   "lang": "ar",
+   "scholarId": "عبدالرحمن-السديس",
+   "videoId": "TxPprE1zk2o",
+   "duration": 2398,
+   "hijriDate": null
+  },
+  {
+   "n": 12,
+   "title": "درس الوسطية والاعتدال ومعالجة التطرف",
+   "lang": "ar",
+   "scholarId": "عبدالسلام-الشويعر",
+   "videoId": "6tOwISi6Q_0",
+   "duration": 1408,
+   "hijriDate": null
+  },
+  {
+   "n": 13,
+   "title": "درس الوسطية والاعتدال ومعالجة التطرف",
+   "lang": "ar",
+   "scholarId": "سليمان-التويجري",
+   "videoId": "f8ZV7EUhhiw",
+   "duration": 3077,
+   "hijriDate": null
+  },
+  {
+   "n": 14,
+   "title": "الطريق الوسط",
+   "lang": "ar",
+   "scholarId": "عبدالله-الطيار",
+   "videoId": "2zTwy6ww0ow",
+   "duration": 1935,
+   "hijriDate": null
+  },
+  {
+   "n": 15,
+   "title": "وَكَذلِكَ جَعَلناكُم أُمَّةً وَسَطًا",
+   "lang": "ar",
+   "scholarId": "علي-العلياني",
+   "videoId": "zCNKdpx0tWc",
+   "duration": 3241,
+   "hijriDate": null
+  },
+  {
+   "n": 16,
+   "title": "وسطية دين الإسلام",
+   "lang": "ar",
+   "scholarId": "حمزه-الفعر",
+   "videoId": "QdAHnr8ZzOs",
+   "duration": 3007,
+   "hijriDate": null
+  },
+  {
+   "n": 17,
+   "title": "أحكام الاعتكاف",
+   "lang": "ar",
+   "scholarId": "سامي-الصقير",
+   "videoId": "dbCAGUEM-gI",
+   "duration": 1869,
+   "hijriDate": null
+  },
+  {
+   "n": 18,
+   "title": "درس الوسطية والاعتدال ومعالجة التطرف",
+   "lang": "ar",
+   "scholarId": "خالد-المصلح",
+   "videoId": "RWv1as8lEiM",
+   "duration": 3204,
+   "hijriDate": null
+  },
+  {
+   "n": 19,
+   "title": "درس الوسطية والاعتدال ومعالجة التطرف",
+   "lang": "ar",
+   "scholarId": "خالد-المشيقح",
+   "videoId": "N9WwY-l_x0k",
+   "duration": 2226,
+   "hijriDate": null
+  },
+  {
+   "n": 20,
+   "title": "درس الوسطية والاعتدال ومعالجة التطرف",
+   "lang": "ar",
+   "scholarId": "عبدالرحمن-القرني",
+   "videoId": "IUQ0KKrlqxg",
+   "duration": 1767,
+   "hijriDate": null
+  },
+  {
+   "n": 21,
+   "title": "درس الوسطية والاعتدال ومعالجة التطرف",
+   "lang": "ar",
+   "scholarId": "طلال-ابوالنور",
+   "videoId": "CWF4e2HVKbA",
+   "duration": 4223,
+   "hijriDate": null
+  },
+  {
+   "n": 22,
+   "title": "درس الوسطية والاعتدال ومعالجة التطرف",
+   "lang": "ar",
+   "scholarId": "سامي-الصقير",
+   "videoId": "FAvgkX3H-vk",
+   "duration": 2115,
+   "hijriDate": null
+  },
+  {
+   "n": 23,
+   "title": "درس الوسطية والاعتدال ومعالجة التطرف",
+   "lang": "ar",
+   "scholarId": "علي-الحكمي",
+   "videoId": "J9RPTHzkKz8",
+   "duration": 2457,
+   "hijriDate": null
+  },
+  {
+   "n": 24,
+   "title": "درس الوسطية والاعتدال ومعالجة التطرف",
+   "lang": "ar",
+   "scholarId": "وصي-عباس",
+   "videoId": "MeC-eFRbTpc",
+   "duration": 3743,
+   "hijriDate": null
+  },
+  {
+   "n": 25,
+   "title": "أحكام البيعة",
+   "lang": "ar",
+   "scholarId": "سعد-الشثري",
+   "videoId": "Ubf3CPVPtI4",
+   "duration": 3514,
+   "hijriDate": null
+  },
+  {
+   "n": 26,
+   "title": "أصول السنة للحافظ الحميدي",
+   "lang": "ar",
+   "scholarId": "صالح-العصيمي",
+   "videoId": "nXpU0ItkMsk",
+   "duration": 3626,
+   "hijriDate": null
+  },
+  {
+   "n": 27,
+   "title": "عمل اليوم والليلة لابن حجر العسقلاني",
+   "lang": "ar",
+   "scholarId": "صالح-العصيمي",
+   "videoId": "iCEUb6XaSAI",
+   "duration": 5713,
+   "hijriDate": null
+  },
+  {
+   "n": 28,
+   "title": "شعار الحج رسالة سلام",
+   "lang": "ar",
+   "scholarId": "عبدالرحمن-السديس",
+   "videoId": "wGKn2lzyLPM",
+   "duration": 4212,
+   "hijriDate": "1438-12-02"
+  },
+  {
+   "n": 29,
+   "title": "وما أرسلناك إلا رحمة للعالمين",
+   "lang": "ar",
+   "scholarId": "سعد-الشثري",
+   "videoId": "D8zGJaxahkg",
+   "duration": 3795,
+   "hijriDate": "1438-12-04"
+  },
+  {
+   "n": 30,
+   "title": "أحكام المسح على الخفين والجمع بين الصلاتين",
+   "lang": "ar",
+   "scholarId": "سامي-الصقير",
+   "videoId": "ZeVvdS-fkQY",
+   "duration": 3072,
+   "hijriDate": null
+  }
+ ]
+}

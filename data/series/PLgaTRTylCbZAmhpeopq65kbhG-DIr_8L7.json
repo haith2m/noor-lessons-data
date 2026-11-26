@@ -1,0 +1,106 @@
+{
+ "id": "PLgaTRTylCbZAmhpeopq65kbhG-DIr_8L7",
+ "title": "الدورة العلمية الحج وأثره في تحقيق التوحيد",
+ "subject": "aqeedah",
+ "kind": "course",
+ "lang": "ar",
+ "scholarId": null,
+ "scholarIds": [
+  "صالح-حميد",
+  "عبدالرزاق-البدر",
+  "سليمان-التويجري",
+  "عبدالباقي-مبارك",
+  "جبريل-البصيلي"
+ ],
+ "year": 1446,
+ "source": "youtube",
+ "channelId": "UC3QAoXf9GN9xeQYhk-AZbTg",
+ "playlistId": "PLgaTRTylCbZAmhpeopq65kbhG-DIr_8L7",
+ "url": "https://www.youtube.com/playlist?list=PLgaTRTylCbZAmhpeopq65kbhG-DIr_8L7",
+ "thumbnail": "https://i.ytimg.com/vi/ooErpWLZUBw/maxresdefault.jpg",
+ "lessonCount": 9,
+ "duration": 24648,
+ "lessons": [
+  {
+   "n": 1,
+   "title": "شرح رسالة في التوحيد",
+   "lang": "ar",
+   "scholarId": "صالح-حميد",
+   "videoId": "3R-5-ClhDJA",
+   "duration": 2281,
+   "hijriDate": "1446-11-26"
+  },
+  {
+   "n": 2,
+   "title": "شرح رسالة في التوحيد",
+   "lang": "ar",
+   "scholarId": "صالح-حميد",
+   "videoId": "FN1feIEstIM",
+   "duration": 2671,
+   "hijriDate": "1446-11-29"
+  },
+  {
+   "n": 3,
+   "title": "أثر الحج في تصفية العقيدة",
+   "lang": "ar",
+   "scholarId": "عبدالرزاق-البدر",
+   "videoId": "Mj8fo3Kvfss",
+   "duration": 3041,
+   "hijriDate": "1446-11-29"
+  },
+  {
+   "n": 4,
+   "title": "شرح رسالة في التوحيد",
+   "lang": "ar",
+   "scholarId": "صالح-حميد",
+   "videoId": "RY0WEaFVHa8",
+   "duration": 2296,
+   "hijriDate": "1446-12-02"
+  },
+  {
+   "n": 5,
+   "title": "التوحيد في آيات الحج من سورة الحج",
+   "lang": "ar",
+   "scholarId": "سليمان-التويجري",
+   "videoId": "qCgiRVFqB-A",
+   "duration": 4075,
+   "hijriDate": "1446-12-02"
+  },
+  {
+   "n": 6,
+   "title": "شرح رسالة في التوحيد",
+   "lang": "ar",
+   "scholarId": "صالح-حميد",
+   "videoId": "2x-nx9LYn3Q",
+   "duration": 2701,
+   "hijriDate": "1446-12-04"
+  },
+  {
+   "n": 7,
+   "title": "شرح رسالة في التوحيد",
+   "lang": "ar",
+   "scholarId": "صالح-حميد",
+   "videoId": "GRmhTRYFWuY",
+   "duration": 2595,
+   "hijriDate": "1446-12-05"
+  },
+  {
+   "n": 8,
+   "title": "الوقوف بعرفة والتجلي الأعظم للتوحيد",
+   "lang": "ar",
+   "scholarId": "عبدالباقي-مبارك",
+   "videoId": "28Wy7zmMI54",
+   "duration": 2250,
+   "hijriDate": "1446-12-05"
+  },
+  {
+   "n": 9,
+   "title": "مظاهر التوحيد في الحج",
+   "lang": "ar",
+   "scholarId": "جبريل-البصيلي",
+   "videoId": "ooErpWLZUBw",
+   "duration": 2738,
+   "hijriDate": "1446-12-05"
+  }
+ ]
+}

@@ -1,0 +1,175 @@
+{
+ "id": "PLriFofF1xij7KYDBR_j29a66a8Jec_cE8",
+ "title": "سلسلة محاضرات شهر رمضان المبارك",
+ "subject": "general",
+ "kind": "course",
+ "lang": "ar",
+ "scholarId": null,
+ "scholarIds": [
+  "عبدالعزيز-العبيد",
+  "عبدالله-الشنقيطي",
+  "بدر-البدر",
+  "مسعود-المحمدي",
+  "عبدالسلام-السحيمي",
+  "سعود-الخلف",
+  "سلمان-الدخيل",
+  "صالح-السحيمي",
+  "عبداللطيف-الشاماني",
+  "علي-التويجري",
+  "سليمان-الغصن"
+ ],
+ "year": 1443,
+ "source": "youtube",
+ "channelId": "UC0XNCc-DU8J5_ksR-eufPaw",
+ "playlistId": "PLriFofF1xij7KYDBR_j29a66a8Jec_cE8",
+ "url": "https://www.youtube.com/playlist?list=PLriFofF1xij7KYDBR_j29a66a8Jec_cE8",
+ "thumbnail": "https://i.ytimg.com/vi/We0frEAo3r8/maxresdefault.jpg",
+ "lessonCount": 16,
+ "duration": 36080,
+ "lessons": [
+  {
+   "n": 1,
+   "title": "أفضل مايستقبل به شهر رمضان",
+   "lang": "ar",
+   "scholarId": "عبدالعزيز-العبيد",
+   "videoId": "9_V3Auiw9qI",
+   "duration": 1222,
+   "hijriDate": null
+  },
+  {
+   "n": 2,
+   "title": "هدي النبي ﷺ في رمضان",
+   "lang": "ar",
+   "scholarId": "عبدالله-الشنقيطي",
+   "videoId": "WcUyC0nY4rY",
+   "duration": 3440,
+   "hijriDate": null
+  },
+  {
+   "n": 3,
+   "title": "اغتنام الأوقات",
+   "lang": "ar",
+   "scholarId": "بدر-البدر",
+   "videoId": "X1ign6qKzMQ",
+   "duration": 2292,
+   "hijriDate": null
+  },
+  {
+   "n": 4,
+   "title": "مدرسة رمضان",
+   "lang": "ar",
+   "scholarId": "مسعود-المحمدي",
+   "videoId": "5Udkehpr42I",
+   "duration": 1974,
+   "hijriDate": null
+  },
+  {
+   "n": 5,
+   "title": "الصيام وتهذيب النفوس",
+   "lang": "ar",
+   "scholarId": "عبدالسلام-السحيمي",
+   "videoId": "HiW1AlpWnU8",
+   "duration": 2291,
+   "hijriDate": null
+  },
+  {
+   "n": 6,
+   "title": "العشر الوسطى من رمضان",
+   "lang": "ar",
+   "scholarId": "سعود-الخلف",
+   "videoId": "9IAyWEtJGrA",
+   "duration": 3596,
+   "hijriDate": null
+  },
+  {
+   "n": 7,
+   "title": "رمضان و القرآن",
+   "lang": "ar",
+   "scholarId": "سلمان-الدخيل",
+   "videoId": "d2dVU0lQY58",
+   "duration": 1148,
+   "hijriDate": null
+  },
+  {
+   "n": 8,
+   "title": "استقبال الشهر الفضيل",
+   "lang": "ar",
+   "scholarId": "صالح-السحيمي",
+   "videoId": "We0frEAo3r8",
+   "duration": 1839,
+   "hijriDate": null
+  },
+  {
+   "n": 9,
+   "title": "حال السلف في رمضان",
+   "lang": "ar",
+   "scholarId": "عبداللطيف-الشاماني",
+   "videoId": "NtXkxIYwoHA",
+   "duration": 2496,
+   "hijriDate": null
+  },
+  {
+   "n": 10,
+   "title": "استقبال العشر الأواخر",
+   "lang": "ar",
+   "scholarId": "عبدالعزيز-العبيد",
+   "videoId": "F29zXW7Bo34",
+   "duration": 1587,
+   "hijriDate": null
+  },
+  {
+   "n": 11,
+   "title": "يوم الفرقان يوم التقى الجمعان",
+   "lang": "ar",
+   "scholarId": "علي-التويجري",
+   "videoId": "8eJkPEs6PSU",
+   "duration": 2672,
+   "hijriDate": null
+  },
+  {
+   "n": 12,
+   "title": "زاد الصائمين",
+   "lang": "ar",
+   "scholarId": "سلمان-الدخيل",
+   "videoId": "-CshmEbeAFE",
+   "duration": 2141,
+   "hijriDate": null
+  },
+  {
+   "n": 13,
+   "title": "الاعتكاف حكم وأحكام وآداب",
+   "lang": "ar",
+   "scholarId": "عبداللطيف-الشاماني",
+   "videoId": "gIb3xzWBu9E",
+   "duration": 2239,
+   "hijriDate": null
+  },
+  {
+   "n": 14,
+   "title": "الأعمال بخواتيمها",
+   "lang": "ar",
+   "scholarId": "بدر-البدر",
+   "videoId": "PBx4-GIHxfw",
+   "duration": 3697,
+   "hijriDate": null
+  },
+  {
+   "n": 15,
+   "title": "التعريف بزكاة الفطر وأحكامها والحكمة منها",
+   "lang": "ar",
+   "scholarId": "سليمان-الغصن",
+   "videoId": "hCw3Q9NBnYg",
+   "duration": 1814,
+   "hijriDate": null
+  },
+  {
+   "n": 16,
+   "title": "العيد حِكم وأحكام",
+   "lang": "ar",
+   "scholarId": "عبداللطيف-الشاماني",
+   "videoId": "8xgazriO2lc",
+   "duration": 1632,
+   "hijriDate": null
+  }
+ ]
+}

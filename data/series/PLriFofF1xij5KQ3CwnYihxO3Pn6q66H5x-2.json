@@ -1,0 +1,84 @@
+{
+ "id": "PLriFofF1xij5KQ3CwnYihxO3Pn6q66H5x-2",
+ "title": "الدروس العامة",
+ "subject": "fiqh",
+ "kind": "series",
+ "lang": "ar",
+ "scholarId": "عبدالرزاق-البدر",
+ "scholarIds": [
+  "عبدالرزاق-البدر"
+ ],
+ "year": null,
+ "source": "youtube",
+ "channelId": "UC0XNCc-DU8J5_ksR-eufPaw",
+ "playlistId": "PLriFofF1xij5KQ3CwnYihxO3Pn6q66H5x",
+ "url": "https://www.youtube.com/playlist?list=PLriFofF1xij5KQ3CwnYihxO3Pn6q66H5x",
+ "thumbnail": "https://i.ytimg.com/vi/LcisdpHSnv8/maxresdefault.jpg",
+ "lessonCount": 7,
+ "duration": 18430,
+ "lessons": [
+  {
+   "n": 1,
+   "title": "توجيهات ونصائح في ختام شهر رمضان",
+   "lang": "ar",
+   "scholarId": "عبدالرزاق-البدر",
+   "videoId": "LcisdpHSnv8",
+   "duration": 2889,
+   "hijriDate": null
+  },
+  {
+   "n": 2,
+   "title": "﴿وأتموا الحج﴾",
+   "lang": "ar",
+   "scholarId": "عبدالرزاق-البدر",
+   "videoId": "4KCZtaI28gY",
+   "duration": 3275,
+   "hijriDate": null
+  },
+  {
+   "n": 3,
+   "title": "المرور بين يدي المصلي",
+   "lang": "ar",
+   "scholarId": "عبدالرزاق-البدر",
+   "videoId": "l9diKJbn1gg",
+   "duration": 2981,
+   "hijriDate": null
+  },
+  {
+   "n": 4,
+   "title": "الطمأنينة في الصلاة",
+   "lang": "ar",
+   "scholarId": "عبدالرزاق-البدر",
+   "videoId": "T5SSHwov6x0",
+   "duration": 2558,
+   "hijriDate": null
+  },
+  {
+   "n": 5,
+   "title": "تسوية الصفوف في الصلاة",
+   "lang": "ar",
+   "scholarId": "عبدالرزاق-البدر",
+   "videoId": "kyetniUEi9E",
+   "duration": 2483,
+   "hijriDate": null
+  },
+  {
+   "n": 6,
+   "title": "زكاة الفطر",
+   "lang": "ar",
+   "scholarId": "عبدالرزاق-البدر",
+   "videoId": "LErPt7j2HPA",
+   "duration": 1643,
+   "hijriDate": null
+  },
+  {
+   "n": 7,
+   "title": "أحكام العيد",
+   "lang": "ar",
+   "scholarId": "عبدالرزاق-البدر",
+   "videoId": "v6yB8XxmWDQ",
+   "duration": 2601,
+   "hijriDate": null
+  }
+ ]
+}

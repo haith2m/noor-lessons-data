@@ -1,0 +1,75 @@
+{
+ "id": "PLriFofF1xij5Uz-d2q1MaVJAxi2WKHsmp",
+ "title": "شرح السنة للبربهاري",
+ "subject": "aqeedah",
+ "kind": "series",
+ "lang": "ar",
+ "scholarId": "سليمان-الغصن",
+ "scholarIds": [
+  "سليمان-الغصن"
+ ],
+ "year": null,
+ "source": "youtube",
+ "channelId": "UC0XNCc-DU8J5_ksR-eufPaw",
+ "playlistId": "PLriFofF1xij5Uz-d2q1MaVJAxi2WKHsmp",
+ "url": "https://www.youtube.com/playlist?list=PLriFofF1xij5Uz-d2q1MaVJAxi2WKHsmp",
+ "thumbnail": "https://i.ytimg.com/vi/fdlgaj_kFpE/maxresdefault.jpg",
+ "lessonCount": 6,
+ "duration": 27720,
+ "lessons": [
+  {
+   "n": 1,
+   "title": "كتاب شرح السنة",
+   "lang": "ar",
+   "scholarId": "سليمان-الغصن",
+   "videoId": "d2oToROuczo",
+   "duration": 4531,
+   "hijriDate": null
+  },
+  {
+   "n": 2,
+   "title": "كتاب شرح السنة",
+   "lang": "ar",
+   "scholarId": "سليمان-الغصن",
+   "videoId": "Wjw0qZh3Y6o",
+   "duration": 4176,
+   "hijriDate": null
+  },
+  {
+   "n": 3,
+   "title": "كتاب شرح السنة",
+   "lang": "ar",
+   "scholarId": "سليمان-الغصن",
+   "videoId": "fdlgaj_kFpE",
+   "duration": 3918,
+   "hijriDate": null
+  },
+  {
+   "n": 4,
+   "title": "كتاب شرح السنة",
+   "lang": "ar",
+   "scholarId": "سليمان-الغصن",
+   "videoId": "tlGM2rp8e1k",
+   "duration": 4282,
+   "hijriDate": null
+  },
+  {
+   "n": 5,
+   "title": "كتاب شرح السنة",
+   "lang": "ar",
+   "scholarId": "سليمان-الغصن",
+   "videoId": "fw-EOufGAIU",
+   "duration": 2406,
+   "hijriDate": null
+  },
+  {
+   "n": 6,
+   "title": "كتاب شرح السنة",
+   "lang": "ar",
+   "scholarId": "سليمان-الغصن",
+   "videoId": "-Zy2cBbLUbc",
+   "duration": 8407,
+   "hijriDate": null
+  }
+ ]
+}

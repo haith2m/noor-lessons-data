@@ -1,0 +1,39 @@
+{
+ "id": "PLriFofF1xij7cyCBFrmL_T2Zs0uNBe8Nl-1",
+ "title": "رسالة كلمة الإخلاص",
+ "subject": "aqeedah",
+ "kind": "series",
+ "lang": "ar",
+ "scholarId": "سعود-الخلف",
+ "scholarIds": [
+  "سعود-الخلف"
+ ],
+ "year": null,
+ "source": "youtube",
+ "channelId": "UC0XNCc-DU8J5_ksR-eufPaw",
+ "playlistId": "PLriFofF1xij7cyCBFrmL_T2Zs0uNBe8Nl",
+ "url": "https://www.youtube.com/playlist?list=PLriFofF1xij7cyCBFrmL_T2Zs0uNBe8Nl",
+ "thumbnail": "https://i.ytimg.com/vi/md8kXwtSc8M/maxresdefault.jpg",
+ "lessonCount": 2,
+ "duration": 7110,
+ "lessons": [
+  {
+   "n": 1,
+   "title": "الدرس 1",
+   "lang": "ar",
+   "scholarId": "سعود-الخلف",
+   "videoId": "md8kXwtSc8M",
+   "duration": 4024,
+   "hijriDate": null
+  },
+  {
+   "n": 2,
+   "title": "الدرس 2",
+   "lang": "ar",
+   "scholarId": "سعود-الخلف",
+   "videoId": "WFA_tQdLoxY",
+   "duration": 3086,
+   "hijriDate": null
+  }
+ ]
+}

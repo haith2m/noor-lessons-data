@@ -1,0 +1,102 @@
+{
+ "id": "PLriFofF1xij70tBH2VUTEtDFgaMheFdKp",
+ "title": "كتاب التوحيد",
+ "subject": "aqeedah",
+ "kind": "series",
+ "lang": "ar",
+ "scholarId": "علي-ابابطين",
+ "scholarIds": [
+  "علي-ابابطين"
+ ],
+ "year": null,
+ "source": "youtube",
+ "channelId": "UC0XNCc-DU8J5_ksR-eufPaw",
+ "playlistId": "PLriFofF1xij70tBH2VUTEtDFgaMheFdKp",
+ "url": "https://www.youtube.com/playlist?list=PLriFofF1xij70tBH2VUTEtDFgaMheFdKp",
+ "thumbnail": "https://i.ytimg.com/vi/j6H8cPf5GOk/maxresdefault.jpg",
+ "lessonCount": 9,
+ "duration": 18424,
+ "lessons": [
+  {
+   "n": 1,
+   "title": "الدرس 1",
+   "lang": "ar",
+   "scholarId": "علي-ابابطين",
+   "videoId": "j6H8cPf5GOk",
+   "duration": 2190,
+   "hijriDate": null
+  },
+  {
+   "n": 2,
+   "title": "الدرس 2",
+   "lang": "ar",
+   "scholarId": "علي-ابابطين",
+   "videoId": "gW1yHZdAGLw",
+   "duration": 1946,
+   "hijriDate": null
+  },
+  {
+   "n": 3,
+   "title": "الدرس 3",
+   "lang": "ar",
+   "scholarId": "علي-ابابطين",
+   "videoId": "U6WEMCI5_4g",
+   "duration": 2160,
+   "hijriDate": null
+  },
+  {
+   "n": 4,
+   "title": "الدرس 4",
+   "lang": "ar",
+   "scholarId": "علي-ابابطين",
+   "videoId": "W5y-wm7pwfA",
+   "duration": 2626,
+   "hijriDate": null
+  },
+  {
+   "n": 5,
+   "title": "الدرس 5",
+   "lang": "ar",
+   "scholarId": "علي-ابابطين",
+   "videoId": "GdQmmlmrj6Q",
+   "duration": 2381,
+   "hijriDate": null
+  },
+  {
+   "n": 6,
+   "title": "الدرس 6",
+   "lang": "ar",
+   "scholarId": "علي-ابابطين",
+   "videoId": "_boGWwXSNKQ",
+   "duration": 2521,
+   "hijriDate": null
+  },
+  {
+   "n": 7,
+   "title": "الدرس 7",
+   "lang": "ar",
+   "scholarId": "علي-ابابطين",
+   "videoId": "FbWDnxi602w",
+   "duration": 1470,
+   "hijriDate": null
+  },
+  {
+   "n": 8,
+   "title": "الدرس 8",
+   "lang": "ar",
+   "scholarId": "علي-ابابطين",
+   "videoId": "hbSWGvBJhwc",
+   "duration": 1841,
+   "hijriDate": null
+  },
+  {
+   "n": 9,
+   "title": "الدرس 9",
+   "lang": "ar",
+   "scholarId": "علي-ابابطين",
+   "videoId": "8s9KjL8-zT4",
+   "duration": 1289,
+   "hijriDate": null
+  }
+ ]
+}

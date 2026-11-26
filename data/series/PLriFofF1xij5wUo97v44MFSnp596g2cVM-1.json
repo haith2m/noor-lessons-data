@@ -1,0 +1,75 @@
+{
+ "id": "PLriFofF1xij5wUo97v44MFSnp596g2cVM-1",
+ "title": "الأحاديث المختارة(الحج)",
+ "subject": "hadith",
+ "kind": "series",
+ "lang": "ar",
+ "scholarId": "عبدالمحسن-الزامل",
+ "scholarIds": [
+  "عبدالمحسن-الزامل"
+ ],
+ "year": null,
+ "source": "youtube",
+ "channelId": "UC0XNCc-DU8J5_ksR-eufPaw",
+ "playlistId": "PLriFofF1xij5wUo97v44MFSnp596g2cVM",
+ "url": "https://www.youtube.com/playlist?list=PLriFofF1xij5wUo97v44MFSnp596g2cVM",
+ "thumbnail": "https://i.ytimg.com/vi/e7cfxjta1z0/maxresdefault.jpg",
+ "lessonCount": 6,
+ "duration": 49307,
+ "lessons": [
+  {
+   "n": 1,
+   "title": "الدرس 1",
+   "lang": "ar",
+   "scholarId": "عبدالمحسن-الزامل",
+   "videoId": "e7cfxjta1z0",
+   "duration": 8816,
+   "hijriDate": null
+  },
+  {
+   "n": 2,
+   "title": "الدرس 2",
+   "lang": "ar",
+   "scholarId": "عبدالمحسن-الزامل",
+   "videoId": "8c3clHcQ_Mg",
+   "duration": 8858,
+   "hijriDate": null
+  },
+  {
+   "n": 3,
+   "title": "الدرس 3",
+   "lang": "ar",
+   "scholarId": "عبدالمحسن-الزامل",
+   "videoId": "gQKX16qkRUs",
+   "duration": 8159,
+   "hijriDate": null
+  },
+  {
+   "n": 4,
+   "title": "الدرس 4",
+   "lang": "ar",
+   "scholarId": "عبدالمحسن-الزامل",
+   "videoId": "6jC1bf1CgF4",
+   "duration": 10036,
+   "hijriDate": null
+  },
+  {
+   "n": 5,
+   "title": "الدرس 5",
+   "lang": "ar",
+   "scholarId": "عبدالمحسن-الزامل",
+   "videoId": "GdDm7h39RVM",
+   "duration": 6352,
+   "hijriDate": null
+  },
+  {
+   "n": 6,
+   "title": "الدرس 6",
+   "lang": "ar",
+   "scholarId": "عبدالمحسن-الزامل",
+   "videoId": "wg8UWACh_Sk",
+   "duration": 7086,
+   "hijriDate": null
+  }
+ ]
+}

@@ -1,0 +1,335 @@
+{
+ "id": "PLriFofF1xij5zLhEJfjnbwBIm6sjHRVHx",
+ "title": "الدورة العلمية (2)",
+ "subject": "hadith",
+ "kind": "course",
+ "lang": "ar",
+ "scholarId": null,
+ "scholarIds": [
+  "مسعود-المحمدي",
+  "بدر-البدر",
+  "سامي-الصقير",
+  "يوسف-سعيد",
+  "عبدالله-الزاحم",
+  "انيس-طاهر",
+  "علي-التويجري",
+  "سليمان-الغصن",
+  "علي-ابابطين"
+ ],
+ "year": 1447,
+ "source": "youtube",
+ "channelId": "UC0XNCc-DU8J5_ksR-eufPaw",
+ "playlistId": "PLriFofF1xij5zLhEJfjnbwBIm6sjHRVHx",
+ "url": "https://www.youtube.com/playlist?list=PLriFofF1xij5zLhEJfjnbwBIm6sjHRVHx",
+ "thumbnail": "https://i.ytimg.com/vi/ZR4ywnsL51E/maxresdefault.jpg",
+ "lessonCount": 34,
+ "duration": 134829,
+ "lessons": [
+  {
+   "n": 1,
+   "title": "كتاب التوحيد",
+   "lang": "ar",
+   "scholarId": "مسعود-المحمدي",
+   "videoId": "ZR4ywnsL51E",
+   "duration": 3843,
+   "hijriDate": null
+  },
+  {
+   "n": 2,
+   "title": "كتاب صحيح البخاري (الرقاق)",
+   "lang": "ar",
+   "scholarId": "بدر-البدر",
+   "videoId": "y0-UHWiISWE",
+   "duration": 4114,
+   "hijriDate": null
+  },
+  {
+   "n": 3,
+   "title": "كتاب بلوغ المرام",
+   "lang": "ar",
+   "scholarId": "سامي-الصقير",
+   "videoId": "CBn3NmmzYTk",
+   "duration": 3891,
+   "hijriDate": null
+  },
+  {
+   "n": 4,
+   "title": "كتاب صحيح البخاري (الرقاق)",
+   "lang": "ar",
+   "scholarId": "بدر-البدر",
+   "videoId": "IypZpmZY7C0",
+   "duration": 4344,
+   "hijriDate": null
+  },
+  {
+   "n": 5,
+   "title": "كتاب التوحيد",
+   "lang": "ar",
+   "scholarId": "مسعود-المحمدي",
+   "videoId": "sQCIO8UlUsg",
+   "duration": 3930,
+   "hijriDate": null
+  },
+  {
+   "n": 6,
+   "title": "كتاب بلوغ المرام",
+   "lang": "ar",
+   "scholarId": "سامي-الصقير",
+   "videoId": "FurdEjB_xQQ",
+   "duration": 3736,
+   "hijriDate": null
+  },
+  {
+   "n": 7,
+   "title": "كتاب التوحيد",
+   "lang": "ar",
+   "scholarId": "مسعود-المحمدي",
+   "videoId": "yqzVlbWFYUI",
+   "duration": 3730,
+   "hijriDate": null
+  },
+  {
+   "n": 8,
+   "title": "كتاب صحيح البخاري (الرقاق)",
+   "lang": "ar",
+   "scholarId": "بدر-البدر",
+   "videoId": "EeiMGh3265w",
+   "duration": 3676,
+   "hijriDate": null
+  },
+  {
+   "n": 9,
+   "title": "كتاب صحيح البخاري (الرقاق)",
+   "lang": "ar",
+   "scholarId": "بدر-البدر",
+   "videoId": "e2GS-7glYYo",
+   "duration": 3737,
+   "hijriDate": null
+  },
+  {
+   "n": 10,
+   "title": "رسالة أصول العقائد الدينية",
+   "lang": "ar",
+   "scholarId": "يوسف-سعيد",
+   "videoId": "dqHSuRRutgQ",
+   "duration": 3824,
+   "hijriDate": null
+  },
+  {
+   "n": 11,
+   "title": "كتاب التوحيد",
+   "lang": "ar",
+   "scholarId": "مسعود-المحمدي",
+   "videoId": "SZDFG-0qxvs",
+   "duration": 4053,
+   "hijriDate": null
+  },
+  {
+   "n": 12,
+   "title": "كتاب التوحيد",
+   "lang": "ar",
+   "scholarId": "مسعود-المحمدي",
+   "videoId": "BhOvDvguxsc",
+   "duration": 3831,
+   "hijriDate": null
+  },
+  {
+   "n": 13,
+   "title": "كتاب الكفاية الصغرى... (الصلاة)",
+   "lang": "ar",
+   "scholarId": "عبدالله-الزاحم",
+   "videoId": "VOeU2EAgUsY",
+   "duration": 4037,
+   "hijriDate": null
+  },
+  {
+   "n": 14,
+   "title": "كتاب تذكرة السامع والمتكلم في أدب العالم",
+   "lang": "ar",
+   "scholarId": "انيس-طاهر",
+   "videoId": "_7_rvNFumLA",
+   "duration": 4281,
+   "hijriDate": null
+  },
+  {
+   "n": 15,
+   "title": "رسالة أصول العقائد الدينية",
+   "lang": "ar",
+   "scholarId": "يوسف-سعيد",
+   "videoId": "BdujBMmJCxA",
+   "duration": 3680,
+   "hijriDate": null
+  },
+  {
+   "n": 16,
+   "title": "كتاب الكفاية الصغرى... (الصلاة)",
+   "lang": "ar",
+   "scholarId": "عبدالله-الزاحم",
+   "videoId": "5MfWeAGDQuE",
+   "duration": 3580,
+   "hijriDate": null
+  },
+  {
+   "n": 17,
+   "title": "كتاب التوحيد",
+   "lang": "ar",
+   "scholarId": "مسعود-المحمدي",
+   "videoId": "XUvBmsH5vRo",
+   "duration": 4131,
+   "hijriDate": null
+  },
+  {
+   "n": 18,
+   "title": "كتاب الكفاية الصغرى... (الصلاة)",
+   "lang": "ar",
+   "scholarId": "عبدالله-الزاحم",
+   "videoId": "njvdvT8x-r0",
+   "duration": 2546,
+   "hijriDate": null
+  },
+  {
+   "n": 19,
+   "title": "كتاب التوحيد",
+   "lang": "ar",
+   "scholarId": "مسعود-المحمدي",
+   "videoId": "7MbzWbMGzME",
+   "duration": 3841,
+   "hijriDate": null
+  },
+  {
+   "n": 20,
+   "title": "رسالة أصول العقائد الدينية",
+   "lang": "ar",
+   "scholarId": "يوسف-سعيد",
+   "videoId": "N79TmplYyLY",
+   "duration": 3844,
+   "hijriDate": null
+  },
+  {
+   "n": 21,
+   "title": "كتاب التوحيد",
+   "lang": "ar",
+   "scholarId": "مسعود-المحمدي",
+   "videoId": "7L4skK37IQQ",
+   "duration": 3808,
+   "hijriDate": null
+  },
+  {
+   "n": 22,
+   "title": "كتاب الكفاية الصغرى... (الصلاة)",
+   "lang": "ar",
+   "scholarId": "عبدالله-الزاحم",
+   "videoId": "kEhApPIcxVc",
+   "duration": 3610,
+   "hijriDate": null
+  },
+  {
+   "n": 23,
+   "title": "كتاب تذكرة السامع والمتكلم في أدب العالم",
+   "lang": "ar",
+   "scholarId": "انيس-طاهر",
+   "videoId": "FqmYlqKlj1Q",
+   "duration": 3958,
+   "hijriDate": null
+  },
+  {
+   "n": 24,
+   "title": "كتاب صحيح البخاري (الأدب)",
+   "lang": "ar",
+   "scholarId": "علي-التويجري",
+   "videoId": "-xNViRN2VPQ",
+   "duration": 4441,
+   "hijriDate": null
+  },
+  {
+   "n": 25,
+   "title": "كتاب الكفاية الصغرى... (الصلاة)",
+   "lang": "ar",
+   "scholarId": "عبدالله-الزاحم",
+   "videoId": "MBSCPSqt3cU",
+   "duration": 3775,
+   "hijriDate": null
+  },
+  {
+   "n": 26,
+   "title": "كتاب الكفاية الصغرى... (الصلاة)",
+   "lang": "ar",
+   "scholarId": "عبدالله-الزاحم",
+   "videoId": "CAAIwliTGpg",
+   "duration": 3616,
+   "hijriDate": null
+  },
+  {
+   "n": 27,
+   "title": "اعتقاد الإمام سفيان الثوري",
+   "lang": "ar",
+   "scholarId": "سليمان-الغصن",
+   "videoId": "-8IvEsRTJKY",
+   "duration": 3746,
+   "hijriDate": null
+  },
+  {
+   "n": 28,
+   "title": "كتاب جامع الترمذي (الصلاة)",
+   "lang": "ar",
+   "scholarId": "علي-ابابطين",
+   "videoId": "M3iTntDQ30o",
+   "duration": 4708,
+   "hijriDate": null
+  },
+  {
+   "n": 29,
+   "title": "اعتقاد الإمام سفيان الثوري",
+   "lang": "ar",
+   "scholarId": "سليمان-الغصن",
+   "videoId": "FtC14hIG1_I",
+   "duration": 5156,
+   "hijriDate": null
+  },
+  {
+   "n": 30,
+   "title": "كتاب جامع الترمذي (الصلاة)",
+   "lang": "ar",
+   "scholarId": "علي-ابابطين",
+   "videoId": "DwF6X9qUIqU",
+   "duration": 4661,
+   "hijriDate": null
+  },
+  {
+   "n": 31,
+   "title": "كتاب صحيح البخاري (الأدب)",
+   "lang": "ar",
+   "scholarId": "علي-التويجري",
+   "videoId": "fqpsO6qbwhI",
+   "duration": 4209,
+   "hijriDate": null
+  },
+  {
+   "n": 32,
+   "title": "كتاب صحيح البخاري (الأدب)",
+   "lang": "ar",
+   "scholarId": "علي-التويجري",
+   "videoId": "yzOwrK9dkPg",
+   "duration": 4144,
+   "hijriDate": null
+  },
+  {
+   "n": 33,
+   "title": "كتاب صحيح البخاري (الأدب)",
+   "lang": "ar",
+   "scholarId": "علي-التويجري",
+   "videoId": "f_AXyFIesrs",
+   "duration": 4253,
+   "hijriDate": null
+  },
+  {
+   "n": 34,
+   "title": "كتاب صحيح البخاري (الأدب)",
+   "lang": "ar",
+   "scholarId": "علي-التويجري",
+   "videoId": "9xHbOqE3pDU",
+   "duration": 4095,
+   "hijriDate": null
+  }
+ ]
+}

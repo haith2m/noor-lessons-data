@@ -1,0 +1,50 @@
+{
+ "id": "PLriFofF1xij5Rmx8JZjmO_k-A1NJ5KbRz",
+ "title": "خطب الكسوف",
+ "subject": "khutab",
+ "kind": "course",
+ "lang": "ar",
+ "scholarId": null,
+ "scholarIds": [
+  "علي-الحذيفي",
+  "عبدالله-البعيجان",
+  "احمد-الحذيفي"
+ ],
+ "year": 1441,
+ "source": "youtube",
+ "channelId": "UC0XNCc-DU8J5_ksR-eufPaw",
+ "playlistId": "PLriFofF1xij5Rmx8JZjmO_k-A1NJ5KbRz",
+ "url": "https://www.youtube.com/playlist?list=PLriFofF1xij5Rmx8JZjmO_k-A1NJ5KbRz",
+ "thumbnail": "https://i.ytimg.com/vi/cLfuw2F8xP0/maxresdefault.jpg",
+ "lessonCount": 3,
+ "duration": 2328,
+ "lessons": [
+  {
+   "n": 1,
+   "title": "خطبة صلاة الكسوف ب المسجد النبوي",
+   "lang": "ar",
+   "scholarId": "علي-الحذيفي",
+   "videoId": "cLfuw2F8xP0",
+   "duration": 1104,
+   "hijriDate": "1441-04-29"
+  },
+  {
+   "n": 2,
+   "title": "خطبة الكسوف ب المسجد النبوي - التاريخ",
+   "lang": "ar",
+   "scholarId": "عبدالله-البعيجان",
+   "videoId": "0sGpnM7ylMQ",
+   "duration": 640,
+   "hijriDate": "1441-10-29"
+  },
+  {
+   "n": 3,
+   "title": "خطبة الكسوف بالمسجد النبوي",
+   "lang": "ar",
+   "scholarId": "احمد-الحذيفي",
+   "videoId": "mAl_4sWZ3zs",
+   "duration": 584,
+   "hijriDate": "1444-03-29"
+  }
+ ]
+}

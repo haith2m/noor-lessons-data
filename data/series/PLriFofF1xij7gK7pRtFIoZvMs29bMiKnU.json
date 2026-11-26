@@ -1,0 +1,39 @@
+{
+ "id": "PLriFofF1xij7gK7pRtFIoZvMs29bMiKnU",
+ "title": "تفسير القرآن العظيم ابن كثير",
+ "subject": "tafsir",
+ "kind": "series",
+ "lang": "ar",
+ "scholarId": "احمد-السديس",
+ "scholarIds": [
+  "احمد-السديس"
+ ],
+ "year": null,
+ "source": "youtube",
+ "channelId": "UC0XNCc-DU8J5_ksR-eufPaw",
+ "playlistId": "PLriFofF1xij7gK7pRtFIoZvMs29bMiKnU",
+ "url": "https://www.youtube.com/playlist?list=PLriFofF1xij7gK7pRtFIoZvMs29bMiKnU",
+ "thumbnail": "https://i.ytimg.com/vi/bdwlPoGC3sw/maxresdefault.jpg",
+ "lessonCount": 2,
+ "duration": 5911,
+ "lessons": [
+  {
+   "n": 1,
+   "title": "الدرس 1",
+   "lang": "ar",
+   "scholarId": "احمد-السديس",
+   "videoId": "bdwlPoGC3sw",
+   "duration": 2420,
+   "hijriDate": null
+  },
+  {
+   "n": 2,
+   "title": "الدرس 2",
+   "lang": "ar",
+   "scholarId": "احمد-السديس",
+   "videoId": "jBjoswvz5MA",
+   "duration": 3491,
+   "hijriDate": null
+  }
+ ]
+}

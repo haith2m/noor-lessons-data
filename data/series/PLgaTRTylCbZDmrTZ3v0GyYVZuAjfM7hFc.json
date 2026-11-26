@@ -1,0 +1,84 @@
+{
+ "id": "PLgaTRTylCbZDmrTZ3v0GyYVZuAjfM7hFc",
+ "title": "تفسير سورة الأنبياء",
+ "subject": "tafsir",
+ "kind": "series",
+ "lang": "ar",
+ "scholarId": "سعد-الشثري",
+ "scholarIds": [
+  "سعد-الشثري"
+ ],
+ "year": 1442,
+ "source": "youtube",
+ "channelId": "UC3QAoXf9GN9xeQYhk-AZbTg",
+ "playlistId": "PLgaTRTylCbZDmrTZ3v0GyYVZuAjfM7hFc",
+ "url": "https://www.youtube.com/playlist?list=PLgaTRTylCbZDmrTZ3v0GyYVZuAjfM7hFc",
+ "thumbnail": "https://i.ytimg.com/vi/dIGmGxQ6diw/maxresdefault.jpg",
+ "lessonCount": 7,
+ "duration": 17708,
+ "lessons": [
+  {
+   "n": 1,
+   "title": "الدرس 1",
+   "lang": "ar",
+   "scholarId": "سعد-الشثري",
+   "videoId": "dIGmGxQ6diw",
+   "duration": 2900,
+   "hijriDate": "1442-09-01"
+  },
+  {
+   "n": 2,
+   "title": "الدرس 2",
+   "lang": "ar",
+   "scholarId": "سعد-الشثري",
+   "videoId": "b1ROoKjc-x8",
+   "duration": 2391,
+   "hijriDate": "1442-09-02"
+  },
+  {
+   "n": 3,
+   "title": "الدرس 3",
+   "lang": "ar",
+   "scholarId": "سعد-الشثري",
+   "videoId": "z_3gqet0bo0",
+   "duration": 3042,
+   "hijriDate": "1442-09-03"
+  },
+  {
+   "n": 4,
+   "title": "الدرس 4",
+   "lang": "ar",
+   "scholarId": "سعد-الشثري",
+   "videoId": "o4kXF-fNRGo",
+   "duration": 2507,
+   "hijriDate": "1442-09-04"
+  },
+  {
+   "n": 5,
+   "title": "الدرس 5",
+   "lang": "ar",
+   "scholarId": "سعد-الشثري",
+   "videoId": "glvdmaczkm8",
+   "duration": 2319,
+   "hijriDate": "1442-09-05"
+  },
+  {
+   "n": 6,
+   "title": "الدرس 6",
+   "lang": "ar",
+   "scholarId": "سعد-الشثري",
+   "videoId": "Zl_UwFXZBHs",
+   "duration": 2000,
+   "hijriDate": "1442-09-06"
+  },
+  {
+   "n": 7,
+   "title": "الدرس 7",
+   "lang": "ar",
+   "scholarId": "سعد-الشثري",
+   "videoId": "5kjsbHoKgmA",
+   "duration": 2549,
+   "hijriDate": "1442-09-07"
+  }
+ ]
+}

@@ -1,0 +1,496 @@
+{
+ "id": "PLgaTRTylCbZAUrDpypNngm42kfLpCpJWn",
+ "title": "سلسلة محاضرات المسجد الحرام",
+ "subject": "general",
+ "kind": "course",
+ "lang": "ar",
+ "scholarId": null,
+ "scholarIds": [
+  "حمزه-الفعر",
+  "حسن-بخاري",
+  "عبدالله-الغطيمل",
+  "سليمان-التويجري",
+  "طلال-ابوالنور",
+  "سعد-الخثلان",
+  "شرف-الشريف",
+  "عبدالرحمن-القرني",
+  "سامي-الصقير",
+  "يحيي-المدرس",
+  "احمد-المزروع",
+  "صالح-حميد",
+  "فهد-الماجد",
+  "علي-العلياني",
+  "احمد-حميد",
+  "محمد-برهجي",
+  "خالد-المهنا"
+ ],
+ "year": 1441,
+ "source": "youtube",
+ "channelId": "UC3QAoXf9GN9xeQYhk-AZbTg",
+ "playlistId": "PLgaTRTylCbZAUrDpypNngm42kfLpCpJWn",
+ "url": "https://www.youtube.com/playlist?list=PLgaTRTylCbZAUrDpypNngm42kfLpCpJWn",
+ "thumbnail": "https://i.ytimg.com/vi/4yHfFy0x0XE/maxresdefault.jpg",
+ "lessonCount": 51,
+ "duration": 120406,
+ "lessons": [
+  {
+   "n": 1,
+   "title": "محاضرة بعنوان (فتبينوا)",
+   "lang": "ar",
+   "scholarId": "حمزه-الفعر",
+   "videoId": "lNyHKep_hJE",
+   "duration": 2878,
+   "hijriDate": null
+  },
+  {
+   "n": 2,
+   "title": "الإفتخار بخدمة الحجاج",
+   "lang": "ar",
+   "scholarId": "حسن-بخاري",
+   "videoId": "4yHfFy0x0XE",
+   "duration": 605,
+   "hijriDate": null
+  },
+  {
+   "n": 3,
+   "title": "التواصي لشرف خدمة الحرمين",
+   "lang": "ar",
+   "scholarId": "حسن-بخاري",
+   "videoId": "kxUyXCM0jI0",
+   "duration": 78,
+   "hijriDate": null
+  },
+  {
+   "n": 4,
+   "title": "صلة الأرحام",
+   "lang": "ar",
+   "scholarId": "عبدالله-الغطيمل",
+   "videoId": "pyt8nvao7Bw",
+   "duration": 1493,
+   "hijriDate": "1441-12-15"
+  },
+  {
+   "n": 5,
+   "title": "التوكل على الله واليقين بقدرته وحكمته",
+   "lang": "ar",
+   "scholarId": "حمزه-الفعر",
+   "videoId": "VjmMs_yLp2k",
+   "duration": 1795,
+   "hijriDate": "1441-12-27"
+  },
+  {
+   "n": 6,
+   "title": "محاسبة النفس",
+   "lang": "ar",
+   "scholarId": "حسن-بخاري",
+   "videoId": "NSGEJj6j6vU",
+   "duration": 460,
+   "hijriDate": null
+  },
+  {
+   "n": 7,
+   "title": "أحكام صيام عاشوراء",
+   "lang": "ar",
+   "scholarId": "سليمان-التويجري",
+   "videoId": "AWuQMxCPHvg",
+   "duration": 1467,
+   "hijriDate": null
+  },
+  {
+   "n": 8,
+   "title": "إِلَيْهِ يَصْعَدُ الْكَلِمُ الطَّيِّبُ",
+   "lang": "ar",
+   "scholarId": "طلال-ابوالنور",
+   "videoId": "i8MnkNztwhQ",
+   "duration": 3318,
+   "hijriDate": null
+  },
+  {
+   "n": 9,
+   "title": "وَتُعَزِّرُوهُ وَتُوَقِّرُوهُ",
+   "lang": "ar",
+   "scholarId": "حسن-بخاري",
+   "videoId": "6cEvGT0n8wA",
+   "duration": 2963,
+   "hijriDate": "1442-03-12"
+  },
+  {
+   "n": 10,
+   "title": "مايكثر السؤال عنه من أحكام العمرة",
+   "lang": "ar",
+   "scholarId": "سعد-الخثلان",
+   "videoId": "FZMIY5JHymU",
+   "duration": 1593,
+   "hijriDate": "1442-03-17"
+  },
+  {
+   "n": 11,
+   "title": "البيعة في الكتاب والسنة",
+   "lang": "ar",
+   "scholarId": "شرف-الشريف",
+   "videoId": "SXjQ6no5lRI",
+   "duration": 2053,
+   "hijriDate": "1442-04-10"
+  },
+  {
+   "n": 12,
+   "title": "أحكام الشتاء",
+   "lang": "ar",
+   "scholarId": "سعد-الخثلان",
+   "videoId": "c365v29cbdw",
+   "duration": 1554,
+   "hijriDate": "1442-04-23"
+  },
+  {
+   "n": 13,
+   "title": "الحث على الاجتماع وذم الاختلاف",
+   "lang": "ar",
+   "scholarId": "شرف-الشريف",
+   "videoId": "RkxtY2iFzqk",
+   "duration": 573,
+   "hijriDate": null
+  },
+  {
+   "n": 14,
+   "title": "اللغة العربية حضارة وتاريخ",
+   "lang": "ar",
+   "scholarId": "شرف-الشريف",
+   "videoId": "lwwm1fPwqkE",
+   "duration": 2337,
+   "hijriDate": "1442-05-07"
+  },
+  {
+   "n": 15,
+   "title": "العواصم من قواصم الأحزاب والجماعات",
+   "lang": "ar",
+   "scholarId": "عبدالله-الغطيمل",
+   "videoId": "CkPDtFAIQBU",
+   "duration": 1485,
+   "hijriDate": "1442-05-08"
+  },
+  {
+   "n": 16,
+   "title": "التحذير من الجماعات والأحزاب ووجوب الطاعة لولاة الأمر",
+   "lang": "ar",
+   "scholarId": "عبدالرحمن-القرني",
+   "videoId": "F5_9SAgkN1o",
+   "duration": 800,
+   "hijriDate": null
+  },
+  {
+   "n": 17,
+   "title": "الإعتصام بالكتاب والسنة والتحذيرمن الجماعات الضالة",
+   "lang": "ar",
+   "scholarId": "سعد-الخثلان",
+   "videoId": "TVoQoC0wQKs",
+   "duration": 1468,
+   "hijriDate": "1442-06-06"
+  },
+  {
+   "n": 18,
+   "title": "وصايا وتوجيهات للعاملين",
+   "lang": "ar",
+   "scholarId": "عبدالله-الغطيمل",
+   "videoId": "o72_Z_r3GCA",
+   "duration": 1239,
+   "hijriDate": null
+  },
+  {
+   "n": 19,
+   "title": "التحذير من الجماعات",
+   "lang": "ar",
+   "scholarId": "حسن-بخاري",
+   "videoId": "yfa0szAiRsk",
+   "duration": 832,
+   "hijriDate": null
+  },
+  {
+   "n": 20,
+   "title": "وقفات حول شهر رجب",
+   "lang": "ar",
+   "scholarId": "سامي-الصقير",
+   "videoId": "sEvsimFxgik",
+   "duration": 935,
+   "hijriDate": "1442-07-04"
+  },
+  {
+   "n": 21,
+   "title": "فضل التوحيد",
+   "lang": "ar",
+   "scholarId": "يحيي-المدرس",
+   "videoId": "lPg6CIlaQsE",
+   "duration": 720,
+   "hijriDate": "1442-08-03"
+  },
+  {
+   "n": 22,
+   "title": "الاستقامة على طاعة الله وثمراتها",
+   "lang": "ar",
+   "scholarId": "شرف-الشريف",
+   "videoId": "qG3LWWLpvyQ",
+   "duration": 3637,
+   "hijriDate": null
+  },
+  {
+   "n": 23,
+   "title": "وَمَنْ دَخَلَهُ كَانَ آمِنًا",
+   "lang": "ar",
+   "scholarId": "عبدالرحمن-القرني",
+   "videoId": "aHnvowquJPc",
+   "duration": 1147,
+   "hijriDate": "1442-11-17"
+  },
+  {
+   "n": 24,
+   "title": "شهر الله المحرم فضائل وأحكام",
+   "lang": "ar",
+   "scholarId": "سعد-الخثلان",
+   "videoId": "zbiUaSN3CFM",
+   "duration": 1285,
+   "hijriDate": "1443-01-07"
+  },
+  {
+   "n": 25,
+   "title": "صفات عباد الرحمن",
+   "lang": "ar",
+   "scholarId": "سامي-الصقير",
+   "videoId": "97pU_Pukmj8",
+   "duration": 3216,
+   "hijriDate": "1443-01-23"
+  },
+  {
+   "n": 26,
+   "title": "المسيء في صلاته",
+   "lang": "ar",
+   "scholarId": "سامي-الصقير",
+   "videoId": "inFTnH7Pl3E",
+   "duration": 3266,
+   "hijriDate": "1443-01-24"
+  },
+  {
+   "n": 27,
+   "title": "الحقوق العشرة",
+   "lang": "ar",
+   "scholarId": "سامي-الصقير",
+   "videoId": "fTnIzjgGsbU",
+   "duration": 3656,
+   "hijriDate": "1443-01-22"
+  },
+  {
+   "n": 28,
+   "title": "ولا تحاسدوا ولا تناجشوا",
+   "lang": "ar",
+   "scholarId": "سامي-الصقير",
+   "videoId": "I_cGDlPWk-k",
+   "duration": 3730,
+   "hijriDate": "1443-01-23"
+  },
+  {
+   "n": 29,
+   "title": "تفسير سورة الفاتحة",
+   "lang": "ar",
+   "scholarId": "سامي-الصقير",
+   "videoId": "2j7kCJYPvwg",
+   "duration": 3678,
+   "hijriDate": "1443-03-05"
+  },
+  {
+   "n": 30,
+   "title": "نَفَسَين عظيمين وعلاجهما",
+   "lang": "ar",
+   "scholarId": "شرف-الشريف",
+   "videoId": "wHuKAJD75Iw",
+   "duration": 3725,
+   "hijriDate": "1443-05-29"
+  },
+  {
+   "n": 31,
+   "title": "الشتاء غنيمة العابدين",
+   "lang": "ar",
+   "scholarId": "حسن-بخاري",
+   "videoId": "y7G_deKXLUs",
+   "duration": 1825,
+   "hijriDate": "1443-06-04"
+  },
+  {
+   "n": 32,
+   "title": "وسائل الثبات على الدين الحق",
+   "lang": "ar",
+   "scholarId": "احمد-المزروع",
+   "videoId": "Mx4LmQbL3Vw",
+   "duration": 1963,
+   "hijriDate": "1443-06-05"
+  },
+  {
+   "n": 33,
+   "title": "الشتاء مسائل وآداب",
+   "lang": "ar",
+   "scholarId": "سامي-الصقير",
+   "videoId": "YITspVw7ll0",
+   "duration": 1858,
+   "hijriDate": "1443-06-06"
+  },
+  {
+   "n": 34,
+   "title": "نَفَسَين عظيمين وعلاجهما",
+   "lang": "ar",
+   "scholarId": "شرف-الشريف",
+   "videoId": "_lrzZp1FCwA",
+   "duration": 3570,
+   "hijriDate": "1443-05-29"
+  },
+  {
+   "n": 35,
+   "title": "الأشهر الحرم أحكام وآداب",
+   "lang": "ar",
+   "scholarId": "طلال-ابوالنور",
+   "videoId": "MuM3YBavmaQ",
+   "duration": 3672,
+   "hijriDate": "1443-07-07"
+  },
+  {
+   "n": 36,
+   "title": "أحكام الزكاة",
+   "lang": "ar",
+   "scholarId": "احمد-المزروع",
+   "videoId": "zYoja0UiaUk",
+   "duration": 3098,
+   "hijriDate": "1443-09-22"
+  },
+  {
+   "n": 37,
+   "title": "العشر الأواخر وأحكام العيد",
+   "lang": "ar",
+   "scholarId": "حسن-بخاري",
+   "videoId": "eyt46jdoKdU",
+   "duration": 1405,
+   "hijriDate": "1444-09-25"
+  },
+  {
+   "n": 38,
+   "title": "أحكام زكاة الفطر والعيد",
+   "lang": "ar",
+   "scholarId": "سعد-الخثلان",
+   "videoId": "mLs_8uz_4ig",
+   "duration": 1560,
+   "hijriDate": "1445-09-27"
+  },
+  {
+   "n": 39,
+   "title": "﴿فَاسْتَقِمْ كَمَا أُمِرْتَ﴾",
+   "lang": "ar",
+   "scholarId": "صالح-حميد",
+   "videoId": "XJ5LEK6tGj0",
+   "duration": 3922,
+   "hijriDate": "1446-01-24"
+  },
+  {
+   "n": 40,
+   "title": "صلُّوا كما رأيتُموني أُصلِّي",
+   "lang": "ar",
+   "scholarId": "سامي-الصقير",
+   "videoId": "byfNyRUnUMw",
+   "duration": 3356,
+   "hijriDate": "1446-03-30"
+  },
+  {
+   "n": 41,
+   "title": "﴿وَاعْبُدوا اللَّهَ ولا تُشْرِكُوا بهِ شَيْئًا﴾",
+   "lang": "ar",
+   "scholarId": "سامي-الصقير",
+   "videoId": "a2WR8kAx7E8",
+   "duration": 3554,
+   "hijriDate": "1446-03-29"
+  },
+  {
+   "n": 42,
+   "title": "صلُّوا كما رأيتُموني أُصلِّي",
+   "lang": "ar",
+   "scholarId": "سامي-الصقير",
+   "videoId": "s8oBQqxf0eA",
+   "duration": 3333,
+   "hijriDate": "1446-03-30"
+  },
+  {
+   "n": 43,
+   "title": "﴿تفسير سورة الفاتحة﴾",
+   "lang": "ar",
+   "scholarId": "فهد-الماجد",
+   "videoId": "KG9yvSlqS-c",
+   "duration": 4071,
+   "hijriDate": "1446-04-07"
+  },
+  {
+   "n": 44,
+   "title": "﴿تفسير سورة الفاتحة﴾",
+   "lang": "ar",
+   "scholarId": "فهد-الماجد",
+   "videoId": "R4W1P8Ouifg",
+   "duration": 4126,
+   "hijriDate": "1446-05-19"
+  },
+  {
+   "n": 45,
+   "title": "منهج السلف الصالح في التلقي والاستدلال (1 من 2)",
+   "lang": "ar",
+   "scholarId": "علي-العلياني",
+   "videoId": "A3cj_TqnUh8",
+   "duration": 2504,
+   "hijriDate": "1446-05-10"
+  },
+  {
+   "n": 46,
+   "title": "منهج السلف الصالح في التلقي والاستدلال (2 من 2)",
+   "lang": "ar",
+   "scholarId": "علي-العلياني",
+   "videoId": "aCweCFIeSGA",
+   "duration": 3527,
+   "hijriDate": "1446-05-17"
+  },
+  {
+   "n": 47,
+   "title": "﴿قل إن كنتم تحبون الله فاتبعوني يحببكم الله﴾",
+   "lang": "ar",
+   "scholarId": "سامي-الصقير",
+   "videoId": "nZGi5QYbaiU",
+   "duration": 3466,
+   "hijriDate": "1446-05-27"
+  },
+  {
+   "n": 48,
+   "title": "وكونوا عباد الله إخوانا",
+   "lang": "ar",
+   "scholarId": "سامي-الصقير",
+   "videoId": "pEmDxBNxgAM",
+   "duration": 2021,
+   "hijriDate": "1446-05-27"
+  },
+  {
+   "n": 49,
+   "title": "أحكام الزكاة",
+   "lang": "ar",
+   "scholarId": "احمد-حميد",
+   "videoId": "qxKAS6787xU",
+   "duration": 2190,
+   "hijriDate": "1446-08-23"
+  },
+  {
+   "n": 50,
+   "title": "الأنس بالقرآن",
+   "lang": "ar",
+   "scholarId": "محمد-برهجي",
+   "videoId": "jsNkWjiV51w",
+   "duration": 3642,
+   "hijriDate": "1448-01-23"
+  },
+  {
+   "n": 51,
+   "title": "جهود المحدِّثين في حفظ السنة النبوية",
+   "lang": "ar",
+   "scholarId": "خالد-المهنا",
+   "videoId": "iAec8G94b-I",
+   "duration": 3757,
+   "hijriDate": "1448-02-05"
+  }
+ ]
+}

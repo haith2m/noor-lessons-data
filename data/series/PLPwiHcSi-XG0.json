@@ -1,0 +1,39 @@
+{
+ "id": "PLPwiHcSi-XG0",
+ "title": "شرح كتاب مطلع البدرين فيمن يؤتى أجره مرتين - للسيوطي",
+ "subject": "adab",
+ "kind": "series",
+ "lang": "ar",
+ "scholarId": "عبدالرزاق-البدر",
+ "scholarIds": [
+  "عبدالرزاق-البدر"
+ ],
+ "year": 1448,
+ "source": "youtube",
+ "channelId": "UC3QAoXf9GN9xeQYhk-AZbTg",
+ "playlistId": "PLPwiHcSi-XG0",
+ "url": "https://www.youtube.com/playlist?list=PLPwiHcSi-XG0",
+ "thumbnail": "https://i.ytimg.com/vi/tMewnV3uuPg/maxresdefault.jpg",
+ "lessonCount": 2,
+ "duration": 9314,
+ "lessons": [
+  {
+   "n": 1,
+   "title": "الدرس 1",
+   "lang": "ar",
+   "scholarId": "عبدالرزاق-البدر",
+   "videoId": "hk-GL9IEVYg",
+   "duration": 3837,
+   "hijriDate": "1448-03-08"
+  },
+  {
+   "n": 2,
+   "title": "الدرس 2",
+   "lang": "ar",
+   "scholarId": "عبدالرزاق-البدر",
+   "videoId": "tMewnV3uuPg",
+   "duration": 5477,
+   "hijriDate": "1448-03-09"
+  }
+ ]
+}

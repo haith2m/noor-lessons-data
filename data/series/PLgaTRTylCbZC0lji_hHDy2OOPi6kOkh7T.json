@@ -1,0 +1,57 @@
+{
+ "id": "PLgaTRTylCbZC0lji_hHDy2OOPi6kOkh7T",
+ "title": "معاني الصيام",
+ "subject": "fiqh",
+ "kind": "series",
+ "lang": "ar",
+ "scholarId": "حسن-بخاري",
+ "scholarIds": [
+  "حسن-بخاري"
+ ],
+ "year": 1441,
+ "source": "youtube",
+ "channelId": "UC3QAoXf9GN9xeQYhk-AZbTg",
+ "playlistId": "PLgaTRTylCbZC0lji_hHDy2OOPi6kOkh7T",
+ "url": "https://www.youtube.com/playlist?list=PLgaTRTylCbZC0lji_hHDy2OOPi6kOkh7T",
+ "thumbnail": "https://i.ytimg.com/vi/ADD030WN9C0/maxresdefault.jpg",
+ "lessonCount": 4,
+ "duration": 6276,
+ "lessons": [
+  {
+   "n": 1,
+   "title": "الإيمان والإحتساب",
+   "lang": "ar",
+   "scholarId": "حسن-بخاري",
+   "videoId": "ADD030WN9C0",
+   "duration": 1721,
+   "hijriDate": null
+  },
+  {
+   "n": 2,
+   "title": "تحقيق التقوى",
+   "lang": "ar",
+   "scholarId": "حسن-بخاري",
+   "videoId": "J_iogopIn3s",
+   "duration": 1033,
+   "hijriDate": null
+  },
+  {
+   "n": 3,
+   "title": "رمضان والقرآن",
+   "lang": "ar",
+   "scholarId": "حسن-بخاري",
+   "videoId": "8-A7baqG3Ww",
+   "duration": 1860,
+   "hijriDate": null
+  },
+  {
+   "n": 4,
+   "title": "العشر الأواخر وأحكام زكاة وعيد الفطر",
+   "lang": "ar",
+   "scholarId": "حسن-بخاري",
+   "videoId": "U5gfebOGyUA",
+   "duration": 1662,
+   "hijriDate": null
+  }
+ ]
+}

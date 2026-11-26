@@ -1,0 +1,66 @@
+{
+ "id": "PLgaTRTylCbZBJEBlfxDXW3BIXrM42G0Ko",
+ "title": "شرح الرسالة التبوكية",
+ "subject": "adab",
+ "kind": "series",
+ "lang": "ar",
+ "scholarId": "غازي-العتيبي",
+ "scholarIds": [
+  "غازي-العتيبي"
+ ],
+ "year": 1445,
+ "source": "youtube",
+ "channelId": "UC3QAoXf9GN9xeQYhk-AZbTg",
+ "playlistId": "PLgaTRTylCbZBJEBlfxDXW3BIXrM42G0Ko",
+ "url": "https://www.youtube.com/playlist?list=PLgaTRTylCbZBJEBlfxDXW3BIXrM42G0Ko",
+ "thumbnail": "https://i.ytimg.com/vi/bqKBT0iLtxI/maxresdefault.jpg",
+ "lessonCount": 5,
+ "duration": 17039,
+ "lessons": [
+  {
+   "n": 1,
+   "title": "الدرس 1",
+   "lang": "ar",
+   "scholarId": "غازي-العتيبي",
+   "videoId": "bqKBT0iLtxI",
+   "duration": 4375,
+   "hijriDate": "1445-09-02"
+  },
+  {
+   "n": 2,
+   "title": "الدرس 2",
+   "lang": "ar",
+   "scholarId": "غازي-العتيبي",
+   "videoId": "O_TMkaHl72U",
+   "duration": 3230,
+   "hijriDate": "1445-09-10"
+  },
+  {
+   "n": 3,
+   "title": "الدرس 3",
+   "lang": "ar",
+   "scholarId": "غازي-العتيبي",
+   "videoId": "nXdMiXaZ7_w",
+   "duration": 3379,
+   "hijriDate": "1446-09-12"
+  },
+  {
+   "n": 4,
+   "title": "الدرس 4",
+   "lang": "ar",
+   "scholarId": "غازي-العتيبي",
+   "videoId": "N9uVJhzch-E",
+   "duration": 2950,
+   "hijriDate": "1447-08-29"
+  },
+  {
+   "n": 5,
+   "title": "الدرس 5",
+   "lang": "ar",
+   "scholarId": "غازي-العتيبي",
+   "videoId": "AsXC_6EtYd4",
+   "duration": 3105,
+   "hijriDate": "1447-09-14"
+  }
+ ]
+}

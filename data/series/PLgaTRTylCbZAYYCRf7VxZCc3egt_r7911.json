@@ -1,0 +1,57 @@
+{
+ "id": "PLgaTRTylCbZAYYCRf7VxZCc3egt_r7911",
+ "title": "شرح منسك ابن تيمية",
+ "subject": "fiqh",
+ "kind": "series",
+ "lang": "ar",
+ "scholarId": "عبدالمحسن-الزامل",
+ "scholarIds": [
+  "عبدالمحسن-الزامل"
+ ],
+ "year": 1442,
+ "source": "youtube",
+ "channelId": "UC3QAoXf9GN9xeQYhk-AZbTg",
+ "playlistId": "PLgaTRTylCbZAYYCRf7VxZCc3egt_r7911",
+ "url": "https://www.youtube.com/playlist?list=PLgaTRTylCbZAYYCRf7VxZCc3egt_r7911",
+ "thumbnail": "https://i.ytimg.com/vi/zeQEMPBAhfM/sddefault.jpg",
+ "lessonCount": 4,
+ "duration": 8239,
+ "lessons": [
+  {
+   "n": 1,
+   "title": "الدرس 1",
+   "lang": "ar",
+   "scholarId": "عبدالمحسن-الزامل",
+   "videoId": "zeQEMPBAhfM",
+   "duration": 2282,
+   "hijriDate": null
+  },
+  {
+   "n": 2,
+   "title": "الدرس 2",
+   "lang": "ar",
+   "scholarId": "عبدالمحسن-الزامل",
+   "videoId": "srYFEmgnMrg",
+   "duration": 1997,
+   "hijriDate": null
+  },
+  {
+   "n": 3,
+   "title": "الدرس 3",
+   "lang": "ar",
+   "scholarId": "عبدالمحسن-الزامل",
+   "videoId": "03WS62O7AZw",
+   "duration": 1725,
+   "hijriDate": null
+  },
+  {
+   "n": 4,
+   "title": "الدرس 4",
+   "lang": "ar",
+   "scholarId": "عبدالمحسن-الزامل",
+   "videoId": "gqM7lrO-4Lw",
+   "duration": 2235,
+   "hijriDate": null
+  }
+ ]
+}

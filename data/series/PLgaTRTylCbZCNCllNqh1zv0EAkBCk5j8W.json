@@ -1,0 +1,66 @@
+{
+ "id": "PLgaTRTylCbZCNCllNqh1zv0EAkBCk5j8W",
+ "title": "حائية ابن أبي داود",
+ "subject": "aqeedah",
+ "kind": "series",
+ "lang": "ar",
+ "scholarId": "علي-العلياني",
+ "scholarIds": [
+  "علي-العلياني"
+ ],
+ "year": 1441,
+ "source": "youtube",
+ "channelId": "UC3QAoXf9GN9xeQYhk-AZbTg",
+ "playlistId": "PLgaTRTylCbZCNCllNqh1zv0EAkBCk5j8W",
+ "url": "https://www.youtube.com/playlist?list=PLgaTRTylCbZCNCllNqh1zv0EAkBCk5j8W",
+ "thumbnail": "https://i.ytimg.com/vi/pAnYkvQnY5A/sddefault.jpg",
+ "lessonCount": 5,
+ "duration": 18978,
+ "lessons": [
+  {
+   "n": 1,
+   "title": "في العقيدة",
+   "lang": "ar",
+   "scholarId": "علي-العلياني",
+   "videoId": "pAnYkvQnY5A",
+   "duration": 3538,
+   "hijriDate": "1441-05-09"
+  },
+  {
+   "n": 2,
+   "title": "في العقيدة",
+   "lang": "ar",
+   "scholarId": "علي-العلياني",
+   "videoId": "gljrxroFxW4",
+   "duration": 3616,
+   "hijriDate": "1441-05-10"
+  },
+  {
+   "n": 3,
+   "title": "في العقيدة",
+   "lang": "ar",
+   "scholarId": "علي-العلياني",
+   "videoId": "qJTduoD7uzw",
+   "duration": 3075,
+   "hijriDate": "1441-05-11"
+  },
+  {
+   "n": 4,
+   "title": "في العقيدة",
+   "lang": "ar",
+   "scholarId": "علي-العلياني",
+   "videoId": "C6V3L09al9s",
+   "duration": 4117,
+   "hijriDate": "1441-05-12"
+  },
+  {
+   "n": 5,
+   "title": "في العقيدة",
+   "lang": "ar",
+   "scholarId": "علي-العلياني",
+   "videoId": "qN4nWmQ7HDE",
+   "duration": 4632,
+   "hijriDate": "1441-05-13"
+  }
+ ]
+}

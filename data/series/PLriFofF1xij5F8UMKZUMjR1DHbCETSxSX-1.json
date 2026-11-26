@@ -1,0 +1,57 @@
+{
+ "id": "PLriFofF1xij5F8UMKZUMjR1DHbCETSxSX-1",
+ "title": "رسالة مختصرة في مناسك الحج والعمرة",
+ "subject": "fiqh",
+ "kind": "series",
+ "lang": "ar",
+ "scholarId": "علي-ابابطين",
+ "scholarIds": [
+  "علي-ابابطين"
+ ],
+ "year": null,
+ "source": "youtube",
+ "channelId": "UC0XNCc-DU8J5_ksR-eufPaw",
+ "playlistId": "PLriFofF1xij5F8UMKZUMjR1DHbCETSxSX",
+ "url": "https://www.youtube.com/playlist?list=PLriFofF1xij5F8UMKZUMjR1DHbCETSxSX",
+ "thumbnail": "https://i.ytimg.com/vi/2frdmfT9yy8/maxresdefault.jpg",
+ "lessonCount": 4,
+ "duration": 24308,
+ "lessons": [
+  {
+   "n": 1,
+   "title": "الدرس 1",
+   "lang": "ar",
+   "scholarId": "علي-ابابطين",
+   "videoId": "2frdmfT9yy8",
+   "duration": 6736,
+   "hijriDate": null
+  },
+  {
+   "n": 2,
+   "title": "الدرس 2",
+   "lang": "ar",
+   "scholarId": "علي-ابابطين",
+   "videoId": "MTDsH-DXH9Y",
+   "duration": 6741,
+   "hijriDate": null
+  },
+  {
+   "n": 3,
+   "title": "الدرس 3",
+   "lang": "ar",
+   "scholarId": "علي-ابابطين",
+   "videoId": "wbUJsMcul1E",
+   "duration": 5431,
+   "hijriDate": null
+  },
+  {
+   "n": 4,
+   "title": "الدرس 4",
+   "lang": "ar",
+   "scholarId": "علي-ابابطين",
+   "videoId": "iJqfuXBbmLM",
+   "duration": 5400,
+   "hijriDate": null
+  }
+ ]
+}

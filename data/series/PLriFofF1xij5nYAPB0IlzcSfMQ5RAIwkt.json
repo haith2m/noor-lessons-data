@@ -1,0 +1,133 @@
+{
+ "id": "PLriFofF1xij5nYAPB0IlzcSfMQ5RAIwkt",
+ "title": "الدورة العلمية (2)",
+ "subject": "fiqh",
+ "kind": "course",
+ "lang": "ar",
+ "scholarId": null,
+ "scholarIds": [
+  "عبدالسلام-الشويعر",
+  "بدر-البدر",
+  "عبداللطيف-الشاماني",
+  "سلمان-الدخيل",
+  "مسعود-المحمدي"
+ ],
+ "year": 1444,
+ "source": "youtube",
+ "channelId": "UC0XNCc-DU8J5_ksR-eufPaw",
+ "playlistId": "PLriFofF1xij5nYAPB0IlzcSfMQ5RAIwkt",
+ "url": "https://www.youtube.com/playlist?list=PLriFofF1xij5nYAPB0IlzcSfMQ5RAIwkt",
+ "thumbnail": "https://i.ytimg.com/vi/PMvpDE8wT2o/maxresdefault.jpg",
+ "lessonCount": 12,
+ "duration": 51632,
+ "lessons": [
+  {
+   "n": 1,
+   "title": "رسالة أبي داوود لأهل مكة للتعريف بسننه",
+   "lang": "ar",
+   "scholarId": "عبدالسلام-الشويعر",
+   "videoId": "rR3K6_Ge8-Q",
+   "duration": 4366,
+   "hijriDate": null
+  },
+  {
+   "n": 2,
+   "title": "مناهج المفسرين عرض وتطبيق",
+   "lang": "ar",
+   "scholarId": "بدر-البدر",
+   "videoId": "PMvpDE8wT2o",
+   "duration": 4401,
+   "hijriDate": null
+  },
+  {
+   "n": 3,
+   "title": "كتاب العلم لأبي خيثمة",
+   "lang": "ar",
+   "scholarId": "عبداللطيف-الشاماني",
+   "videoId": "FGcutwU_mw8",
+   "duration": 4906,
+   "hijriDate": null
+  },
+  {
+   "n": 4,
+   "title": "رسالة أبي داوود لأهل مكة للتعريف بسننه",
+   "lang": "ar",
+   "scholarId": "عبدالسلام-الشويعر",
+   "videoId": "35qq3cMlBeo",
+   "duration": 4421,
+   "hijriDate": null
+  },
+  {
+   "n": 5,
+   "title": "كتاب العلم لأبي خيثمة",
+   "lang": "ar",
+   "scholarId": "عبداللطيف-الشاماني",
+   "videoId": "U42PRqdPV1g",
+   "duration": 5811,
+   "hijriDate": null
+  },
+  {
+   "n": 6,
+   "title": "كتاب أخصر المختصرات (الصيام)",
+   "lang": "ar",
+   "scholarId": "سلمان-الدخيل",
+   "videoId": "ZH9bSK2cAK0",
+   "duration": 3321,
+   "hijriDate": null
+  },
+  {
+   "n": 7,
+   "title": "رسالة أبي داوود لأهل مكة للتعريف بسننه",
+   "lang": "ar",
+   "scholarId": "عبدالسلام-الشويعر",
+   "videoId": "pmL_ipcKs_A",
+   "duration": 3961,
+   "hijriDate": null
+  },
+  {
+   "n": 8,
+   "title": "كتاب العلم لأبي خيثمة",
+   "lang": "ar",
+   "scholarId": "عبداللطيف-الشاماني",
+   "videoId": "6JegG8G07-o",
+   "duration": 5421,
+   "hijriDate": null
+  },
+  {
+   "n": 9,
+   "title": "كتاب أخصر المختصرات (الصيام)",
+   "lang": "ar",
+   "scholarId": "سلمان-الدخيل",
+   "videoId": "is-pzW-yvF4",
+   "duration": 3501,
+   "hijriDate": null
+  },
+  {
+   "n": 10,
+   "title": "كتاب العقيدة لابن عثيمين",
+   "lang": "ar",
+   "scholarId": "مسعود-المحمدي",
+   "videoId": "AtSF9R2IDis",
+   "duration": 3945,
+   "hijriDate": null
+  },
+  {
+   "n": 11,
+   "title": "كتاب العقيدة لابن عثيمين",
+   "lang": "ar",
+   "scholarId": "مسعود-المحمدي",
+   "videoId": "BWBEISBcik8",
+   "duration": 3920,
+   "hijriDate": null
+  },
+  {
+   "n": 12,
+   "title": "كتاب أخصر المختصرات (الصيام)",
+   "lang": "ar",
+   "scholarId": "سلمان-الدخيل",
+   "videoId": "IAiZMnUx_3w",
+   "duration": 3658,
+   "hijriDate": null
+  }
+ ]
+}

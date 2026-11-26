@@ -1,0 +1,48 @@
+{
+ "id": "PLgaTRTylCbZC0nbZAzg-XDaGn8EMySTJW",
+ "title": "توجيهات ووصايا للصائمين",
+ "subject": "fiqh",
+ "kind": "series",
+ "lang": "ar",
+ "scholarId": "سامي-الصقير",
+ "scholarIds": [
+  "سامي-الصقير"
+ ],
+ "year": 1443,
+ "source": "youtube",
+ "channelId": "UC3QAoXf9GN9xeQYhk-AZbTg",
+ "playlistId": "PLgaTRTylCbZC0nbZAzg-XDaGn8EMySTJW",
+ "url": "https://www.youtube.com/playlist?list=PLgaTRTylCbZC0nbZAzg-XDaGn8EMySTJW",
+ "thumbnail": "https://i.ytimg.com/vi/mk4Vzv4OIVY/maxresdefault.jpg",
+ "lessonCount": 3,
+ "duration": 9189,
+ "lessons": [
+  {
+   "n": 1,
+   "title": "الدرس 1",
+   "lang": "ar",
+   "scholarId": "سامي-الصقير",
+   "videoId": "mk4Vzv4OIVY",
+   "duration": 3965,
+   "hijriDate": "1443-08-23"
+  },
+  {
+   "n": 2,
+   "title": "الدرس 2",
+   "lang": "ar",
+   "scholarId": "سامي-الصقير",
+   "videoId": "Dgbt9REk6Go",
+   "duration": 3245,
+   "hijriDate": "1443-08-24"
+  },
+  {
+   "n": 3,
+   "title": "الدرس 3",
+   "lang": "ar",
+   "scholarId": "سامي-الصقير",
+   "videoId": "ptcd6EpmvwQ",
+   "duration": 1979,
+   "hijriDate": "1443-08-24"
+  }
+ ]
+}

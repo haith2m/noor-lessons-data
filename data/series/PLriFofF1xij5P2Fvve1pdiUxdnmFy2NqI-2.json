@@ -1,0 +1,57 @@
+{
+ "id": "PLriFofF1xij5P2Fvve1pdiUxdnmFy2NqI-2",
+ "title": "أحكام صلاة التطوع",
+ "subject": "fiqh",
+ "kind": "series",
+ "lang": "ar",
+ "scholarId": "حسين-الشيخ",
+ "scholarIds": [
+  "حسين-الشيخ"
+ ],
+ "year": null,
+ "source": "youtube",
+ "channelId": "UC0XNCc-DU8J5_ksR-eufPaw",
+ "playlistId": "PLriFofF1xij5P2Fvve1pdiUxdnmFy2NqI",
+ "url": "https://www.youtube.com/playlist?list=PLriFofF1xij5P2Fvve1pdiUxdnmFy2NqI",
+ "thumbnail": "https://i.ytimg.com/vi/zwDilZPIfsM/maxresdefault.jpg",
+ "lessonCount": 4,
+ "duration": 8342,
+ "lessons": [
+  {
+   "n": 1,
+   "title": "الدرس 1",
+   "lang": "ar",
+   "scholarId": "حسين-الشيخ",
+   "videoId": "fvxn5Peu9iM",
+   "duration": 1742,
+   "hijriDate": null
+  },
+  {
+   "n": 2,
+   "title": "الدرس 2",
+   "lang": "ar",
+   "scholarId": "حسين-الشيخ",
+   "videoId": "-H0LW2WIMLY",
+   "duration": 3587,
+   "hijriDate": null
+  },
+  {
+   "n": 3,
+   "title": "الدرس 3",
+   "lang": "ar",
+   "scholarId": "حسين-الشيخ",
+   "videoId": "aS5jHinwzIo",
+   "duration": 1600,
+   "hijriDate": null
+  },
+  {
+   "n": 4,
+   "title": "الدرس 4",
+   "lang": "ar",
+   "scholarId": "حسين-الشيخ",
+   "videoId": "jjH54MztRlQ",
+   "duration": 1413,
+   "hijriDate": null
+  }
+ ]
+}

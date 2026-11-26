@@ -1,0 +1,39 @@
+{
+ "id": "PLgaTRTylCbZBLlIzccfOOtOr_60yMQUDf",
+ "title": "شرح الأصول الثلاثة",
+ "subject": "aqeedah",
+ "kind": "series",
+ "lang": "ar",
+ "scholarId": "سعد-الشثري",
+ "scholarIds": [
+  "سعد-الشثري"
+ ],
+ "year": 1445,
+ "source": "youtube",
+ "channelId": "UC3QAoXf9GN9xeQYhk-AZbTg",
+ "playlistId": "PLgaTRTylCbZBLlIzccfOOtOr_60yMQUDf",
+ "url": "https://www.youtube.com/playlist?list=PLgaTRTylCbZBLlIzccfOOtOr_60yMQUDf",
+ "thumbnail": "https://i.ytimg.com/vi/EMdBMwVZDI0/maxresdefault.jpg",
+ "lessonCount": 2,
+ "duration": 10909,
+ "lessons": [
+  {
+   "n": 1,
+   "title": "الدرس 1",
+   "lang": "ar",
+   "scholarId": "سعد-الشثري",
+   "videoId": "EMdBMwVZDI0",
+   "duration": 5645,
+   "hijriDate": "1445-05-04"
+  },
+  {
+   "n": 2,
+   "title": "الدرس 2",
+   "lang": "ar",
+   "scholarId": "سعد-الشثري",
+   "videoId": "owQdOOR1nSQ",
+   "duration": 5264,
+   "hijriDate": "1445-05-04"
+  }
+ ]
+}

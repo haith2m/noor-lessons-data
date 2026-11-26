@@ -1,0 +1,39 @@
+{
+ "id": "PLriFofF1xij5QsC0pCOglll1TWCJkxNZf-4",
+ "title": "البرامج العلمية",
+ "subject": "aqeedah",
+ "kind": "series",
+ "lang": "ar",
+ "scholarId": "مسعود-المحمدي",
+ "scholarIds": [
+  "مسعود-المحمدي"
+ ],
+ "year": null,
+ "source": "youtube",
+ "channelId": "UC0XNCc-DU8J5_ksR-eufPaw",
+ "playlistId": "PLriFofF1xij5QsC0pCOglll1TWCJkxNZf",
+ "url": "https://www.youtube.com/playlist?list=PLriFofF1xij5QsC0pCOglll1TWCJkxNZf",
+ "thumbnail": "https://i.ytimg.com/vi/8xCU4qvtGdE/maxresdefault.jpg",
+ "lessonCount": 2,
+ "duration": 3863,
+ "lessons": [
+  {
+   "n": 1,
+   "title": "كتاب فضل شهر رمضان لابن باز",
+   "lang": "ar",
+   "scholarId": "مسعود-المحمدي",
+   "videoId": "JYjuc_Dx-AE",
+   "duration": 1850,
+   "hijriDate": null
+  },
+  {
+   "n": 2,
+   "title": "كتاب الأصول الثلاثة",
+   "lang": "ar",
+   "scholarId": "مسعود-المحمدي",
+   "videoId": "AydRD092nIQ",
+   "duration": 2013,
+   "hijriDate": null
+  }
+ ]
+}

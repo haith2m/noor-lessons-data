@@ -1,0 +1,39 @@
+{
+ "id": "PLriFofF1xij7ZJ3w6Db_cWHEJpaptEQFW",
+ "title": "الأصول الستة للشيخ محمد بن عبدالوهاب",
+ "subject": "aqeedah",
+ "kind": "series",
+ "lang": "ar",
+ "scholarId": "علي-التويجري",
+ "scholarIds": [
+  "علي-التويجري"
+ ],
+ "year": null,
+ "source": "youtube",
+ "channelId": "UC0XNCc-DU8J5_ksR-eufPaw",
+ "playlistId": "PLriFofF1xij7ZJ3w6Db_cWHEJpaptEQFW",
+ "url": "https://www.youtube.com/playlist?list=PLriFofF1xij7ZJ3w6Db_cWHEJpaptEQFW",
+ "thumbnail": "https://i.ytimg.com/vi/x-nyDXi1aS4/maxresdefault.jpg",
+ "lessonCount": 2,
+ "duration": 5538,
+ "lessons": [
+  {
+   "n": 1,
+   "title": "الدرس 1",
+   "lang": "ar",
+   "scholarId": "علي-التويجري",
+   "videoId": "x-nyDXi1aS4",
+   "duration": 2776,
+   "hijriDate": null
+  },
+  {
+   "n": 2,
+   "title": "الدرس 2",
+   "lang": "ar",
+   "scholarId": "علي-التويجري",
+   "videoId": "Ifo-l6jKFts",
+   "duration": 2762,
+   "hijriDate": null
+  }
+ ]
+}

@@ -1,0 +1,39 @@
+{
+ "id": "PLriFofF1xij5qDQtWPTEfZneV_BORyn-V-4",
+ "title": "كتابة البحوث العلمية وتحقيق المخطوطات",
+ "subject": "general",
+ "kind": "series",
+ "lang": "ar",
+ "scholarId": "بدر-البدر",
+ "scholarIds": [
+  "بدر-البدر"
+ ],
+ "year": null,
+ "source": "youtube",
+ "channelId": "UC0XNCc-DU8J5_ksR-eufPaw",
+ "playlistId": "PLriFofF1xij5qDQtWPTEfZneV_BORyn-V",
+ "url": "https://www.youtube.com/playlist?list=PLriFofF1xij5qDQtWPTEfZneV_BORyn-V",
+ "thumbnail": "https://i.ytimg.com/vi/P-ne0oGFYmk/maxresdefault.jpg",
+ "lessonCount": 2,
+ "duration": 8488,
+ "lessons": [
+  {
+   "n": 1,
+   "title": "الدرس 1",
+   "lang": "ar",
+   "scholarId": "بدر-البدر",
+   "videoId": "L1GcGvpblMU",
+   "duration": 4473,
+   "hijriDate": null
+  },
+  {
+   "n": 2,
+   "title": "الدرس 2",
+   "lang": "ar",
+   "scholarId": "بدر-البدر",
+   "videoId": "y27cC_SkSjM",
+   "duration": 4015,
+   "hijriDate": null
+  }
+ ]
+}

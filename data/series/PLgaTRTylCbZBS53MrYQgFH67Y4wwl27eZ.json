@@ -1,0 +1,57 @@
+{
+ "id": "PLgaTRTylCbZBS53MrYQgFH67Y4wwl27eZ",
+ "title": "النصيحة الولدية",
+ "subject": "adab",
+ "kind": "series",
+ "lang": "ar",
+ "scholarId": "طلال-ابوالنور",
+ "scholarIds": [
+  "طلال-ابوالنور"
+ ],
+ "year": null,
+ "source": "youtube",
+ "channelId": "UC3QAoXf9GN9xeQYhk-AZbTg",
+ "playlistId": "PLgaTRTylCbZBS53MrYQgFH67Y4wwl27eZ",
+ "url": "https://www.youtube.com/playlist?list=PLgaTRTylCbZBS53MrYQgFH67Y4wwl27eZ",
+ "thumbnail": "https://i.ytimg.com/vi/T3KNFsXJgAg/sddefault.jpg",
+ "lessonCount": 4,
+ "duration": 13994,
+ "lessons": [
+  {
+   "n": 1,
+   "title": "الدرس 1",
+   "lang": "ar",
+   "scholarId": "طلال-ابوالنور",
+   "videoId": "T3KNFsXJgAg",
+   "duration": 4121,
+   "hijriDate": null
+  },
+  {
+   "n": 2,
+   "title": "الدرس 2",
+   "lang": "ar",
+   "scholarId": "طلال-ابوالنور",
+   "videoId": "XQuyx7EPFxk",
+   "duration": 3337,
+   "hijriDate": null
+  },
+  {
+   "n": 3,
+   "title": "الدرس 3",
+   "lang": "ar",
+   "scholarId": "طلال-ابوالنور",
+   "videoId": "Zp-0gMH_qYI",
+   "duration": 4060,
+   "hijriDate": null
+  },
+  {
+   "n": 4,
+   "title": "الدرس 4",
+   "lang": "ar",
+   "scholarId": "طلال-ابوالنور",
+   "videoId": "AiZYGPFVfo8",
+   "duration": 2476,
+   "hijriDate": null
+  }
+ ]
+}

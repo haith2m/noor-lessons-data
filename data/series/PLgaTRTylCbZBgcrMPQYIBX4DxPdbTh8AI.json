@@ -1,0 +1,50 @@
+{
+ "id": "PLgaTRTylCbZBgcrMPQYIBX4DxPdbTh8AI",
+ "title": "الرقابة الذاتية في ضوء الكتاب والسنة",
+ "subject": "adab",
+ "kind": "course",
+ "lang": "ar",
+ "scholarId": null,
+ "scholarIds": [
+  "شرف-الشريف",
+  "حسن-بخاري",
+  "طلال-ابوالنور"
+ ],
+ "year": 1441,
+ "source": "youtube",
+ "channelId": "UC3QAoXf9GN9xeQYhk-AZbTg",
+ "playlistId": "PLgaTRTylCbZBgcrMPQYIBX4DxPdbTh8AI",
+ "url": "https://www.youtube.com/playlist?list=PLgaTRTylCbZBgcrMPQYIBX4DxPdbTh8AI",
+ "thumbnail": "https://i.ytimg.com/vi/6kWV_43DJyo/maxresdefault.jpg",
+ "lessonCount": 3,
+ "duration": 7690,
+ "lessons": [
+  {
+   "n": 1,
+   "title": "أَلَمْ يَعْلَمْ بِأَنَّ اللَّهَ يَرَى",
+   "lang": "ar",
+   "scholarId": "شرف-الشريف",
+   "videoId": "6kWV_43DJyo",
+   "duration": 3866,
+   "hijriDate": "1441-03-13"
+  },
+  {
+   "n": 2,
+   "title": "فإنه يراك",
+   "lang": "ar",
+   "scholarId": "حسن-بخاري",
+   "videoId": "prYa7WzX9c0",
+   "duration": 1605,
+   "hijriDate": "1441-03-15"
+  },
+  {
+   "n": 3,
+   "title": "القوي الأمين",
+   "lang": "ar",
+   "scholarId": "طلال-ابوالنور",
+   "videoId": "SGX-WTFunOU",
+   "duration": 2219,
+   "hijriDate": "1441-03-15"
+  }
+ ]
+}

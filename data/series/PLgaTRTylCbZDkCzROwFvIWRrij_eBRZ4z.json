@@ -1,0 +1,208 @@
+{
+ "id": "PLgaTRTylCbZDkCzROwFvIWRrij_eBRZ4z",
+ "title": "الدورة العلمية الشتائية",
+ "subject": "fiqh",
+ "kind": "course",
+ "lang": "ar",
+ "scholarId": null,
+ "scholarIds": [
+  "جبريل-البصيلي",
+  "سعد-الخثلان",
+  "عبدالمحسن-الزامل",
+  "سعد-الشثري",
+  "سليمان-الغصن",
+  "صالح-الشيخ",
+  "عبدالرحمن-السديس",
+  "صالح-حميد"
+ ],
+ "year": 1447,
+ "source": "youtube",
+ "channelId": "UC3QAoXf9GN9xeQYhk-AZbTg",
+ "playlistId": "PLgaTRTylCbZDkCzROwFvIWRrij_eBRZ4z",
+ "url": "https://www.youtube.com/playlist?list=PLgaTRTylCbZDkCzROwFvIWRrij_eBRZ4z",
+ "thumbnail": "https://i.ytimg.com/vi/k1PUu7OXSLM/maxresdefault.jpg",
+ "lessonCount": 20,
+ "duration": 87757,
+ "lessons": [
+  {
+   "n": 1,
+   "title": "منهجية طلب العلم وفضله",
+   "lang": "ar",
+   "scholarId": "جبريل-البصيلي",
+   "videoId": "9hq_N59aS-8",
+   "duration": 4044,
+   "hijriDate": "1447-07-21"
+  },
+  {
+   "n": 2,
+   "title": "شرح أخصر المختصرات - العبادات 6",
+   "lang": "ar",
+   "scholarId": "سعد-الخثلان",
+   "videoId": "0I9LKrAp_fI",
+   "duration": 6334,
+   "hijriDate": "1447-07-22"
+  },
+  {
+   "n": 3,
+   "title": "شرح الأحاديث والدلائل 6",
+   "lang": "ar",
+   "scholarId": "عبدالمحسن-الزامل",
+   "videoId": "u9iuuS45HIw",
+   "duration": 3819,
+   "hijriDate": "1447-07-22"
+  },
+  {
+   "n": 4,
+   "title": "شرح الأربعين للمنذري (1 من 4)",
+   "lang": "ar",
+   "scholarId": "سعد-الشثري",
+   "videoId": "3EZ2yhj20ic",
+   "duration": 3533,
+   "hijriDate": "1447-07-22"
+  },
+  {
+   "n": 5,
+   "title": "شرح أخصر المختصرات - العبادات 7",
+   "lang": "ar",
+   "scholarId": "سعد-الخثلان",
+   "videoId": "f-jH1H3pc3U",
+   "duration": 6304,
+   "hijriDate": "1447-07-23"
+  },
+  {
+   "n": 6,
+   "title": "شرح الأحاديث والدلائل 7",
+   "lang": "ar",
+   "scholarId": "عبدالمحسن-الزامل",
+   "videoId": "10WANJpZxdI",
+   "duration": 3758,
+   "hijriDate": "1447-07-23"
+  },
+  {
+   "n": 7,
+   "title": "شرح الأربعين للمنذري (2 من 4)",
+   "lang": "ar",
+   "scholarId": "سعد-الشثري",
+   "videoId": "LxUcUjKOByw",
+   "duration": 3415,
+   "hijriDate": "1447-07-23"
+  },
+  {
+   "n": 8,
+   "title": "شرح اعتقاد الإمام البخاري 1",
+   "lang": "ar",
+   "scholarId": "سليمان-الغصن",
+   "videoId": "uNQib-08OHk",
+   "duration": 3221,
+   "hijriDate": "1447-07-24"
+  },
+  {
+   "n": 9,
+   "title": "شرح أخصر المختصرات - العبادات 8",
+   "lang": "ar",
+   "scholarId": "سعد-الخثلان",
+   "videoId": "uBEyvrx4MMw",
+   "duration": 6455,
+   "hijriDate": "1447-07-24"
+  },
+  {
+   "n": 10,
+   "title": "شرح الأحاديث والدلائل 8",
+   "lang": "ar",
+   "scholarId": "عبدالمحسن-الزامل",
+   "videoId": "0IxZ3s_Lmag",
+   "duration": 3846,
+   "hijriDate": "1447-07-24"
+  },
+  {
+   "n": 11,
+   "title": "شرح الأربعين للمنذري (3 من 4)",
+   "lang": "ar",
+   "scholarId": "سعد-الشثري",
+   "videoId": "X7gFXN4uFiw",
+   "duration": 4025,
+   "hijriDate": "1447-07-24"
+  },
+  {
+   "n": 12,
+   "title": "شرح اعتقاد الإمام البخاري 2",
+   "lang": "ar",
+   "scholarId": "سليمان-الغصن",
+   "videoId": "0NcjDxHsWMc",
+   "duration": 4666,
+   "hijriDate": "1447-07-25"
+  },
+  {
+   "n": 13,
+   "title": "شرح أخصر المختصرات - العبادات 9",
+   "lang": "ar",
+   "scholarId": "سعد-الخثلان",
+   "videoId": "G0ORu3DnF2c",
+   "duration": 5433,
+   "hijriDate": "1447-07-25"
+  },
+  {
+   "n": 14,
+   "title": "شرح الأحاديث والدلائل 9",
+   "lang": "ar",
+   "scholarId": "عبدالمحسن-الزامل",
+   "videoId": "-ANq2nNpc54",
+   "duration": 3835,
+   "hijriDate": "1447-07-25"
+  },
+  {
+   "n": 15,
+   "title": "شرح الأربعين للمنذري (4 من 4)",
+   "lang": "ar",
+   "scholarId": "سعد-الشثري",
+   "videoId": "W6xE6lS8Kn8",
+   "duration": 3270,
+   "hijriDate": "1447-07-25"
+  },
+  {
+   "n": 16,
+   "title": "شرح اعتقاد الإمام البخاري 3",
+   "lang": "ar",
+   "scholarId": "سليمان-الغصن",
+   "videoId": "XD_z_aFWF_4",
+   "duration": 3964,
+   "hijriDate": "1447-07-26"
+  },
+  {
+   "n": 17,
+   "title": "شرح أخصر المختصرات - العبادات 10",
+   "lang": "ar",
+   "scholarId": "سعد-الخثلان",
+   "videoId": "2JAak9DsB04",
+   "duration": 6043,
+   "hijriDate": "1447-07-26"
+  },
+  {
+   "n": 18,
+   "title": "الأصول الجامعة لفهم أدلة توحيد العبادة",
+   "lang": "ar",
+   "scholarId": "صالح-الشيخ",
+   "videoId": "cUJVpjsOUJA",
+   "duration": 3684,
+   "hijriDate": "1447-07-20"
+  },
+  {
+   "n": 19,
+   "title": "الصنعة العلمية [ أهميتها-معالمها-آثارها ]",
+   "lang": "ar",
+   "scholarId": "عبدالرحمن-السديس",
+   "videoId": "CNJjzDmbfP4",
+   "duration": 4796,
+   "hijriDate": "1447-07-21"
+  },
+  {
+   "n": 20,
+   "title": "التلازم بين العلم والعمل",
+   "lang": "ar",
+   "scholarId": "صالح-حميد",
+   "videoId": "k1PUu7OXSLM",
+   "duration": 3312,
+   "hijriDate": "1447-07-26"
+  }
+ ]
+}

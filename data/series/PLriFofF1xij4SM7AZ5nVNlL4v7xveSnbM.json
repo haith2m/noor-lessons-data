@@ -1,0 +1,137 @@
+{
+ "id": "PLriFofF1xij4SM7AZ5nVNlL4v7xveSnbM",
+ "title": "سلسلة محاضرات من المسجد النبوي",
+ "subject": "general",
+ "kind": "course",
+ "lang": "ar",
+ "scholarId": null,
+ "scholarIds": [
+  "علي-التويجري",
+  "عبدالرزاق-البدر",
+  "عبداللطيف-الشاماني",
+  "عبدالاله-الملا",
+  "مسعود-المحمدي",
+  "احمد-السديس",
+  "عبدالسلام-السحيمي",
+  "سامي-الصقير",
+  "سليمان-الرحيلي"
+ ],
+ "year": 1448,
+ "source": "youtube",
+ "channelId": "UC0XNCc-DU8J5_ksR-eufPaw",
+ "playlistId": "PLriFofF1xij4SM7AZ5nVNlL4v7xveSnbM",
+ "url": "https://www.youtube.com/playlist?list=PLriFofF1xij4SM7AZ5nVNlL4v7xveSnbM",
+ "thumbnail": "https://i.ytimg.com/vi/yWHRTDRTvLk/maxresdefault.jpg",
+ "lessonCount": 12,
+ "duration": 41725,
+ "lessons": [
+  {
+   "n": 1,
+   "title": "فضل يوم عاشوراء",
+   "lang": "ar",
+   "scholarId": "علي-التويجري",
+   "videoId": "yWHRTDRTvLk",
+   "duration": 3835,
+   "hijriDate": null
+  },
+  {
+   "n": 2,
+   "title": "فضل يوم عاشوراء",
+   "lang": "ar",
+   "scholarId": "عبدالرزاق-البدر",
+   "videoId": "PkRWUL8J2xI",
+   "duration": 2491,
+   "hijriDate": null
+  },
+  {
+   "n": 3,
+   "title": "أهمية تربية الأبناء على العقيدة",
+   "lang": "ar",
+   "scholarId": "عبداللطيف-الشاماني",
+   "videoId": "IA36KUAdUdQ",
+   "duration": 3796,
+   "hijriDate": null
+  },
+  {
+   "n": 4,
+   "title": "التوحيد عقيدة وانتماء",
+   "lang": "ar",
+   "scholarId": "عبدالاله-الملا",
+   "videoId": "RkefKotuXT4",
+   "duration": 2886,
+   "hijriDate": null
+  },
+  {
+   "n": 5,
+   "title": "فضائل الصحابة رضي الله عنهم وحقوقهم",
+   "lang": "ar",
+   "scholarId": "مسعود-المحمدي",
+   "videoId": "ApnpCVaeoLE",
+   "duration": 3946,
+   "hijriDate": null
+  },
+  {
+   "n": 6,
+   "title": "أصول مهمة",
+   "lang": "ar",
+   "scholarId": "عبدالرزاق-البدر",
+   "videoId": "IcVG-ank5ng",
+   "duration": 3131,
+   "hijriDate": null
+  },
+  {
+   "n": 7,
+   "title": "وصايا وتوجيهات",
+   "lang": "ar",
+   "scholarId": "عبدالرزاق-البدر",
+   "videoId": "UQe6B1MuUlM",
+   "duration": 3798,
+   "hijriDate": null
+  },
+  {
+   "n": 8,
+   "title": "الحصانة الفكرية في زمن الفتن",
+   "lang": "ar",
+   "scholarId": "احمد-السديس",
+   "videoId": "PtrkO4tFIHg",
+   "duration": 3311,
+   "hijriDate": null
+  },
+  {
+   "n": 9,
+   "title": "منهج المسلم في التعامل مع",
+   "lang": "ar",
+   "scholarId": "عبدالسلام-السحيمي",
+   "videoId": "PPda1aUpU1A",
+   "duration": 4646,
+   "hijriDate": null
+  },
+  {
+   "n": 10,
+   "title": "حفظ الدين والعقل في عصر التواصل الرقمي",
+   "lang": "ar",
+   "scholarId": "عبداللطيف-الشاماني",
+   "videoId": "wNBlldVdMmA",
+   "duration": 3248,
+   "hijriDate": null
+  },
+  {
+   "n": 11,
+   "title": "الوسطية والاعتدال منهج حياة",
+   "lang": "ar",
+   "scholarId": "سامي-الصقير",
+   "videoId": "MQL5Rq3kIuA",
+   "duration": 3536,
+   "hijriDate": null
+  },
+  {
+   "n": 12,
+   "title": "خطر الإشاعات على العقيدة والفكر",
+   "lang": "ar",
+   "scholarId": "سليمان-الرحيلي",
+   "videoId": "xjlaMHqeRpw",
+   "duration": 3101,
+   "hijriDate": null
+  }
+ ]
+}

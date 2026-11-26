@@ -1,0 +1,39 @@
+{
+ "id": "PLriFofF1xij68LeINcfyd66M6Hy_zPM4w",
+ "title": "العقيدة الطحاوية",
+ "subject": "aqeedah",
+ "kind": "series",
+ "lang": "ar",
+ "scholarId": "مسعود-المحمدي",
+ "scholarIds": [
+  "مسعود-المحمدي"
+ ],
+ "year": null,
+ "source": "youtube",
+ "channelId": "UC0XNCc-DU8J5_ksR-eufPaw",
+ "playlistId": "PLriFofF1xij68LeINcfyd66M6Hy_zPM4w",
+ "url": "https://www.youtube.com/playlist?list=PLriFofF1xij68LeINcfyd66M6Hy_zPM4w",
+ "thumbnail": "https://i.ytimg.com/vi/FaQTH3eNz6k/maxresdefault.jpg",
+ "lessonCount": 2,
+ "duration": 7695,
+ "lessons": [
+  {
+   "n": 1,
+   "title": "الدرس 1",
+   "lang": "ar",
+   "scholarId": "مسعود-المحمدي",
+   "videoId": "FaQTH3eNz6k",
+   "duration": 3791,
+   "hijriDate": null
+  },
+  {
+   "n": 2,
+   "title": "الدرس 2",
+   "lang": "ar",
+   "scholarId": "مسعود-المحمدي",
+   "videoId": "kFckGHmL5bw",
+   "duration": 3904,
+   "hijriDate": null
+  }
+ ]
+}

@@ -1,0 +1,57 @@
+{
+ "id": "PLgaTRTylCbZDHzbWLw2uF48JoOVl6zgTf",
+ "title": "الإيمان من صحيح البخاري",
+ "subject": "hadith",
+ "kind": "series",
+ "lang": "ar",
+ "scholarId": "عبدالله-المطلق",
+ "scholarIds": [
+  "عبدالله-المطلق"
+ ],
+ "year": 1441,
+ "source": "youtube",
+ "channelId": "UC3QAoXf9GN9xeQYhk-AZbTg",
+ "playlistId": "PLgaTRTylCbZDHzbWLw2uF48JoOVl6zgTf",
+ "url": "https://www.youtube.com/playlist?list=PLgaTRTylCbZDHzbWLw2uF48JoOVl6zgTf",
+ "thumbnail": "https://i.ytimg.com/vi/c8eBvNwJPyk/maxresdefault.jpg",
+ "lessonCount": 4,
+ "duration": 12573,
+ "lessons": [
+  {
+   "n": 1,
+   "title": "الدرس 1",
+   "lang": "ar",
+   "scholarId": "عبدالله-المطلق",
+   "videoId": "c8eBvNwJPyk",
+   "duration": 3226,
+   "hijriDate": "1441-05-19"
+  },
+  {
+   "n": 2,
+   "title": "الدرس 2",
+   "lang": "ar",
+   "scholarId": "عبدالله-المطلق",
+   "videoId": "SVn4KfYk12U",
+   "duration": 3293,
+   "hijriDate": "1441-05-20"
+  },
+  {
+   "n": 3,
+   "title": "الدرس 3",
+   "lang": "ar",
+   "scholarId": "عبدالله-المطلق",
+   "videoId": "SIqaI9gapkw",
+   "duration": 3001,
+   "hijriDate": "1441-05-21"
+  },
+  {
+   "n": 4,
+   "title": "الدرس 4",
+   "lang": "ar",
+   "scholarId": "عبدالله-المطلق",
+   "videoId": "0ru6AbI0ORg",
+   "duration": 3053,
+   "hijriDate": "1441-05-23"
+  }
+ ]
+}

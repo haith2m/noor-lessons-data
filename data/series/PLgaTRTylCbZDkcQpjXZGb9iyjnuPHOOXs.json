@@ -1,0 +1,39 @@
+{
+ "id": "PLgaTRTylCbZDkcQpjXZGb9iyjnuPHOOXs",
+ "title": "وليالٍ عشر",
+ "subject": "adab",
+ "kind": "series",
+ "lang": "ar",
+ "scholarId": "حسن-بخاري",
+ "scholarIds": [
+  "حسن-بخاري"
+ ],
+ "year": 1442,
+ "source": "youtube",
+ "channelId": "UC3QAoXf9GN9xeQYhk-AZbTg",
+ "playlistId": "PLgaTRTylCbZDkcQpjXZGb9iyjnuPHOOXs",
+ "url": "https://www.youtube.com/playlist?list=PLgaTRTylCbZDkcQpjXZGb9iyjnuPHOOXs",
+ "thumbnail": "https://i.ytimg.com/vi/qmg97iOt6l4/maxresdefault.jpg",
+ "lessonCount": 2,
+ "duration": 5029,
+ "lessons": [
+  {
+   "n": 1,
+   "title": "الدرس 1",
+   "lang": "ar",
+   "scholarId": "حسن-بخاري",
+   "videoId": "qmg97iOt6l4",
+   "duration": 2346,
+   "hijriDate": "1442-12-01"
+  },
+  {
+   "n": 2,
+   "title": "الدرس 2",
+   "lang": "ar",
+   "scholarId": "حسن-بخاري",
+   "videoId": "aJXob67_6gU",
+   "duration": 2683,
+   "hijriDate": "1442-12-04"
+  }
+ ]
+}

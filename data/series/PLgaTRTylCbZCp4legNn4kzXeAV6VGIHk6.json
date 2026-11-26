@@ -1,0 +1,30 @@
+{
+ "id": "PLgaTRTylCbZCp4legNn4kzXeAV6VGIHk6",
+ "title": "سلسلة محاضرات الحج مسائل واحكام",
+ "subject": "fiqh",
+ "kind": "series",
+ "lang": "ar",
+ "scholarId": "عبدالرحمن-السديس",
+ "scholarIds": [
+  "عبدالرحمن-السديس"
+ ],
+ "year": null,
+ "source": "youtube",
+ "channelId": "UC3QAoXf9GN9xeQYhk-AZbTg",
+ "playlistId": "PLgaTRTylCbZCp4legNn4kzXeAV6VGIHk6",
+ "url": "https://www.youtube.com/playlist?list=PLgaTRTylCbZCp4legNn4kzXeAV6VGIHk6",
+ "thumbnail": "https://i.ytimg.com/vi/MEDofopvzAc/sddefault.jpg",
+ "lessonCount": 1,
+ "duration": 4426,
+ "lessons": [
+  {
+   "n": 1,
+   "title": "تفسير آيات وأحاديث الحج - محاضرة",
+   "lang": "ar",
+   "scholarId": "عبدالرحمن-السديس",
+   "videoId": "MEDofopvzAc",
+   "duration": 4426,
+   "hijriDate": null
+  }
+ ]
+}

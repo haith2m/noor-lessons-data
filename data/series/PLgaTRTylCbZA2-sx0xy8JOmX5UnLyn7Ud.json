@@ -1,0 +1,252 @@
+{
+ "id": "PLgaTRTylCbZA2-sx0xy8JOmX5UnLyn7Ud",
+ "title": "البرنامج العلمي وتعليم الحجيج",
+ "subject": "fiqh",
+ "kind": "course",
+ "lang": "ar",
+ "scholarId": null,
+ "scholarIds": [
+  "علي-العلياني",
+  "طلال-ابوالنور",
+  "صالح-حميد",
+  "شرف-الشريف",
+  "يوسف-الوابل",
+  "عبدالرحمن-السديس",
+  "حسن-بخاري"
+ ],
+ "year": 1440,
+ "source": "youtube",
+ "channelId": "UC3QAoXf9GN9xeQYhk-AZbTg",
+ "playlistId": "PLgaTRTylCbZA2-sx0xy8JOmX5UnLyn7Ud",
+ "url": "https://www.youtube.com/playlist?list=PLgaTRTylCbZA2-sx0xy8JOmX5UnLyn7Ud",
+ "thumbnail": "https://i.ytimg.com/vi/I4t8THEv3uo/maxresdefault.jpg",
+ "lessonCount": 25,
+ "duration": 89587,
+ "lessons": [
+  {
+   "n": 1,
+   "title": "التوحيد ومناسك الحج",
+   "lang": "ar",
+   "scholarId": "علي-العلياني",
+   "videoId": "I4t8THEv3uo",
+   "duration": 3495,
+   "hijriDate": "1440-11-19"
+  },
+  {
+   "n": 2,
+   "title": "مكان الحج",
+   "lang": "ar",
+   "scholarId": "طلال-ابوالنور",
+   "videoId": "wBBsSz3HSBc",
+   "duration": 4712,
+   "hijriDate": "1440-11-19"
+  },
+  {
+   "n": 3,
+   "title": "زمان الحج",
+   "lang": "ar",
+   "scholarId": "طلال-ابوالنور",
+   "videoId": "KunVJ2rXQWg",
+   "duration": 3098,
+   "hijriDate": "1440-11-20"
+  },
+  {
+   "n": 4,
+   "title": "حديث إنما الأعمال بالنيات من عمدة الأحكام",
+   "lang": "ar",
+   "scholarId": "صالح-حميد",
+   "videoId": "NDdGgfYCzpA",
+   "duration": 2210,
+   "hijriDate": "1440-11-20"
+  },
+  {
+   "n": 5,
+   "title": "كتاب الحج من عمدة الأحكام",
+   "lang": "ar",
+   "scholarId": "صالح-حميد",
+   "videoId": "y64aCoe-XMI",
+   "duration": 2549,
+   "hijriDate": "1440-11-21"
+  },
+  {
+   "n": 6,
+   "title": "كتاب الحج من عمدة الأحكام",
+   "lang": "ar",
+   "scholarId": "صالح-حميد",
+   "videoId": "S2Ex1xB3Jrk",
+   "duration": 3418,
+   "hijriDate": "1440-11-22"
+  },
+  {
+   "n": 7,
+   "title": "كتاب الحج من عمدة الأحكام",
+   "lang": "ar",
+   "scholarId": "صالح-حميد",
+   "videoId": "R2Qav6ShIXU",
+   "duration": 2977,
+   "hijriDate": "1440-11-23"
+  },
+  {
+   "n": 8,
+   "title": "أفضل أيام الدنيا",
+   "lang": "ar",
+   "scholarId": "شرف-الشريف",
+   "videoId": "5gZqoQOAae4",
+   "duration": 2859,
+   "hijriDate": "1440-11-24"
+  },
+  {
+   "n": 9,
+   "title": "ذَٰلِكَ وَمَن يُعَظِّمْ شَعَائِرَ اللَّهِ",
+   "lang": "ar",
+   "scholarId": "يوسف-الوابل",
+   "videoId": "tjFxlT1Bj40",
+   "duration": 3855,
+   "hijriDate": "1440-11-26"
+  },
+  {
+   "n": 10,
+   "title": "تفسير آيات الحج وشرح أحاديث الحج",
+   "lang": "ar",
+   "scholarId": "عبدالرحمن-السديس",
+   "videoId": "29zdM2FcABw",
+   "duration": 3610,
+   "hijriDate": "1440-11-27"
+  },
+  {
+   "n": 11,
+   "title": "﴿أَن لا تُشرِك بي شَيئًا﴾",
+   "lang": "ar",
+   "scholarId": "حسن-بخاري",
+   "videoId": "GbQ1tAh5Lro",
+   "duration": 3656,
+   "hijriDate": "1440-11-29"
+  },
+  {
+   "n": 12,
+   "title": "لتأخذوا عني مناسككم",
+   "lang": "ar",
+   "scholarId": "حسن-بخاري",
+   "videoId": "9CWzjyBNnBg",
+   "duration": 3906,
+   "hijriDate": "1440-12-01"
+  },
+  {
+   "n": 13,
+   "title": "ليشهدوا منافع لهم",
+   "lang": "ar",
+   "scholarId": "حسن-بخاري",
+   "videoId": "KlHboNN6faU",
+   "duration": 3644,
+   "hijriDate": "1440-12-02"
+  },
+  {
+   "n": 14,
+   "title": "ويذكروا اسم الله في أيام معلومات",
+   "lang": "ar",
+   "scholarId": "حسن-بخاري",
+   "videoId": "mfnGePckbE4",
+   "duration": 3927,
+   "hijriDate": "1440-12-03"
+  },
+  {
+   "n": 15,
+   "title": "وتزودوا فإن خير الزاد التقوى",
+   "lang": "ar",
+   "scholarId": "حسن-بخاري",
+   "videoId": "di3WIANlISU",
+   "duration": 3698,
+   "hijriDate": "1440-12-04"
+  },
+  {
+   "n": 16,
+   "title": "لبيك اللهم لبيك",
+   "lang": "ar",
+   "scholarId": "حسن-بخاري",
+   "videoId": "qxJ3ZMo29j4",
+   "duration": 3610,
+   "hijriDate": "1440-12-05"
+  },
+  {
+   "n": 17,
+   "title": "الدعاء في الحج",
+   "lang": "ar",
+   "scholarId": "حسن-بخاري",
+   "videoId": "JrSMG7bbT-g",
+   "duration": 3728,
+   "hijriDate": "1440-12-06"
+  },
+  {
+   "n": 18,
+   "title": "العبودية لله تعالى",
+   "lang": "ar",
+   "scholarId": "حسن-بخاري",
+   "videoId": "wFcnEVjdfcM",
+   "duration": 3957,
+   "hijriDate": "1440-12-14"
+  },
+  {
+   "n": 19,
+   "title": "الحج وقصة البداية",
+   "lang": "ar",
+   "scholarId": "حسن-بخاري",
+   "videoId": "WvLN9zGc4NM",
+   "duration": 3896,
+   "hijriDate": "1440-12-15"
+  },
+  {
+   "n": 20,
+   "title": "الحج وقصة البداية 2 تتمة",
+   "lang": "ar",
+   "scholarId": "حسن-بخاري",
+   "videoId": "JYpd_k2uDCg",
+   "duration": 3909,
+   "hijriDate": "1440-12-16"
+  },
+  {
+   "n": 21,
+   "title": "رَبَّنا لِيُقيمُوا الصَّلاةَ",
+   "lang": "ar",
+   "scholarId": "حسن-بخاري",
+   "videoId": "Z9ukl9KOodI",
+   "duration": 3933,
+   "hijriDate": "1440-12-17"
+  },
+  {
+   "n": 22,
+   "title": "فيهِ آياتٌ بَيِّناتٌ",
+   "lang": "ar",
+   "scholarId": "حسن-بخاري",
+   "videoId": "08DT4HU0eO0",
+   "duration": 3769,
+   "hijriDate": "1440-12-18"
+  },
+  {
+   "n": 23,
+   "title": "فيهِ آياتٌ بَيِّناتٌ 2 تتمة",
+   "lang": "ar",
+   "scholarId": "حسن-بخاري",
+   "videoId": "YJYQdJ_u8JA",
+   "duration": 3754,
+   "hijriDate": "1440-12-19"
+  },
+  {
+   "n": 24,
+   "title": "فضل الصلاة على النبيﷺ",
+   "lang": "ar",
+   "scholarId": "حسن-بخاري",
+   "videoId": "uYwHmvSyWZE",
+   "duration": 3680,
+   "hijriDate": "1440-12-20"
+  },
+  {
+   "n": 25,
+   "title": "فضائل القرآن",
+   "lang": "ar",
+   "scholarId": "حسن-بخاري",
+   "videoId": "o0WqOoJWYoU",
+   "duration": 3737,
+   "hijriDate": "1440-12-22"
+  }
+ ]
+}

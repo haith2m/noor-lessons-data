@@ -1,0 +1,307 @@
+{
+ "id": "PLriFofF1xij4ZzKYyt35yT4RSzfq8vXAj",
+ "title": "الدورة العلمية (1)",
+ "subject": "tafsir",
+ "kind": "course",
+ "lang": "ar",
+ "scholarId": null,
+ "scholarIds": [
+  "سليمان-الرحيلي",
+  "بدر-البدر",
+  "انيس-طاهر",
+  "محمد-الامين",
+  "مسعود-المحمدي",
+  "عبدالله-الشنقيطي",
+  "عبداللطيف-الشاماني",
+  "صالح-السحيمي"
+ ],
+ "year": 1445,
+ "source": "youtube",
+ "channelId": "UC0XNCc-DU8J5_ksR-eufPaw",
+ "playlistId": "PLriFofF1xij4ZzKYyt35yT4RSzfq8vXAj",
+ "url": "https://www.youtube.com/playlist?list=PLriFofF1xij4ZzKYyt35yT4RSzfq8vXAj",
+ "thumbnail": "https://i.ytimg.com/vi/oYs9olzyoiU/maxresdefault.jpg",
+ "lessonCount": 31,
+ "duration": 122441,
+ "lessons": [
+  {
+   "n": 1,
+   "title": "شرح قواعد فقهية مختارة",
+   "lang": "ar",
+   "scholarId": "سليمان-الرحيلي",
+   "videoId": "oYs9olzyoiU",
+   "duration": 4870,
+   "hijriDate": null
+  },
+  {
+   "n": 2,
+   "title": "شرح قواعد فقهية مختارة",
+   "lang": "ar",
+   "scholarId": "سليمان-الرحيلي",
+   "videoId": "gJjq9KbX-_8",
+   "duration": 5581,
+   "hijriDate": null
+  },
+  {
+   "n": 3,
+   "title": "شرح قواعد فقهية مختارة",
+   "lang": "ar",
+   "scholarId": "سليمان-الرحيلي",
+   "videoId": "8kApcgAEXkg",
+   "duration": 4801,
+   "hijriDate": null
+  },
+  {
+   "n": 4,
+   "title": "مقدمة تفسير ابن جزي في أصول التفسير",
+   "lang": "ar",
+   "scholarId": "بدر-البدر",
+   "videoId": "OYM1opyt5wc",
+   "duration": 3708,
+   "hijriDate": null
+  },
+  {
+   "n": 5,
+   "title": "مقدمة تفسير ابن جزي في أصول التفسير",
+   "lang": "ar",
+   "scholarId": "بدر-البدر",
+   "videoId": "Dw_xlHS1DpY",
+   "duration": 3098,
+   "hijriDate": null
+  },
+  {
+   "n": 6,
+   "title": "مقدمة تفسير ابن جزي في أصول التفسير",
+   "lang": "ar",
+   "scholarId": "بدر-البدر",
+   "videoId": "FMYRJX-PUT0",
+   "duration": 3064,
+   "hijriDate": null
+  },
+  {
+   "n": 7,
+   "title": "كتاب مكانة السنة في الإسلام",
+   "lang": "ar",
+   "scholarId": "انيس-طاهر",
+   "videoId": "Dta4dtYltO4",
+   "duration": 4506,
+   "hijriDate": null
+  },
+  {
+   "n": 8,
+   "title": "كتاب مكانة السنة في الإسلام",
+   "lang": "ar",
+   "scholarId": "انيس-طاهر",
+   "videoId": "hOIVizUhzIM",
+   "duration": 4011,
+   "hijriDate": null
+  },
+  {
+   "n": 9,
+   "title": "المدخل لدراسة القرآن الكريم",
+   "lang": "ar",
+   "scholarId": "محمد-الامين",
+   "videoId": "ui1zi_dTUq4",
+   "duration": 3122,
+   "hijriDate": null
+  },
+  {
+   "n": 10,
+   "title": "كتاب الأربعين النووية",
+   "lang": "ar",
+   "scholarId": "مسعود-المحمدي",
+   "videoId": "3Hk2DWCLilI",
+   "duration": 3511,
+   "hijriDate": null
+  },
+  {
+   "n": 11,
+   "title": "نظم المقدمة الآجرومية",
+   "lang": "ar",
+   "scholarId": "عبدالله-الشنقيطي",
+   "videoId": "bolSNLVxt9s",
+   "duration": 2986,
+   "hijriDate": null
+  },
+  {
+   "n": 12,
+   "title": "كتاب الأربعين النووية",
+   "lang": "ar",
+   "scholarId": "مسعود-المحمدي",
+   "videoId": "uKaHTk7ZyZE",
+   "duration": 3911,
+   "hijriDate": null
+  },
+  {
+   "n": 13,
+   "title": "كتاب الأربعين النووية",
+   "lang": "ar",
+   "scholarId": "مسعود-المحمدي",
+   "videoId": "cZg-7-QqJf8",
+   "duration": 3736,
+   "hijriDate": null
+  },
+  {
+   "n": 14,
+   "title": "المدخل لدراسة القرآن الكريم",
+   "lang": "ar",
+   "scholarId": "محمد-الامين",
+   "videoId": "R359733AlPk",
+   "duration": 3480,
+   "hijriDate": null
+  },
+  {
+   "n": 15,
+   "title": "كتاب الأربعين النووية",
+   "lang": "ar",
+   "scholarId": "مسعود-المحمدي",
+   "videoId": "I4Yoihm9NFM",
+   "duration": 3696,
+   "hijriDate": null
+  },
+  {
+   "n": 16,
+   "title": "نظم المقدمة الآجرومية",
+   "lang": "ar",
+   "scholarId": "عبدالله-الشنقيطي",
+   "videoId": "_8oAcz4TyFU",
+   "duration": 2696,
+   "hijriDate": null
+  },
+  {
+   "n": 17,
+   "title": "نظم المقدمة الآجرومية",
+   "lang": "ar",
+   "scholarId": "عبدالله-الشنقيطي",
+   "videoId": "oujsFc6QXtQ",
+   "duration": 2640,
+   "hijriDate": null
+  },
+  {
+   "n": 18,
+   "title": "نظم المقدمة الآجرومية",
+   "lang": "ar",
+   "scholarId": "عبدالله-الشنقيطي",
+   "videoId": "1FHQplGA2z8",
+   "duration": 2896,
+   "hijriDate": null
+  },
+  {
+   "n": 19,
+   "title": "كتاب الأربعين النووية",
+   "lang": "ar",
+   "scholarId": "مسعود-المحمدي",
+   "videoId": "g5Jl_FZcKXg",
+   "duration": 3767,
+   "hijriDate": null
+  },
+  {
+   "n": 20,
+   "title": "كتاب الأربعين النووية",
+   "lang": "ar",
+   "scholarId": "مسعود-المحمدي",
+   "videoId": "k2qHpkxbl2c",
+   "duration": 3758,
+   "hijriDate": null
+  },
+  {
+   "n": 21,
+   "title": "رسالة لطيفة جامعة في أصول الفقه",
+   "lang": "ar",
+   "scholarId": "عبداللطيف-الشاماني",
+   "videoId": "96qj9iTj6e4",
+   "duration": 6341,
+   "hijriDate": null
+  },
+  {
+   "n": 22,
+   "title": "رسالة لطيفة جامعة في أصول الفقه",
+   "lang": "ar",
+   "scholarId": "عبداللطيف-الشاماني",
+   "videoId": "cBcrLdth9ro",
+   "duration": 6336,
+   "hijriDate": null
+  },
+  {
+   "n": 23,
+   "title": "رسالة الأصول الستة",
+   "lang": "ar",
+   "scholarId": "صالح-السحيمي",
+   "videoId": "VILZkoTWBZU",
+   "duration": 3155,
+   "hijriDate": null
+  },
+  {
+   "n": 24,
+   "title": "رسالة الأصول الستة",
+   "lang": "ar",
+   "scholarId": "صالح-السحيمي",
+   "videoId": "OmIl3ngDCxU",
+   "duration": 3271,
+   "hijriDate": null
+  },
+  {
+   "n": 25,
+   "title": "المدخل لدراسة القرآن الكريم",
+   "lang": "ar",
+   "scholarId": "محمد-الامين",
+   "videoId": "YwoMnKnNyeU",
+   "duration": 3604,
+   "hijriDate": null
+  },
+  {
+   "n": 26,
+   "title": "المدخل لدراسة القرآن الكريم",
+   "lang": "ar",
+   "scholarId": "محمد-الامين",
+   "videoId": "v_Qzkg9ZjA8",
+   "duration": 3691,
+   "hijriDate": null
+  },
+  {
+   "n": 27,
+   "title": "رسالة لطيفة جامعة في أصول الفقه",
+   "lang": "ar",
+   "scholarId": "عبداللطيف-الشاماني",
+   "videoId": "j2B3Z1WzO7s",
+   "duration": 7366,
+   "hijriDate": null
+  },
+  {
+   "n": 28,
+   "title": "المدخل لدراسة القرآن الكريم",
+   "lang": "ar",
+   "scholarId": "محمد-الامين",
+   "videoId": "UPm1fYj9-U8",
+   "duration": 3574,
+   "hijriDate": null
+  },
+  {
+   "n": 29,
+   "title": "المدخل لدراسة القرآن الكريم",
+   "lang": "ar",
+   "scholarId": "محمد-الامين",
+   "videoId": "soaqlu659NU",
+   "duration": 3675,
+   "hijriDate": null
+  },
+  {
+   "n": 30,
+   "title": "المدخل لدراسة القرآن الكريم",
+   "lang": "ar",
+   "scholarId": "محمد-الامين",
+   "videoId": "EelZF-uD7dk",
+   "duration": 3720,
+   "hijriDate": null
+  },
+  {
+   "n": 31,
+   "title": "المدخل لدراسة القرآن الكريم",
+   "lang": "ar",
+   "scholarId": "محمد-الامين",
+   "videoId": "gxXUnR9mfHs",
+   "duration": 3870,
+   "hijriDate": null
+  }
+ ]
+}

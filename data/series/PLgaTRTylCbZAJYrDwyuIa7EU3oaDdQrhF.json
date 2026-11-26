@@ -1,0 +1,57 @@
+{
+ "id": "PLgaTRTylCbZAJYrDwyuIa7EU3oaDdQrhF",
+ "title": "الحج من عمدة الأحكام",
+ "subject": "hadith",
+ "kind": "series",
+ "lang": "ar",
+ "scholarId": "صالح-حميد",
+ "scholarIds": [
+  "صالح-حميد"
+ ],
+ "year": 1440,
+ "source": "youtube",
+ "channelId": "UC3QAoXf9GN9xeQYhk-AZbTg",
+ "playlistId": "PLgaTRTylCbZAJYrDwyuIa7EU3oaDdQrhF",
+ "url": "https://www.youtube.com/playlist?list=PLgaTRTylCbZAJYrDwyuIa7EU3oaDdQrhF",
+ "thumbnail": "https://i.ytimg.com/vi/NDdGgfYCzpA/maxresdefault.jpg",
+ "lessonCount": 4,
+ "duration": 11154,
+ "lessons": [
+  {
+   "n": 1,
+   "title": "حديث إنما الأعمال بالنيات من عمدة الأحكام",
+   "lang": "ar",
+   "scholarId": "صالح-حميد",
+   "videoId": "NDdGgfYCzpA",
+   "duration": 2210,
+   "hijriDate": "1440-11-20"
+  },
+  {
+   "n": 2,
+   "title": "الدرس 2",
+   "lang": "ar",
+   "scholarId": "صالح-حميد",
+   "videoId": "y64aCoe-XMI",
+   "duration": 2549,
+   "hijriDate": "1440-11-21"
+  },
+  {
+   "n": 3,
+   "title": "الدرس 3",
+   "lang": "ar",
+   "scholarId": "صالح-حميد",
+   "videoId": "S2Ex1xB3Jrk",
+   "duration": 3418,
+   "hijriDate": "1440-11-22"
+  },
+  {
+   "n": 4,
+   "title": "الدرس 4",
+   "lang": "ar",
+   "scholarId": "صالح-حميد",
+   "videoId": "R2Qav6ShIXU",
+   "duration": 2977,
+   "hijriDate": "1440-11-23"
+  }
+ ]
+}

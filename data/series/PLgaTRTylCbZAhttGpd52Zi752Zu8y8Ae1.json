@@ -1,0 +1,84 @@
+{
+ "id": "PLgaTRTylCbZAhttGpd52Zi752Zu8y8Ae1",
+ "title": "تفسير سورة طه",
+ "subject": "tafsir",
+ "kind": "series",
+ "lang": "ar",
+ "scholarId": "سعد-الشثري",
+ "scholarIds": [
+  "سعد-الشثري"
+ ],
+ "year": 1442,
+ "source": "youtube",
+ "channelId": "UC3QAoXf9GN9xeQYhk-AZbTg",
+ "playlistId": "PLgaTRTylCbZAhttGpd52Zi752Zu8y8Ae1",
+ "url": "https://www.youtube.com/playlist?list=PLgaTRTylCbZAhttGpd52Zi752Zu8y8Ae1",
+ "thumbnail": "https://i.ytimg.com/vi/fBoe6vs9S44/maxresdefault.jpg",
+ "lessonCount": 7,
+ "duration": 15922,
+ "lessons": [
+  {
+   "n": 1,
+   "title": "الدرس 1",
+   "lang": "ar",
+   "scholarId": "سعد-الشثري",
+   "videoId": "fBoe6vs9S44",
+   "duration": 2910,
+   "hijriDate": "1442-09-08"
+  },
+  {
+   "n": 2,
+   "title": "الدرس 2",
+   "lang": "ar",
+   "scholarId": "سعد-الشثري",
+   "videoId": "kXAufAx1STI",
+   "duration": 2569,
+   "hijriDate": "1442-09-09"
+  },
+  {
+   "n": 3,
+   "title": "الدرس 3",
+   "lang": "ar",
+   "scholarId": "سعد-الشثري",
+   "videoId": "6oABK_NeR1s",
+   "duration": 2476,
+   "hijriDate": "1442-09-10"
+  },
+  {
+   "n": 4,
+   "title": "الدرس 4",
+   "lang": "ar",
+   "scholarId": "سعد-الشثري",
+   "videoId": "z28Gu1wQsMg",
+   "duration": 2525,
+   "hijriDate": "1442-09-11"
+  },
+  {
+   "n": 5,
+   "title": "الدرس 5",
+   "lang": "ar",
+   "scholarId": "سعد-الشثري",
+   "videoId": "rTf92EvK9tY",
+   "duration": 2062,
+   "hijriDate": "1442-09-12"
+  },
+  {
+   "n": 6,
+   "title": "الدرس 6",
+   "lang": "ar",
+   "scholarId": "سعد-الشثري",
+   "videoId": "sVAqGu7r79I",
+   "duration": 1644,
+   "hijriDate": "1442-09-13"
+  },
+  {
+   "n": 7,
+   "title": "الدرس 7",
+   "lang": "ar",
+   "scholarId": "سعد-الشثري",
+   "videoId": "8LWYbXnbLCY",
+   "duration": 1736,
+   "hijriDate": "1442-09-14"
+  }
+ ]
+}

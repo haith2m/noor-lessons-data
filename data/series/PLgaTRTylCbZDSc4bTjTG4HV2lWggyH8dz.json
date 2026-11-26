@@ -1,0 +1,80 @@
+{
+ "id": "PLgaTRTylCbZDSc4bTjTG4HV2lWggyH8dz",
+ "title": "الدورة العلمية الثانية عن بعد (العمرة والزيارة حكم وأحكام)",
+ "subject": "fiqh",
+ "kind": "course",
+ "lang": "ar",
+ "scholarId": null,
+ "scholarIds": [
+  "عبدالسلام-السليمان",
+  "حسن-بخاري",
+  "سعد-الخثلان",
+  "سعد-الشثري",
+  "سامي-الصقير",
+  "غالب-الحامظي"
+ ],
+ "year": 1442,
+ "source": "youtube",
+ "channelId": "UC3QAoXf9GN9xeQYhk-AZbTg",
+ "playlistId": "PLgaTRTylCbZDSc4bTjTG4HV2lWggyH8dz",
+ "url": "https://www.youtube.com/playlist?list=PLgaTRTylCbZDSc4bTjTG4HV2lWggyH8dz",
+ "thumbnail": "https://i.ytimg.com/vi/FZMIY5JHymU/maxresdefault.jpg",
+ "lessonCount": 6,
+ "duration": 15886,
+ "lessons": [
+  {
+   "n": 1,
+   "title": "الاجراءات الاحترازية وأثرها في تحقيق مقاصد الشريعة عند أداء العمرة",
+   "lang": "ar",
+   "scholarId": "عبدالسلام-السليمان",
+   "videoId": "LNYMZRAfYA0",
+   "duration": 2633,
+   "hijriDate": null
+  },
+  {
+   "n": 2,
+   "title": "الأحكام العقدية لزيارة مسجد خير البرية ﷺ",
+   "lang": "ar",
+   "scholarId": "حسن-بخاري",
+   "videoId": "Zlbiw-cWFXo",
+   "duration": 3416,
+   "hijriDate": "1441-03-24"
+  },
+  {
+   "n": 3,
+   "title": "مايكثر السؤال عنه من أحكام العمرة",
+   "lang": "ar",
+   "scholarId": "سعد-الخثلان",
+   "videoId": "FZMIY5JHymU",
+   "duration": 1593,
+   "hijriDate": "1442-03-17"
+  },
+  {
+   "n": 4,
+   "title": "الجائحة والعمرة",
+   "lang": "ar",
+   "scholarId": "سعد-الشثري",
+   "videoId": "tDhJ_buCH8Q",
+   "duration": 3530,
+   "hijriDate": "1442-04-07"
+  },
+  {
+   "n": 5,
+   "title": "زيارة المسجد النبوي أحكام وآداب",
+   "lang": "ar",
+   "scholarId": "سامي-الصقير",
+   "videoId": "c63-3D1njxw",
+   "duration": 964,
+   "hijriDate": "1442-04-09"
+  },
+  {
+   "n": 6,
+   "title": "العمرة وأحكامها",
+   "lang": "ar",
+   "scholarId": "غالب-الحامظي",
+   "videoId": "Q2EEAjBL5r8",
+   "duration": 3750,
+   "hijriDate": "1442-04-10"
+  }
+ ]
+}

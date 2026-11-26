@@ -1,0 +1,39 @@
+{
+ "id": "PLriFofF1xij6vrlGZ5ue5vgHcVuv2qEAm",
+ "title": "دليل الطالب",
+ "subject": "fiqh",
+ "kind": "series",
+ "lang": "ar",
+ "scholarId": "فيحان-المطيري",
+ "scholarIds": [
+  "فيحان-المطيري"
+ ],
+ "year": null,
+ "source": "youtube",
+ "channelId": "UC0XNCc-DU8J5_ksR-eufPaw",
+ "playlistId": "PLriFofF1xij6vrlGZ5ue5vgHcVuv2qEAm",
+ "url": "https://www.youtube.com/playlist?list=PLriFofF1xij6vrlGZ5ue5vgHcVuv2qEAm",
+ "thumbnail": "https://i.ytimg.com/vi/OO7M74iyDt4/maxresdefault.jpg",
+ "lessonCount": 2,
+ "duration": 5792,
+ "lessons": [
+  {
+   "n": 1,
+   "title": "الدرس 1",
+   "lang": "ar",
+   "scholarId": "فيحان-المطيري",
+   "videoId": "OO7M74iyDt4",
+   "duration": 2821,
+   "hijriDate": null
+  },
+  {
+   "n": 2,
+   "title": "الدرس 2",
+   "lang": "ar",
+   "scholarId": "فيحان-المطيري",
+   "videoId": "Uzz_hHpB_1o",
+   "duration": 2971,
+   "hijriDate": null
+  }
+ ]
+}

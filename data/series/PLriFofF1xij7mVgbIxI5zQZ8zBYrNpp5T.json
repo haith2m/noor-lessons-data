@@ -1,0 +1,100 @@
+{
+ "id": "PLriFofF1xij7mVgbIxI5zQZ8zBYrNpp5T",
+ "title": "الدورة العلمية في الشمائل المحمدية عن بُعد",
+ "subject": "seerah",
+ "kind": "course",
+ "lang": "ar",
+ "scholarId": null,
+ "scholarIds": [
+  "نبيل-اللحيدان",
+  "عبدالله-الشنقيطي",
+  "حسن-بخاري",
+  "ابراهيم-التركي",
+  "خالد-المهنا",
+  "سليمان-الغصن",
+  "سامي-الصقير",
+  "حسين-الشيخ"
+ ],
+ "year": 1442,
+ "source": "youtube",
+ "channelId": "UC0XNCc-DU8J5_ksR-eufPaw",
+ "playlistId": "PLriFofF1xij7mVgbIxI5zQZ8zBYrNpp5T",
+ "url": "https://www.youtube.com/playlist?list=PLriFofF1xij7mVgbIxI5zQZ8zBYrNpp5T",
+ "thumbnail": "https://i.ytimg.com/vi/LDy4-awa2U4/maxresdefault.jpg",
+ "lessonCount": 8,
+ "duration": 22160,
+ "lessons": [
+  {
+   "n": 1,
+   "title": "مقدمة في نسبه وأسمائه وكنيته... ﷺ",
+   "lang": "ar",
+   "scholarId": "نبيل-اللحيدان",
+   "videoId": "LDy4-awa2U4",
+   "duration": 1391,
+   "hijriDate": null
+  },
+  {
+   "n": 2,
+   "title": "زينته وتطبّبه ﷺ",
+   "lang": "ar",
+   "scholarId": "عبدالله-الشنقيطي",
+   "videoId": "ShJB7LoAXRM",
+   "duration": 2676,
+   "hijriDate": null
+  },
+  {
+   "n": 3,
+   "title": "صفاته الخلقية ﷺ",
+   "lang": "ar",
+   "scholarId": "حسن-بخاري",
+   "videoId": "m5MLSgk-oQk",
+   "duration": 2905,
+   "hijriDate": null
+  },
+  {
+   "n": 4,
+   "title": "لباسه ﷺ ومايتصل به",
+   "lang": "ar",
+   "scholarId": "ابراهيم-التركي",
+   "videoId": "4O9TN08o3pM",
+   "duration": 2391,
+   "hijriDate": null
+  },
+  {
+   "n": 5,
+   "title": "صفاته الخُلُقية ﷺ",
+   "lang": "ar",
+   "scholarId": "خالد-المهنا",
+   "videoId": "KP-iVoyKMPw",
+   "duration": 3543,
+   "hijriDate": null
+  },
+  {
+   "n": 6,
+   "title": "عبادته ﷺ",
+   "lang": "ar",
+   "scholarId": "سليمان-الغصن",
+   "videoId": "CW2BjCL0FoQ",
+   "duration": 3595,
+   "hijriDate": null
+  },
+  {
+   "n": 7,
+   "title": "ماثبت من إرهاصاته ومعجزاته وخصائصه ﷺ",
+   "lang": "ar",
+   "scholarId": "سامي-الصقير",
+   "videoId": "ngD77dRuBiM",
+   "duration": 3332,
+   "hijriDate": null
+  },
+  {
+   "n": 8,
+   "title": "أحواله وأفعاله العادية ﷺ",
+   "lang": "ar",
+   "scholarId": "حسين-الشيخ",
+   "videoId": "CkzLAUSFoEE",
+   "duration": 2327,
+   "hijriDate": null
+  }
+ ]
+}
